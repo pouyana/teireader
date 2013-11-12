@@ -50,11 +50,26 @@ class Drama:
 	def get_bibl_title(self):
 		fDs = self.root.findall(".//"+self.prefix+"biblFull/"+self.prefix+"titleStmt/"+self.prefix+"title")
 		return fDs[0].text
-
+	#get bibliographic author+pnd
 	def get_bibl_author(self):
 		fDs = self.root.findall(".//"+self.prefix+"biblFull/"+self.prefix+"titleStmt/"+self.prefix+"author")
 		author = {"name":fDs[0].text,"pnd":fDs[0].attrib["key"]}
 		return author
+	#get the license information
+	def get_license(self):
+		fDs = self.root.findall(".//"+self.prefix+"fileDesc/"+self.prefix+"publicationStmt/"+self.prefix+"availability/"+self.prefix+"p")
+		return fDs[0].text
+	#get publication information
+	def get_publish_data(self):
+		fDs_date = self.root.findall(".//"+self.prefix+"biblFull/"+self.prefix+"publicationStmt/"+self.prefix+"date")
+		fDs_place = self.root.findall(".//"+self.prefix+"biblFull/"+self.prefix+"publicationStmt/"+self.prefix+"pubPlace")
+		data = {"date":fDs_date[0].attrib["when"],"place":fDs_place[0].text,"license":self.get_license()}
+		return data
+
+
+
+
+
 
 
 
