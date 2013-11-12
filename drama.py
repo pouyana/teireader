@@ -25,7 +25,7 @@ class Drama:
 		parent = self.root.findall(".//"+element.tag+"/..")
 		return parent
 
-	def get_parent(self,element):
+	def get_first_parent(self,element):
 		parent = self.root.find(".//"+element.tag+"/..")
 		return parent
 
@@ -44,9 +44,17 @@ class Drama:
 					return element
 	#get book title from the header files.
 	def get_title(self):
-		fDs = self.root.findall(".//"+self.prefix+"fileDesc")
-		for fD in fDs:
-			titleStmt = self.find_by_tag(fD,self.prefix+"titleStmt")
-			return self.get_child(titleStmt).text
+		fDs = self.root.findall(".//"+self.prefix+"fileDesc/"+self.prefix+"titleStmt/"+self.prefix+"title")
+		return fDs[0].text
+	#get fullbibliography of a title.
+	def get_bibl_title(self):
+		fDs = self.root.findall(".//"+self.prefix+"biblFull/"+self.prefix+"titleStmt/"+self.prefix+"title")
+		return fDs[0].text
+
+	def get_bibl_author(self):
+		fDs = self.root.findall(".//"+self.prefix+"biblFull/"+self.prefix+"titleStmt/"+self.prefix+"author")
+		author = {"name":fDs[0].text,"pnd":fDs[0].attrib["key"]}
+		return author
+
 
 
