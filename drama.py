@@ -42,6 +42,9 @@ class Drama:
 			if(hasattr(element,"tag")):
 				if(element.tag==tag):
 					return element
+	#####################################################################################################
+	#					header
+	#####################################################################################################
 	#get book title from the header files.
 	def get_title(self):
 		fDs = self.root.findall(".//"+self.prefix+"fileDesc/"+self.prefix+"titleStmt/"+self.prefix+"title")
@@ -65,11 +68,17 @@ class Drama:
 		fDs_place = self.root.findall(".//"+self.prefix+"biblFull/"+self.prefix+"publicationStmt/"+self.prefix+"pubPlace")
 		data = {"date":fDs_date[0].attrib["when"],"place":fDs_place[0].text,"license":self.get_license()}
 		return data
+	#creation date
+	#to do try/catch for the unkwnown attribs and also work with the existing attrib. less static more dynamic
+	def get_creation_date(self):
+		fDs = self.root.findall(".//"+self.prefix+"profileDesc/"+self.prefix+"creation/"+self.prefix+"date")
+		data = {"after":fDs[0].attrib["notBefore"],"before":fDs[0].attrib["notAfter"]}
+		return data
+	#########################################################################################################
+	#					body
+	#########################################################################################################
 
 
-
-
-
-
-
-
+	#########################################################################################################
+	#					cast
+	#########################################################################################################

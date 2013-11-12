@@ -7,3 +7,4 @@ print the_drama.get_title()
 print the_drama.get_bibl_title()
 print the_drama.get_bibl_author()
 print the_drama.get_publish_data()["license"]
+print the_drama.get_creation_date()
