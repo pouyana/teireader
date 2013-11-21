@@ -77,6 +77,15 @@ class Drama:
 	#########################################################################################################
 	#					body
 	#########################################################################################################
+	#get the whole cast from the tei data.
+	def get_cast(self):
+		fDs = self.root.findall(".//"+self.prefix+"castItem")
+		result = []
+		for f in fDs:
+			res ={"id":f.attrib["{http://www.w3.org/XML/1998/namespace}id"],"name":f.text}
+			result.append(res)
+		return result
+
 
 
 	#########################################################################################################
