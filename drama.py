@@ -85,7 +85,22 @@ class Drama:
 			res ={"id":f.attrib["{http://www.w3.org/XML/1998/namespace}id"],"name":f.text}
 			result.append(res)
 		return result
-
+	#find act or scene
+	def get_scene(self):
+		fDs = self.root.findall(".//"+self.prefix+"div[@type='scene']")
+		result = []
+		for f in fDs:
+			res ={"id":f.attrib["{http://www.w3.org/XML/1998/namespace}id"],"name":f.attrib["n"]}
+			result.append(res)
+		return result
+	#list all the ids, with this all of the acceable elements are found and can be used for further parsing
+	def get_all_ids(self):
+		fDs = self.root.findall(".//*[@{http://www.w3.org/XML/1998/namespace}id]")
+		result = []
+		for f in fDs:
+			res = f.attrib["{http://www.w3.org/XML/1998/namespace}id"]
+			result.append(res)
+		return result
 
 
 	#########################################################################################################
