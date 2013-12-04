@@ -82,3 +82,7 @@ use_janrain(auth, filename='private/janrain.key')
 
 ## after defining tables, uncomment below to enable auditing
 # auth.enable_record_versioning(db)
+# here:
+# http://in10min.blogspot.de/2013/04/web2py-implement-multiple-files-upload.html
+Files = db.define_table('files',Field('doc', 'upload', autodelete=True), Field('groupname', 'string'), Field('median', 'float'),Field('average', 'float'))
+
