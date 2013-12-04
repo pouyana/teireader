@@ -19,7 +19,8 @@ def index():
     return auth.wiki()
     """
     response.flash = T("Welcome to web2py!")
-    return dict(message=T('Hello World'))
+    return "HELLO WORLD"
+    #return dict(message=T('Hello World'))
 
 
 def user():
@@ -74,3 +75,12 @@ def data():
       LOAD('default','data.load',args='tables',ajax=True,user_signature=True)
     """
     return dict(form=crud())
+
+def first():
+    if request.vars.visitor_name:
+        session.visitor_name = request.vars.visitor_name
+        redirect(URL('second'))
+    return dict()
+
+def second():
+    return dict()
