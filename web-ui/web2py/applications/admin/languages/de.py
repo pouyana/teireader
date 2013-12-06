@@ -1,4 +1,4 @@
-# coding: utf8
+# coding: utf-8
 {
 '!langcode!': 'de',
 '!langname!': 'Deutsch',
@@ -11,6 +11,7 @@
 '(requires internet access, experimental)': '(benötigt Internet Zugang)',
 '(something like "it-it")': '(so etwas wie "it-it")',
 '@markmin\x01(file **gluon/contrib/plural_rules/%s.py** is not found)': '(file **gluon/contrib/plural_rules/%s.py** is not found)',
+'@markmin\x01An error occured, please [[reload %s]] the page': 'An error occured, please [[reload %s]] the page',
 '@markmin\x01Searching: **%s** %%{file}': '@markmin\x01Suche: **%s** Dateien',
 'A new version of web2py is available': 'Eine neue Version von web2py ist verfügbar',
 'A new version of web2py is available: %s': 'Eine neue Version von web2py ist verfügbar: %s',
@@ -89,6 +90,7 @@
 'create file with filename:': 'erzeuge Datei mit Dateinamen:',
 'create new application:': 'erzeuge neue Anwendung:',
 'Create new simple application': 'Erzeuge neue Anwendung',
+'Create/Upload': 'Create/Upload',
 'created by': 'erstellt von',
 'crontab': 'crontab',
 'Current request': 'Aktuelle Anfrage (request)',
