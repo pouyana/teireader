@@ -88,6 +88,4 @@ Files = db.define_table('files'
 ,Field('doc', 'upload', autodelete=True)
 ,Field('filename','string')
 ,Field('groupname', 'string')
-,Field('median', 'float')
-,Field('average', 'float')
 ,Field('session_name', 'string'))
