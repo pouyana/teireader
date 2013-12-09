@@ -87,10 +87,6 @@ def upload_file():
             # Store file on the server
             id = db.files.insert(doc = db.files.doc.store(f.file, f.filename))
             record = db.files[id]
-            path_list = []
-            path_list.append(request.folder)
-            path_list.append('uploads')
-            path_list.append(record['doc'])
 	    #set the filename variable.
 	    #set the groupname variable.
 	    #nameing convention groupname.filename.xml
