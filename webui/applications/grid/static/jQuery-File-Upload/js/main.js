@@ -14,16 +14,15 @@
 
 $(function () {
     'use strict';
-
     // Initialize the jQuery File Upload widget:
     $('#fileupload').fileupload({
         // Uncomment the following to send cross-domain cookies:
-        //xhrFields: {withCredentials: true},
-        url: 'http://127.0.0.1:8080/grid/default/upload_file',
-        autoUpload: 'True',
-        maxNumberOfFiles: 3,
+        xhrFields: {withCredentials: true},
+        url: 'http://localhost:8080/grid/default/upload_file.json',
+        autoUpload: 'False',
+        maxNumberOfFiles: 20,
         maxFileSize: 2500000,
-        //acceptFileTypes: '/(\.|\/)(gif|jpe?g|png)$/i',
+        acceptFileTypes: '/(\.|\/)(xml)$/i',
     });
 
     // Enable iframe cross-domain access via redirect option:
@@ -45,7 +44,7 @@ $(function () {
 		context: $('#fileupload')[0]
 	}).done(function (result) {
 		$(this).fileupload('option', 'done')
-			.call(this, null, {result: result});
+			.call(this, null, {result: result.files});
 	});
 
 });

@@ -8,7 +8,7 @@
 ## - download is for downloading files uploaded in the db (does streaming)
 ## - call exposes all registered services (none by default)
 #########################################################################
-
+import drama
 
 def index():
     """
@@ -77,32 +77,27 @@ def data():
     return dict(form=crud())
 
 def upload_file():
-        """
-        File upload handler for the ajax form of the plugin jquery-file-upload
-        Return the response in JSON required by the plugin
-        """
-        try:
-            # Get the file from the form
-            f = request.vars['files[]']
-            # Store file on the server
-            id = db.files.insert(doc = db.files.doc.store(f.file, f.filename))
-            record = db.files[id]
-	    #set the filename variable.
-	    #set the groupname variable.
-	    #nameing convention groupname.filename.xml
-	    res = ""
-	    namearray = f.filename.split(".")
-	    if(len(namearray)<4):
-	    	tmpfilename = namearray[1]+".xml"
-		tmpgorupname = namearray[0]
-	    	db.files[id] = dict(filename=tmpfilename)
-		db.files[id] = dict(groupname=tmpgorupname)
-		res = tmpfilename + ", " + tmpgorupname
-	    else:
-		res = "filename must be groupname.filename.xml"
-	    return res
-        except:
-            return dict(message=T('Upload error'))
+    try:
+        f = request.vars['files[]']  
+        # Store file
+        id = db.files.insert(doc = db.files.doc.store(f.file, f.filename))
+        # Compute size of the file and update the record
+        record = db.files[id]
+        path_list = []
+        path_list.append(request.folder)
+        path_list.append('uploads')
+        path_list.append(record['doc'])
+        File = db(db.files.id==id).select()[0]
+        namearray = f.filename.split(".")
+        tmpfilename = namearray[1]+".xml"
+        tmpgorupname = namearray[0]
+        db.files[id] = dict(filename=tmpfilename)
+        db.files[id] = dict(groupname=tmpgorupname)
+        db.files[id] = dict(session_name=response.session_id)
+        res = dict(files=[{"name": str(f.filename), "url": URL(f='download', args=[File['doc']]), "delete_url": URL(f='delete_file', args=[File['doc']]), "delete_type": "DELETE" }])
+        return res
+    except:
+        return dict(message=T('Upload error'))
 
 def delete_file():
         """
