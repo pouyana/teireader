@@ -2,6 +2,8 @@
 # -*- coding: utf-8 -*-
 #the code has extentive use of xPath.
 import xml.etree.ElementTree as ET
+from speech import Speech
+from tools import Tools
 class Drama:
 	#root = None
 	"""Drama Self Class, which contain description and common data of a drama file."""
@@ -101,8 +103,47 @@ class Drama:
 			res = f.attrib["{http://www.w3.org/XML/1998/namespace}id"]
 			result.append(res)
 		return result
+	#get an element from the given id
+	def get_content_by_id(self,ident):
+		fDs = self.root.findall(".//*[@{http://www.w3.org/XML/1998/namespace}id='"+ident+"']")
+		if fDs:
+			return fDs[0]
 
+	#given speaker id get the <sp> tag which also contains <p> and <l> tags.
+	def get_sp_by_speaker_id(self,ident):
+		fDs = self.root.findall(".//*[@{http://www.w3.org/XML/1998/namespace}id='"+ident+"']/..")
+		if fDs:
+			return fDs
+	
+	def get_all_speech_by_speaker(self,sp):
+		result = []
+		for child in sp:
+			#if it is a <p> or <l> then put it in the result list
+			if (child.tag == self.prefix+"p"):
+				result.append(child)
+			if (child.tag==self.prefix+"lg"):
+				for c in child:
+					result.append(c)
+		return result
+
+	def get_all_speech(self):
+		tools = Tools()
+		fDs = self.root.findall(".//"+self.prefix+"speaker")
+		result = []
+		for f in fDs:
+			#jump empty speakers
+			if f.text is not None:
+				speaker = tools.unicode_safe(f.text)
+				speaker_id = f.attrib["{http://www.w3.org/XML/1998/namespace}id"]
+				sps=self.get_sp_by_speaker_id(speaker_id)
+				for sp in sps:
+					speechs = self.get_all_speech_by_speaker(sp)
+				speech = Speech(speaker,speaker_id,speechs)
+				result.append(speech)
+		return result
 
 	#########################################################################################################
 	#					cast
 	#########################################################################################################
+
+	
