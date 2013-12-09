@@ -64,9 +64,7 @@ class SpeakerStatistics:
 		self.sum = 0
 	
 	def __str__(self):
-		self.set_median()
-		self.set_average()
-		return "Speaker: " + str(self.speaker) + "has median speech of " + str(self.median) + " and the average of " + str(self.average)
+		return "Speaker: " + str(self.speaker) + " has median speech of " + str(self.get_median()) + " and the average of " + str(self.get_average())
 
 	def add_speech(self,length):
 		self.add_sum(length)
@@ -106,10 +104,12 @@ class SpeakerStatistics:
 	
 	#get median from speech length (Repliklänge)
 	def get_median(self):
+		self.set_median()
 		return self.median
 
 	#get average length:
 	def get_average(self):
+		self.set_average()
 		return self.average
 
 	#set the average
@@ -144,8 +144,12 @@ class SpeakerStatisticsCollection():
 		return self.speech_list
 
 	def generate_stats(self):
+		#a statistics object extra for the whole text.
+		spkwhole = SpeakerStatistics("whole")
+		self.statistics["whole"]=spkwhole
 		for spc in self.get_speech_list():
-			#check if the speakers all have the dot so we don't get the same speaker dubbled.
+			self.statistics["whole"].add_speech(spc.get_length())
+			#check if the speakers all have the dot so we don't get the same speaker doubled.
 			if "." in spc.get_speaker():
 				speaker = spc.get_speaker()
 			else:
