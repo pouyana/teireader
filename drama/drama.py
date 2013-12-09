@@ -114,7 +114,7 @@ class Drama:
 		fDs = self.root.findall(".//*[@{http://www.w3.org/XML/1998/namespace}id='"+ident+"']/..")
 		if fDs:
 			return fDs
-	
+	#get all the speeches from the <sp> tag	
 	def get_all_speech_by_speaker(self,sp):
 		result = []
 		for child in sp:
@@ -125,7 +125,7 @@ class Drama:
 				for c in child:
 					result.append(c)
 		return result
-
+	#get all the speech and put it in a speech object
 	def get_all_speech(self):
 		tools = Tools()
 		fDs = self.root.findall(".//"+self.prefix+"speaker")
@@ -140,6 +140,11 @@ class Drama:
 					speechs = self.get_all_speech_by_speaker(sp)
 				speech = Speech(speaker,speaker_id,speechs)
 				result.append(speech)
+		return result
+	def get_speech_length_info(self):
+		#get the median and average for every speaker and the whole text.
+		#the result structure would be {[{"name":speaker_name,"median:n,"average":n},...]}
+		result = {}
 		return result
 
 	#########################################################################################################
