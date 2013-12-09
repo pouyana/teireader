@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 #the code has extentive use of xPath.
 import xml.etree.ElementTree as ET
-from speech import Speech
+from speech import Speech, SpeakerStatistics, SpeakerStatisticsCollection
 from tools import Tools
 class Drama:
 	#root = None
@@ -38,6 +38,7 @@ class Drama:
 	def get_all_child(self,element):
 		child = self.root.findall(".//"+element.tag+"/*")
 		return child
+	
 	#search a list for a tag
 	def find_by_tag(self,lst,tag):
 		for element in lst:
@@ -51,25 +52,30 @@ class Drama:
 	def get_title(self):
 		fDs = self.root.findall(".//"+self.prefix+"fileDesc/"+self.prefix+"titleStmt/"+self.prefix+"title")
 		return fDs[0].text
+	
 	#get fullbibliography of a title.
 	def get_bibl_title(self):
 		fDs = self.root.findall(".//"+self.prefix+"biblFull/"+self.prefix+"titleStmt/"+self.prefix+"title")
 		return fDs[0].text
+	
 	#get bibliographic author+pnd
 	def get_bibl_author(self):
 		fDs = self.root.findall(".//"+self.prefix+"biblFull/"+self.prefix+"titleStmt/"+self.prefix+"author")
 		author = {"name":fDs[0].text,"pnd":fDs[0].attrib["key"]}
 		return author
+	
 	#get the license information
 	def get_license(self):
 		fDs = self.root.findall(".//"+self.prefix+"fileDesc/"+self.prefix+"publicationStmt/"+self.prefix+"availability/"+self.prefix+"p")
 		return fDs[0].text
+
 	#get publication information
 	def get_publish_data(self):
 		fDs_date = self.root.findall(".//"+self.prefix+"biblFull/"+self.prefix+"publicationStmt/"+self.prefix+"date")
 		fDs_place = self.root.findall(".//"+self.prefix+"biblFull/"+self.prefix+"publicationStmt/"+self.prefix+"pubPlace")
 		data = {"date":fDs_date[0].attrib["when"],"place":fDs_place[0].text,"license":self.get_license()}
 		return data
+	
 	#creation date
 	#to do try/catch for the unkwnown attribs and also work with the existing attrib. less static more dynamic
 	def get_creation_date(self):
@@ -79,6 +85,7 @@ class Drama:
 	#########################################################################################################
 	#					body
 	#########################################################################################################
+	
 	#get the whole cast from the tei data.
 	def get_cast(self):
 		fDs = self.root.findall(".//"+self.prefix+"castItem")
@@ -87,6 +94,7 @@ class Drama:
 			res ={"id":f.attrib["{http://www.w3.org/XML/1998/namespace}id"],"name":f.text}
 			result.append(res)
 		return result
+	
 	#find act or scene
 	def get_scene(self):
 		fDs = self.root.findall(".//"+self.prefix+"div[@type='scene']")
@@ -95,6 +103,7 @@ class Drama:
 			res ={"id":f.attrib["{http://www.w3.org/XML/1998/namespace}id"],"name":f.attrib["n"]}
 			result.append(res)
 		return result
+	
 	#list all the ids, with this all of the acceable elements are found and can be used for further parsing
 	def get_all_ids(self):
 		fDs = self.root.findall(".//*[@{http://www.w3.org/XML/1998/namespace}id]")
@@ -103,6 +112,7 @@ class Drama:
 			res = f.attrib["{http://www.w3.org/XML/1998/namespace}id"]
 			result.append(res)
 		return result
+	
 	#get an element from the given id
 	def get_content_by_id(self,ident):
 		fDs = self.root.findall(".//*[@{http://www.w3.org/XML/1998/namespace}id='"+ident+"']")
@@ -114,6 +124,7 @@ class Drama:
 		fDs = self.root.findall(".//*[@{http://www.w3.org/XML/1998/namespace}id='"+ident+"']/..")
 		if fDs:
 			return fDs
+	
 	#get all the speeches from the <sp> tag	
 	def get_all_speech_by_speaker(self,sp):
 		result = []
@@ -125,6 +136,7 @@ class Drama:
 				for c in child:
 					result.append(c)
 		return result
+	
 	#get all the speech and put it in a speech object
 	def get_all_speech(self):
 		tools = Tools()
@@ -141,12 +153,12 @@ class Drama:
 				speech = Speech(speaker,speaker_id,speechs)
 				result.append(speech)
 		return result
-	def get_speech_length_info(self):
-		#get the median and average for every speaker and the whole text.
-		#the result structure would be {[{"name":speaker_name,"median:n,"average":n},...]}
-		result = {}
-		return result
 
+	#speech statistics
+	def get_speech_length_info(self):
+		spstats = SpeakerStatisticsCollection(self.get_all_speech())
+		spstats.generate_stats()
+		return spstats.get_statistics()
 	#########################################################################################################
 	#					cast
 	#########################################################################################################

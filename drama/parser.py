@@ -11,5 +11,7 @@ print the_drama.get_creation_date()
 #print the_drama.get_cast()
 #print the_drama.get_scene()
 #print the_drama.get_all_ids()
-for sp in the_drama.get_all_speech():
-	print sp
+value = the_drama.get_speech_length_info()
+values = value.viewvalues()
+for val in values:
+	print val
