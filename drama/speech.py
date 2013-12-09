@@ -27,6 +27,7 @@ class Speech:
 	def set_id(self,id):
 		self.id = id
 
+	#get the id
 	def get_id(self):
 		return self.id
 
@@ -38,12 +39,14 @@ class Speech:
 	def get_content(self):
 		return self.content
 
+	#generate a string from the array given
 	def content_joiner(self):
 		tools = Tools()
 		text =""
 		for c in self.content:
 			text = text + tools.unicode_safe(c.text) + "\n"
 		return text
+	
 	#length of the speak, needed for the furthur analysis
 	def get_length(self):
 		content_joined = self.content_joiner()
@@ -53,6 +56,102 @@ class Speech:
 			length = len(m)
 		return length
 
-#Collection for the same speaker words.
-class SpeechCollection(Speech):
-	Arr = 0
+class SpeakerStatistics:
+	'''Statistics for the speaker words. Here the median and average are calculated'''
+	def __init__(self,speaker):
+		self.set_speaker(speaker)
+		self.speech_length=[]
+		self.sum = 0
+	
+	def add_speech(self,length):
+		self.add_sum(length)
+		self.add_to_speech_length(length)
+		self.set_count
+
+	#add to the sum
+	def add_sum(self,length):
+		self.sum = self.sum + length
+	
+	#sum of the whole words speaker speaking
+	def get_sum(self):
+		return self.sum
+	
+	def set_count(self):
+		self.count = len(self.speech_length)
+	#how many speeches for a speaker (realtime)
+	def get_count(self):
+		set_count()
+		return self.count
+	
+	#get/set speaker
+	def get_speaker(self):
+		return self.speaker
+	def set_speaker(self,speaker):
+		self.speaker = speaker
+	
+	#get/set speech length array
+	def get_speech_length(self):
+		return self.speech_length
+	def set_speech_length(self,lengths):
+		self.speech_length = lengths
+	
+	#add new items to the speech length array
+	def add_to_speech_length(self,length):
+		self.speech_length.append(length)
+	
+	#get median from speech length (Repliklänge)
+	def get_median(self):
+		return self.median
+
+	#get average length:
+	def get_average(self):
+		return self.average
+
+	#set the average
+	def set_average(self):
+		#no divide / 0
+		if(self.get_count() != 0):
+			return self.get_sum()/self.get_count
+		else:
+			return 0
+	
+	#sorted length useful 
+	def get_sorted_length(self):
+		return sorted(self.length)
+
+	def set_median(self):
+		values = self.get_sorted_length()
+		if(len(values)%2==1):
+			#odd number of elements
+			self.median = values[((len(values)+1)/2)-1]
+		else:
+			#even number
+			lower = values[(len(values)/2)-1]
+			upper = values[(len(values)/2)]
+			self.median = (float(lower+upper))/2
+
+class SpeakerStatisticsCollection():
+	'''a Collection of Statistics, get a list of speech elements and creates some SpeakerStatistics from them'''
+	def __init__(self,speech_list):
+		self.speech_list = speech_list
+		self.statistics = {}
+	
+	def get_speech_list(self):
+		return self.speech_list
+
+	def generate_stats(self):
+		for spc in get_speech_list():
+			if(spc.get_speaker() not in self.statistics):
+				spkstat = SpeakerStatistics(spc.get_speaker())
+				spkstat.add_speech(speech.length)
+				self.statistics[spc.get_speaker()] = spkstat
+			else:
+				spkstat = self.statistics[spc.get_speaker()]
+				spkstat.add_speech(speech.length)
+
+	def get_statistics(self):
+		return self.statistics
+
+
+
+
