@@ -55,8 +55,3 @@ class Speech:
 
 #Collection for the same speaker words.
 #class SpeechCollection(Speech):
-
-			
-
-
-
