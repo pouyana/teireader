@@ -63,6 +63,11 @@ class SpeakerStatistics:
 		self.speech_length=[]
 		self.sum = 0
 	
+	def __str__(self):
+		self.set_median()
+		self.set_average()
+		return "Speaker: " + str(self.speaker) + "has median speech of " + str(self.median) + " and the average of " + str(self.average)
+
 	def add_speech(self,length):
 		self.add_sum(length)
 		self.add_to_speech_length(length)
@@ -80,7 +85,7 @@ class SpeakerStatistics:
 		self.count = len(self.speech_length)
 	#how many speeches for a speaker (realtime)
 	def get_count(self):
-		set_count()
+		self.set_count()
 		return self.count
 	
 	#get/set speaker
@@ -110,14 +115,13 @@ class SpeakerStatistics:
 	#set the average
 	def set_average(self):
 		#no divide / 0
+		self.average = 0
 		if(self.get_count() != 0):
-			return self.get_sum()/self.get_count
-		else:
-			return 0
+			self.average =  self.get_sum()/self.get_count()
 	
 	#sorted length useful 
 	def get_sorted_length(self):
-		return sorted(self.length)
+		return sorted(self.get_speech_length())
 
 	def set_median(self):
 		values = self.get_sorted_length()
@@ -140,18 +144,20 @@ class SpeakerStatisticsCollection():
 		return self.speech_list
 
 	def generate_stats(self):
-		for spc in get_speech_list():
-			if(spc.get_speaker() not in self.statistics):
-				spkstat = SpeakerStatistics(spc.get_speaker())
-				spkstat.add_speech(speech.length)
-				self.statistics[spc.get_speaker()] = spkstat
+		for spc in self.get_speech_list():
+			#check if the speakers all have the dot so we don't get the same speaker dubbled.
+			if "." in spc.get_speaker():
+				speaker = spc.get_speaker()
 			else:
-				spkstat = self.statistics[spc.get_speaker()]
-				spkstat.add_speech(speech.length)
+				speaker = spc.get_speaker() + "."
+
+			if(speaker not in self.statistics):
+				spkstat = SpeakerStatistics(speaker)
+				spkstat.add_speech(spc.get_length())
+				self.statistics[speaker] = spkstat
+			else:
+				spkstat = self.statistics[speaker]
+				spkstat.add_speech(spc.get_length())
 
 	def get_statistics(self):
 		return self.statistics
-
-
-
-
