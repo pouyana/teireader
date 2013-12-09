@@ -119,9 +119,9 @@ class Drama:
 		result = []
 		for child in sp:
 			#if it is a <p> or <l> then put it in the result list
-			if (child.tag == self.prefix+"p"):
+			if (child.tag == self.prefix+"p" or child.tag == self.prefix+"l"):
 				result.append(child)
-			if (child.tag==self.prefix+"lg"):
+			if (child.tag == self.prefix+"lg"):
 				for c in child:
 					result.append(c)
 		return result

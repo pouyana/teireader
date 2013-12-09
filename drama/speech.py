@@ -54,4 +54,5 @@ class Speech:
 		return length
 
 #Collection for the same speaker words.
-#class SpeechCollection(Speech):
+class SpeechCollection(Speech):
+	Arr = 0
