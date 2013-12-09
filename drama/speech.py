@@ -69,7 +69,6 @@ class SpeakerStatistics:
 	def add_speech(self,length):
 		self.add_sum(length)
 		self.add_to_speech_length(length)
-		self.set_count
 
 	#add to the sum
 	def add_sum(self,length):
