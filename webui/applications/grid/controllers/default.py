@@ -8,7 +8,7 @@
 ## - download is for downloading files uploaded in the db (does streaming)
 ## - call exposes all registered services (none by default)
 #########################################################################
-import drama
+from drama import Drama
 
 def index():
     """
@@ -77,14 +77,45 @@ def data():
     return dict(form=crud())
 
 def analyse():
-    return dict(messege="hello")
+    files = db.files
+    session_name = files.session_name
+    q= session_name==session.session_id
+    s = db(q)
+    rows = s.select()
+    groups={}
+    #group managment
+    for r in rows:
+        if r.groupname not in groups:
+            groups[r.groupname]=[]
+            tmpfile = {}
+            tmpfile["filename"] = r.filename
+            tmpfile["address"] = request.folder+"uploads/"+r.doc
+            tmpfile2 = {}
+            tmpfile2["name"] = "whole"
+            tmpfile2["address"] = "no-address"
+            tmpfile2["stats"] = {"group":"0"}
+            groups[r.groupname].append(tmpfile)
+            groups[r.groupname].append(tmpfile2)
+        else:
+            tmpfile = {}
+            tmpfile["filename"] = r.filename
+            tmpfile["address"] = r.doc
+            groups[r.groupname].append(tmpfile)
+    #for every group we go through the files
+    values = groups.viewvalues()
+    for g in values:
+        for text in g:
+            if (text["address"] != "no-address"):
+                drama = Drama(text["address"])
+                text["bible_name"] = drama.get_bibl_title()
+                text["name"] = drama.get_title()
+                text["stats"] = drama.get_speech_length_info()
+    return dict(session_id=session.session_id,answer=groups)
 
 def upload_file():
     try:
-        f = request.vars['files[]']  
-        # Store file
+        f = request.vars['files[]']
         id = db.files.insert(doc = db.files.doc.store(f.file, f.filename))
-        # Compute size of the file and update the record
         record = db.files[id]
         path_list = []
         path_list.append(request.folder)
@@ -94,9 +125,10 @@ def upload_file():
         namearray = f.filename.split(".")
         tmpfilename = namearray[1]+".xml"
         tmpgorupname = namearray[0]
+        sessionname = session.session_id
         db.files[id] = dict(filename=tmpfilename)
         db.files[id] = dict(groupname=tmpgorupname)
-        db.files[id] = dict(session_name=response.session_id)
+        db.files[id] = dict(session_name=sessionname)
         res = dict(files=[{"name": str(f.filename), "url": URL(f='download', args=[File['doc']]), "delete_url": URL(f='delete_file', args=[File['doc']]), "delete_type": "DELETE" }])
         return res
     except:
@@ -115,4 +147,5 @@ def delete_file():
 
 
 def upload():
-        return dict()
+        session.session_id = response.session_id
+        return dict(session_id=session.session_id)
