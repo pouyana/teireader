@@ -21,10 +21,10 @@
         <!-- The fileupload-buttonbar contains buttons to add/delete files and start/cancel the upload -->
         <div class="row fileupload-buttonbar">
             <div class="span7">
-                <span class="btn btn-success fileinput-button">
+                <span style="width:100%" class="btn btn-success">
                     <i class="icon-plus icon-white"></i>
                     <span>Add files...</span>
-                    <input type="file" name="files[]" multiple>
+                    <input style="width:100%" type="file" name="files[]" multiple>
                 </span>
             </div>
             <!-- The global progress information -->
@@ -43,6 +43,10 @@
         <!-- The table listing the files available for upload/download -->
         <table role="presentation" class="table table-striped"><tbody class="files" data-toggle="modal-gallery" data-target="#modal-gallery"></tbody></table>
     </form>
+        <span class="label label-info">Notice</span><span>  Analysing files takes a little bit of time and is in connection with the amount of files you uploaded. But normaly it won't take more than 2-3 minutes</span>
+    <div class="text-center">
+    <a href="analyse" style="margin-top:10px;margin-bottom:10px" type="button" class="btn btn btn-primary">Analyse Uploaded Files</a>
+    </div>
     </div>
     
 <!-- modal-gallery is the modal dialog used for the image gallery -->
@@ -132,7 +136,6 @@
     </tr>
 {% } %}
 </script>
-
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="{{=URL('static/jQuery-File-Upload','js/vendor/jquery.ui.widget.js')}}"></script>
 <script src="http://blueimp.github.io/JavaScript-Templates/js/tmpl.min.js"></script>
