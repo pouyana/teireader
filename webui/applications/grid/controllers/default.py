@@ -8,7 +8,7 @@
 ## - download is for downloading files uploaded in the db (does streaming)
 ## - call exposes all registered services (none by default)
 #########################################################################
-import drama
+from drama import Drama
 
 def index():
     """
@@ -77,7 +77,38 @@ def data():
     return dict(form=crud())
 
 def analyse():
-    return dict(session_id=session.session_id)
+    files = db.files
+    session_name = files.session_name
+    q= session_name==session.session_id
+    s = db(q)
+    rows = s.select()
+    groups={}
+    #group managment
+    for r in rows:
+        if r.groupname not in groups:
+            groups[r.groupname]=[]
+            tmpfile = {}
+            tmpfile["name"] = r.filename
+            tmpfile["address"] = request.folder+"uploads/"+r.doc
+            tmpfile2 = {}
+            tmpfile2["name"] = "whole"
+            tmpfile2["address"] = "no-address"
+            groups[r.groupname].append(tmpfile)
+            groups[r.groupname].append(tmpfile2)
+        else:
+            tmpfile = {}
+            tmpfile["name"] = r.filename
+            tmpfile["address"] = r.doc
+            groups[r.groupname].append(tmpfile)
+    #for every group we go through the files
+    values = groups.viewvalues()
+    for g in values:
+        for text in g:
+            if (text["address"] != "no-address"):
+                drama = Drama(text["address"])
+                text["bible_name"] = drama.get_bibl_title()
+                text["stats"] = drama.get_speech_length_info()
+    return dict(session_id=session.session_id,answer=groups)
 
 def upload_file():
     try:
