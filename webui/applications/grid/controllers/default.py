@@ -88,16 +88,17 @@ def analyse():
         if r.groupname not in groups:
             groups[r.groupname]=[]
             tmpfile = {}
-            tmpfile["name"] = r.filename
+            tmpfile["filename"] = r.filename
             tmpfile["address"] = request.folder+"uploads/"+r.doc
             tmpfile2 = {}
             tmpfile2["name"] = "whole"
             tmpfile2["address"] = "no-address"
+            tmpfile2["stats"] = {"group":"0"}
             groups[r.groupname].append(tmpfile)
             groups[r.groupname].append(tmpfile2)
         else:
             tmpfile = {}
-            tmpfile["name"] = r.filename
+            tmpfile["filename"] = r.filename
             tmpfile["address"] = r.doc
             groups[r.groupname].append(tmpfile)
     #for every group we go through the files
@@ -107,6 +108,7 @@ def analyse():
             if (text["address"] != "no-address"):
                 drama = Drama(text["address"])
                 text["bible_name"] = drama.get_bibl_title()
+                text["name"] = drama.get_title()
                 text["stats"] = drama.get_speech_length_info()
     return dict(session_id=session.session_id,answer=groups)
 
