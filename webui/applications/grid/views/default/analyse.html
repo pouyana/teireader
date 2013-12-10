@@ -21,12 +21,12 @@
 	{{for key,value in answer.items():}}
 	<div class="tab-pane fade" id="{{=key}}">
 		{{for i in value:}}
-		<h3 style="margin-top:0px">
+		<h2 style="margin-top:0px">
 		{{if (i["name"]=="whole"):}}
 			{{i["name"]="Group"}}
 		{{pass}}
-			{{=i["name"]}}</h3>
-		<div class="text-center" style="width:90%">
+			{{=i["name"]}}</h2>
+		<div style="width:70%">
 		<table class="table">
 		<thead>
 		<tr><th>Speaker</th><th>Median(Length)</th><th>Average(Length)</th><th>Count(Speeches)</th></tr>
