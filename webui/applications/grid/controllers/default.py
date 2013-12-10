@@ -77,14 +77,12 @@ def data():
     return dict(form=crud())
 
 def analyse():
-    return dict(messege="hello")
+    return dict(session_id=session.session_id)
 
 def upload_file():
     try:
-        f = request.vars['files[]']  
-        # Store file
+        f = request.vars['files[]']
         id = db.files.insert(doc = db.files.doc.store(f.file, f.filename))
-        # Compute size of the file and update the record
         record = db.files[id]
         path_list = []
         path_list.append(request.folder)
@@ -94,9 +92,10 @@ def upload_file():
         namearray = f.filename.split(".")
         tmpfilename = namearray[1]+".xml"
         tmpgorupname = namearray[0]
+        sessionname = session.session_id
         db.files[id] = dict(filename=tmpfilename)
         db.files[id] = dict(groupname=tmpgorupname)
-        db.files[id] = dict(session_name=response.session_id)
+        db.files[id] = dict(session_name=sessionname)
         res = dict(files=[{"name": str(f.filename), "url": URL(f='download', args=[File['doc']]), "delete_url": URL(f='delete_file', args=[File['doc']]), "delete_type": "DELETE" }])
         return res
     except:
@@ -115,4 +114,5 @@ def delete_file():
 
 
 def upload():
-        return dict()
+        session.session_id = response.session_id
+        return dict(session_id=session.session_id)
