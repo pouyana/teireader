@@ -14,6 +14,8 @@
     <div class="container" style="background-color:rgb(238, 238, 238)">
     <h1>Analyse Uploadeded files:</h1>
     <p>Here you would be find the analysed files and groups.</p>
+    {{rows = answer.viewvalues()}}
+    {{for i in rows:}}{{=i}}{{pass}}
     </div>
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="{{=URL('static/jQuery-File-Upload','js/vendor/jquery.ui.widget.js')}}"></script>
