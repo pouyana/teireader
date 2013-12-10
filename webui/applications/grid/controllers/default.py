@@ -76,6 +76,9 @@ def data():
     """
     return dict(form=crud())
 
+def analyse():
+    return dict(messege="hello")
+
 def upload_file():
     try:
         f = request.vars['files[]']  
