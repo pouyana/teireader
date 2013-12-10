@@ -14,9 +14,38 @@
     <div class="container" style="background-color:rgb(238, 238, 238)">
     <h1>Analyse Uploadeded files:</h1>
     <p>Here you would be find the analysed files and groups.</p>
-    {{rows = answer.viewvalues()}}
-    {{for i in rows:}}{{=i}}{{pass}}
+    <ul class="nav nav-tabs">
+    {{for k in answer.keys():}}<li><a href="#{{=k}}" data-toggle="tab">{{=k}}</a></li>{{pass}}
+	</ul>
+	<div class="tab-content" style="background-color:#FFF;margin-bottom:10px">
+	{{for key,value in answer.items():}}
+	<div class="tab-pane fade" id="{{=key}}">
+		{{for i in value:}}
+		<h3 style="margin-top:0px">
+		{{if (i["name"]=="whole"):}}
+			{{i["name"]="Group"}}
+		{{pass}}
+			{{=i["name"]}}</h3>
+		<div class="text-center" style="width:90%">
+		<table class="table">
+		<thead>
+		<tr><th>Speaker</th><th>Median(Length)</th><th>Average(Length)</th><th>Count(Speeches)</th></tr>
+		</thead>
+		{{values=i["stats"].viewvalues()}}
+  		{{for key,value in i["stats"].items():}}
+  			{{if(key!="group"):}}
+			<tr><td>{{=key}}</td><td>{{=value.get_median()}}</td><td>{{=value.get_average()}}</td><td>{{=value.get_count()}}</td></tr>
+  			{{pass}}
+		{{pass}}
+		</table>
+		</div>
+		{{pass}}
+		</div>
+	{{pass}}
+	</div>
     </div>
+
+
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="{{=URL('static/jQuery-File-Upload','js/vendor/jquery.ui.widget.js')}}"></script>
 <script src="http://blueimp.github.io/JavaScript-Templates/js/tmpl.min.js"></script>
