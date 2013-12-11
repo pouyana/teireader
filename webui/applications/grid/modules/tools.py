@@ -26,7 +26,7 @@ class Tools:
 		#no divide / 0
 		average = 0
 		if((count)!= 0):
-			average =  float(sum_of/count)
+			average =  float(sum_of)/count
 		return average
 
 	#calculate the some of an array numbers
