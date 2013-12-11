@@ -114,8 +114,7 @@ class SpeakerStatistics:
 	#set the average
 	def set_average(self):
 		tools = Tools()
-		if(self.get_count() != 0):
-			self.average = float(self.get_sum()/self.get_count())
+		self.average = tools.calc_average(self.get_sum(),self.get_count())
 	
 	#sorted length useful 
 	def get_sorted_length(self):
@@ -126,8 +125,6 @@ class SpeakerStatistics:
 		tools = Tools()
 		values = self.get_sorted_length()
 		self.median = tools.calc_median(values)
-
-
 
 class SpeakerStatisticsCollection():
 	'''a Collection of Statistics, get a list of speech elements and creates some SpeakerStatistics from them'''
@@ -165,10 +162,7 @@ class SpeakerStatisticsCollection():
 				self.counts.append(value.get_count())
 		tools = Tools()
 		self.median_count = tools.calc_median(self.counts)
-		average = 0
-		if(len(self.counts)!= 0):
-			average =  float(tools.calc_sum(self.counts)/len(self.counts))
-		self.average_count = average
+		self.average_count = tools.calc_average(tools.calc_sum(self.counts),len(self.counts))
 
 	def get_median_count(self):
 		return self.median_count
