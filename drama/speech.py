@@ -4,7 +4,10 @@
 import re
 from tools import Tools
 class Speech:
-	"""Speech (Replik) class, which have the text, speaker and also the length of the speech."""
+	"""
+	 **Speech**
+	Speech (Replik) class, which have the text, speaker and also the length of the speech.
+	"""
 	def __init__(self,speaker,id,content):
 		self.set_id(id)
 		self.set_speaker(speaker)
