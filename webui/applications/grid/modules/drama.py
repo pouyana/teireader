@@ -155,10 +155,14 @@ class Drama:
 		return result
 
 	#speech statistics
-	def get_speech_length_info(self):
+	def get_stats(self):
 		spstats = SpeakerStatisticsCollection(self.get_all_speech())
 		spstats.generate_stats()
-		return spstats.get_statistics()
+		statistics = {}
+		statistics["major"] = spstats.get_statistics()
+		statistics["median_count"] = spstats.get_median_count()
+		statistics["average_count"] = spstats.get_average_count()
+		return statistics
 	#########################################################################################################
 	#					cast
 	#########################################################################################################

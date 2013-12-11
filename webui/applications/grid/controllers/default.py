@@ -109,7 +109,11 @@ def analyse():
                 drama = Drama(text["address"])
                 text["bible_name"] = drama.get_bibl_title()
                 text["name"] = drama.get_title()
-                text["stats"] = drama.get_speech_length_info()
+                text["whole_stats"] = drama.get_stats()
+                text["stats"] = text["whole_stats"]["major"]
+                text["median"] = text["whole_stats"]["median_count"]
+                text["average"] = text["whole_stats"]["average_count"]
+
     return dict(session_id=session.session_id,answer=groups)
 
 def upload_file():
