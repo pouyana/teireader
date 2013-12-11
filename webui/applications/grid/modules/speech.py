@@ -113,37 +113,35 @@ class SpeakerStatistics:
 
 	#set the average
 	def set_average(self):
-		#no divide / 0
-		self.average = 0
+		tools = Tools()
 		if(self.get_count() != 0):
-			self.average =  self.get_sum()/self.get_count()
+			self.average = float(self.get_sum()/self.get_count())
 	
 	#sorted length useful 
 	def get_sorted_length(self):
 		return sorted(self.get_speech_length())
 
+	#set the median for the length
 	def set_median(self):
+		tools = Tools()
 		values = self.get_sorted_length()
-		if(len(values)%2==1):
-			#odd number of elements
-			self.median = values[((len(values)+1)/2)-1]
-		else:
-			#even number
-			lower = values[(len(values)/2)-1]
-			upper = values[(len(values)/2)]
-			self.median = (float(lower+upper))/2
+		self.median = tools.calc_median(values)
+
+
 
 class SpeakerStatisticsCollection():
 	'''a Collection of Statistics, get a list of speech elements and creates some SpeakerStatistics from them'''
 	def __init__(self,speech_list):
 		self.speech_list = speech_list
 		self.statistics = {}
-	
+		self.counts = []
+		self.median_count = 0
+		self.average_count = 0
 	def get_speech_list(self):
 		return self.speech_list
-
+		
+	#a statistics object extra for the whole text.
 	def generate_stats(self):
-		#a statistics object extra for the whole text.
 		spkwhole = SpeakerStatistics("whole")
 		self.statistics["whole"]=spkwhole
 		for spc in self.get_speech_list():
@@ -161,6 +159,20 @@ class SpeakerStatisticsCollection():
 			else:
 				spkstat = self.statistics[speaker]
 				spkstat.add_speech(spc.get_length())
+		#the medium and mean count for the whole text
+		for key,value in self.statistics.items():
+			if(key!="whole"):
+				self.counts.append(value.get_count())
+		tools = Tools()
+		self.median_count = tools.calc_median(self.counts)
+		average = 0
+		if(len(self.counts)!= 0):
+			average =  float(tools.calc_sum(self.counts)/len(self.counts))
+		self.average_count = average
 
+	def get_median_count(self):
+		return self.median_count
+	def get_average_count(self):
+		return self.average_count
 	def get_statistics(self):
 		return self.statistics

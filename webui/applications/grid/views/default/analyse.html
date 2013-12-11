@@ -26,12 +26,14 @@
 			{{i["name"]="Group"}}
 		{{pass}}
 			{{=i["name"]}}</h2>
+		{{if(i["address"]!="no-address"):}}
+		<h3 style="margin-top:5px">Median Count: {{=i["median"]}}, Average Count: {{=i["average"]}}</h3>
+		{{pass}}
 		<div style="width:70%">
 		<table class="table">
 		<thead>
 		<tr><th>Speaker</th><th>Median(Length)</th><th>Average(Length)</th><th>Count(Speeches)</th></tr>
 		</thead>
-		{{values=i["stats"].viewvalues()}}
   		{{for key,value in i["stats"].items():}}
   			{{if(key!="group"):}}
 			<tr><td>{{=key}}</td><td>{{=value.get_median()}}</td><td>{{=value.get_average()}}</td><td>{{=value.get_count()}}</td></tr>

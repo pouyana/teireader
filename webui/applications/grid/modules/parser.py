@@ -8,10 +8,3 @@ print the_drama.get_bibl_title()
 print the_drama.get_bibl_author()
 print the_drama.get_publish_data()["license"]
 print the_drama.get_creation_date()
-#print the_drama.get_cast()
-#print the_drama.get_scene()
-#print the_drama.get_all_ids()
-value = the_drama.get_speech_length_info()
-values = value.viewvalues()
-for val in values:
-	print val
