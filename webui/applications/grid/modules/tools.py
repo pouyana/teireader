@@ -11,7 +11,7 @@ class Tools:
 	
 	#calculate median for an array of number
 	def calc_median(self,number_list):
-		values = number_list
+		values = sorted(number_list)
 		if(len(values)%2==1):
 			#odd number of elements
 			return values[((len(values)+1)/2)-1]

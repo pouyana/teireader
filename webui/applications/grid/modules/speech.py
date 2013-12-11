@@ -123,7 +123,7 @@ class SpeakerStatistics:
 	#set the median for the length
 	def set_median(self):
 		tools = Tools()
-		values = self.get_sorted_length()
+		values = self.get_speech_length()
 		self.median = tools.calc_median(values)
 
 class SpeakerStatisticsCollection():
