@@ -99,7 +99,7 @@ def analyse():
         else:
             tmpfile = {}
             tmpfile["filename"] = r.filename
-            tmpfile["address"] = r.doc
+            tmpfile["address"] = request.folder+"uploads/"+r.doc
             groups[r.groupname].append(tmpfile)
     #for every group we go through the files
     values = groups.viewvalues()
