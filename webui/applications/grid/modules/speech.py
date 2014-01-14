@@ -3,6 +3,7 @@
 #import re for the regex
 import re
 from tools import Tools
+import math
 class Speech:
 	"""Speech (Replik) class, which have the text, speaker and also the length of the speech."""
 	def __init__(self,speaker,id,content):
@@ -49,13 +50,16 @@ class Speech:
 	
 	#length of the speak, needed for the furthur analysis
 	def get_length(self):
-		content_joined = self.content_joiner()
-		m = re.findall('(\S+)', content_joined)
-		length = 0
+		m = self.get_words_array()
 		if m:
 			length = len(m)
 		return length
-
+	#have the word array for each speech
+	def get_words_array(self):
+		content_joined = self.content_joiner()
+		m = re.findall('(\S+)', content_joined)
+		return m
+		
 class SpeakerStatistics:
 	'''Statistics for the speaker words. Here the median and average are calculated'''
 	def __init__(self,speaker):
@@ -126,6 +130,12 @@ class SpeakerStatistics:
 		values = self.get_speech_length()
 		self.median = tools.calc_median(values)
 
+class WordPackCollection():
+	'''a Collection of 500 packs of words, disregarding their speaker'''
+	def __init__(self):
+		self.statistics = {}
+
+
 class SpeakerStatisticsCollection():
 	'''a Collection of Statistics, get a list of speech elements and creates some SpeakerStatistics from them'''
 	def __init__(self,speech_list):
@@ -134,28 +144,39 @@ class SpeakerStatisticsCollection():
 		self.counts = []
 		self.median_count = 0
 		self.average_count = 0
+		word_packs = []
 	def get_speech_list(self):
 		return self.speech_list
 		
 	#a statistics object extra for the whole text.
 	def generate_stats(self):
+		word_count = 0
+		pause = False
 		spkwhole = SpeakerStatistics("whole")
 		self.statistics["whole"]=spkwhole
 		for spc in self.get_speech_list():
 			self.statistics["whole"].add_speech(spc.get_length())
-			#check if the speakers all have the dot so we don't get the same speaker doubled.
+			#five hundred span and 10 pause
+			for words in spc.get_words_array():
+				word_count = word_count + 1
+			if (word_count == 500):
+				word_count = 0
+				pause = True
+			if(word_count == 10 and pause == True):
+				pause = False
+				word_count = 0
 			if "." in spc.get_speaker():
 				speaker = spc.get_speaker()
 			else:
 				speaker = spc.get_speaker() + "."
-
-			if(speaker not in self.statistics):
-				spkstat = SpeakerStatistics(speaker)
-				spkstat.add_speech(spc.get_length())
-				self.statistics[speaker] = spkstat
-			else:
-				spkstat = self.statistics[speaker]
-				spkstat.add_speech(spc.get_length())
+			if(pause != True):
+				if(speaker not in self.statistics):
+					spkstat = SpeakerStatistics(speaker)
+					spkstat.add_speech(spc.get_length())
+					self.statistics[speaker] = spkstat
+				else:
+					spkstat = self.statistics[speaker]
+					spkstat.add_speech(spc.get_length())
 		#the medium and mean count for the whole text
 		for key,value in self.statistics.items():
 			if(key!="whole"):
