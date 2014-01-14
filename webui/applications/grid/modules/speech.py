@@ -159,7 +159,7 @@ class SpeakerStatisticsCollection():
 			#five hundred span and 10 pause
 			for words in spc.get_words_array():
 				word_count = word_count + 1
-			if (word_count == 500):
+			if (word_count % 500 == 0):
 				word_count = 0
 				pause = True
 			if(word_count == 10 and pause == True):
