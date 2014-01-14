@@ -95,6 +95,14 @@ class Drama:
 			result.append(res)
 		return result
 	
+	#get fix-stage stuff
+	def get_fix_stage(self):
+		fDs = self.root.findall(".//"+self.prefix+"stage")
+		result = []
+		for f in fDs:
+			if ("{http://www.germanistik.uni-wuerzburg.de/lehrstuehle/computerphilologie/dramenanalyse}fixed-stage" in f.attrib):
+				result.append(f.text)
+		return result
 	#find act or scene
 	def get_scene(self):
 		fDs = self.root.findall(".//"+self.prefix+"div[@type='scene']")
