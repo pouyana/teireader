@@ -142,8 +142,9 @@ class WordPack():
 		return len(self.speech)
 	def pop_element(self):
 		speech = self.speech
-		speech.pop()
+		a = speech.pop()
 		self.speech = speech
+		return a
 
 class WordPackCollection():
 	'''a Collection of 500 packs of words, disregarding their speaker'''
@@ -162,7 +163,9 @@ class WordPackCollection():
 				numbers = []
 				numbers.append(wordpack.get_speech_length())
 				spk["speaker"] = wordpack.speaker
-				self.statis_dict.append(spk)
+				speaker2 = next((item for item in self.statis_dict if item["speaker"] == wordpack.get_speaker()), None)
+				if(speaker2 == None):
+					self.statis_dict.append(spk)
 				spk["numbers"] = numbers
 				speaker_dict.append(spk)	
 			else:
@@ -174,25 +177,27 @@ class WordPackCollection():
 		for spk in self.speaker_dict:
 			average = tools.calc_average(tools.calc_sum(spk["numbers"]),len(spk["numbers"]))
 			speaker = next((item for item in self.statis_dict if item["speaker"] == spk["speaker"]), None)
-			if("average" not in speaker):
-				speaker["average"]=[]
-				speaker["average"].append(average)
-			else:
-				speaker["average"].append(average)
+			if(speaker !=None):
+				if("average" not in speaker):
+					speaker["average"]=[]
+					speaker["average"].append(average)
+				else:
+					speaker["average"].append(average)
 
 	def speaker_median(self):
 		tools = Tools()
 		for spk in self.speaker_dict:
 			median = tools.calc_median(spk["numbers"])
                         speaker = next((item for item in self.statis_dict if item["speaker"] == spk["speaker"]), None)
-                        if("median" not in  speaker):
-                                speaker["median"]=[]
-                                speaker["median"].append(median)
-                        else:
-                                speaker["average"].append(median)
+			if(speaker !=None):
+	                        if("median" not in speaker):
+        	                        speaker["median"]=[]
+                	                speaker["median"].append(median)
+                        	else:
+                                	speaker["median"].append(median)
 
 	#the array of the median
-	def get_statis_dictse(self):
+	def get_statis_dict(self):
 		return self.statis_dict
 	
 	#add speech to the wordpack list
@@ -208,15 +213,19 @@ class WordPackCollection():
 				self.speaker_median()
 				self.del_words()
 		if(len(speech_container)>0):
-			wordpack = WordPack(speech.get_speaker, speech_container)
+			if "." in speech.get_speaker():
+				speaker = speech.get_speaker()
+			else:
+                                speaker = speech.get_speaker() + "."
+			wordpack = WordPack(speaker, speech_container)
 			self.wordpack_list.append(wordpack)
 
 	#delete the first 10 element of the 500 pack
 	#we move the pointer	
 	def del_words(self):
+		#with 10 and 10 range you are to slow for testing use 1000 (with 500 spans)
 		self.word_count = self.word_count-10
 		for i in range(0,10):
-			#print self.wordpack_list
 			if(len(self.wordpack_list)>0):
 				wordpack = self.wordpack_list[0]
 				if(not wordpack.get_speech()):
@@ -226,6 +235,27 @@ class WordPackCollection():
 						wordpack.pop_element()
 				else:
 					wordpack.pop_element()
+	#caluclate cumulative average
+	def cul_average(self):
+		tools = Tools()
+		cul_average = []
+		for statis in self.get_statis_dict():
+			sta = {}
+			sta["speaker"] = statis["speaker"]
+			sta["average"] = tools.calc_average(tools.calc_sum(statis["average"]),len(statis["average"]))
+			cul_average.append(sta)
+		return cul_average
+
+	#calculate cumulatice median
+	def cul_median(self):
+		tools = Tools()
+		cul_median = []
+		for statis in self.get_statis_dict():
+			sta = {}
+			sta["speaker"] = statis["speaker"]
+			sta["median"] = tools.calc_median(statis["median"])
+			cul_median.append(sta)
+		return cul_median
 
 class SpeakerStatisticsCollection():
 	'''a Collection of Statistics, get a list of speech elements and creates some SpeakerStatistics from them'''
@@ -268,6 +298,8 @@ class SpeakerStatisticsCollection():
 		self.median_count = tools.calc_median(self.counts)
 		self.average_count = tools.calc_average(tools.calc_sum(self.counts),len(self.counts))
 		self.wordpack_statis = wordpacks.get_statis_dict()
+		self.wordpack_median = wordpacks.cul_median()
+		self.wordpack_average = wordpacks.cul_average()
 	def get_median_count(self):
 		return self.median_count
 	def get_average_count(self):
@@ -276,3 +308,7 @@ class SpeakerStatisticsCollection():
 		return self.statistics
 	def get_wordpack_statis(self):
 		return self.wordpack_statis
+	def get_wordpack_median(self):
+		return self.wordpack_median
+	def get_wordpack_average(self):
+		return self.wordpack_average

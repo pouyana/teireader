@@ -113,6 +113,8 @@ def analyse():
                 text["stats"] = text["whole_stats"]["major"]
                 text["median"] = text["whole_stats"]["median_count"]
                 text["average"] = text["whole_stats"]["average_count"]
+		text["median_cul"] = text["whole_stats"]["median_cul"]
+		text["average_cul"] = text["whole_stats"]["average_cul"]
 
     return dict(session_id=session.session_id,answer=groups)
 
