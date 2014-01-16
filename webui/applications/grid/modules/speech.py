@@ -163,7 +163,7 @@ class WordPackCollection():
 				numbers.append(wordpack.get_speech_length())
 				spk["speaker"] = wordpack.speaker
 				self.statis_dict.append(spk)
-				spk["numbers"] = number
+				spk["numbers"] = numbers
 				speaker_dict.append(spk)	
 			else:
 				speaker["numbers"].append(wordpack.get_speech_length())
@@ -172,9 +172,9 @@ class WordPackCollection():
 	def speaker_average(self):
 		tools = Tools()
 		for spk in self.speaker_dict:
-			average = tools.calc_average(tools.calc_sum(spk["numbers"]),len(spk["numbers"])
+			average = tools.calc_average(tools.calc_sum(spk["numbers"]),len(spk["numbers"]))
 			speaker = next((item for item in self.statis_dict if item["speaker"] == spk["speaker"]), None)
-			if(not speaker["average"]):
+			if("average" not in speaker):
 				speaker["average"]=[]
 				speaker["average"].append(average)
 			else:
@@ -185,14 +185,14 @@ class WordPackCollection():
 		for spk in self.speaker_dict:
 			median = tools.calc_median(spk["numbers"])
                         speaker = next((item for item in self.statis_dict if item["speaker"] == spk["speaker"]), None)
-                        if(not speaker["median"]):
+                        if("median" not in  speaker):
                                 speaker["median"]=[]
                                 speaker["median"].append(median)
                         else:
                                 speaker["average"].append(median)
 
 	#the array of the median
-	def get_statis_dict():
+	def get_statis_dictse(self):
 		return self.statis_dict
 	
 	#add speech to the wordpack list
@@ -202,28 +202,30 @@ class WordPackCollection():
 			if (self.word_count != 500):
 				self.word_count = self.word_count + 1
 				speech_container.append(word)
-				wordpack = WordPack(speech.get_speaker, speech_container)
-				self.wordpack_list.append(wordpack)
 			else:
 				self.speaker_numbers()
 				self.speaker_average()
 				self.speaker_median()
 				self.del_words()
+		if(len(speech_container)>0):
+			wordpack = WordPack(speech.get_speaker, speech_container)
+			self.wordpack_list.append(wordpack)
 
 	#delete the first 10 element of the 500 pack
 	#we move the pointer	
 	def del_words(self):
+		self.word_count = self.word_count-10
 		for i in range(0,10):
-			wordpack = self.wordpack_list[0]
-			if(not wordpack):
-				#remove the first when it get empty
-				self.wordpack_list.remove(wordpack_list[0])
+			#print self.wordpack_list
+			if(len(self.wordpack_list)>0):
 				wordpack = self.wordpack_list[0]
-				#pop the word from the next first element
-				wordpack.pop_element()
-			else:
-				#and so on
-				wordpack.pop_element()
+				if(not wordpack.get_speech()):
+					self.wordpack_list.pop(0)
+					if (len(self.wordpack_list) > 0):
+						wordpack = self.wordpack_list[0]
+						wordpack.pop_element()
+				else:
+					wordpack.pop_element()
 
 class SpeakerStatisticsCollection():
 	'''a Collection of Statistics, get a list of speech elements and creates some SpeakerStatistics from them'''
@@ -233,21 +235,19 @@ class SpeakerStatisticsCollection():
 		self.counts = []
 		self.median_count = 0
 		self.average_count = 0
-		word_packs = []
+		self.wordpack_statis = []
 	def get_speech_list(self):
 		return self.speech_list
 		
 	#a statistics object extra for the whole text.
 	def generate_stats(self):
 		word_count = 0
+		wordpacks = WordPackCollection()
 		pause = False
 		spkwhole = SpeakerStatistics("whole")
 		self.statistics["whole"]=spkwhole
 		for spc in self.get_speech_list():
 			self.statistics["whole"].add_speech(spc.get_length())
-			for words in spc.get_words_array():
-				word_count = word_count + 1
-			
 			if "." in spc.get_speaker():
 				speaker = spc.get_speaker()
 			else:
@@ -255,20 +255,24 @@ class SpeakerStatisticsCollection():
 			if(speaker not in self.statistics):
 				spkstat = SpeakerStatistics(speaker)
 				spkstat.add_speech(spc.get_length())
+				wordpacks.add_speech(spc)
 				self.statistics[speaker] = spkstat
 			else:
 				spkstat = self.statistics[speaker]
 				spkstat.add_speech(spc.get_length())
+				wordpacks.add_speech(spc)
 		for key,value in self.statistics.items():
 			if(key!="whole"):
 				self.counts.append(value.get_count())
 		tools = Tools()
 		self.median_count = tools.calc_median(self.counts)
 		self.average_count = tools.calc_average(tools.calc_sum(self.counts),len(self.counts))
-
+		self.wordpack_statis = wordpacks.get_statis_dict()
 	def get_median_count(self):
 		return self.median_count
 	def get_average_count(self):
 		return self.average_count
 	def get_statistics(self):
 		return self.statistics
+	def get_wordpack_statis(self):
+		return self.wordpack_statis

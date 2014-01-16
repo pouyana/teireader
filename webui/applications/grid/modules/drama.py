@@ -162,6 +162,7 @@ class Drama:
 		statistics["major"] = spstats.get_statistics()
 		statistics["median_count"] = spstats.get_median_count()
 		statistics["average_count"] = spstats.get_average_count()
+		statistics["wordpacks"] = spstasts.get_wordpack_statis()
 		return statistics
 	#########################################################################################################
 	#					cast
