@@ -43,14 +43,16 @@ class Speech:
 	#generate a string from the array given
 	def content_joiner(self):
 		tools = Tools()
-		text =""
+		text =" "
 		for c in self.content:
-			text = text + tools.unicode_safe(c.text) + "\n"
+                        if (c.text):
+			    text = text + tools.unicode_safe(c.text) + "\n"
 		return text
 	
 	#length of the speak, needed for the furthur analysis
 	def get_length(self):
 		m = self.get_words_array()
+                length = 0
 		if m:
 			length = len(m)
 		return length
