@@ -3,7 +3,7 @@
 
 '''
 from nltk import sent_tokenize, word_tokenize, pos_tag, ne_chunk, tokenize
-
+from drama import Drama
 
 def extract_entities(text):
 	entities = []
@@ -14,7 +14,7 @@ def extract_entities(text):
 
 
 if __name__ == '__main__':
-	text = """
-	Orsanes und Elmira treten ab.
-"""
-	print extract_entities(text)
+    text = Drama("files/Horribilicribrifax.xml")
+    collection_a = text.get_stage_all()
+    test_text = "".join(str(x) for x in collection_a["enter"])
+    print extract_entities(test_text)
