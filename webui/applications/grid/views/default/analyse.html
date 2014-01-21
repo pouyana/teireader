@@ -43,7 +43,6 @@
 		{{if(i["address"]!="no-address"):}}
 		<table class="table">
                 <tr><th>Speaker (500)</th><th>Median (500)</th></tr>
-                </thead>
 			{{for value in i["whole_stats"]["median_cul"]:}}
 			<tr><td>{{=value["speaker"]}}</td><td>{{=value["median"]}}</tr>
 			{{pass}}
