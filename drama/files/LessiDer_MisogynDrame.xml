@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xmlns:dr="http://www.germanistik.uni-wuerzburg.de/lehrstuehle/computerphilologie/dramenanalyse" xml:id="tg365" n="/Literatur/M/Lessing, Gotthold Ephraim/Dramen/Der Misogyn">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="tei_digibibDrama.rnc" type="compact"?>
+<TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xmlns:dr="http://www.germanistik.uni-wuerzburg.de/lehrstuehle/computerphilologie/dramenanalyse" xml:id="tg365" n="/Literatur/M/Lessing, Gotthold Ephraim/Dramen/Der Misogyn">
             <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors" n="work:yes">
                <fileDesc>
                   <titleStmt>
@@ -137,7 +138,7 @@
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg368.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg368.2.4">
                                     <hi rend="italic" xml:id="tg368.2.4.1">Wumshäter. Lisette.</hi>
                                  </stage>
                                  <lb xml:id="tg368.2.5"/>
@@ -147,9 +148,9 @@
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg368.2.7.part1">LISETTE</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg368.2.7.1.part1" dr:fixed-stage="true">kommend.</stage>
-                                    </stage>
+                                    
+                                       <stage type="enter" rend="italic" xml:id="tg368.2.7.1.part1" dr:fixed-stage="true">kommend.</stage>
+                                    
                                     <l xml:id="tg368.2.7.part2"> Was befehlen Sie?</l>
                                  </sp>
                                  <sp>
@@ -223,9 +224,9 @@ mich mit dein Himmel zu zanken, daß er mich zu einem gemacht hat.</p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg368.2.25.part1">LISETTE</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg368.2.25.1.part1" dr:fixed-stage="true">bei Seite.</stage>
-                                    </stage>
+                                    
+                                       <stage type="aside" rend="italic" xml:id="tg368.2.25.1.part1" dr:fixed-stage="true">bei Seite.</stage>
+                                   
                                     <l xml:id="tg368.2.25.part2"> Unsinnig ist er schon.</l>
                                  </sp>
                                  <sp>
@@ -274,7 +275,7 @@ mich mit dein Himmel zu zanken, daß er mich zu einem gemacht hat.</p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg368.2.37.part1">LISETTE.</speaker>
-                                    <l xml:id="tg368.2.37.part2"> Ich will Ihnen den Verdruß ersparen, mich zu sehen. <stage rend="italic" xml:id="tg368.2.37.1.part2" dr:fixed-stage="true">Geht ab.</stage>
+                                    <l xml:id="tg368.2.37.part2"> Ich will Ihnen den Verdruß ersparen, mich zu sehen. <stage type="exit" rend="italic" xml:id="tg368.2.37.1.part2" dr:fixed-stage="true">Geht ab.</stage>
                                     </l>
                                     <lb xml:id="tg368.2.38"/>
                                  </sp>
@@ -294,7 +295,7 @@ mich mit dein Himmel zu zanken, daß er mich zu einem gemacht hat.</p>
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg369.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg369.2.4">
                                     <hi rend="italic" xml:id="tg369.2.4.1">Wumshäter. Valer.</hi>
                                  </stage>
                                  <lb xml:id="tg369.2.5"/>
@@ -419,7 +420,7 @@ heftiger zu drücken, als ich sah, daß ich sie einer Nichtswürdigen zu Liebe, 
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg370.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg370.2.4">
                                     <hi rend="italic" xml:id="tg370.2.4.1">Lelio. Die Vorigen.</hi>
                                  </stage>
                                  <lb xml:id="tg370.2.5"/>
@@ -494,9 +495,9 @@ Weiberfeinde mit aussterben? Nein, nein, Valer, auf die Erhaltung so vorzüglich
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg370.2.23.part1">LELIO</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg370.2.23.1.part1" dr:fixed-stage="true">zu Valeren.</stage>
-                                    </stage>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg370.2.23.1.part1" dr:fixed-stage="true">zu Valeren.</stage>
+                                    
                                     <p xml:id="tg370.2.23.part2"> O, so schweigen Sie! – Drei Weiber! Sie müssen also einen rechten Schatz der mannigfaltigsten Erfahrung besitzen. Nur wundre ich mich, wie Sie Ihre Weiberfeindschaft gleichwohl dreimal so glücklich haben besiegen können.</p>
                                  </sp>
                                  <sp>
@@ -563,7 +564,7 @@ kannst du ihr hinderlich sein? Man wird sich um sie nicht reißen; und du magst 
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg370.2.39.part1">WUMSHÄTER.</speaker>
-                                    <p xml:id="tg370.2.39.part2"> Behüte der Himmel, daß das daraus entstehen sollte! – – Doch trauen Sie sich mehr zu, Herr Lelio; Sie sind zu vernünftig. Wie gesagt, mein Sohn, du kannst dich darauf verlassen: deine Schwester soll mit dir; sie muß mit dir. Ich will gleich gehen, und es ihr sagen. <stage rend="italic" xml:id="tg370.2.39.1.part2" dr:fixed-stage="true">Er geht ab.</stage>
+                                    <p xml:id="tg370.2.39.part2"> Behüte der Himmel, daß das daraus entstehen sollte! – – Doch trauen Sie sich mehr zu, Herr Lelio; Sie sind zu vernünftig. Wie gesagt, mein Sohn, du kannst dich darauf verlassen: deine Schwester soll mit dir; sie muß mit dir. Ich will gleich gehen, und es ihr sagen. <stage type="exit" rend="italic" xml:id="tg370.2.39.1.part2" dr:fixed-stage="true">Er geht ab.</stage>
                                     </p>
                                     <lb xml:id="tg370.2.40"/>
                                  </sp>
@@ -583,7 +584,7 @@ kannst du ihr hinderlich sein? Man wird sich um sie nicht reißen; und du magst 
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg371.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg371.2.4">
                                     <hi rend="italic" xml:id="tg371.2.4.1">Lelio. Valer.</hi>
                                  </stage>
                                  <lb xml:id="tg371.2.5"/>
@@ -672,7 +673,7 @@ um ihre Hand zu bitten. Endlich aber hat es der dienstfertige Herr Solbist auf s
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg371.2.27.part1">VALER.</speaker>
-                                    <p xml:id="tg371.2.27.part2"> Sie entzücken mich! – Ja, liebste Hilaria, wir können nicht genug eilen, unser Schicksal zu erfahren. Hilft es nichts, so haben wir doch alles getan, was in unsern Kräften steht; und ich werde es endlich über mein Gewissen bringen können, einem wunderlichen Vater die Stirne zu bieten. Ich muß Sie besitzen, es koste, was es wolle. Wie glücklich werde ich sein, wenn ich mich öffentlich dieser Hand werde rühmen können – – <stage rend="italic" xml:id="tg371.2.27.1.part2" dr:fixed-stage="true">Indem er die Hand küßt.</stage>
+                                    <p xml:id="tg371.2.27.part2"> Sie entzücken mich! – Ja, liebste Hilaria, wir können nicht genug eilen, unser Schicksal zu erfahren. Hilft es nichts, so haben wir doch alles getan, was in unsern Kräften steht; und ich werde es endlich über mein Gewissen bringen können, einem wunderlichen Vater die Stirne zu bieten. Ich muß Sie besitzen, es koste, was es wolle. Wie glücklich werde ich sein, wenn ich mich öffentlich dieser Hand werde rühmen können – – <stage type="other" rend="italic" xml:id="tg371.2.27.1.part2" dr:fixed-stage="true">Indem er die Hand küßt.</stage>
                                     </p>
                                     <lb xml:id="tg371.2.28"/>
                                  </sp>
@@ -692,15 +693,15 @@ um ihre Hand zu bitten. Endlich aber hat es der dienstfertige Herr Solbist auf s
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg372.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg372.2.4">
                                     <hi rend="italic" xml:id="tg372.2.4.1">Wumshäter. Die Vorigen.</hi>
                                  </stage>
                                  <lb xml:id="tg372.2.5"/>
                                  <sp>
                                     <speaker xml:id="tg372.2.6.part1">WUMSHÄTER</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg372.2.6.1.part1" dr:fixed-stage="true">welcher Valeren die Hand der Hilaria küssen sieht.</stage>
-                                    </stage>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg372.2.6.1.part1" dr:fixed-stage="true">welcher Valeren die Hand der Hilaria küssen sieht.</stage>
+                                    
                                     <p xml:id="tg372.2.6.part2"> Ei! ei! mein Sohn, tust du doch mit dem Bruder deiner Braut, als ob es die Braut selber wäre. Sieh, wie du zusammenfährst!</p>
                                  </sp>
                                  <sp>
@@ -713,9 +714,9 @@ um ihre Hand zu bitten. Endlich aber hat es der dienstfertige Herr Solbist auf s
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg372.2.9.part1">LELIO</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg372.2.9.1.part1" dr:fixed-stage="true">sachte zum Valer.</stage>
-                                    </stage>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg372.2.9.1.part1" dr:fixed-stage="true">sachte zum Valer.</stage>
+                                    
                                     <l xml:id="tg372.2.9.part2"> Geben Sie Acht, Valer; jetzt wird sich unser Anschlag einleiten lassen.</l>
                                  </sp>
                                  <sp>
@@ -810,7 +811,7 @@ Wert seiner Seele, sein Verstand, seine Tugend, und alle die Eigenschaften, die 
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg373.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg373.2.4">
                                     <hi rend="italic" xml:id="tg373.2.4.1">Laura. Die Vorigen.</hi>
                                  </stage>
                                  <lb xml:id="tg373.2.5"/>
@@ -901,7 +902,7 @@ Wert seiner Seele, sein Verstand, seine Tugend, und alle die Eigenschaften, die 
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg373.2.28.part1">LAURA.</speaker>
-                                    <p xml:id="tg373.2.28.part2"> Hörst du? – – Und was willst du denn mit deiner ganz unbekannten Stadt? Werde ich dich nicht da haben? Wird nicht Lelio da sein? Werde ich nicht seine vortreffliche Schwester da finden?<stage rend="italic" xml:id="tg373.2.28.1.part2" dr:fixed-stage="true"> Zum Lelio.</stage> Erlauben Sie mir, mein Herr, –</p>
+                                    <p xml:id="tg373.2.28.part2"> Hörst du? – – Und was willst du denn mit deiner ganz unbekannten Stadt? Werde ich dich nicht da haben? Wird nicht Lelio da sein? Werde ich nicht seine vortreffliche Schwester da finden?<stage type="other" rend="italic" xml:id="tg373.2.28.1.part2" dr:fixed-stage="true"> Zum Lelio.</stage> Erlauben Sie mir, mein Herr, –</p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg373.2.29.part1">WUMSHÄTER.</speaker>
@@ -917,9 +918,9 @@ Wert seiner Seele, sein Verstand, seine Tugend, und alle die Eigenschaften, die 
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg373.2.32.part1">VALER</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg373.2.32.1.part1" dr:fixed-stage="true">sachte zum Lelio.</stage>
-                                    </stage>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg373.2.32.1.part1" dr:fixed-stage="true">sachte zum Lelio.</stage>
+                                    
                                     <l xml:id="tg373.2.32.part2"> Antworten Sie ihr ja nicht zu verbindlich – –</l>
                                  </sp>
                                  <sp>
@@ -928,9 +929,9 @@ Wert seiner Seele, sein Verstand, seine Tugend, und alle die Eigenschaften, die 
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg373.2.34.part1">VALER</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg373.2.34.1.part1" dr:fixed-stage="true">sachte zum Lelio.</stage>
-                                    </stage>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg373.2.34.1.part1" dr:fixed-stage="true">sachte zum Lelio.</stage>
+                                    
                                     <l xml:id="tg373.2.34.part2"> Nicht zu verbindlich, sage ich.</l>
                                  </sp>
                                  <sp>
@@ -939,9 +940,9 @@ Wert seiner Seele, sein Verstand, seine Tugend, und alle die Eigenschaften, die 
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg373.2.36.part1">VALER</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg373.2.36.1.part1" dr:fixed-stage="true">sachte zum Lelio.</stage>
-                                    </stage>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg373.2.36.1.part1" dr:fixed-stage="true">sachte zum Lelio.</stage>
+                                    
                                     <l xml:id="tg373.2.36.part2"> Nehmen Sie sich in Acht! – –</l>
                                  </sp>
                                  <sp>
@@ -951,14 +952,14 @@ Wert seiner Seele, sein Verstand, seine Tugend, und alle die Eigenschaften, die 
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg373.2.39.part1">WUMSHÄTER</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg373.2.39.1.part1" dr:fixed-stage="true">zur Laura.</stage>
-                                    </stage>
-                                    <p xml:id="tg373.2.39.part2"> Da, sieh einmal, wie verwirrt du ihn gemacht hast. Aber es ist ein Zeichen seines Verstandes; denn je verständiger ein Mann ist, desto weniger kann er sich aus euerm Gickelgackel und Wischiwaschi nehmen. – Kommen Sie nur, Lelio, wir wollen lieber im Garten ein wenig auf und niedergehen, als bei dem Weibsbilde länger bleiben. Folge uns ja nicht nach! Aber du, Valer, kannst mitkommen. <stage rend="italic" xml:id="tg373.2.39.2.part2" dr:fixed-stage="true">Lelio macht der Laura eine Verbeugung.</stage> Ei, was soll das? Sie werden sich doch wohl kein Gewissen machen, ihr ohne Referenz den Rücken zuzukehren? <stage rend="italic" xml:id="tg373.2.39.3.part2" dr:fixed-stage="true">Laura erwidert die Verbeugung.</stage> Und dir, Mädel, sag ich, laß die Knickse bleiben, oder – – Das verwünschte Pack! Wenn die Zunge müde ist, so verfolgt es einen noch mit Grimassen.</p>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg373.2.39.1.part1" dr:fixed-stage="true">zur Laura.</stage>
+                                    
+                                    <p xml:id="tg373.2.39.part2"> Da, sieh einmal, wie verwirrt du ihn gemacht hast. Aber es ist ein Zeichen seines Verstandes; denn je verständiger ein Mann ist, desto weniger kann er sich aus euerm Gickelgackel und Wischiwaschi nehmen. – Kommen Sie nur, Lelio, wir wollen lieber im Garten ein wenig auf und niedergehen, als bei dem Weibsbilde länger bleiben. Folge uns ja nicht nach! Aber du, Valer, kannst mitkommen. <stage type="other" rend="italic" xml:id="tg373.2.39.2.part2" dr:fixed-stage="true">Lelio macht der Laura eine Verbeugung.</stage> Ei, was soll das? Sie werden sich doch wohl kein Gewissen machen, ihr ohne Referenz den Rücken zuzukehren? <stage type="other" rend="italic" xml:id="tg373.2.39.3.part2" dr:fixed-stage="true">Laura erwidert die Verbeugung.</stage> Und dir, Mädel, sag ich, laß die Knickse bleiben, oder – – Das verwünschte Pack! Wenn die Zunge müde ist, so verfolgt es einen noch mit Grimassen.</p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg373.2.40.part1">VALER.</speaker>
-                                    <l xml:id="tg373.2.40.part2"> Ich werde gleich nachkommen. <stage rend="italic" xml:id="tg373.2.40.1.part2" dr:fixed-stage="true">Wumshäter und Lelio gehen ab.</stage>
+                                    <l xml:id="tg373.2.40.part2"> Ich werde gleich nachkommen. <stage type="exit" rend="italic" xml:id="tg373.2.40.1.part2" dr:fixed-stage="true">Wumshäter und Lelio gehen ab.</stage>
                                     </l>
                                     <lb xml:id="tg373.2.41"/>
                                  </sp>
@@ -978,7 +979,7 @@ Wert seiner Seele, sein Verstand, seine Tugend, und alle die Eigenschaften, die 
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg374.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg374.2.4">
                                     <hi rend="italic" xml:id="tg374.2.4.1">Valer. Laura.</hi>
                                  </stage>
                                  <lb xml:id="tg374.2.5"/>
@@ -1054,7 +1055,7 @@ Wert seiner Seele, sein Verstand, seine Tugend, und alle die Eigenschaften, die 
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg374.2.25.part1">LAURA.</speaker>
-                                    <p xml:id="tg374.2.25.part2"> Ha! ha! ha! Wenn ich nun nicht bald gehe, so wirst du mir vielleicht vertrauen, daß er schon verheiratet sei. Ha! ha! ha! <stage rend="italic" xml:id="tg374.2.25.1.part2" dr:fixed-stage="true">Geht ab.</stage>
+                                    <p xml:id="tg374.2.25.part2"> Ha! ha! ha! Wenn ich nun nicht bald gehe, so wirst du mir vielleicht vertrauen, daß er schon verheiratet sei. Ha! ha! ha! <stage type="exit" rend="italic" xml:id="tg374.2.25.1.part2" dr:fixed-stage="true">Geht ab.</stage>
                                     </p>
                                  </sp>
                                  <sp>
@@ -1063,9 +1064,9 @@ Wert seiner Seele, sein Verstand, seine Tugend, und alle die Eigenschaften, die 
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg374.2.27.part1">LAURA</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg374.2.27.1.part1" dr:fixed-stage="true">kömmt ganz ernsthaft zurück.</stage>
-                                    </stage>
+                                    
+                                       <stage type="enter" rend="italic" xml:id="tg374.2.27.1.part1" dr:fixed-stage="true">kömmt ganz ernsthaft zurück.</stage>
+                                    
                                     <l xml:id="tg374.2.27.part2"> Bruder –</l>
                                  </sp>
                                  <sp>
@@ -1078,12 +1079,12 @@ Wert seiner Seele, sein Verstand, seine Tugend, und alle die Eigenschaften, die 
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg374.2.30.part1">VALER.</speaker>
-                                    <p xml:id="tg374.2.30.part2"> Der Vater erwartet mich in dem Garten. Ich muß dir es also ganz kurz erklären. Unmöglich ist das, – was nicht möglich ist. Auf Wiedersehen, liebe Schwester. <stage rend="italic" xml:id="tg374.2.30.1.part2" dr:fixed-stage="true">Geht ab.</stage>
+                                    <p xml:id="tg374.2.30.part2"> Der Vater erwartet mich in dem Garten. Ich muß dir es also ganz kurz erklären. Unmöglich ist das, – was nicht möglich ist. Auf Wiedersehen, liebe Schwester. <stage type="exit" rend="italic" xml:id="tg374.2.30.1.part2" dr:fixed-stage="true">Geht ab.</stage>
                                     </p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg374.2.31.part1">LAURA.</speaker>
-                                    <l xml:id="tg374.2.31.part2"> So? Ich bedanke mich! – Geduld! ich muß sehen, wie ich den Lelio zu sprechen bekomme.<stage rend="italic" xml:id="tg374.2.31.1.part2" dr:fixed-stage="true"> Geht ab.</stage>
+                                    <l xml:id="tg374.2.31.part2"> So? Ich bedanke mich! – Geduld! ich muß sehen, wie ich den Lelio zu sprechen bekomme.<stage type="exit" rend="italic" xml:id="tg374.2.31.1.part2" dr:fixed-stage="true"> Geht ab.</stage>
                                     </l>
                                     <lb xml:id="tg374.2.32"/>
                                     
@@ -1135,7 +1136,7 @@ Wert seiner Seele, sein Verstand, seine Tugend, und alle die Eigenschaften, die 
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg377.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg377.2.4">
                                     <hi rend="italic" xml:id="tg377.2.4.1">Laura. Lelio.</hi>
                                  </stage>
                                  <lb xml:id="tg377.2.5"/>
@@ -1145,9 +1146,9 @@ Wert seiner Seele, sein Verstand, seine Tugend, und alle die Eigenschaften, die 
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg377.2.7.part1">LELIO</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg377.2.7.1.part1" dr:fixed-stage="true">bei Seite.</stage>
-                                    </stage>
+                                    
+                                       <stage type="aside" rend="italic" xml:id="tg377.2.7.1.part1" dr:fixed-stage="true">bei Seite.</stage>
+                                    
                                     <p xml:id="tg377.2.7.part2"> Sie weiß ein verliebtes Gespräch vortrefflich einzufädeln! Schwerlich werde ich die Vorbereitungen zu meinem Rückzuge eben so fein zu machen wissen.</p>
                                  </sp>
                                  <sp>
@@ -1217,9 +1218,9 @@ Wert seiner Seele, sein Verstand, seine Tugend, und alle die Eigenschaften, die 
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg377.2.25.part1">LAURA</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg377.2.25.1.part1" dr:fixed-stage="true">bei Seite.</stage>
-                                    </stage>
+                                    
+                                       <stage type="aside" rend="italic" xml:id="tg377.2.25.1.part1" dr:fixed-stage="true">bei Seite.</stage>
+                                    
                                     <l xml:id="tg377.2.25.part2"> Was soll ich von ihm denken? – Darf man den Glücklichen nicht wissen, den Sie beneiden?</l>
                                  </sp>
                                  <sp>
@@ -1229,9 +1230,9 @@ Wert seiner Seele, sein Verstand, seine Tugend, und alle die Eigenschaften, die 
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg377.2.28.part1">LAURA</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg377.2.28.1.part1" dr:fixed-stage="true">bei Seite.</stage>
-                                    </stage>
+                                    
+                                       <stage type="aside" rend="italic" xml:id="tg377.2.28.1.part1" dr:fixed-stage="true">bei Seite.</stage>
+                                    
                                     <l xml:id="tg377.2.28.part2"> Hui, daß ihm mein Bruder von Leandern etwas in den Kopf gesetzt hat?</l>
                                  </sp>
                                  <sp>
@@ -1240,9 +1241,9 @@ Wert seiner Seele, sein Verstand, seine Tugend, und alle die Eigenschaften, die 
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg377.2.30.part1">LAURA</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg377.2.30.1.part1" dr:fixed-stage="true">bei Seite.</stage>
-                                    </stage>
+                                    
+                                       <stage type="aside" rend="italic" xml:id="tg377.2.30.1.part1" dr:fixed-stage="true">bei Seite.</stage>
+                                    
                                     <l xml:id="tg377.2.30.part2"> Ja, ja, es ist richtig. Das will ich ihm gedenken. – Mein Herr, –</l>
                                  </sp>
                                  <sp>
@@ -1324,7 +1325,7 @@ Wert seiner Seele, sein Verstand, seine Tugend, und alle die Eigenschaften, die 
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg377.2.51.part1">LAURA.</speaker>
-                                    <p xml:id="tg377.2.51.part2"> Noch mehr? – Ich sehe meinen Vater kommen, ich muß es kurz machen – Daß Sie ein albernes Märchen von einem gewissen Leander sich so leicht für Wahrheit aufbinden lassen, das, das ist die Leichtgläubigkeit, die mich an Ihnen verdrießt – Ich verlasse Sie; folgen Sie mir unvermerkt in das Gartenhaus. – Sie sollen Beweise haben, daß man Sie hintergehen will. – <stage rend="italic" xml:id="tg377.2.51.1.part2" dr:fixed-stage="true">Gehet ab.</stage>
+                                    <p xml:id="tg377.2.51.part2"> Noch mehr? – Ich sehe meinen Vater kommen, ich muß es kurz machen – Daß Sie ein albernes Märchen von einem gewissen Leander sich so leicht für Wahrheit aufbinden lassen, das, das ist die Leichtgläubigkeit, die mich an Ihnen verdrießt – Ich verlasse Sie; folgen Sie mir unvermerkt in das Gartenhaus. – Sie sollen Beweise haben, daß man Sie hintergehen will. – <stage type="exit" rend="italic" xml:id="tg377.2.51.1.part2" dr:fixed-stage="true">Gehet ab.</stage>
                                     </p>
                                     <lb xml:id="tg377.2.52"/>
                                  </sp>
@@ -1344,7 +1345,7 @@ Wert seiner Seele, sein Verstand, seine Tugend, und alle die Eigenschaften, die 
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg378.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg378.2.4">
                                     <hi rend="italic" xml:id="tg378.2.4.1">Wumshäter. Valer. Lelio.</hi>
                                  </stage>
                                  <lb xml:id="tg378.2.5"/>
@@ -1378,7 +1379,7 @@ Aufwartung bestraft, und wenn ich ja einmal einen guten Menschen zur Aufwartung 
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg379.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg379.2.4">
                                     <hi rend="italic" xml:id="tg379.2.4.1">Solbist in einer großen Zipfelperuque und einen Packt Akten unter dem Arme. Die Vorigen.</hi>
                                  </stage>
                                  <lb xml:id="tg379.2.5"/>
@@ -1392,9 +1393,9 @@ Aufwartung bestraft, und wenn ich ja einmal einen guten Menschen zur Aufwartung 
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg379.2.8.part1">VALER</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg379.2.8.1.part1" dr:fixed-stage="true">sachte zum Lelio.</stage>
-                                    </stage>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg379.2.8.1.part1" dr:fixed-stage="true">sachte zum Lelio.</stage>
+                                    
                                     <p xml:id="tg379.2.8.part2"> Lassen Sie ihm ja nicht merken, daß Sie von seinem Anschlage etwas wissen; denn alles sollen bei ihm Geheimnisse sein.</p>
                                  </sp>
                                  <sp>
@@ -1411,9 +1412,9 @@ Aufwartung bestraft, und wenn ich ja einmal einen guten Menschen zur Aufwartung 
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg379.2.12.part1">SOLBIST</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg379.2.12.1.part1" dr:fixed-stage="true">zu dem Lelio, welcher ihn von unten und oben betrachtet.</stage>
-                                    </stage>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg379.2.12.1.part1" dr:fixed-stage="true">zu dem Lelio, welcher ihn von unten und oben betrachtet.</stage>
+                                    
                                     <l xml:id="tg379.2.12.part2"> Nun, was begucken Sie mich da?</l>
                                  </sp>
                                  <sp>
@@ -1467,16 +1468,16 @@ Aufwartung bestraft, und wenn ich ja einmal einen guten Menschen zur Aufwartung 
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg379.2.26.part1">SOLBIST.</speaker>
-                                    <l xml:id="tg379.2.26.part2"> Sie wollen mich also nicht hören? Gut! – – <stage rend="italic" xml:id="tg379.2.26.1.part2" dr:fixed-stage="true">Er will gehen.</stage>
+                                    <l xml:id="tg379.2.26.part2"> Sie wollen mich also nicht hören? Gut! – – <stage type="other" rend="italic" xml:id="tg379.2.26.1.part2" dr:fixed-stage="true">Er will gehen.</stage>
                                     </l>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg379.2.27.part1">LELIO.</speaker>
-                                    <p xml:id="tg379.2.27.part2"> Wir wollen Sie seinem Eigensinne nicht aussetzen, Herr Wumshäter. Bleiben Sie nur, Herr Solbist; wir gehen schon. <stage rend="italic" xml:id="tg379.2.27.1.part2" dr:fixed-stage="true">Sachte zum Valer.</stage> Kommen Sie, Valer; es wird ohnedem bald Zeit sein, daß ich mich umkleide.</p>
+                                    <p xml:id="tg379.2.27.part2"> Wir wollen Sie seinem Eigensinne nicht aussetzen, Herr Wumshäter. Bleiben Sie nur, Herr Solbist; wir gehen schon. <stage type="other" rend="italic" xml:id="tg379.2.27.1.part2" dr:fixed-stage="true">Sachte zum Valer.</stage> Kommen Sie, Valer; es wird ohnedem bald Zeit sein, daß ich mich umkleide.</p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg379.2.28.part1">WUMSHÄTER.</speaker>
-                                    <l xml:id="tg379.2.28.part2"> Nehmen Sie es doch nicht übel!<stage rend="italic" xml:id="tg379.2.28.1.part2" dr:fixed-stage="true"> Valer und Lelio gehen ab.</stage>
+                                    <l xml:id="tg379.2.28.part2"> Nehmen Sie es doch nicht übel!<stage type="exit" rend="italic" xml:id="tg379.2.28.1.part2" dr:fixed-stage="true"> Valer und Lelio gehen ab.</stage>
                                     </l>
                                     <lb xml:id="tg379.2.29"/>
                                  </sp>
@@ -1496,7 +1497,7 @@ Aufwartung bestraft, und wenn ich ja einmal einen guten Menschen zur Aufwartung 
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg380.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg380.2.4">
                                     <hi rend="italic" xml:id="tg380.2.4.1">Wumshäter. Solbist.</hi>
                                  </stage>
                                  <lb xml:id="tg380.2.5"/>
@@ -1523,13 +1524,13 @@ Aufwartung bestraft, und wenn ich ja einmal einen guten Menschen zur Aufwartung 
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg380.2.12.part1">SOLBIST.</speaker>
-                                    <l xml:id="tg380.2.12.part2"> St! Hören Sie doch nur. Herr Leander will – <stage rend="italic" xml:id="tg380.2.12.1.part2" dr:fixed-stage="true">Sachte ins Ohr.</stage> will sich mit Ihnen vergleichen.</l>
+                                    <l xml:id="tg380.2.12.part2"> St! Hören Sie doch nur. Herr Leander will – <stage type="other" rend="italic" xml:id="tg380.2.12.1.part2" dr:fixed-stage="true">Sachte ins Ohr.</stage> will sich mit Ihnen vergleichen.</l>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg380.2.13.part1">WUMSHÄTER</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg380.2.13.1.part1" dr:fixed-stage="true">sehr laut.</stage>
-                                    </stage>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg380.2.13.1.part1" dr:fixed-stage="true">sehr laut.</stage>
+                                    
                                     <l xml:id="tg380.2.13.part2"> Was? will sich mit mir vergleichen?</l>
                                  </sp>
                                  <sp>
@@ -1538,9 +1539,9 @@ Aufwartung bestraft, und wenn ich ja einmal einen guten Menschen zur Aufwartung 
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg380.2.15.part1">WUMSHÄTER</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg380.2.15.1.part1" dr:fixed-stage="true">sehr laut.</stage>
-                                    </stage>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg380.2.15.1.part1" dr:fixed-stage="true">sehr laut.</stage>
+                                    
                                     <p xml:id="tg380.2.15.part2"> Sie mögen selber ein Tölpel sein. Ich mag mich mit ihm nicht vergleichen. Wie viele hundertmal habe ich Ihnen das nicht auf das teuerste versichert?</p>
                                  </sp>
                                  <sp>
@@ -1578,13 +1579,13 @@ Aufwartung bestraft, und wenn ich ja einmal einen guten Menschen zur Aufwartung 
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg380.2.25.part1">SOLBIST.</speaker>
-                                    <p xml:id="tg380.2.25.part2"> Kurz, Leander – will den Prozeß unter der Bedingung hängen lassen, – unter der Bedingung, Herr Wumshäter – <stage rend="italic" xml:id="tg380.2.25.1.part2" dr:fixed-stage="true">Sachte ins Ohr.</stage> daß Sie sein Unglück machen wollen.</p>
+                                    <p xml:id="tg380.2.25.part2"> Kurz, Leander – will den Prozeß unter der Bedingung hängen lassen, – unter der Bedingung, Herr Wumshäter – <stage type="other" rend="italic" xml:id="tg380.2.25.1.part2" dr:fixed-stage="true">Sachte ins Ohr.</stage> daß Sie sein Unglück machen wollen.</p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg380.2.26.part1">WUMSHÄTER</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg380.2.26.1.part1" dr:fixed-stage="true">sehr laut.</stage>
-                                    </stage>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg380.2.26.1.part1" dr:fixed-stage="true">sehr laut.</stage>
+                                    
                                     <l xml:id="tg380.2.26.part2"> Was? daß ich sein Unglück machen will?</l>
                                  </sp>
                                  <sp>
@@ -1605,9 +1606,9 @@ Aufwartung bestraft, und wenn ich ja einmal einen guten Menschen zur Aufwartung 
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg380.2.31.part1">SOLBIST</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg380.2.31.1.part1" dr:fixed-stage="true">er legt die Akten weg; bringt eine große Halskrause aus der Tasche, die er sich umbindet; zieht ein Paar weiße Handschuh an, tritt einige Schritte zurück, und fängt auf eine pedantische Art zu perorieren an.</stage>
-                                    </stage>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg380.2.31.1.part1" dr:fixed-stage="true">er legt die Akten weg; bringt eine große Halskrause aus der Tasche, die er sich umbindet; zieht ein Paar weiße Handschuh an, tritt einige Schritte zurück, und fängt auf eine pedantische Art zu perorieren an.</stage>
+                                    
                                     <p xml:id="tg380.2.31.part2"> »Hochedelgeborner, insonders hochzuehrender Herr und Gönner! Als Gott den Adam erschaffen, und in das schöne Paradies gesetzt hatte – Beiläufig will ich erinnern, daß man bis jetzo noch nicht weiß, wo eigentlich das Paradies gewesen ist. Die Gelehrten streiten sehr heftig darüber. Doch es sei gewesen, wo es wolle. – Als nun Gott den Adam in dieses uns unbewußte Paradies gesetzt hatte –«</p>
                                  </sp>
                                  <sp>
@@ -1633,7 +1634,7 @@ gesetzt worden. So war er in diesem Paradiese.« – – Ei, vertrackt, wenn ich
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg380.2.37.part1">SOLBIST.</speaker>
-                                    <p xml:id="tg380.2.37.part2"> Ich wollte lieber, daß Sie mir eine Ohrfeige gegeben hätten, als daß Sie mich aus meinem Konzepte gebracht haben. Ich muß nur sehen, ob ich wieder hinein kommen kann. <stage rend="italic" xml:id="tg380.2.37.1.part2" dr:fixed-stage="true">Ganz geschwind.</stage> »Hochedelgeborner, insonders hochzuehrender Herr und Gönner! Als Gott den Adam erschaffen, und in das schöne Paradies gesetzt hatte« – – Hochedelgeborner, insonders hochzuehrender Herr und Gönner! Als Gott den Adam erschaffen, und in das schöne Paradies gesetzt hatte – – Nein, es geht wirklich nicht weiter; es ist, als wenn mirs vom Maule weggeschnitten wäre. Nun mags; der größte Schade dabei ist Ihre.</p>
+                                    <p xml:id="tg380.2.37.part2"> Ich wollte lieber, daß Sie mir eine Ohrfeige gegeben hätten, als daß Sie mich aus meinem Konzepte gebracht haben. Ich muß nur sehen, ob ich wieder hinein kommen kann. <stage type="other" rend="italic" xml:id="tg380.2.37.1.part2" dr:fixed-stage="true">Ganz geschwind.</stage> »Hochedelgeborner, insonders hochzuehrender Herr und Gönner! Als Gott den Adam erschaffen, und in das schöne Paradies gesetzt hatte« – – Hochedelgeborner, insonders hochzuehrender Herr und Gönner! Als Gott den Adam erschaffen, und in das schöne Paradies gesetzt hatte – – Nein, es geht wirklich nicht weiter; es ist, als wenn mirs vom Maule weggeschnitten wäre. Nun mags; der größte Schade dabei ist Ihre.</p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg380.2.38.part1">WUMSHÄTER.</speaker>
@@ -1772,7 +1773,7 @@ gewinne, so muß ich die deponierten sechstausend Taler ausgezahlt bekommen.</p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg380.2.73.part1">SOLBIST.</speaker>
-                                    <p xml:id="tg380.2.73.part2"> Gehen Sie nur. Ich muß meine Spitzenkrause vorher wieder abbinden, und die glaßierten Handschuh einstecken. Sagen Sie es aber ja niemanden, daß ich der Brautwerber gewesen bin!<stage rend="italic" xml:id="tg380.2.73.1.part2" dr:fixed-stage="true"> Wumshäter gehet ab.</stage> Es möchte sich zu meinem Amte nicht allzuwohl schicken; weswegen ich denn auch ganz weislich in dem völligen Ornate nicht herkommen wollte. Wie leicht hätte man mir es ansehen können, daß ich mir einen Kuppelpelz verdienen wollen. Geschwind, es kommt jemand! – –</p>
+                                    <p xml:id="tg380.2.73.part2"> Gehen Sie nur. Ich muß meine Spitzenkrause vorher wieder abbinden, und die glaßierten Handschuh einstecken. Sagen Sie es aber ja niemanden, daß ich der Brautwerber gewesen bin!<stage type="exit" rend="italic" xml:id="tg380.2.73.1.part2" dr:fixed-stage="true"> Wumshäter gehet ab.</stage> Es möchte sich zu meinem Amte nicht allzuwohl schicken; weswegen ich denn auch ganz weislich in dem völligen Ornate nicht herkommen wollte. Wie leicht hätte man mir es ansehen können, daß ich mir einen Kuppelpelz verdienen wollen. Geschwind, es kommt jemand! – –</p>
                                     <lb xml:id="tg380.2.74"/>
                                  </sp>
                               </div>
@@ -1791,15 +1792,15 @@ gewinne, so muß ich die deponierten sechstausend Taler ausgezahlt bekommen.</p>
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg381.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg381.2.4">
                                     <hi rend="italic" xml:id="tg381.2.4.1">Lisette. Solbist.</hi>
                                  </stage>
                                  <lb xml:id="tg381.2.5"/>
                                  <sp>
                                     <speaker xml:id="tg381.2.6.part1">SOLBIST</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg381.2.6.1.part1" dr:fixed-stage="true">indem er sich noch die Krause abbindet.</stage>
-                                    </stage>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg381.2.6.1.part1" dr:fixed-stage="true">indem er sich noch die Krause abbindet.</stage>
+                                    
                                     <l xml:id="tg381.2.6.part2"> Ist Sies, Lisettchen? Nun, nun, Sie darf es endlich wissen, was ich hier gemacht habe.</l>
                                  </sp>
                                  <sp>
@@ -1817,7 +1818,7 @@ mich einmal abgebe. Hätte man mich fein eher zu Rate gezogen, so könnte Laura 
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg381.2.10.part1">SOLBIST.</speaker>
-                                    <p xml:id="tg381.2.10.part2"> Mache Sie mich nicht schamrot. Freilich würde Herr Wumshäter Leandern abgewiesen haben, wenn man den Antrag für ihn auf irgend eine andere Art getan hätte. Aber es war doch auch so schwer nicht, diese einzige Art zu finden; besonders für einen Mann von Erfahrung, wie ich – – Denn im Vertrauen, Lisettchen, <stage rend="italic" xml:id="tg381.2.10.1.part2" dr:fixed-stage="true">Ins Ohr.</stage> glaubt Sie, daß dieses das erste Paar ist, das ich zusammen bringe?</p>
+                                    <p xml:id="tg381.2.10.part2"> Mache Sie mich nicht schamrot. Freilich würde Herr Wumshäter Leandern abgewiesen haben, wenn man den Antrag für ihn auf irgend eine andere Art getan hätte. Aber es war doch auch so schwer nicht, diese einzige Art zu finden; besonders für einen Mann von Erfahrung, wie ich – – Denn im Vertrauen, Lisettchen, <stage type="other" rend="italic" xml:id="tg381.2.10.1.part2" dr:fixed-stage="true">Ins Ohr.</stage> glaubt Sie, daß dieses das erste Paar ist, das ich zusammen bringe?</p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg381.2.11.part1">LISETTE.</speaker>
@@ -1850,14 +1851,14 @@ was die Ehesachen anbelangt, geschieht so in der Stille, daß sie mir es nur ins
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg381.2.18.part1">SOLBIST.</speaker>
-                                    <l xml:id="tg381.2.18.part2"> Aber nur verschwiegen! verschwiegen!<stage rend="italic" xml:id="tg381.2.18.1.part2" dr:fixed-stage="true"> Geht ab.</stage>
+                                    <l xml:id="tg381.2.18.part2"> Aber nur verschwiegen! verschwiegen!<stage type="exit" rend="italic" xml:id="tg381.2.18.1.part2" dr:fixed-stage="true"> Geht ab.</stage>
                                     </l>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg381.2.19.part1">LISETTE</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg381.2.19.1.part1" dr:fixed-stage="true">allein.</stage>
-                                    </stage>
+                                    
+                                       <stage type="aside" rend="italic" xml:id="tg381.2.19.1.part1" dr:fixed-stage="true">allein.</stage>
+                                    
                                     <p xml:id="tg381.2.19.part2"> Das laßt mir einen rechtschaffenen Advokaten sein! Wenn es mit seiner List nur nicht zu spät ist! Laura ist mir seit einigen Tagen sehr verändert gegen Leandern vorgekommen. Ich fürchte, ich fürchte, Valer hat seinen künftigen Schwager zur Unzeit mitgebracht!</p>
                                     <pb n="457" xml:id="tg381.2.20"/>
                                     <lb xml:id="tg381.2.21"/>
@@ -1878,7 +1879,7 @@ was die Ehesachen anbelangt, geschieht so in der Stille, daß sie mir es nur ins
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg382.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg382.2.4">
                                     <hi rend="italic" xml:id="tg382.2.4.1">Wumshäter. Lisette.</hi>
                                  </stage>
                                  <lb xml:id="tg382.2.5"/>
@@ -1928,9 +1929,9 @@ was die Ehesachen anbelangt, geschieht so in der Stille, daß sie mir es nur ins
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg382.2.17.part1">LISETTE</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg382.2.17.1.part1" dr:fixed-stage="true">allein.</stage>
-                                    </stage>
+                                    
+                                       <stage type="aside" rend="italic" xml:id="tg382.2.17.1.part1" dr:fixed-stage="true">allein.</stage>
+                                    
                                     <p xml:id="tg382.2.17.part2"> Nun gewiß, wenn ich einmal so einen Narrn zum Manne bekommen sollte, ich glaube, ich würde in meinem Alter eine eben so große Männerfeindin, als er ein Weiberfeind ist. Aber, wohl gemerkt, nicht eher als in meinem Alter!</p>
                                     <lb xml:id="tg382.2.18"/>
                                     
@@ -1963,7 +1964,7 @@ was die Ehesachen anbelangt, geschieht so in der Stille, daß sie mir es nur ins
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg384.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg384.2.4">
                                     <hi rend="italic" xml:id="tg384.2.4.1">Lisette von der einen, und Laura von der andern Seite.</hi>
                                  </stage>
                                  <lb xml:id="tg384.2.5"/>
@@ -1993,9 +1994,9 @@ was die Ehesachen anbelangt, geschieht so in der Stille, daß sie mir es nur ins
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg384.2.12.part1">LISETTE</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg384.2.12.1.part1" dr:fixed-stage="true">macht eine tiefe Verbeugung.</stage>
-                                    </stage>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg384.2.12.1.part1" dr:fixed-stage="true">macht eine tiefe Verbeugung.</stage>
+                                    
                                     <l xml:id="tg384.2.12.part2"> Sie erzeigen mir zu viel Ehre, mich mit Ihrem Herzen zu vermengen.</l>
                                  </sp>
                                  <sp>
@@ -2049,7 +2050,7 @@ was die Ehesachen anbelangt, geschieht so in der Stille, daß sie mir es nur ins
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg385.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg385.2.4">
                                     <hi rend="italic" xml:id="tg385.2.4.1">Wumshäter. Die Vorigen.</hi>
                                  </stage>
                                  <lb xml:id="tg385.2.5"/>
@@ -2075,9 +2076,9 @@ was die Ehesachen anbelangt, geschieht so in der Stille, daß sie mir es nur ins
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg385.2.11.part1">LISETTE</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg385.2.11.1.part1" dr:fixed-stage="true">fährt auf ihn los.</stage>
-                                    </stage>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg385.2.11.1.part1" dr:fixed-stage="true">fährt auf ihn los.</stage>
+                                    
                                     <p xml:id="tg385.2.11.part2"> Nein, mein Herr, das ist zu toll! Ihre Jungfer Tochter hat zwar Unrecht, daß sie den Mann von Ihrer Hand nicht annehmen will, aber müssen Sie deswegen das ganze Geschlecht lästern?</p>
                                  </sp>
                                  <sp>
@@ -2102,7 +2103,7 @@ was die Ehesachen anbelangt, geschieht so in der Stille, daß sie mir es nur ins
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg386.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg386.2.4">
                                     <hi rend="italic" xml:id="tg386.2.4.1">Valer. Die Vorigen.</hi>
                                  </stage>
                                  <lb xml:id="tg386.2.5"/>
@@ -2139,7 +2140,7 @@ was die Ehesachen anbelangt, geschieht so in der Stille, daß sie mir es nur ins
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg387.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg387.2.4">
                                     <hi rend="italic" xml:id="tg387.2.4.1">Lelio in ihrer wahren Gestalt als Hilaria. Die Vorigen.</hi>
                                  </stage>
                                  <lb xml:id="tg387.2.5"/>
@@ -2149,7 +2150,7 @@ was die Ehesachen anbelangt, geschieht so in der Stille, daß sie mir es nur ins
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg387.2.7.part1">LELIO.</speaker>
-                                    <p xml:id="tg387.2.7.part2"> Erlauben Sie, Valer, daß ich vor jetzt Ihre Schmeichelei unbeantwortet lasse, und vor allen Dingen demjenigen <stage rend="italic" xml:id="tg387.2.7.1.part2" dr:fixed-stage="true">Gegen Wumshätern.</stage> meine Ehrerbietigkeit bezeuge, der es mir so gütig erlauben will, ihn als einen Vater zu lieben.</p>
+                                    <p xml:id="tg387.2.7.part2"> Erlauben Sie, Valer, daß ich vor jetzt Ihre Schmeichelei unbeantwortet lasse, und vor allen Dingen demjenigen <stage type="other" rend="italic" xml:id="tg387.2.7.1.part2" dr:fixed-stage="true">Gegen Wumshätern.</stage> meine Ehrerbietigkeit bezeuge, der es mir so gütig erlauben will, ihn als einen Vater zu lieben.</p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg387.2.8.part1">WUMSHÄTER.</speaker>
@@ -2166,16 +2167,16 @@ Ihnen gleich Anfangs sagen, daß Sie ein wenig zu geschwind gehen. Ich werde von
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg387.2.11.part1">VALER</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg387.2.11.1.part1" dr:fixed-stage="true">indem er die Hilaria der Laura zuführt.</stage>
-                                    </stage>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg387.2.11.1.part1" dr:fixed-stage="true">indem er die Hilaria der Laura zuführt.</stage>
+                                    
                                     <l xml:id="tg387.2.11.part2"> Lassen Sie sich, Hilaria, von einer Schwester umarmen, die ihre Freude nicht mehr mäßigen kann.</l>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg387.2.12.part1">LELIO</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg387.2.12.1.part1" dr:fixed-stage="true">indem sie sich umarmen.</stage>
-                                    </stage>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg387.2.12.1.part1" dr:fixed-stage="true">indem sie sich umarmen.</stage>
+                                    
                                     <l xml:id="tg387.2.12.part2"> Ich bin so frei, schönste Laura, um Ihre Freundschaft zu bitten. –</l>
                                  </sp>
                                  <sp>
@@ -2258,7 +2259,7 @@ der von dem Körper des Bruders so gar sehr unterschieden ist, auch eine ganz ve
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg387.2.32.part1">WUMSHÄTER.</speaker>
-                                    <l xml:id="tg387.2.32.part2"> Spare dein Widersprechen für deinen Mann. <stage rend="italic" xml:id="tg387.2.32.1.part2" dr:fixed-stage="true">Geht ab.</stage>
+                                    <l xml:id="tg387.2.32.part2"> Spare dein Widersprechen für deinen Mann. <stage type="exit" rend="italic" xml:id="tg387.2.32.1.part2" dr:fixed-stage="true">Geht ab.</stage>
                                     </l>
                                     <lb xml:id="tg387.2.33"/>
                                  </sp>
@@ -2278,7 +2279,7 @@ der von dem Körper des Bruders so gar sehr unterschieden ist, auch eine ganz ve
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg388.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg388.2.4">
                                     <hi rend="italic" xml:id="tg388.2.4.1">Lelio. Valer. Laura. Lisette.</hi>
                                  </stage>
                                  <lb xml:id="tg388.2.5"/>
@@ -2308,7 +2309,7 @@ halten wissen, so wird er aus dem Garne sein, ehe Sie sich es versehen. Er ist r
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg389.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg389.2.4">
                                     <hi rend="italic" xml:id="tg389.2.4.1">Laura. Lisette.</hi>
                                  </stage>
                                  <lb xml:id="tg389.2.5"/>
@@ -2370,7 +2371,7 @@ einen Liebhaber, der Ihnen gewiß ist; kehren Sie sich an den Schatten von einem
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg390.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg390.2.4">
                                     <hi rend="italic" xml:id="tg390.2.4.1">Wumshäter. Leander. Die Vorigen.</hi>
                                  </stage>
                                  <lb xml:id="tg390.2.5"/>
@@ -2392,9 +2393,9 @@ einen Liebhaber, der Ihnen gewiß ist; kehren Sie sich an den Schatten von einem
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg390.2.10.part1">LISETTE</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg390.2.10.1.part1" dr:fixed-stage="true">bei Seite.</stage>
-                                    </stage>
+                                    
+                                       <stage type="aside" rend="italic" xml:id="tg390.2.10.1.part1" dr:fixed-stage="true">bei Seite.</stage>
+                                    
                                     <l xml:id="tg390.2.10.part2"> Als wenn er es auch nicht getan hätte! Schon recht! Verstellen müssen wir uns.</l>
                                  </sp>
                                  <sp>
@@ -2435,7 +2436,7 @@ einen Liebhaber, der Ihnen gewiß ist; kehren Sie sich an den Schatten von einem
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg391.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg391.2.4">
                                     <hi rend="italic" xml:id="tg391.2.4.1">Valer. Die Vorigen.</hi>
                                  </stage>
                                  <lb xml:id="tg391.2.5"/>
@@ -2478,7 +2479,7 @@ würde man sagen, wenn man erführe, daß ein eingewurzelter Groll gegen ein Ges
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg391.2.15.part1">VALER.</speaker>
-                                    <p xml:id="tg391.2.15.part2"> Ich bin es zufrieden, Herr Vater. Lisette, springe geschwind auf die Stube des Herrn Lelio. Du wirst sie beide beisammen antreffen. Bitte sie, sich hieher zu bemühen. <stage rend="italic" xml:id="tg391.2.15.1.part2" dr:fixed-stage="true">Lisette geht ab.</stage>
+                                    <p xml:id="tg391.2.15.part2"> Ich bin es zufrieden, Herr Vater. Lisette, springe geschwind auf die Stube des Herrn Lelio. Du wirst sie beide beisammen antreffen. Bitte sie, sich hieher zu bemühen. <stage type="exit" rend="italic" xml:id="tg391.2.15.1.part2" dr:fixed-stage="true">Lisette geht ab.</stage>
                                     </p>
                                  </sp>
                                  <sp>
@@ -2487,23 +2488,23 @@ würde man sagen, wenn man erführe, daß ein eingewurzelter Groll gegen ein Ges
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg391.2.17.part1">LEANDER</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg391.2.17.1.part1" dr:fixed-stage="true">sachte zu Valeren.</stage>
-                                    </stage>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg391.2.17.1.part1" dr:fixed-stage="true">sachte zu Valeren.</stage>
+                                    
                                     <l xml:id="tg391.2.17.part2"> Möchte Ihre List doch eben so glücklich ausfallen, als die meinige ausgefallen ist!</l>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg391.2.18.part1">VALER</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg391.2.18.1.part1" dr:fixed-stage="true">sachte zu Leandern.</stage>
-                                    </stage>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg391.2.18.1.part1" dr:fixed-stage="true">sachte zu Leandern.</stage>
+                                    
                                     <l xml:id="tg391.2.18.part2"> Ich hoffe es, liebster Freund, und danke Ihnen.</l>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg391.2.19.part1">WUMSHÄTER</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg391.2.19.1.part1" dr:fixed-stage="true">der Leandern und Valeren zusammen reden sieht.</stage>
-                                    </stage>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg391.2.19.1.part1" dr:fixed-stage="true">der Leandern und Valeren zusammen reden sieht.</stage>
+                                    
                                     <p xml:id="tg391.2.19.part2"> Ja, das gilt nicht; bereden müßt ihr euch nicht vorher zusammen. Ich hoffe, Herr Leander, daß die erste Probe Ihrer Aufrichtigkeit, die ich von Ihnen verlange –</p>
                                  </sp>
                                  <sp>
@@ -2556,15 +2557,15 @@ würde man sagen, wenn man erführe, daß ein eingewurzelter Groll gegen ein Ges
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg392.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg392.2.4">
                                     <hi rend="italic" xml:id="tg392.2.4.1">Lelio oder Hilaria. Lisette. Wumshäter. Valer. Laura. Leander.</hi>
                                  </stage>
                                  <lb xml:id="tg392.2.5"/>
                                  <sp>
                                     <speaker xml:id="tg392.2.6.part1">LELIO</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg392.2.6.1.part1" dr:fixed-stage="true">in einer halb männlichen und halb weiblichen Kleidung, welche von dem Geschmacke der Schauspielerin abhängen wird.</stage>
-                                    </stage>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg392.2.6.1.part1" dr:fixed-stage="true">in einer halb männlichen und halb weiblichen Kleidung, welche von dem Geschmacke der Schauspielerin abhängen wird.</stage>
+                                    
                                     <l xml:id="tg392.2.6.part2"> Mein Herr, Sie haben den Lelio und die Hilaria beide zugleich zu sehen verlangt.</l>
                                  </sp>
                                  <sp>
@@ -2589,9 +2590,9 @@ würde man sagen, wenn man erführe, daß ein eingewurzelter Groll gegen ein Ges
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg392.2.12.part1">LISETTE</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg392.2.12.1.part1" dr:fixed-stage="true">sachte zur Laura.</stage>
-                                    </stage>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg392.2.12.1.part1" dr:fixed-stage="true">sachte zur Laura.</stage>
+                                    
                                     <l xml:id="tg392.2.12.part2"> Hatte ich nicht Recht? Mamsell? Sie stutzen?</l>
                                  </sp>
                                  <sp>
@@ -2621,11 +2622,11 @@ würde man sagen, wenn man erführe, daß ein eingewurzelter Groll gegen ein Ges
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg392.2.20.part1">VALER.</speaker>
-                                    <p xml:id="tg392.2.20.part2"> Kurz, liebster Vater, <stage rend="italic" xml:id="tg392.2.20.1.part2" dr:fixed-stage="true">Indem er ihm zu Fuße fällt.</stage> verzeihen Sie meiner unschuldigen List. Lelio ist Hilaria, und Hilaria hatte die Liebe, mir nur deswegen in Mannskleidern hieher zu folgen, damit sie Gelegenheit haben könnte, die Gewogenheit eines Mannes zu erlangen, von welchem sie es wußte, wie unerbittlich er gegen ihr Geschlecht sei.</p>
+                                    <p xml:id="tg392.2.20.part2"> Kurz, liebster Vater, <stage type="other" rend="italic" xml:id="tg392.2.20.1.part2" dr:fixed-stage="true">Indem er ihm zu Fuße fällt.</stage> verzeihen Sie meiner unschuldigen List. Lelio ist Hilaria, und Hilaria hatte die Liebe, mir nur deswegen in Mannskleidern hieher zu folgen, damit sie Gelegenheit haben könnte, die Gewogenheit eines Mannes zu erlangen, von welchem sie es wußte, wie unerbittlich er gegen ihr Geschlecht sei.</p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg392.2.21.part1">WUMSHÄTER.</speaker>
-                                    <p xml:id="tg392.2.21.part2"> Steh auf, mein Sohn, steh auf, und mache der Possen einmal ein Ende. Ich sehe nun wohl, wie es ist. Deine Hilaria ist gar nicht da, und der leichtfertige Lelio hat mit seinem Jungfergesichtchen ihre Rolle gespielt. Pfui, Lelio – <stage rend="italic" xml:id="tg392.2.21.1.part2" dr:fixed-stage="true">Indem er auf ihn los geht.</stage> Nein, nein, so leicht hintergeht man mich nicht. Legen Sie immer diesen zweiten Habit wieder ab, mein Guter – <stage rend="italic" xml:id="tg392.2.21.2.part2" dr:fixed-stage="true">Indem er sie auf die Achsel klopfen will.</stage> Himmel, was seh ich? O weh, meine arme Augen! Wo geraten die hin. Es ist ein Weibsbild! Es ist wirklich ein Weibsbild! Und das listigste, das verschlagenste, das gefährlichste vielleicht von allen, die in der Welt sind. Ich bin betrogen! Ich bin verraten! Mein Sohn, mein Sohn, wie hast du das tun können!</p>
+                                    <p xml:id="tg392.2.21.part2"> Steh auf, mein Sohn, steh auf, und mache der Possen einmal ein Ende. Ich sehe nun wohl, wie es ist. Deine Hilaria ist gar nicht da, und der leichtfertige Lelio hat mit seinem Jungfergesichtchen ihre Rolle gespielt. Pfui, Lelio – <stage type="other" rend="italic" xml:id="tg392.2.21.1.part2" dr:fixed-stage="true">Indem er auf ihn los geht.</stage> Nein, nein, so leicht hintergeht man mich nicht. Legen Sie immer diesen zweiten Habit wieder ab, mein Guter – <stage type="other" rend="italic" xml:id="tg392.2.21.2.part2" dr:fixed-stage="true">Indem er sie auf die Achsel klopfen will.</stage> Himmel, was seh ich? O weh, meine arme Augen! Wo geraten die hin. Es ist ein Weibsbild! Es ist wirklich ein Weibsbild! Und das listigste, das verschlagenste, das gefährlichste vielleicht von allen, die in der Welt sind. Ich bin betrogen! Ich bin verraten! Mein Sohn, mein Sohn, wie hast du das tun können!</p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg392.2.22.part1">VALER.</speaker>
@@ -2662,15 +2663,15 @@ kein Augenzeuge von deiner Torheit sein darf. Mache nur, daß mir meine Tochter 
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg392.2.30.part1">LAURA.</speaker>
-                                    <p xml:id="tg392.2.30.part2"> Sorgen Sie nicht, Herr Vater, ich will Ihnen nicht einen zweiten Verdruß machen. Ich gebe Herr Leandern meine Hand, und würde sie ihm gegeben haben, wenn Lelio auch nicht Hilaria wäre. <stage rend="italic" xml:id="tg392.2.30.1.part2" dr:fixed-stage="true">Gegen die Hilaria.</stage> Dieses Ihnen zur Nachricht, wegen der triumphierenden Miene!</p>
+                                    <p xml:id="tg392.2.30.part2"> Sorgen Sie nicht, Herr Vater, ich will Ihnen nicht einen zweiten Verdruß machen. Ich gebe Herr Leandern meine Hand, und würde sie ihm gegeben haben, wenn Lelio auch nicht Hilaria wäre. <stage type="other" rend="italic" xml:id="tg392.2.30.1.part2" dr:fixed-stage="true">Gegen die Hilaria.</stage> Dieses Ihnen zur Nachricht, wegen der triumphierenden Miene!</p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg392.2.31.part1">LELIO.</speaker>
-                                    <p xml:id="tg392.2.31.part2"> Sind Sie ungehalten gegen mich, liebste Laura? <stage rend="italic" xml:id="tg392.2.31.1.part2" dr:fixed-stage="true">Zu Leandern.</stage> Wie haben Sie es ewig angefangen, mein Herr, daß Sie ein solches Felsenherz zur Liebe haben bewegen können? Wenn Sie wüßten, was für Angriffe ich auf dasselbe in meiner Verkleidung gewagt, und wie standhaft es gleichwohl –</p>
+                                    <p xml:id="tg392.2.31.part2"> Sind Sie ungehalten gegen mich, liebste Laura? <stage type="other" rend="italic" xml:id="tg392.2.31.1.part2" dr:fixed-stage="true">Zu Leandern.</stage> Wie haben Sie es ewig angefangen, mein Herr, daß Sie ein solches Felsenherz zur Liebe haben bewegen können? Wenn Sie wüßten, was für Angriffe ich auf dasselbe in meiner Verkleidung gewagt, und wie standhaft es gleichwohl –</p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg392.2.32.part1">LAURA.</speaker>
-                                    <p xml:id="tg392.2.32.part2"> Stille Hilaria, oder ich werde noch ungehalten. <stage rend="italic" xml:id="tg392.2.32.1.part2" dr:fixed-stage="true">Zu Leandern, welcher der Hilaria antworten will.</stage> Antworten Sie ihr nicht, Leander, ich verspreche Ihnen, daß Sie nie einen gefährlichem Nebenbuhler haben sollen, als Lelio war.</p>
+                                    <p xml:id="tg392.2.32.part2"> Stille Hilaria, oder ich werde noch ungehalten. <stage type="other" rend="italic" xml:id="tg392.2.32.1.part2" dr:fixed-stage="true">Zu Leandern, welcher der Hilaria antworten will.</stage> Antworten Sie ihr nicht, Leander, ich verspreche Ihnen, daß Sie nie einen gefährlichem Nebenbuhler haben sollen, als Lelio war.</p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg392.2.33.part1">LEANDER.</speaker>
@@ -2686,7 +2687,7 @@ kein Augenzeuge von deiner Torheit sein darf. Mache nur, daß mir meine Tochter 
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg392.2.36.part1">LISETTE.</speaker>
-                                    <p xml:id="tg392.2.36.part2"> Freilich anders; besonders wenn mehr Stimmen dazu kommen – <stage rend="italic" xml:id="tg392.2.36.1.part2" dr:fixed-stage="true">Gegen die Zuschauer.</stage> Lachen Sie doch, meine Herren, diese Komödie schließt sich wie ein Hochzeitkarmen!</p>
+                                    <p xml:id="tg392.2.36.part2"> Freilich anders; besonders wenn mehr Stimmen dazu kommen – <stage type="aside" rend="italic" xml:id="tg392.2.36.1.part2" dr:fixed-stage="true">Gegen die Zuschauer.</stage> Lachen Sie doch, meine Herren, diese Komödie schließt sich wie ein Hochzeitkarmen!</p>
                                     <lb xml:id="tg392.2.37"/>
                                     
                                     <p rend="zenoPC" xml:id="tg392.2.39">Ende des Misogyn.</p>

@@ -122,7 +122,23 @@ class Drama:
 			res = f.attrib["{http://www.w3.org/XML/1998/namespace}id"]
 			result.append(res)
 		return result
-	
+        #get all stage / dr:stage values and the sort them by type in array.
+        def get_stage_all(self):
+            collection = {"enter":[],"exit":[],"dead":[],"other":[],"aside":[]}
+            modes = ["enter","exit","dead","other","aside"]
+            fDs = self.root.findall(".//"+self.prefix+"stage")
+            for f in fDs:
+                #check if the stage has type attribute
+                if ("type" in f.attrib):
+                    if(f.attrib["type"] in modes):
+                        collection[f.attrib["type"]].append(f.text)
+                else:
+                    for c in f:
+                        if("type" in c.attrib):
+                            if(c.attrib["type"] in modes):
+                                collection[c.attrib["type"]].append(f.text)
+            return collection
+
 	#get an element from the given id
 	def get_content_by_id(self,ident):
 		fDs = self.root.findall(".//*[@{http://www.w3.org/XML/1998/namespace}id='"+ident+"']")

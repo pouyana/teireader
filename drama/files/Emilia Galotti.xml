@@ -1,4 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xmlns:dr="http://www.germanistik.uni-wuerzburg.de/lehrstuehle/computerphilologie/dramenanalyse" xml:id="tg604" n="/Literatur/M/Lessing, Gotthold Ephraim/Dramen/Emilia Galotti">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 tei_digibibDrama.rnc"
+ xmlns="http://www.tei-c.org/ns/1.0"
+ xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010"
+ xmlns:tei="http://www.tei-c.org/ns/1.0"
+ xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010"
+ xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010"
+ xmlns:jxb="http://java.sun.com/xml/ns/jaxb"
+ xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010"
+ xmlns:dr="http://www.germanistik.uni-wuerzburg.de/lehrstuehle/computerphilologie/dramenanalyse"
+ xml:id="tg604"
+ n="/Literatur/M/Lessing, Gotthold Ephraim/Dramen/Emilia Galotti">
             <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors" n="work:yes">
                <fileDesc>
                   <titleStmt>
@@ -143,7 +154,7 @@
 
                                  <sp>
                                     <speaker xml:id="tg607.2.2.part1">DER PRINZ</speaker> 
-                                    <stage>
+                                    <stage type="enter">
                                        <stage rend="italic" xml:id="tg607.2.2.1.part1" dr:fixed-stage="true">an einem Arbeitstische, voller Briefschaften und Papiere, deren einige er durchläuft.</stage>
                                     </stage>
                                     <p xml:id="tg607.2.2.part2"> Klagen, nichts als Klagen! Bittschriften, nichts als Bittschriften! – Die traurigen Geschäfte; und man beneidet uns noch! – Das glaub' ich; wenn wir allen helfen könnten: dann wären wir zu beneiden. – Emilia? <stage rend="italic" xml:id="tg607.2.2.2.part2" dr:fixed-stage="true">Indem er noch eine von den Bittschriften aufschlägt, und nach dem unterschriebnen Namen sieht.</stage> Eine Emilia? – Aber eine Emilia Bruneschi – nicht Galotti. Nicht Emilia Galotti! – Was will sie, diese Emilia Bruneschi? <stage rend="italic" xml:id="tg607.2.2.3.part2" dr:fixed-stage="true">Er lieset.</stage> Viel gefodert; sehr viel. – Doch sie heißt Emilia. Gewährt! <stage rend="italic" xml:id="tg607.2.2.4.part2" dr:fixed-stage="true">Er unterschreibt und klingelt; worauf ein Kammerdiener hereintritt.</stage> Es ist wohl noch keiner von den Räten in dem Vorzimmer?</p>
@@ -158,7 +169,7 @@
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg607.2.5.part1">DER KAMMERDIENER</speaker> 
-                                    <stage>
+                                    <stage type="enter">
                                        <stage rend="italic" xml:id="tg607.2.5.1.part1" dr:fixed-stage="true">welcher wieder herein tritt.</stage>
                                     </stage>
                                     <l xml:id="tg607.2.5.part2"> Nach dem Marchese ist geschickt. Und hier, ein Brief von der Gräfin Orsina.</l>
@@ -186,7 +197,7 @@
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg607.2.12.part1">DER KAMMERDIENER</speaker> 
-                                    <stage>
+                                    <stage type="enter">
                                        <stage rend="italic" xml:id="tg607.2.12.1.part1" dr:fixed-stage="true">der nochmals herein tritt.</stage>
                                     </stage>
                                     <l xml:id="tg607.2.12.part2"> Der Maler Conti will die Gnade haben – –</l>
@@ -308,14 +319,14 @@ Die Gräfin hat, seit drei Monaten, gerade Einmal sich entschließen können, zu
                                  <lb xml:id="tg610.2.5"/>
                                  <sp>
                                     <speaker xml:id="tg610.2.6.part1">CONTI</speaker> 
-                                    <stage>
+                                    <stage type="other">
                                        <stage rend="italic" xml:id="tg610.2.6.1.part1" dr:fixed-stage="true">indem er das andere zurecht stellet.</stage>
                                     </stage>
                                     <p xml:id="tg610.2.6.part2"> Ich bitte, Prinz, daß Sie die Schranken unserer Kunst erwägen wollen. Vieles von dem Anzüglichsten der Schönheit liegt ganz außer den Grenzen derselben. – Treten Sie so! –</p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg610.2.7.part1">DER PRINZ</speaker> 
-                                    <stage>
+                                    <stage type="other">
                                        <stage rend="italic" xml:id="tg610.2.7.1.part1" dr:fixed-stage="true">nach einer kurzen Betrachtung.</stage>
                                     </stage>
                                     <p xml:id="tg610.2.7.part2"> Vortrefflich, Conti; – ganz vortrefflich! – Das gilt Ihrer Kunst, Ihrem Pinsel. – Aber geschmeichelt, Conti; ganz unendlich geschmeichelt!</p>
@@ -363,7 +374,7 @@ Natur, – wenn es eine gibt – das Bild dachte: ohne den Abfall, welchen der w
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg610.2.18.part1">CONTI</speaker> 
-                                    <stage>
+                                    <stage type="other">
                                        <stage rend="italic" xml:id="tg610.2.18.1.part1" dr:fixed-stage="true">etwas ärgerlich.</stage>
                                     </stage>
                                     <p xml:id="tg610.2.18.part2"> Ah, mein Prinz, – wir Maler rechnen darauf, daß das fertige Bild den Liebhaber noch eben so warm <pb n="132" xml:id="tg610.2.18.2.part2"/>
@@ -375,7 +386,7 @@ findet, als warm er es bestellte. Wir malen mit Augen der Liebe: und Augen der L
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg610.2.20.part1">CONTI</speaker> 
-                                    <stage>
+                                    <stage type="other">
                                        <stage rend="italic" xml:id="tg610.2.20.1.part1" dr:fixed-stage="true">indem er es holt, und noch verkehrt in der Hand hält.</stage>
                                     </stage>
                                     <l xml:id="tg610.2.20.part2"> Auch ein weibliches Porträt.</l>
@@ -398,7 +409,7 @@ findet, als warm er es bestellte. Wir malen mit Augen der Liebe: und Augen der L
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg610.2.25.part1">DER PRINZ</speaker> 
-                                    <stage>
+                                    <stage type="other">
                                        <stage rend="italic" xml:id="tg610.2.25.1.part1" dr:fixed-stage="true">indem er sich zu fassen sucht, aber ohne ein Auge von dem Bilde zu verwenden.</stage>
                                     </stage>
                                     <p xml:id="tg610.2.25.part2"> So halb! – um sie eben wieder zu kennen. – Es ist einige Wochen her, als ich sie mit ihrer Mutter in einer Vegghia traf. – Nachher ist sie mir nur an heiligen Stätten wieder vorgekommen, – wo das Angaffen sich weniger ziemet. – Auch kenn' ich ihren Vater. Er ist mein Freund nicht. Er war es, der sich meinen Ansprüchen auf Sabionetta am meisten widersetzte. – Ein alter Degen; stolz und rauh; sonst bieder und gut! –</p>
@@ -418,7 +429,7 @@ geht da verloren! – Aber, wie ich sage, daß ich es weiß, was hier verloren g
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg610.2.29.part1">DER PRINZ</speaker> 
-                                    <stage>
+                                    <stage type="other">
                                        <stage rend="italic" xml:id="tg610.2.29.1.part1" dr:fixed-stage="true">indem er nur eben von dem Bilde wegblickt.</stage>
                                     </stage>
                                     <l xml:id="tg610.2.29.part2"> Was sagen Sie, Conti? Was wollen Sie wissen?</l>
@@ -429,7 +440,7 @@ geht da verloren! – Aber, wie ich sage, daß ich es weiß, was hier verloren g
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg610.2.31.part1">DER PRINZ</speaker> 
-                                    <stage>
+                                    <stage type="other">
                                        <stage rend="italic" xml:id="tg610.2.31.1.part1" dr:fixed-stage="true">mit einer erzwungenen Kälte.</stage>
                                     </stage>
                                     <p xml:id="tg610.2.31.part2"> Also, Conti, rechnen Sie doch wirklich Emilia Galotti mit zu den vorzüglichsten Schönheiten unserer Stadt?</p>
@@ -448,7 +459,7 @@ geht da verloren! – Aber, wie ich sage, daß ich es weiß, was hier verloren g
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg610.2.35.part1">DER PRINZ</speaker> 
-                                    <stage>
+                                    <stage type="other">
                                        <stage rend="italic" xml:id="tg610.2.35.1.part1" dr:fixed-stage="true">der sich schnell gegen ihn kehret.</stage>
                                     </stage>
                                     <l xml:id="tg610.2.35.part2"> Nun, Conti? ist doch nicht schon versagt?</l>
@@ -681,7 +692,7 @@ springt und es dem Marinelli in die Hand gibt.</stage> Da! – Diese? Diese Emil
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg612.2.46.part1">DER PRINZ</speaker> 
-                                    <stage>
+                                    <stage type="other">
                                        <stage rend="italic" xml:id="tg612.2.46.1.part1" dr:fixed-stage="true">der sich voll Verzweiflung in einen Stuhl wirft.</stage>
                                     </stage>
                                     <l xml:id="tg612.2.46.part2"> So bin ich verloren! – So will ich nicht leben!</l>
@@ -692,7 +703,7 @@ springt und es dem Marinelli in die Hand gibt.</stage> Da! – Diese? Diese Emil
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg612.2.48.part1">DER PRINZ</speaker> 
-                                    <stage>
+                                    <stage type="other">
                                        <stage rend="italic" xml:id="tg612.2.48.1.part1" dr:fixed-stage="true">der gegen ihn wieder aufspringt.</stage>
                                     </stage>
                                     <p xml:id="tg612.2.48.part2"> Verräter! – was mir ist? – Nun ja ich liebe sie; ich bete sie an. Mögt ihr es doch wissen! mögt ihr es doch längst gewußt haben, alle ihr, denen ich der tollen Orsina schimpfliche Fesseln lieber ewig tragen sollte! – Nur daß Sie, Marinelli, der Sie so oft mich Ihrer innigsten Freundschaft versicherten – O ein Fürst hat keinen Freund! kann keinen Freund haben! – daß Sie, Sie, so treulos, so hämisch mir bis auf diesen Augenblick die Gefahr verhöhlen dürfen, die meiner Liebe drohte: wenn ich Ihnen jemals das vergebe, – so werde mir meiner Sünden keine vergeben!</p>
@@ -860,7 +871,7 @@ Gang. – <stage rend="italic" xml:id="tg613.2.2.6.part2" dr:fixed-stage="true">
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg614.2.13.part1">CAMILLO ROTA</speaker> 
-                                    <stage>
+                                    <stage type="other">
                                        <stage rend="italic" xml:id="tg614.2.13.1.part1" dr:fixed-stage="true">stutzig und den Prinzen starr ansehend.</stage>
                                     </stage>
                                     <l xml:id="tg614.2.13.part2"> Ein Todesurteil, sagt' ich.</l>
@@ -871,7 +882,7 @@ Gang. – <stage rend="italic" xml:id="tg613.2.2.6.part2" dr:fixed-stage="true">
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg614.2.15.part1">CAMILLO ROTA</speaker> 
-                                    <stage>
+                                    <stage type="other">
                                        <stage rend="italic" xml:id="tg614.2.15.1.part1" dr:fixed-stage="true">seine Schriften nachsehend.</stage>
                                     </stage>
                                     <p xml:id="tg614.2.15.part2"> Nun hab' ich es doch wohl nicht mitgenommen! – – Verzeihen Sie, gnädiger Herr. – Es kann Anstand damit haben bis morgen.</p>
@@ -884,7 +895,7 @@ Gang. – <stage rend="italic" xml:id="tg613.2.2.6.part2" dr:fixed-stage="true">
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg614.2.18.part1">CAMILLO ROTA</speaker> 
-                                    <stage>
+                                    <stage type="other">
                                        <stage rend="italic" xml:id="tg614.2.18.1.part1" dr:fixed-stage="true">den Kopf schüttelnd, indem er die Papiere zu sich nimmt und abgeht.</stage>
                                     </stage>
                                     <p xml:id="tg614.2.18.part2"> Recht gern? – Ein Todesurteil recht gern? – Ich hätt' es ihn in diesem Augenblicke nicht mögen unterschreiben lassen, und wenn es den Mörder meines einzigen Sohnes betroffen hätte. – Recht gern! recht gern! – Es geht mir durch die Seele dieses gräßliche Recht gern!</p>
@@ -921,7 +932,7 @@ Gang. – <stage rend="italic" xml:id="tg613.2.2.6.part2" dr:fixed-stage="true">
                                  <lb xml:id="tg616.2.5"/>
                                  <sp>
                                     <speaker xml:id="tg616.2.6.part1">CLAUDIA</speaker> 
-                                    <stage>
+                                    <stage type"enter">
                                        <stage rend="italic" xml:id="tg616.2.6.1.part1" dr:fixed-stage="true">im Heraustreten zu Pirro, der von der andern Seite hereintritt.</stage>
                                     </stage>
                                     <l xml:id="tg616.2.6.part2"> Wer sprengte da in den Hof?</l>
@@ -1031,7 +1042,7 @@ Gang. – <stage rend="italic" xml:id="tg613.2.2.6.part2" dr:fixed-stage="true">
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg618.2.7.part1">ANGELO</speaker> 
-                                    <stage>
+                                    <stage type="enter">
                                        <stage rend="italic" xml:id="tg618.2.7.1.part1" dr:fixed-stage="true">noch halb hinter der Szene, in einem kurzen Mantel, den er über das Gesicht gezogen, den Hut in die Stirne.</stage>
                                     </stage>
                                     <l xml:id="tg618.2.7.part2"> Pirro! – Pirro!</l>
@@ -1346,7 +1357,7 @@ Gang. – <stage rend="italic" xml:id="tg613.2.2.6.part2" dr:fixed-stage="true">
                                  <lb xml:id="tg621.2.5"/>
                                  <sp>
                                     <speaker xml:id="tg621.2.6.part1">EMILIA</speaker> 
-                                    <stage>
+                                    <stage type="enter">
                                        <stage rend="italic" xml:id="tg621.2.6.1.part1" dr:fixed-stage="true">stürzet in einer ängstlichen Verwirrung herein.</stage>
                                     </stage>
                                     <p xml:id="tg621.2.6.part2"> Wohl mir! wohl mir! Nun bin ich in Sicherheit. Oder ist er mir gar gefolgt? <stage rend="italic" xml:id="tg621.2.6.2.part2" dr:fixed-stage="true">Indem sie den Schleier zurück wirft und ihre Mutter erblicket.</stage> Ist er, meine Mutter? ist er? – Nein, dem Himmel sei Dank!</p>
@@ -1515,7 +1526,7 @@ sogar schmeicheln, einem so wichtigen Mitbewerber den Rang abzulaufen. Aber wenn
                                  <lb xml:id="tg622.2.5"/>
                                  <sp>
                                     <speaker xml:id="tg622.2.6.part1">APPIANI</speaker> 
-                                    <stage>
+                                    <stage type="enter">
                                        <stage rend="italic" xml:id="tg622.2.6.1.part1" dr:fixed-stage="true">tritt tiefsinnig, mit vor sich hingeschlagnen Augen herein, und kömmt ihnen näher, ohne sie zu erblicken; bis Emilia ihm entgegen springt.</stage>
                                     </stage>
                                     <l xml:id="tg622.2.6.part2"> Ah, meine Teuerste! – Ich war mir Sie in dem Vorzimmer nicht vermutend.</l>
@@ -1591,7 +1602,7 @@ fromme Frau an Ihnen haben; und die nicht stolz auf ihre Frömmigkeit ist.</p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg622.2.24.part1">APPIANI</speaker> 
-                                    <stage>
+                                    <stage type="other">
                                        <stage rend="italic" xml:id="tg622.2.24.1.part1" dr:fixed-stage="true">nackdenkend und schwermütig.</stage>
                                     </stage>
                                     <l xml:id="tg622.2.24.part2"> Bedeuten Tränen – bedeuten Tränen!</l>
@@ -1656,7 +1667,7 @@ fromme Frau an Ihnen haben; und die nicht stolz auf ihre Frömmigkeit ist.</p>
                                  <lb xml:id="tg623.2.5"/>
                                  <sp>
                                     <speaker xml:id="tg623.2.6.part1">APPIANI</speaker> 
-                                    <stage>
+                                    <stage type="other">
                                        <stage rend="italic" xml:id="tg623.2.6.1.part1" dr:fixed-stage="true">indem er ihr mit einer niedergeschlagnen Miene nachsieht.</stage>
                                     </stage>
                                     <p xml:id="tg623.2.6.part2"> Perlen bedeuten Tränen! – Eine kleine Geduld! – Ja, wenn die Zeit nur außer uns wäre! – Wenn eine Minute am Zeiger, sich in uns nicht in Jahre ausdehnen könnte! –</p>
@@ -1977,7 +1988,7 @@ fromme Frau an Ihnen haben; und die nicht stolz auf ihre Frömmigkeit ist.</p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg625.2.61.part1">MARINELLI</speaker> 
-                                    <stage>
+                                    <stage type="exit">
                                        <stage rend="italic" xml:id="tg625.2.61.1.part1" dr:fixed-stage="true">der sich losreißt, und abgeht.</stage>
                                     </stage>
                                     <l xml:id="tg625.2.61.part2"> Nur Geduld, Graf, nur Geduld!</l>
@@ -2009,7 +2020,7 @@ fromme Frau an Ihnen haben; und die nicht stolz auf ihre Frömmigkeit ist.</p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg626.2.7.part1">CLAUDIA</speaker> 
-                                    <stage>
+                                    <stage type="other">
                                        <stage rend="italic" xml:id="tg626.2.7.1.part1" dr:fixed-stage="true">eiligst und besorgt.</stage>
                                     </stage>
                                     <p xml:id="tg626.2.7.part2"> Gott! Herr Graf – Ich hab' einen heftigen Wortwechsel gehört. – Ihr Gesicht glühet. Was ist vorgefallen?</p>
@@ -2128,7 +2139,7 @@ fromme Frau an Ihnen haben; und die nicht stolz auf ihre Frömmigkeit ist.</p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg628.2.22.part1">DER PRINZ</speaker> 
-                                    <stage>
+                                    <stage type="other">
                                        <stage rend="italic" xml:id="tg628.2.22.1.part1" dr:fixed-stage="true">höhnisch.</stage>
                                     </stage>
                                     <p xml:id="tg628.2.22.part2"> Neugierde zur Gnüge! – Die ich nur befriedigen muß. – O, es ging alles nach Wunsch. – Sie brauchen sich nicht weiter zu bemühen, mein allzudienstfertiger Freund! – Sie kam meinem Verlangen, mehr als halbes Weges, entgegen. Ich hätte sie nur gleich mitnehmen dürfen.<stage rend="italic" xml:id="tg628.2.22.2.part2" dr:fixed-stage="true"> Kalt und befehlend.</stage> Nun wissen Sie, was Sie wissen wollen; – und können gehn!</p>
@@ -2243,14 +2254,14 @@ fromme Frau an Ihnen haben; und die nicht stolz auf ihre Frömmigkeit ist.</p>
                                  <lb xml:id="tg629.2.5"/>
                                  <sp>
                                     <speaker xml:id="tg629.2.6.part1">MARINELLI</speaker> 
-                                    <stage>
+                                    <stage type="other">
                                        <stage rend="italic" xml:id="tg629.2.6.1.part1" dr:fixed-stage="true">der wieder nach dem Fenster geht.</stage>
                                     </stage>
                                     <p xml:id="tg629.2.6.part2"> Dort fährt der Wagen langsam nach der Stadt zurück. – So langsam? Und in jedem Schlage ein Bedienter? – Das sind Anzeigen, die mir nicht gefallen; – daß der Streich wohl nur halb gelungen ist; – daß man einen Verwundeten gemächlich zurückführet, – und keinen Toten. – Die Maske steigt ab. – Es ist Angelo selbst. Der Tolldreiste! – Endlich, hier weiß er die Schliche. – Er winkt mir zu. Er muß seiner Sache gewiß sein. – Ha, Herr Graf, der Sie nicht nach Massa wollten, und nun noch einen weitern Weg müssen! – Wer hatte Sie die Affen so kennen gelehrt? <stage rend="italic" xml:id="tg629.2.6.2.part2" dr:fixed-stage="true">Indem er nach der Türe zugeht.</stage> Ja wohl sind sie hämisch. – Nun Angelo?</p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg629.2.7.part1">ANGELO</speaker> 
-                                    <stage>
+                                    <stage type="other">
                                        <stage rend="italic" xml:id="tg629.2.7.1.part1" dr:fixed-stage="true">der die Maske abgenommen.</stage>
                                     </stage>
                                     <l xml:id="tg629.2.7.part2"> Passen Sie auf, Herr Kammerherr! Man muß sie gleich bringen.</l>
@@ -2420,7 +2431,7 @@ sein Tod schon das <stage rend="italic" xml:id="tg629.2.17.2.part2" dr:fixed-sta
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg631.2.10.part1">EMILIA</speaker> 
-                                    <stage>
+                                    <stage type="other">
                                        <stage rend="italic" xml:id="tg631.2.10.1.part1" dr:fixed-stage="true">außer Atem.</stage>
                                     </stage>
                                     <p xml:id="tg631.2.10.part2"> Ah! – Ah! – Ich danke Ihm, mein Freund; – ich dank' Ihm. – Aber Gott, Gott! wo bin ich? – Und so ganz allein? Wo bleibt meine Mutter? Wo blieb der Graf? – Sie kommen doch nach? mir auf dem Fuße nach?</p>
@@ -2451,14 +2462,14 @@ sein Tod schon das <stage rend="italic" xml:id="tg629.2.17.2.part2" dr:fixed-sta
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg631.2.17.part1">MARINELLI</speaker> 
-                                    <stage>
+                                    <stage type="enter">
                                        <stage rend="italic" xml:id="tg631.2.17.1.part1" dr:fixed-stage="true">der plötzlich herzu tritt, als ob er eben herein käme.</stage>
                                     </stage>
                                     <p xml:id="tg631.2.17.part2"> Ah, gnädiges Fräulein! Was für ein Unglück, oder vielmehr, was für ein Glück, – was für ein glückliches Unglück verschafft uns die Ehre –</p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg631.2.18.part1">EMILIA</speaker> 
-                                    <stage>
+                                    <stage type="other">
                                        <stage rend="italic" xml:id="tg631.2.18.1.part1" dr:fixed-stage="true">stutzend.</stage>
                                     </stage>
                                     <p xml:id="tg631.2.18.part2"> Wie? Sie hier, mein Herr? – Ich bin also wohl bei Ihnen? – Verzeihen Sie, Herr Kammerherr. Wir sind von Räubern ohnfern überfallen worden. Da kamen uns gute Leute zu Hülfe; – und dieser ehrliche Mann hob mich aus dem Wagen, und brachte mich hierher. – Aber ich erschrecke, mich allein gerettet zu sehen. Meine Mutter ist noch in der Gefahr. Hinter uns ward sogar geschossen. Sie ist vielleicht tot; – und ich lebe? – Verzeihen Sie. Ich muß fort; ich muß wieder hin, – wo ich gleich hätte bleiben sollen.</p>
@@ -2487,7 +2498,7 @@ schon ohne Atem und Kräfte. Erholen Sie sich vielmehr, und geruhen in ein Zimme
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg631.2.24.part1">EMILIA</speaker> 
-                                    <stage>
+                                    <stage type="other">
                                        <stage rend="italic" xml:id="tg631.2.24.1.part1" dr:fixed-stage="true">äußerst bestürzt.</stage>
                                     </stage>
                                     <l xml:id="tg631.2.24.part2"> Der Prinz?</l>
@@ -2555,7 +2566,7 @@ schon ohne Atem und Kräfte. Erholen Sie sich vielmehr, und geruhen in ein Zimme
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg632.2.11.part1">EMILIA</speaker> 
-                                    <stage>
+                                    <stage type="other">
                                        <stage rend="italic" xml:id="tg632.2.11.1.part1" dr:fixed-stage="true">unentschlossen.</stage>
                                     </stage>
                                     <p xml:id="tg632.2.11.part2"> Aber – wenn ihnen nichts widerfahren – wenn meine Ahnungen mich trügen; – warum sind sie <pb n="168" xml:id="tg632.2.11.2.part2"/>
@@ -2576,14 +2587,14 @@ nicht schon hier? Warum kamen sie nicht mit Ihnen, gnädiger Herr?</p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg632.2.15.part1">EMILIA</speaker> 
-                                    <stage>
+                                    <stage type="other">
                                        <stage rend="italic" xml:id="tg632.2.15.1.part1" dr:fixed-stage="true">die vor ihm niederfällt.</stage>
                                     </stage>
                                     <l xml:id="tg632.2.15.part2"> Zu Ihren Füßen, gnädiger Herr –</l>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg632.2.16.part1">DER PRINZ</speaker> 
-                                    <stage>
+                                    <stage type="other">
                                        <stage rend="italic" xml:id="tg632.2.16.1.part1" dr:fixed-stage="true">sie aufhebend.</stage>
                                     </stage>
                                     <p xml:id="tg632.2.16.part2"> Ich bin äußerst beschämt. – Ja, Emilia, ich verdiene diesen stummen Vorwurf. – Mein Betragen diesen Morgen, ist nicht zu rechtfertigen; – zu entschuldigen höchstens. Verzeihen Sie meiner Schwachheit. Ich hätte Sie mit keinem Geständnisse beunruhigen sollen, von dem ich keinen Vorteil zu erwarten habe. Auch ward ich durch die sprachlose Bestürzung, mit der Sie es anhörten, oder vielmehr nicht anhörten, genugsam bestraft. – Und könnt' ich schon diesen Zufall, der mir nochmals, ehe alle meine Hoffnung auf ewig verschwindet, – mir nochmals das Glück Sie zu sehen und zu sprechen verschafft; könnt' ich schon diesen Zufall für den Wink eines günstigen Glückes erklären, – für den wunderbarsten Aufschub meiner endlichen Verurteilung erklären, um nochmals um Gnade flehen zu dürfen: so will ich doch – Beben Sie nicht, mein Fräulein – einzig und allein von Ihrem Blicke abhangen. Kein Wort, kein Seufzer, soll Sie beleidigen. – Nur kränke mich nicht Ihr Mißtrauen. Nur zweifeln Sie keinen Augenblick an der unumschränktesten Gewalt, die Sie über mich haben. Nur falle Ihnen nie bei, daß Sie eines andern Schutzes gegen mich bedürfen. – Und nun kommen Sie, mein Fräulein, – kommen Sie, wo Entzückungen auf Sie warten, die Sie mehr billigen. <stage rend="italic" xml:id="tg632.2.16.2.part2" dr:fixed-stage="true">Er führt sie, nicht ohne Sträuben, ab.</stage> Folgen Sie uns, Marinelli. –</p>
@@ -2616,7 +2627,7 @@ nicht schon hier? Warum kamen sie nicht mit Ihnen, gnädiger Herr?</p>
                                  <lb xml:id="tg633.2.5"/>
                                  <sp>
                                     <speaker xml:id="tg633.2.6.part1">BATTISTA</speaker> 
-                                    <stage>
+                                    <stage type="enter">
                                        <stage rend="italic" xml:id="tg633.2.6.1.part1" dr:fixed-stage="true">eiligst.</stage>
                                     </stage>
                                     <l xml:id="tg633.2.6.part2"> Die Mutter, Herr Kammerherr –</l>
@@ -2639,7 +2650,7 @@ nicht schon hier? Warum kamen sie nicht mit Ihnen, gnädiger Herr?</p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg633.2.11.part1">CLAUDIA GALOTTI</speaker> 
-                                    <stage>
+                                    <stage type="other">
                                        <stage rend="italic" xml:id="tg633.2.11.1.part1" dr:fixed-stage="true">innerhalb.</stage>
                                     </stage>
                                     <l xml:id="tg633.2.11.part2"> Emilia! Emilia! Mein Kind, wo bist du?</l>
@@ -2672,7 +2683,7 @@ nicht schon hier? Warum kamen sie nicht mit Ihnen, gnädiger Herr?</p>
                                  <lb xml:id="tg634.2.5"/>
                                  <sp>
                                     <speaker xml:id="tg634.2.6.part1">CLAUDIA</speaker> 
-                                    <stage>
+                                    <stage type="enter">
                                        <stage rend="italic" xml:id="tg634.2.6.1.part1" dr:fixed-stage="true">die in die Türe tritt, indem Battista heraus gehen will.</stage>
                                     </stage>
                                     <p xml:id="tg634.2.6.part2"> Ha! der hob sie aus dem Wagen! Der führte sie fort! Ich erkenne dich. Wo ist sie? Sprich, Unglücklicher!</p>
@@ -2745,7 +2756,7 @@ nicht schon hier? Warum kamen sie nicht mit Ihnen, gnädiger Herr?</p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg635.2.14.part1">CLAUDIA</speaker> 
-                                    <stage>
+                                    <stage type="other">
                                        <stage rend="italic" xml:id="tg635.2.14.1.part1" dr:fixed-stage="true">bitter und langsam.</stage>
                                     </stage>
                                     <p xml:id="tg635.2.14.part2"> Der Name Marinelli war das letzte Wort des sterbenden Grafen! – Verstehen Sie nun? – Ich verstand es erst auch nicht: ob schon mit einem Tone gesprochen – mit einem Tone! – Ich höre ihn noch! Wo waren meine Sinne, daß sie diesen Ton nicht sogleich verstanden?</p>
@@ -2809,7 +2820,7 @@ Vater! ihr Vater! – Er wird den Tag ihrer Geburt verfluchen. Er wird mich verf
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg635.2.29.part1">EMILIA</speaker> 
-                                    <stage>
+                                    <stage type="other">
                                        <stage rend="italic" xml:id="tg635.2.29.1.part1" dr:fixed-stage="true">innerhalb.</stage>
                                     </stage>
                                     <l xml:id="tg635.2.29.part2"> Ha, meine Mutter! Ich höre meine Mutter!</l>
@@ -2851,7 +2862,7 @@ Vater! ihr Vater! – Er wird den Tag ihrer Geburt verfluchen. Er wird mich verf
                                  <lb xml:id="tg637.2.5"/>
                                  <sp>
                                     <speaker xml:id="tg637.2.6.part1">DER PRINZ</speaker> 
-                                    <stage>
+                                    <stage type="enter">
                                        <stage rend="italic" xml:id="tg637.2.6.1.part1" dr:fixed-stage="true">als aus dem Zimmer von Emilien kommend.</stage>
                                     </stage>
                                     <l xml:id="tg637.2.6.part2"> Kommen Sie, Marinelli! Ich muß mich erholen – und muß Licht von Ihnen haben.</l>
@@ -2935,7 +2946,7 @@ Vater! ihr Vater! – Er wird den Tag ihrer Geburt verfluchen. Er wird mich verf
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg637.2.27.part1">DER PRINZ</speaker> 
-                                    <stage>
+                                    <stage type="other">
                                        <stage rend="italic" xml:id="tg637.2.27.1.part1" dr:fixed-stage="true">nachgebend.</stage>
                                     </stage>
                                     <l xml:id="tg637.2.27.part2"> Nun gut, nun gut –</l>
@@ -2951,7 +2962,7 @@ Vater! ihr Vater! – Er wird den Tag ihrer Geburt verfluchen. Er wird mich verf
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg637.2.30.part1">MARINELLI</speaker> 
-                                    <stage>
+                                    <stage type="other">
                                        <stage rend="italic" xml:id="tg637.2.30.1.part1" dr:fixed-stage="true">kalt.</stage>
                                     </stage>
                                     <l xml:id="tg637.2.30.part2"> Schwerlich.</l>
@@ -2962,7 +2973,7 @@ Vater! ihr Vater! – Er wird den Tag ihrer Geburt verfluchen. Er wird mich verf
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg637.2.32.part1">MARINELLI</speaker> 
-                                    <stage>
+                                    <stage type="other">
                                        <stage rend="italic" xml:id="tg637.2.32.1.part1" dr:fixed-stage="true">noch kälter.</stage>
                                     </stage>
                                     <l xml:id="tg637.2.32.part2"> Wahrscheinlich genug.</l>
@@ -2973,14 +2984,14 @@ Vater! ihr Vater! – Er wird den Tag ihrer Geburt verfluchen. Er wird mich verf
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg637.2.34.part1">MARINELLI</speaker> 
-                                    <stage>
+                                    <stage type="other">
                                        <stage rend="italic" xml:id="tg637.2.34.1.part1" dr:fixed-stage="true">höchst gleichgültig.</stage>
                                     </stage>
                                     <l xml:id="tg637.2.34.part2"> Was Sie auch gemußt hätten – wenn der Graf noch lebte. –</l>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg637.2.35.part1">DER PRINZ</speaker> 
-                                    <stage>
+                                    <stage type="other">
                                        <stage rend="italic" xml:id="tg637.2.35.1.part1" dr:fixed-stage="true">heftig, aber sich gleich wieder fassend.</stage>
                                     </stage>
                                     <p xml:id="tg637.2.35.part2"> Marinelli! – Doch, Sie sollen mich nicht wild machen. – Es sei so – Es ist so! Und das wollen Sie doch nur sagen: der Tod des Grafen ist für mich ein Glück – das größte Glück, was mir begegnen konnte, – das einzige Glück, was meiner Liebe zu statten kommen konnte. Und als dieses, – mag er doch geschehen sein, wie er will! – Ein Graf mehr in der Welt, oder weniger! Denke ich Ihnen so recht? – Topp! auch ich erschrecke vor einem kleinen Verbrechen nicht. Nur, guter Freund, muß es ein kleines stilles Verbrechen, ein kleines heilsames Verbrechen sein. Und sehen Sie, unseres da, wäre nun gerade weder stille noch heilsam. Es hätte den Weg zwar gereiniget, aber zugleich gesperrt. Jedermann würde es uns auf den Kopf zusagen, – und leider hätten wir es gar nicht einmal begangen! – Das liegt doch wohl nur bloß an Ihren weisen, wunderbaren Anstalten?</p>
@@ -3032,7 +3043,7 @@ er heute Morgen in der Kirche getan, – mit so vielem Anstande er ihn auch geta
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg637.2.47.part1">DER PRINZ</speaker> 
-                                    <stage>
+                                    <stage type="other">
                                        <stage rend="italic" xml:id="tg637.2.47.1.part1" dr:fixed-stage="true">sich vor die Stirne schlagend.</stage>
                                     </stage>
                                     <l xml:id="tg637.2.47.part2"> Verwünscht!</l>
@@ -3080,7 +3091,7 @@ er heute Morgen in der Kirche getan, – mit so vielem Anstande er ihn auch geta
                                  <lb xml:id="tg638.2.5"/>
                                  <sp>
                                     <speaker xml:id="tg638.2.6.part1">BATTISTA</speaker> 
-                                    <stage>
+                                    <stage type="other">
                                        <stage rend="italic" xml:id="tg638.2.6.1.part1" dr:fixed-stage="true">eiligst.</stage>
                                     </stage>
                                     <l xml:id="tg638.2.6.part2"> Eben kömmt die Gräfin an.</l>
@@ -3149,7 +3160,7 @@ wir hier sind? Sollte sie wohl auf Kundschaft kommen? Sollte sie wohl schon etwa
                                  <lb xml:id="tg639.2.5"/>
                                  <sp>
                                     <speaker xml:id="tg639.2.6.part1">ORSINA</speaker> 
-                                    <stage>
+                                    <stage type="other">
                                        <stage rend="italic" xml:id="tg639.2.6.1.part1" dr:fixed-stage="true">ohne den Marinelli anfangs zu erblicken.</stage>
                                     </stage>
                                     <p xml:id="tg639.2.6.part2"> Was ist das? – Niemand kömmt mir entgegen, außer ein Unverschämter, der mir lieber gar den Eintritt verweigert hätte? – Ich bin doch zu Dosalo? Zu dem Dosalo, wo mir sonst ein ganzes Heer geschäftiger Augendiener entgegen stürzte? wo mich sonst Liebe und Entzücken erwarteten? – Der Ort ist es; aber, aber! – Sieh' da, Marinelli! – Recht gut, daß der Prinz Sie mitgenommen. – Nein, nicht gut! Was ich mit ihm auszumachen hätte, hätte ich nur mit ihm auszumachen. – Wo ist er?</p>
@@ -3206,7 +3217,7 @@ wir hier sind? Sollte sie wohl auf Kundschaft kommen? Sollte sie wohl schon etwa
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg639.2.20.part1">MARINELLI</speaker> 
-                                    <stage>
+                                    <stage type="other">
                                        <stage rend="italic" xml:id="tg639.2.20.1.part1" dr:fixed-stage="true">der sie zurück hält.</stage>
                                     </stage>
                                     <l xml:id="tg639.2.20.part2"> Wohin?</l>
@@ -3238,7 +3249,7 @@ Sie nicht. Der Prinz kann Sie hier nicht sprechen, – will Sie nicht sprechen.<
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg639.2.27.part1">ORSINA</speaker> 
-                                    <stage>
+                                    <stage type="other">
                                        <stage rend="italic" xml:id="tg639.2.27.1.part1" dr:fixed-stage="true">heftig.</stage>
                                     </stage>
                                     <p xml:id="tg639.2.27.part2"> Nicht gelesen? – <stage rend="italic" xml:id="tg639.2.27.2.part2" dr:fixed-stage="true">Minder heftig.</stage> Nicht gelesen? – <stage rend="italic" xml:id="tg639.2.27.3.part2" dr:fixed-stage="true">Wehmütig, und eine Träne aus dem Auge wischend.</stage> Nicht einmal gelesen?</p>
@@ -3249,7 +3260,7 @@ Sie nicht. Der Prinz kann Sie hier nicht sprechen, – will Sie nicht sprechen.<
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg639.2.29.part1">ORSINA</speaker> 
-                                    <stage>
+                                    <stage type="other">
                                        <stage rend="italic" xml:id="tg639.2.29.1.part1" dr:fixed-stage="true">stolz.</stage>
                                     </stage>
                                     <p xml:id="tg639.2.29.part2"> Verachtung? – Wer denkt daran? – Wem brauchen Sie das zu sagen? – Sie sind ein unverschämter Tröster, Marinelli! – Verachtung! Verachtung! Mich verachtet man auch! mich! – <stage rend="italic" xml:id="tg639.2.29.2.part2" dr:fixed-stage="true">Gelinder, bis zum Tone der Schwermut.</stage> Freilich liebt er mich nicht mehr. Das ist ausgemacht. Und an die Stelle der Liebe trat in seiner Seele etwas anders. Das ist natürlich. Aber warum denn eben Verachtung? Es braucht ja nur Gleichgültigkeit zu sein. Nicht wahr, Marinelli?</p>
@@ -3260,14 +3271,14 @@ Sie nicht. Der Prinz kann Sie hier nicht sprechen, – will Sie nicht sprechen.<
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg639.2.31.part1">ORSINA</speaker> 
-                                    <stage>
+                                    <stage type="other">
                                        <stage rend="italic" xml:id="tg639.2.31.1.part1" dr:fixed-stage="true">höhnisch.</stage>
                                     </stage>
                                     <p xml:id="tg639.2.31.part2"> Allerdings? – O des weisen Mannes, den man sagen lassen kann, was man will! – Gleichgültigkeit! Gleichgültigkeit an die Stelle der Liebe? – Das heißt, Nichts an die Stelle von Etwas. Denn lernen Sie, nachplauderndes Hofmännchen, lernen Sie von einem Weibe, daß Gleichgültigkeit ein leeres Wort, ein bloßer Schall ist, dem nichts, gar nichts entspricht. Gleichgültig ist die Seele nur gegen das, woran sie nicht denkt; nur gegen ein Ding, das für sie kein Ding ist. Und nur gleichgültig für ein Ding, das kein Ding ist, – das ist so viel, als gar nicht gleichgültig. – Ist dir das zu hoch, Mensch?</p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg639.2.32.part1">MARINELLI</speaker> 
-                                    <stage>
+                                    <stage type="other">
                                        <stage rend="italic" xml:id="tg639.2.32.1.part1" dr:fixed-stage="true">vor sich.</stage>
                                     </stage>
                                     <l xml:id="tg639.2.32.part2"> O weh! wie wahr ist es, was ich fürchtete!</l>
@@ -3295,7 +3306,7 @@ habe merken lassen! Ist es wohl noch Wunder, daß mich der Prinz verachtet? Wie 
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg639.2.38.part1">MARINELLI</speaker> 
-                                    <stage>
+                                    <stage type="other">
                                        <stage rend="italic" xml:id="tg639.2.38.1.part1" dr:fixed-stage="true">vor sich.</stage>
                                     </stage>
                                     <l xml:id="tg639.2.38.part2"> Das geht weit! – Aber gnädige Gräfin –</l>
@@ -3328,21 +3339,21 @@ habe merken lassen! Ist es wohl noch Wunder, daß mich der Prinz verachtet? Wie 
                                  <lb xml:id="tg640.2.5"/>
                                  <sp>
                                     <speaker xml:id="tg640.2.6.part1">DER PRINZ</speaker> 
-                                    <stage>
+                                    <stage type="enter">
                                        <stage rend="italic" xml:id="tg640.2.6.1.part1" dr:fixed-stage="true">indem er aus dem Kabinette tritt, vor sich.</stage>
                                     </stage>
                                     <l xml:id="tg640.2.6.part2"> Ich muß ihm zu Hülfe kommen –</l>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg640.2.7.part1">ORSINA</speaker> 
-                                    <stage>
+                                    <stage type="other">
                                        <stage rend="italic" xml:id="tg640.2.7.1.part1" dr:fixed-stage="true">die ihn erblickt, aber unentschlüssig bleibt, ob sie auf ihn zugehen soll.</stage>
                                     </stage>
                                     <l xml:id="tg640.2.7.part2"> Ha! da ist er.</l>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg640.2.8.part1">DER PRINZ</speaker> 
-                                    <stage>
+                                    <stage type="other">
                                        <stage rend="italic" xml:id="tg640.2.8.1.part1" dr:fixed-stage="true">geht quer über den Saal, bei ihr vorbei, nach den andern Zimmern, ohne sich im Reden aufzuhalten.</stage>
                                     </stage>
                                     <p xml:id="tg640.2.8.part2"> Sieh da! unsere schöne Gräfin. – Wie sehr betaure ich, Madame, daß ich mir die Ehre Ihres Besuchs für heute so wenig zu Nutze machen kann! Ich bin beschäftiget. Ich bin nicht allein. – Ein andermal, meine liebe Gräfin! Ein andermal. – Itzt halten Sie länger sich nicht auf. Ja nicht länger! – Und Sie, Marinelli, ich erwarte Sie. –</p>
@@ -3374,7 +3385,7 @@ habe merken lassen! Ist es wohl noch Wunder, daß mich der Prinz verachtet? Wie 
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg641.2.7.part1">ORSINA</speaker> 
-                                    <stage>
+                                    <stage type="other">
                                        <stage rend="italic" xml:id="tg641.2.7.1.part1" dr:fixed-stage="true">wie betäubt.</stage>
                                     </stage>
                                     <l xml:id="tg641.2.7.part2"> Hab' ich? hab' ich wirklich?</l>
@@ -3385,14 +3396,14 @@ habe merken lassen! Ist es wohl noch Wunder, daß mich der Prinz verachtet? Wie 
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg641.2.9.part1">ORSINA</speaker> 
-                                    <stage>
+                                    <stage type="other">
                                        <stage rend="italic" xml:id="tg641.2.9.1.part1" dr:fixed-stage="true">mit Rührung.</stage>
                                     </stage>
                                     <p xml:id="tg641.2.9.part2"> »Ich bin beschäftiget. Ich bin nicht allein.« Ist das die Entschuldigung ganz, die ich wert bin? Wen weiset man damit nicht ab? Jeden Überlästigen, jeden Bettler. Für mich keine einzige Lüge mehr? Keine einzige kleine Lüge mehr, für mich? – Beschäftiget? womit denn? Nicht allein? wer wäre denn bei ihm? – Kommen Sie, Marinelli; aus Barmherzigkeit, lieber Marinelli! Lügen Sie mir eines auf eigene Rechnung vor. Was kostet Ihnen denn eine Lüge? – Was hat er zu tun? Wer ist bei ihm? – Sagen Sie mir; sagen sie mir, was Ihnen zuerst in den Mund kömmt, – und ich gehe.</p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg641.2.10.part1">MARINELLI</speaker> 
-                                    <stage>
+                                    <stage type="other">
                                        <stage rend="italic" xml:id="tg641.2.10.1.part1" dr:fixed-stage="true">vor sich.</stage>
                                     </stage>
                                     <l xml:id="tg641.2.10.part2"> Mit dieser Bedingung, kann ich ihr ja wohl einen Teil der Wahrheit sagen.</l>
@@ -3452,7 +3463,7 @@ habe merken lassen! Ist es wohl noch Wunder, daß mich der Prinz verachtet? Wie 
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg641.2.25.part1">MARINELLI</speaker> 
-                                    <stage>
+                                    <stage type="other">
                                        <stage rend="italic" xml:id="tg641.2.25.1.part1" dr:fixed-stage="true">vor sich.</stage>
                                     </stage>
                                     <l xml:id="tg641.2.25.part2"> Sollte ich ihr schon zu viel gesagt haben?</l>
@@ -3593,7 +3604,7 @@ aber es bleibt unter uns –<stage rend="italic" xml:id="tg641.2.47.3.part2" dr:
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg642.2.8.part1">MARINELLI</speaker> 
-                                    <stage>
+                                    <stage type="other">
                                        <stage rend="italic" xml:id="tg642.2.8.1.part1" dr:fixed-stage="true">indem er ihn erblicket, vor sich.</stage>
                                     </stage>
                                     <l xml:id="tg642.2.8.part2"> Nun vollends! der Alte! –</l>
@@ -3637,7 +3648,7 @@ aber es bleibt unter uns –<stage rend="italic" xml:id="tg641.2.47.3.part2" dr:
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg642.2.18.part1">MARINELLI</speaker> 
-                                    <stage>
+                                    <stage type="other">
                                        <stage rend="italic" xml:id="tg642.2.18.1.part1" dr:fixed-stage="true">sie bei der Hand nicht unsanft ergreifend.</stage>
                                     </stage>
                                     <l xml:id="tg642.2.18.part2"> Erlauben Sie, daß ich meine Schuldigkeit beobachte. –</l>
@@ -3656,7 +3667,7 @@ aber es bleibt unter uns –<stage rend="italic" xml:id="tg641.2.47.3.part2" dr:
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg642.2.22.part1">MARINELLI</speaker> 
-                                    <stage>
+                                    <stage type="other">
                                        <stage rend="italic" xml:id="tg642.2.22.1.part1" dr:fixed-stage="true">leise zu dem Obersten, den er bei Seite ziehet.</stage>
                                     </stage>
                                     <p xml:id="tg642.2.22.part2"> Mein Herr, ich muß Sie hier mit einer Dame lassen, die – der – mit deren Verstande – Sie verstehen mich. Ich sage Ihnen <pb n="186" xml:id="tg642.2.22.2.part2"/>
@@ -3689,14 +3700,14 @@ dieses, damit Sie wissen, was Sie auf ihre Reden zu geben haben, – deren sie o
                                  <lb xml:id="tg643.2.5"/>
                                  <sp>
                                     <speaker xml:id="tg643.2.6.part1">ORSINA</speaker> 
-                                    <stage>
+                                    <stage type="other">
                                        <stage rend="italic" xml:id="tg643.2.6.1.part1" dr:fixed-stage="true">nach einigem Stillschweigen, unter welchem sie den Obersten mit Mitleid betrachtet; so wie er sie, mit einer flüchtigen Neugierde.</stage>
                                     </stage>
                                     <l xml:id="tg643.2.6.part2"> Was er Ihnen auch da gesagt hat, unglücklicher Mann! –</l>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg643.2.7.part1">ODOARDO</speaker> 
-                                    <stage>
+                                    <stage type="other">
                                        <stage rend="italic" xml:id="tg643.2.7.1.part1" dr:fixed-stage="true">halb vor sich, halb gegen sie.</stage>
                                     </stage>
                                     <l xml:id="tg643.2.7.part2"> Unglücklicher?</l>
@@ -3835,14 +3846,14 @@ ihn unter uns hätten, ihn unter uns zerrissen, zerfleischten, sein Eingeweide d
                                  <lb xml:id="tg644.2.5"/>
                                  <sp>
                                     <speaker xml:id="tg644.2.6.part1">CLAUDIA</speaker> 
-                                    <stage>
+                                    <stage type="enter">
                                        <stage rend="italic" xml:id="tg644.2.6.1.part1" dr:fixed-stage="true">die im Hereintreten sich umsiehet, und sobald sie ihren Gemahl erblickt, auf ihn zuflieget.</stage>
                                     </stage>
                                     <p xml:id="tg644.2.6.part2"> Erraten! – Ah, unser Beschützer, unser Retter! Bist du da, Odoardo? Bist du da? – Aus ihren Wispern, aus ihren Mienen schloß ich es. – Was soll ich dir sagen, wenn du noch nichts weißt? – Was soll ich dir sagen, wenn du schon alles weißt? – Aber wir sind unschuldig. Ich bin unschuldig. Deine Tochter ist unschuldig. Unschuldig, in allem unschuldig!</p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg644.2.7.part1">ODOARDO</speaker> 
-                                    <stage>
+                                    <stage type="other">
                                        <stage rend="italic" xml:id="tg644.2.7.1.part1" dr:fixed-stage="true">der sich bei Erblickung seiner Gemahlin zu fassen gesucht.</stage>
                                     </stage>
                                     <p xml:id="tg644.2.7.part2"> Gut, gut. Sei nur ruhig, nur ruhig, – und antworte mir. <stage rend="italic" xml:id="tg644.2.7.2.part2" dr:fixed-stage="true">Gegen die Orsina.</stage> Nicht Madame, als ob ich noch zweifelte – Ist der Graf tot?</p>
@@ -3865,7 +3876,7 @@ ihn unter uns hätten, ihn unter uns zerrissen, zerfleischten, sein Eingeweide d
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg644.2.12.part1">ODOARDO</speaker> 
-                                    <stage>
+                                    <stage type="other">
                                        <stage rend="italic" xml:id="tg644.2.12.1.part1" dr:fixed-stage="true">mit einem bittern Lachen.</stage>
                                     </stage>
                                     <l xml:id="tg644.2.12.part2"> Ich wollt' auch nicht, Sie hätten! Um wie vieles nicht!</l>
@@ -3876,7 +3887,7 @@ ihn unter uns hätten, ihn unter uns zerrissen, zerfleischten, sein Eingeweide d
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg644.2.14.part1">ODOARDO</speaker> 
-                                    <stage>
+                                    <stage type="other">
                                        <stage rend="italic" xml:id="tg644.2.14.1.part1" dr:fixed-stage="true">wild hin und her gehend.</stage>
                                     </stage>
                                     <l xml:id="tg644.2.14.part2"> O, – noch bin ich es auch nicht.</l>
@@ -3984,7 +3995,7 @@ ihn unter uns hätten, ihn unter uns zerrissen, zerfleischten, sein Eingeweide d
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg646.2.12.part1">DER PRINZ</speaker> 
-                                    <stage>
+                                    <stage type="other">
                                        <stage rend="italic" xml:id="tg646.2.12.1.part1" dr:fixed-stage="true">drohend.</stage>
                                     </stage>
                                     <l xml:id="tg646.2.12.part2"> Nur, Marinelli! –</l>
@@ -4129,7 +4140,7 @@ ihn unter uns hätten, ihn unter uns zerrissen, zerfleischten, sein Eingeweide d
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg648.2.30.part1">ODOARDO</speaker> 
-                                    <stage>
+                                    <stage type="other">
                                        <stage rend="italic" xml:id="tg648.2.30.1.part1" dr:fixed-stage="true">hitzig.</stage>
                                     </stage>
                                     <l xml:id="tg648.2.30.part2"> Erwägen! erwägen! Ich erwäge, daß hier nichts zu erwägen ist. – Sie soll, sie muß mit mir.</l>
@@ -4217,7 +4228,7 @@ sich zu seinem Fürsten zu drängen. Wen er kennt, den wird er fodern lassen, we
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg650.2.15.part1">ODOARDO</speaker> 
-                                    <stage>
+                                    <stage type="other">
                                        <stage rend="italic" xml:id="tg650.2.15.1.part1" dr:fixed-stage="true">gegen Marinelli.</stage>
                                     </stage>
                                     <l xml:id="tg650.2.15.part2"> Nun, mein Herr?</l>
@@ -4289,7 +4300,7 @@ sich zu seinem Fürsten zu drängen. Wen er kennt, den wird er fodern lassen, we
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg650.2.33.part1">ODOARDO</speaker> 
-                                    <stage>
+                                    <stage type="other">
                                        <stage rend="italic" xml:id="tg650.2.33.1.part1" dr:fixed-stage="true">höhnisch.</stage>
                                     </stage>
                                     <l xml:id="tg650.2.33.part2"> Nicht? wirklich nicht?</l>
@@ -4300,7 +4311,7 @@ sich zu seinem Fürsten zu drängen. Wen er kennt, den wird er fodern lassen, we
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg650.2.35.part1">ODOARDO</speaker> 
-                                    <stage>
+                                    <stage type="other">
                                        <stage rend="italic" xml:id="tg650.2.35.1.part1" dr:fixed-stage="true">bitter.</stage>
                                     </stage>
                                     <l xml:id="tg650.2.35.part2"> Ei! ein Nebenbuhler?</l>
@@ -4394,14 +4405,14 @@ Waage der Gerechtigkeit so viel als nichts – bei dem allen wird man doch nicht
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg650.2.58.part1">DER PRINZ</speaker> 
-                                    <stage>
+                                    <stage type="other">
                                        <stage rend="italic" xml:id="tg650.2.58.1.part1" dr:fixed-stage="true">schmeichelhaft auf ihn zutretend.</stage>
                                     </stage>
                                     <l xml:id="tg650.2.58.part2"> Fassen Sie sich, lieber Galotti –</l>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg650.2.59.part1">ODOARDO</speaker> 
-                                    <stage>
+                                    <stage type="other">
                                        <stage rend="italic" xml:id="tg650.2.59.1.part1" dr:fixed-stage="true">bei Seite, indem er die Hand leer wieder heraus zieht.</stage>
                                     </stage>
                                     <l xml:id="tg650.2.59.part2"> Das sprach sein Engel!</l>
@@ -4429,7 +4440,7 @@ Waage der Gerechtigkeit so viel als nichts – bei dem allen wird man doch nicht
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg650.2.66.part1">ODOARDO</speaker> 
-                                    <stage>
+                                    <stage type="other">
                                        <stage rend="italic" xml:id="tg650.2.66.1.part1" dr:fixed-stage="true">der in tiefen Gedanken gestanden.</stage>
                                     </stage>
                                     <p xml:id="tg650.2.66.part2"> Wie? so soll ich sie gar nicht sprechen meine Tochter? Auch hier nicht? – Ich lasse mir ja alles gefallen; ich finde ja alles ganz vortrefflich. Das Haus eines Kanzlers ist natürlicher Weise eine Freistatt der Tugend. O, gnädiger Herr, bringen Sie ja meine Tochter dahin; nirgends anders als dahin. – Aber sprechen wollt' ich sie doch gern vorher. Der Tod des Grafen ist ihr noch unbekannt. Sie wird nicht begreifen können, warum man sie von ihren Eltern trennet. Ihr jenen auf gute Art beizubringen; sie dieser Trennung wegen zu beruhigen; – muß ich sie sprechen, gnädiger Herr, muß ich sie sprechen.</p>
@@ -4464,7 +4475,7 @@ Waage der Gerechtigkeit so viel als nichts – bei dem allen wird man doch nicht
 
                                  <sp>
                                     <speaker xml:id="tg651.2.2.part1">ODOARDO GALOTTI</speaker> 
-                                    <stage>
+                                    <stage type="other">
                                        <stage rend="italic" xml:id="tg651.2.2.1.part1" dr:fixed-stage="true">ihm nachsehend; nach einer Pause.</stage>
                                     </stage>
                                     <p xml:id="tg651.2.2.part2"> Warum nicht? – Herzlich gern – Ha! ha! ha! – <stage rend="italic" xml:id="tg651.2.2.2.part2" dr:fixed-stage="true">Blickt wild umher.</stage> Wer lacht da? – Bei Gott, ich glaub', ich war es selbst. – Schon recht! Lustig, lustig. Das Spiel geht zu Ende. So, oder so! – Aber – <stage rend="italic" xml:id="tg651.2.2.3.part2" dr:fixed-stage="true">Pause.</stage> wenn sie mit ihm sich verstünde? Wenn es das alltägliche Possenspiel wäre? Wenn sie es nicht wert wäre, was ich für sie tun will? –<stage rend="italic" xml:id="tg651.2.2.4.part2" dr:fixed-stage="true"> Pause.</stage> Für sie tun will? Was will ich denn für sie tun? – Hab' ich das Herz, es mir zu sagen? – Da denk' ich so was: So was, was sich nur denken läßt. – Gräßlich! Fort, fort! Ich will sie nicht erwarten. Nein! – <stage rend="italic" xml:id="tg651.2.2.5.part2" dr:fixed-stage="true">Gegen den Himmel.</stage> Wer sie unschuldig in diesen Abgrund gestürzt hat, der ziehe sie wieder heraus. Was braucht er meine Hand dazu? Fort! <stage rend="italic" xml:id="tg651.2.2.6.part2" dr:fixed-stage="true">Er will gehen, und sieht Emilien kommen.</stage> Zu spät! Ah! er will meine Hand; er will sie!</p>
@@ -4659,7 +4670,7 @@ in den Schoß legen? Leiden, was man nicht sollte? Dulden, was man nicht dürfte
                                  <lb xml:id="tg653.2.5"/>
                                  <sp>
                                     <speaker xml:id="tg653.2.6.part1">DER PRINZ</speaker> 
-                                    <stage>
+                                    <stage type="enter">
                                        <stage rend="italic" xml:id="tg653.2.6.1.part1" dr:fixed-stage="true">im Hereintreten.</stage>
                                     </stage>
                                     <l xml:id="tg653.2.6.part2"> Was ist das? – Ist Emilien nicht wohl?</l>
@@ -4671,7 +4682,7 @@ in den Schoß legen? Leiden, was man nicht sollte? Dulden, was man nicht dürfte
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg653.2.9.part1">DER PRINZ</speaker> 
-                                    <stage>
+                                    <stage type="other">
                                        <stage rend="italic" xml:id="tg653.2.9.1.part1" dr:fixed-stage="true">indem er näher kömmt.</stage>
                                     </stage>
                                     <l xml:id="tg653.2.9.part2"> Was seh' ich? – Entsetzen!</l>
@@ -4707,7 +4718,7 @@ in den Schoß legen? Leiden, was man nicht sollte? Dulden, was man nicht dürfte
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg653.2.17.part1">DER PRINZ</speaker> 
-                                    <stage>
+                                    <stage type="other">
                                        <stage rend="italic" xml:id="tg653.2.17.1.part1" dr:fixed-stage="true">nach einigem Stillschweigen, unter welchem er den Körper mit Entsetzen und Verzweiflung betrachtet, zu Marinelli.</stage>
                                     </stage>
                                     <p xml:id="tg653.2.17.part2"> Hier! heb' ihn auf. – Nun? Du bedenkst dich? – Elender! – <stage rend="italic" xml:id="tg653.2.17.2.part2" dr:fixed-stage="true">Indem er ihn den Dolch aus der Hand reißt.</stage> Nein, dein Blut soll mit diesem Blute sich nicht mischen. – Geh, dich auf ewig zu verbergen! – Geh! sag' ich. – Gott! Gott! – Ist es, zum Unglücke so mancher, nicht genug, daß Fürsten Menschen sind: müssen sich auch noch Teufel in ihren Freund verstellen?</p>

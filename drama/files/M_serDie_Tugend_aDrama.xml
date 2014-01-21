@@ -133,14 +133,14 @@ Personen des Nachspiels:</head>
 
                               
                               
-                              <stage rend="zenoPC" xml:id="tg6.2.4">
+                              <stage type="enter" rend="zenoPC" xml:id="tg6.2.4">
                                  <hi rend="italic" xml:id="tg6.2.4.1">Herr Barthold, Harlekin.</hi>
                               </stage>
                               <lb xml:id="tg6.2.5"/>
                               <sp>
                                  <speaker xml:id="tg6.2.6.part1">HARLEKIN</speaker> 
                                  <stage>
-                                    <stage rend="italic" xml:id="tg6.2.6.1.part1" dr:fixed-stage="true">macht drey tiefe Verbeugungen.</stage>
+                                    <stage type="other" rend="italic" xml:id="tg6.2.6.1.part1" dr:fixed-stage="true">macht drey tiefe Verbeugungen.</stage>
                                  </stage>
 
                               </sp>
@@ -151,7 +151,7 @@ Personen des Nachspiels:</head>
                               <sp>
                                  <speaker xml:id="tg6.2.8.part1">HARLEKIN</speaker> 
                                  <stage>
-                                    <stage rend="italic" xml:id="tg6.2.8.1.part1" dr:fixed-stage="true">macht wieder einige Verbeugungen.</stage>
+                                    <stage type="other" rend="italic" xml:id="tg6.2.8.1.part1" dr:fixed-stage="true">macht wieder einige Verbeugungen.</stage>
                                  </stage>
 
                               </sp>
@@ -162,7 +162,7 @@ Personen des Nachspiels:</head>
                               <sp>
                                  <speaker xml:id="tg6.2.10.part1">HARLEKIN</speaker> 
                                  <stage>
-                                    <stage rend="italic" xml:id="tg6.2.10.1.part1" dr:fixed-stage="true">in fremden Ton.</stage>
+                                    <stage type="enter" rend="italic" xml:id="tg6.2.10.1.part1" dr:fixed-stage="true">in fremden Ton.</stage>
                                  </stage>
                                  <l xml:id="tg6.2.10.part2"> Hochedelgeborner und Gestrenger – – –</l>
                               </sp>
@@ -189,7 +189,7 @@ Personen des Nachspiels:</head>
                               <sp>
                                  <speaker xml:id="tg6.2.16.part1">HARLEKIN</speaker> 
                                  <stage>
-                                    <stage rend="italic" xml:id="tg6.2.16.1.part1" dr:fixed-stage="true">im gewöhnlichen Ton.</stage>
+                                    <stage type="enter" rend="italic" xml:id="tg6.2.16.1.part1" dr:fixed-stage="true">im gewöhnlichen Ton.</stage>
                                  </stage>
                                  <l xml:id="tg6.2.16.part2"> Ich komme, Herr Barthold, wegen Ihrer jüngsten Tochter Kolombine; sie gefällt mir – – –</l>
                               </sp>
@@ -329,7 +329,7 @@ Personen des Nachspiels:</head>
 
                               
                               
-                              <stage rend="zenoPC" xml:id="tg7.2.4">
+                              <stage type="enter" rend="zenoPC" xml:id="tg7.2.4">
                                  <hi rend="italic" xml:id="tg7.2.4.1">Die Vorigen, und Kolombine.</hi>
                               </stage>
                               <lb xml:id="tg7.2.5"/>
@@ -344,7 +344,7 @@ Personen des Nachspiels:</head>
                               <sp>
                                  <speaker xml:id="tg7.2.8.part1">HARLEKIN</speaker> 
                                  <stage>
-                                    <stage rend="italic" xml:id="tg7.2.8.1.part1" dr:fixed-stage="true">vor sich.</stage>
+                                    <stage type="enter" rend="italic" xml:id="tg7.2.8.1.part1" dr:fixed-stage="true">vor sich.</stage>
                                  </stage>
                                  <p xml:id="tg7.2.8.part2"> O Du – – – Sie wissen aber doch, meine schöne Kolombine, daß die Freyerey mit der Comödie ein Ende hat.</p>
                                  <pb n="42" xml:id="tg7.2.9"/>
@@ -398,7 +398,7 @@ Personen des Nachspiels:</head>
 
                               
                               
-                              <stage rend="zenoPC" xml:id="tg8.2.4">
+                              <stage type="enter" rend="zenoPC" xml:id="tg8.2.4">
                                  <hi rend="italic" xml:id="tg8.2.4.1">Harlekin und Kolombine.</hi>
                               </stage>
                               <lb xml:id="tg8.2.5"/>
@@ -488,7 +488,7 @@ Personen des Nachspiels:</head>
 
                               
                               
-                              <stage rend="zenoPC" xml:id="tg9.2.4">
+                              <stage type="enter" rend="zenoPC" xml:id="tg9.2.4">
                                  <hi rend="italic" xml:id="tg9.2.4.1">Die Vorigen, und Barthold.</hi>
                               </stage>
                               <lb xml:id="tg9.2.5"/>
@@ -534,7 +534,7 @@ Personen des Nachspiels:</head>
                                  <speaker xml:id="tg9.2.15.part1">BARTHOLD.</speaker>
                                  <p xml:id="tg9.2.15.part2"> Ich meyne es auch so. Beschlafen Sie die Sache! Ein guter Traum ist im Heirathen oft die beste Entscheidung.</p>
                                  <lb xml:id="tg9.2.16"/>
-                                 <stage rend="zenoPC" xml:id="tg9.2.17">
+                                 <stage type="exeunt" rend="zenoPC" xml:id="tg9.2.17">
                                     <stage rend="italic" xml:id="tg9.2.17.1" dr:fixed-stage="true">Sie gehn Beyde ab.</stage>
                                  </stage>
                                  <lb xml:id="tg9.2.18"/>
@@ -556,14 +556,14 @@ Personen des Nachspiels:</head>
 
                               
                               
-                              <stage rend="zenoPC" xml:id="tg10.2.4">
+                              <stage type="enter" rend="zenoPC" xml:id="tg10.2.4">
                                  <hi rend="italic" xml:id="tg10.2.4.1">Harlekin. Scapin und Peter.</hi>
                               </stage>
                               <lb xml:id="tg10.2.5"/>
                               <sp>
                                  <speaker xml:id="tg10.2.6.part1">HARLEKIN</speaker> 
                                  <stage>
-                                    <stage rend="italic" xml:id="tg10.2.6.1.part1" dr:fixed-stage="true">vor sich.</stage>
+                                    <stage type="enter" rend="italic" xml:id="tg10.2.6.1.part1" dr:fixed-stage="true">vor sich.</stage>
                                  </stage>
                                  <l xml:id="tg10.2.6.part2"> O weh! der erste Versuch ist nicht zum Besten abgelaufen. Itzt mögt' <hi rend="italic" xml:id="tg10.2.6.2.part2">ich</hi> wohl, nun will <hi rend="italic" xml:id="tg10.2.6.3.part2">sie</hi> nicht.</l>
                               </sp>
@@ -677,7 +677,7 @@ Personen des Nachspiels:</head>
                                  <p xml:id="tg10.2.34.part2"> O im geringsten nicht. Eben das Kleid, was ich Dir verschaffen will, hat schon mehrmal herhalten müssen. Ich will hingehen um es Dir zu bringen. Du mußt mir aber auch einmal wieder zu gefallen seyn, wenn Du nun ein Ehemann seyn wirst.</p>
                                  <lb xml:id="tg10.2.35"/>
                                  <stage rend="zenoPC" xml:id="tg10.2.36">
-                                    <stage rend="italic" xml:id="tg10.2.36.1" dr:fixed-stage="true">Scapin geht ab.</stage>
+                                    <stage type="exit" rend="italic" xml:id="tg10.2.36.1" dr:fixed-stage="true">Scapin geht ab.</stage>
                                  </stage>
                                  <lb xml:id="tg10.2.37"/>
 
@@ -700,7 +700,7 @@ Sechster Auftritt.</head>
 
                               
                               
-                              <stage rend="zenoPC" xml:id="tg11.2.4">
+                              <stage type="enter" rend="zenoPC" xml:id="tg11.2.4">
                                  <hi rend="italic" xml:id="tg11.2.4.1">Harlekin und Peter.</hi>
                               </stage>
                               <lb xml:id="tg11.2.5"/>
@@ -781,7 +781,7 @@ Sechster Auftritt.</head>
 
                               
                               
-                              <stage rend="zenoPC" xml:id="tg12.2.4">
+                              <stage type="enter" rend="zenoPC" xml:id="tg12.2.4">
                                  <hi rend="italic" xml:id="tg12.2.4.1">Scapin mit einem Kleide unterm Arme, und die Vorigen.</hi>
                               </stage>
                               <lb xml:id="tg12.2.5"/>
@@ -797,7 +797,7 @@ Sechster Auftritt.</head>
                                  <speaker xml:id="tg12.2.8.part1">PETER.</speaker>
                                  <l xml:id="tg12.2.8.part2"> Das ist des Henkers Comödie.</l>
                                  <lb xml:id="tg12.2.9"/>
-                                 <stage rend="zenoPC" xml:id="tg12.2.10">
+                                 <stage type="exeunt" rend="zenoPC" xml:id="tg12.2.10">
                                     <stage rend="italic" xml:id="tg12.2.10.1" dr:fixed-stage="true">Gehn ab.</stage>
                                  </stage>
                                  <lb xml:id="tg12.2.11"/>
@@ -821,7 +821,7 @@ Achter Auftritt.</head>
 
                               
                               
-                              <stage rend="zenoPC" xml:id="tg13.2.4">
+                              <stage type="enter" rend="zenoPC" xml:id="tg13.2.4">
                                  <hi rend="italic" xml:id="tg13.2.4.1">Isabelle und Valer.</hi>
                               </stage>
                               <lb xml:id="tg13.2.5"/>
@@ -849,7 +849,7 @@ Achter Auftritt.</head>
                                  <speaker xml:id="tg13.2.11.part1">VALER.</speaker>
                                  <l xml:id="tg13.2.11.part2"> Göttliche Isabelle!</l>
                                  <lb xml:id="tg13.2.12"/>
-                                 <stage rend="zenoPC" xml:id="tg13.2.13">
+                                 <stage type="other" rend="zenoPC" xml:id="tg13.2.13">
                                     <stage rend="italic" xml:id="tg13.2.13.1" dr:fixed-stage="true">Er will ihre Hand nehmen.</stage>
                                  </stage>
                                  <lb xml:id="tg13.2.14"/>
@@ -904,7 +904,7 @@ Achter Auftritt.</head>
 
                               
                               
-                              <stage rend="zenoPC" xml:id="tg14.2.4">
+                              <stage type="enter" rend="zenoPC" xml:id="tg14.2.4">
                                  <hi rend="italic" xml:id="tg14.2.4.1">Die Vorigen. Harlekin und Peter.</hi>
                               </stage>
                               <lb xml:id="tg14.2.5"/>
@@ -937,7 +937,7 @@ Achter Auftritt.</head>
                                  <speaker xml:id="tg14.2.13.part1">VALER.</speaker>
                                  <p xml:id="tg14.2.13.part2"> Herr Barthold und Ihr alle seyd verrückt. Ein andermal soll man es mir zweymal sagen, ehe ich hierher kommen und meine Rolle spielen will.</p>
                                  <lb xml:id="tg14.2.14"/>
-                                 <stage rend="zenoPC" xml:id="tg14.2.15">
+                                 <stage type="exit" rend="zenoPC" xml:id="tg14.2.15">
                                     <stage rend="italic" xml:id="tg14.2.15.1" dr:fixed-stage="true">Geht ab.</stage>
                                  </stage>
                                  <lb xml:id="tg14.2.16"/>
@@ -1011,7 +1011,7 @@ Achter Auftritt.</head>
                                  <speaker xml:id="tg14.2.34.part1">ISABELLE.</speaker>
                                  <p xml:id="tg14.2.34.part2"> Ich wünsche Euch mit einander ein Paar Weiber, die Euch die Köpfe zurechte setzen; und wenn Herr Barthold seine selige Frau noch hätte, so würde er mich nicht hierher auf April geschickt haben. Das sagt ihm nur, wenn Ihr ihn sehet.</p>
                                  <lb xml:id="tg14.2.35"/>
-                                 <stage rend="zenoPC" xml:id="tg14.2.36">
+                                 <stage type="exit" rend="zenoPC" xml:id="tg14.2.36">
                                     <stage rend="italic" xml:id="tg14.2.36.1" dr:fixed-stage="true">Geht ab.</stage>
                                  </stage>
                                  <lb xml:id="tg14.2.37"/>
@@ -1033,7 +1033,7 @@ Achter Auftritt.</head>
 
                               
                               
-                              <stage rend="zenoPC" xml:id="tg15.2.4">
+                              <stage type="enter" rend="zenoPC" xml:id="tg15.2.4">
                                  <hi rend="italic" xml:id="tg15.2.4.1">Harlekin und Peter.</hi>
                               </stage>
                               <lb xml:id="tg15.2.5"/>
@@ -1049,7 +1049,7 @@ Achter Auftritt.</head>
                               <sp>
                                  <speaker xml:id="tg15.2.8.part1">HARLEKIN</speaker> 
                                  <stage>
-                                    <stage rend="italic" xml:id="tg15.2.8.1.part1" dr:fixed-stage="true">zieht das Kleid über das seinige und macht dabey ein Theaterspiel.</stage>
+                                    <stage type="other" rend="italic" xml:id="tg15.2.8.1.part1" dr:fixed-stage="true">zieht das Kleid über das seinige und macht dabey ein Theaterspiel.</stage>
                                  </stage>
 
                                  <lb xml:id="tg15.2.9"/>
@@ -1070,7 +1070,7 @@ Achter Auftritt.</head>
 
                               
                               
-                              <stage rend="zenoPC" xml:id="tg16.2.4">
+                              <stage type="enter" rend="zenoPC" xml:id="tg16.2.4">
                                  <hi rend="italic" xml:id="tg16.2.4.1">Die Vorigen und Scapin.</hi>
                               </stage>
                               <lb xml:id="tg16.2.5"/>
@@ -1138,7 +1138,7 @@ Achter Auftritt.</head>
                               <sp>
                                  <speaker xml:id="tg16.2.22.part1">HARLEKIN</speaker> 
                                  <stage>
-                                    <stage rend="italic" xml:id="tg16.2.22.1.part1" dr:fixed-stage="true">zu Scapin.</stage>
+                                    <stage type="enter" rend="italic" xml:id="tg16.2.22.1.part1" dr:fixed-stage="true">zu Scapin.</stage>
                                  </stage>
                                  <l xml:id="tg16.2.22.part2"> Wolltest Du mich wohl bey Kolombinen melden?</l>
                               </sp>
@@ -1167,7 +1167,7 @@ Achter Auftritt.</head>
 
                               
                               
-                              <stage rend="zenoPC" xml:id="tg17.2.4">
+                              <stage type="enter" rend="zenoPC" xml:id="tg17.2.4">
                                  <hi rend="italic" xml:id="tg17.2.4.1">Harlekin und Peter.</hi>
                               </stage>
                               <lb xml:id="tg17.2.5"/>
@@ -1217,7 +1217,7 @@ Achter Auftritt.</head>
 
                               
                               
-                              <stage rend="zenoPC" xml:id="tg18.2.4">
+                              <stage type="enter" rend="zenoPC" xml:id="tg18.2.4">
                                  <hi rend="italic" xml:id="tg18.2.4.1">Die Vorigen und Scapin.</hi>
                               </stage>
                               <lb xml:id="tg18.2.5"/>
@@ -1241,7 +1241,7 @@ Achter Auftritt.</head>
                                  <speaker xml:id="tg18.2.10.part1">SCAPIN.</speaker>
                                  <l xml:id="tg18.2.10.part2"> Komm Peter, wir wollen in die nächste Schenke gehn, und unsre künftige Wette vertrinken.</l>
                                  <lb xml:id="tg18.2.11"/>
-                                 <stage rend="zenoPC" xml:id="tg18.2.12">
+                                 <stage type="exit" rend="zenoPC" xml:id="tg18.2.12">
                                     <stage rend="italic" xml:id="tg18.2.12.1" dr:fixed-stage="true">Letztere gehn ab.</stage>
                                  </stage>
                                  <lb xml:id="tg18.2.13"/>
@@ -1263,7 +1263,7 @@ Achter Auftritt.</head>
 
                               
                               
-                              <stage rend="zenoPC" xml:id="tg19.2.4">
+                              <stage type="enter" rend="zenoPC" xml:id="tg19.2.4">
                                  <hi rend="italic" xml:id="tg19.2.4.1">Harlekin. Kolombine.</hi>
                               </stage>
                               <lb xml:id="tg19.2.5"/>
@@ -1328,13 +1328,13 @@ Achter Auftritt.</head>
                                  <speaker xml:id="tg19.2.21.part1">HARLEKIN.</speaker>
                                  <l xml:id="tg19.2.21.part2"> O Prinzessin! so wird es nicht gehn. Flugs hierher!</l>
                                  <lb xml:id="tg19.2.22"/>
-                                 <stage rend="zenoPC" xml:id="tg19.2.23">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg19.2.23">
                                     <stage rend="italic" xml:id="tg19.2.23.1" dr:fixed-stage="true">Er nimmt sie bey der Hand, und stellet sie so daß sie ihm nicht entgehen kann.</stage>
                                  </stage>
                                  <lb xml:id="tg19.2.24"/>
                                  <l xml:id="tg19.2.25">und diese Ohrringe, diese Dukaten, diese Küsse angenommen.</l>
                                  <lb xml:id="tg19.2.26"/>
-                                 <stage rend="zenoPC" xml:id="tg19.2.27">
+                                 <stage type="other" rend="zenoPC" xml:id="tg19.2.27">
                                     <stage rend="italic" xml:id="tg19.2.27.1" dr:fixed-stage="true">Er will sie küssen, und sie wehret sich.</stage>
                                  </stage>
                                  <lb xml:id="tg19.2.28"/>
@@ -1348,18 +1348,18 @@ Achter Auftritt.</head>
                                  <p xml:id="tg19.2.30.part2"> Was mäßigen? Drey Jahre belagere ich eure verdammte Schaubühne, als wenn ich eine Festung belagere: und beständig habe ich meine Kanonen auf Dich gerichtet. Daß ich endlich einmal Sturm laufe, mußt Du mir nicht verdenken. Sogleich diese Ohrringe eingesteckt!</p>
                                  <lb xml:id="tg19.2.31"/>
                                  <stage rend="zenoPC" xml:id="tg19.2.32">
-                                    <stage rend="italic" xml:id="tg19.2.32.1" dr:fixed-stage="true">Er dringt ihr solche auf, sie fallen aber auf die Erde.</stage>
+                                    <stage type="enter" rend="italic" xml:id="tg19.2.32.1" dr:fixed-stage="true">Er dringt ihr solche auf, sie fallen aber auf die Erde.</stage>
                                  </stage>
                                  <lb xml:id="tg19.2.33"/>
                                  <l xml:id="tg19.2.34">und hier diese tausend Dukaten, oder</l>
                                  <lb xml:id="tg19.2.35"/>
-                                 <stage rend="zenoPC" xml:id="tg19.2.36">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg19.2.36">
                                     <stage rend="italic" xml:id="tg19.2.36.1" dr:fixed-stage="true">Wie vorher.</stage>
                                  </stage>
                                  <lb xml:id="tg19.2.37"/>
                                  <l xml:id="tg19.2.38">und nun gehts auf die Bresche los.</l>
                                  <lb xml:id="tg19.2.39"/>
-                                 <stage rend="zenoPC" xml:id="tg19.2.40">
+                                 <stage type="other" rend="zenoPC" xml:id="tg19.2.40">
                                     <stage rend="italic" xml:id="tg19.2.40.1" dr:fixed-stage="true">Er umarmt sie auf seine Art.</stage>
                                  </stage>
                                  <lb xml:id="tg19.2.41"/>
@@ -1387,7 +1387,7 @@ Fünfzehnter Auftritt.</head>
 
                               
                               
-                              <stage rend="zenoPC" xml:id="tg20.2.4">
+                              <stage type="enter" rend="zenoPC" xml:id="tg20.2.4">
                                  <hi rend="italic" xml:id="tg20.2.4.1">Die Vorigen, Barthold, Scapin und Peter kommen von allen Seiten.</hi>
                               </stage>
                               <lb xml:id="tg20.2.5"/>
@@ -1403,7 +1403,7 @@ Fünfzehnter Auftritt.</head>
                                  <speaker xml:id="tg20.2.8.part1">BARTHOLD.</speaker>
                                  <p xml:id="tg20.2.8.part2"> Und darum schreyest Du so, Mädchen? Ich wette, wenn ich den Herrn Hauptmann mit Gewalt zum Hause hinaus werfe, er macht nicht einen solchen Lerm.</p>
                                  <lb xml:id="tg20.2.9"/>
-                                 <stage rend="zenoPC" xml:id="tg20.2.10">
+                                 <stage type="other" rend="zenoPC" xml:id="tg20.2.10">
                                     <stage rend="italic" xml:id="tg20.2.10.1" dr:fixed-stage="true">Kolombine hebt inzwischen das Kästchen auf und sieht aus Vorwitz hinein.</stage>
                                  </stage>
                                  <lb xml:id="tg20.2.11"/>
@@ -1424,7 +1424,7 @@ Fünfzehnter Auftritt.</head>
                                  <speaker xml:id="tg20.2.15.part1">BARTHOLD.</speaker>
                                  <p xml:id="tg20.2.15.part2"> Du bist sehr fein, wie ich merke; inzwischen, wenn Sie es erlauben wollen, so will ich Ihnen vors erste wohlmeynend eine Tracht Schläge mitgeben. Sie mögten es vielleicht vergessen sie abzuholen.</p>
                                  <lb xml:id="tg20.2.16"/>
-                                 <stage rend="zenoPC" xml:id="tg20.2.17">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg20.2.17">
                                     <stage rend="italic" xml:id="tg20.2.17.1" dr:fixed-stage="true">Er prügelt ihn zur Schaubühne herunter. Scapin und Peter halten ihm überall wo er hin läuft, die Hände vor, um ihr Geld zu empfangen. Harlekin entflieht endlich.</stage>
                                  </stage>
                                  <lb xml:id="tg20.2.18"/>
@@ -1434,7 +1434,7 @@ Fünfzehnter Auftritt.</head>
                                  <speaker xml:id="tg20.2.20.part1">KOLOMBINE.</speaker>
                                  <p xml:id="tg20.2.20.part2"> Ach daß Gott erbarme! Lassen Sie doch diese Sporteln immerweg dem Richter; er wird sie den Parteyen treulich wieder ausliefern, und sich gern mit der Gebühr befriedigen. Sehen Sie hier.</p>
                                  <lb xml:id="tg20.2.21"/>
-                                 <stage rend="zenoPC" xml:id="tg20.2.22">
+                                 <stage type="other" rend="zenoPC" xml:id="tg20.2.22">
                                     <stage rend="italic" xml:id="tg20.2.22.1" dr:fixed-stage="true">Er nimmt den Beutel und das Kästchen.</stage>
                                  </stage>
                                  <lb xml:id="tg20.2.23"/>
@@ -1472,7 +1472,7 @@ Ich habe mit ihm um fünf Batzen gewettet, und bereits die Hälfte davon vertrun
                                  <speaker xml:id="tg20.2.31.part1">SCAPIN.</speaker>
                                  <l xml:id="tg20.2.31.part2"> Sie sind ein redlicher Mann, Herr Barthold. Kein Wort aus meinem Munde!</l>
                                  <lb xml:id="tg20.2.32"/>
-                                 <stage rend="zenoPC" xml:id="tg20.2.33">
+                                 <stage type="exit" rend="zenoPC" xml:id="tg20.2.33">
                                     <stage rend="italic" xml:id="tg20.2.33.1" dr:fixed-stage="true">Er hält den Finger auf den Mund, und geht ab.</stage>
                                  </stage>
                                  <lb xml:id="tg20.2.34"/>
@@ -1481,7 +1481,7 @@ Ich habe mit ihm um fünf Batzen gewettet, und bereits die Hälfte davon vertrun
                                  <speaker xml:id="tg20.2.35.part1">PETER.</speaker>
                                  <l xml:id="tg20.2.35.part2"> Auf Ihre und Mamsell Kolombinens Gesundheit!</l>
                                  <lb xml:id="tg20.2.36"/>
-                                 <stage rend="zenoPC" xml:id="tg20.2.37">
+                                 <stage type="exit" rend="zenoPC" xml:id="tg20.2.37">
                                     <stage rend="italic" xml:id="tg20.2.37.1" dr:fixed-stage="true">Er hält die ganze Hand auf den Mund, und geht ab.</stage>
                                  </stage>
                                  <lb xml:id="tg20.2.38"/>
@@ -1503,7 +1503,7 @@ Ich habe mit ihm um fünf Batzen gewettet, und bereits die Hälfte davon vertrun
 
                               
                               
-                              <stage rend="zenoPC" xml:id="tg21.2.4">
+                              <stage type="enter" rend="zenoPC" xml:id="tg21.2.4">
                                  <hi rend="italic" xml:id="tg21.2.4.1">Barthold und Kolombine.</hi>
                               </stage>
                               <lb xml:id="tg21.2.5"/>
@@ -1561,7 +1561,7 @@ und sogar zum Hahnrey. Und Du kannst mir als Deinem Vater wohl glauben, <hi rend
 
                               
                               
-                              <stage rend="zenoPC" xml:id="tg22.2.4">
+                              <stage type="enter" rend="zenoPC" xml:id="tg22.2.4">
                                  <hi rend="italic" xml:id="tg22.2.4.1">Die Vorigen und Harlekin.</hi>
                               </stage>
                               <lb xml:id="tg22.2.5"/>
@@ -1610,7 +1610,7 @@ und sogar zum Hahnrey. Und Du kannst mir als Deinem Vater wohl glauben, <hi rend
                                  <speaker xml:id="tg22.2.17.part1">HARLEKIN.</speaker>
                                  <l xml:id="tg22.2.17.part2"> O wenn Sie wüßten!</l>
                                  <lb xml:id="tg22.2.18"/>
-                                 <stage rend="zenoPC" xml:id="tg22.2.19">
+                                 <stage type="other"  rend="zenoPC" xml:id="tg22.2.19">
                                     <stage rend="italic" xml:id="tg22.2.19.1" dr:fixed-stage="true">Er geht auf der Bühne herum, und freuet sich.</stage>
                                  </stage>
                                  <lb xml:id="tg22.2.20"/>
@@ -1744,7 +1744,7 @@ und sogar zum Hahnrey. Und Du kannst mir als Deinem Vater wohl glauben, <hi rend
                                  <speaker xml:id="tg22.2.53.part1">KOLOMBINE.</speaker>
                                  <p xml:id="tg22.2.53.part2"> Bemühen Sie Sich nicht. Sie wissen, was Sie mir zuvor sagten: Wenn die Comödie aus ist, so hat die Freyerey ein Ende. Ich empfehle mich Ihnen ganz gehorsamst.</p>
                                  <lb xml:id="tg22.2.54"/>
-                                 <stage rend="zenoPC" xml:id="tg22.2.55">
+                                 <stage type="other" rend="zenoPC" xml:id="tg22.2.55">
                                     <stage rend="italic" xml:id="tg22.2.55.1" dr:fixed-stage="true">Sie will abgehn.</stage>
                                  </stage>
                                  <lb xml:id="tg22.2.56"/>
@@ -1774,7 +1774,7 @@ und sogar zum Hahnrey. Und Du kannst mir als Deinem Vater wohl glauben, <hi rend
                                  <speaker xml:id="tg22.2.63.part1">KOLOMBINE.</speaker>
                                  <p xml:id="tg22.2.63.part2"> Sie müssen mir erst Ihr Schwert übergeben. Es schickt sich nicht, daß Sie solches in dieser Stellung an der Seite tragen.</p>
                                  <lb xml:id="tg22.2.64"/>
-                                 <stage rend="zenoPC" xml:id="tg22.2.65">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg22.2.65">
                                     <stage rend="italic" xml:id="tg22.2.65.1" dr:fixed-stage="true">Er überreicht ihr seinen Säbel.</stage>
                                  </stage>
                                  <lb xml:id="tg22.2.66"/>

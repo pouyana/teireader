@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xmlns:dr="http://www.germanistik.uni-wuerzburg.de/lehrstuehle/computerphilologie/dramenanalyse" xml:id="tg772" n="/Literatur/M/Gryphius, Andreas/Dramen/Horribilicribrifax">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_digibibDrama.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xmlns:dr="http://www.germanistik.uni-wuerzburg.de/lehrstuehle/computerphilologie/dramenanalyse" xml:id="tg772" n="/Literatur/M/Gryphius, Andreas/Dramen/Horribilicribrifax">
             <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors" n="work:yes">
                <fileDesc>
                   <titleStmt>
@@ -223,7 +224,7 @@ als Schweigende:</head>
                               <head type="h4" xml:id="tg775.2.1">Der Erste Auffzug.</head>
                               
                               
-                              <stage rend="zenoPC" xml:id="tg775.2.4">
+                              <stage type="enter" rend="zenoPC" xml:id="tg775.2.4">
                                  <hi rend="italic" xml:id="tg775.2.4.1">Capitain Daradiridatumtarides Windbrecher von Tausend Mord. Don Cacciadiavolo, Don Diego, seine Diener.</hi>
                               </stage>
                               <lb xml:id="tg775.2.5"/>
@@ -296,7 +297,7 @@ der Rappschnabel / Ce bugre, Ce larron, Ce menteur, Ce fils de Putain, Ce traist
                               <sp>
                                  <speaker xml:id="tg775.2.23.part1">CAPITAIN DARADIRIDATUMTARIDES</speaker> 
                                  <stage>
-                                    <stage rend="italic" xml:id="tg775.2.23.1.part1" dr:fixed-stage="true">zeucht den Degen aus.</stage>
+                                    <stage type="other" rend="italic" xml:id="tg775.2.23.1.part1" dr:fixed-stage="true">zeucht den Degen aus.</stage>
                                  </stage>
                                  <p xml:id="tg775.2.23.part2"> Sa! sa! heran / <pb n="17" xml:id="tg775.2.23.2.part2"/>
 heran / du seyest auch wer du seyst! je brave la main des parqves, ich habe wohl eher alleine dreissig mahl hundert tausend millionen Geister bestanden.</p>
@@ -307,7 +308,7 @@ heran / du seyest auch wer du seyst! je brave la main des parqves, ich habe wohl
                               </sp>
                               <sp>
                                  <speaker xml:id="tg775.2.25.part1">DON CACCIADIAVOLO.</speaker>
-                                 <p xml:id="tg775.2.25.part2"> Wol was geraß ist dieses? <stage rend="italic" xml:id="tg775.2.25.1.part2" dr:fixed-stage="true">Der Nachtwächter beginnt zu singen / Jhr lieben Leute last euch sagen und dergleichen.</stage>
+                                 <p xml:id="tg775.2.25.part2"> Wol was geraß ist dieses? <stage type="other" rend="italic" xml:id="tg775.2.25.1.part2" dr:fixed-stage="true">Der Nachtwächter beginnt zu singen / Jhr lieben Leute last euch sagen und dergleichen.</stage>
                                  </p>
                               </sp>
                               <sp>
@@ -315,7 +316,7 @@ heran / du seyest auch wer du seyst! je brave la main des parqves, ich habe wohl
                                  <p xml:id="tg775.2.26.part2"> Bey meinem adelichen Ehren / ich halte doch / es gehen Gespenster um. Was ists von nöthen / daß wir die Zeit so früh auff der Gassen zubringen. Herein / herein ins Gemach. Wer Unglück suchet / der verdirbet darinnen.</p>
                                  <lb xml:id="tg775.2.27"/>
                                  <stage rend="zenoPC" xml:id="tg775.2.28">
-                                    <stage rend="italic" xml:id="tg775.2.28.1" dr:fixed-stage="true">Antonia. Selene.</stage>
+                                    <stage type="enter" rend="italic" xml:id="tg775.2.28.1" dr:fixed-stage="true">Antonia. Selene.</stage>
                                  </stage>
                                  <lb xml:id="tg775.2.29"/>
                               </sp>
@@ -395,7 +396,7 @@ gar ist) wenn sie um 12. Uhr wiederum zu Bette kommen / so schlagen sie sich mit
                                  <p xml:id="tg775.2.48.part2"> Wehe den Töchtern / die nicht selber ihr bestes suchen / und es auff der wunderlichen Mutter Vorsorge ankommen lassen.</p>
                                  <lb xml:id="tg775.2.49"/>
                                  <stage rend="zenoPC" xml:id="tg775.2.50">
-                                    <stage rend="italic" xml:id="tg775.2.50.1" dr:fixed-stage="true">Flaccilla. Sophia.</stage>
+                                    <stage type="enter" rend="italic" xml:id="tg775.2.50.1" dr:fixed-stage="true">Flaccilla. Sophia.</stage>
                                  </stage>
                                  <lb xml:id="tg775.2.51"/>
                               </sp>
@@ -470,7 +471,7 @@ so lasset uns dienen! düncket euch diß in diesem Ort zu schändlich / so lasse
                                  <l xml:id="tg775.2.69.part2"> O höchste Tugend! wie unwerth bist du in diesem Armuth / und wie ungeachtet in diesem Elend!</l>
                                  <lb xml:id="tg775.2.70"/>
                                  <stage rend="zenoPC" xml:id="tg775.2.71">
-                                    <stage rend="italic" xml:id="tg775.2.71.1" dr:fixed-stage="true">
+                                    <stage type="enter" rend="italic" xml:id="tg775.2.71.1" dr:fixed-stage="true">
                                        <pb n="23" xml:id="tg775.2.71.1.1"/>
 Sempronius.</stage>
                                  </stage>
@@ -482,7 +483,7 @@ Sempronius.</stage>
 so ist dieses ihr Hauß. Sed eccum, illa ipsa prodit, last uns hören in hoc angulo, was vor excursus sie vorbringen werde.</p>
                                  <lb xml:id="tg775.2.74"/>
                                  <stage rend="zenoPC" xml:id="tg775.2.75">
-                                    <stage rend="italic" xml:id="tg775.2.75.1" dr:fixed-stage="true">Die alte Cyrille. Sempronius.</stage>
+                                    <stage type="enter" rend="italic" xml:id="tg775.2.75.1" dr:fixed-stage="true">Die alte Cyrille. Sempronius.</stage>
                                  </stage>
                                  <lb xml:id="tg775.2.76"/>
                               </sp>
@@ -792,7 +793,7 @@ weiß doch wohl / daß ihr eine redliche Frau seyd; die gantze Stadt haud negat.
 Die andere Abhandelung.</head>
                               
                               
-                              <stage rend="zenoPC" xml:id="tg776.2.4">
+                              <stage type="enter" rend="zenoPC" xml:id="tg776.2.4">
                                  <hi rend="italic" xml:id="tg776.2.4.1">Horribilicribrifax Donnerkeil. Harpax sein Page.</hi>
                               </stage>
                               <lb xml:id="tg776.2.5"/>
@@ -826,7 +827,7 @@ Die andere Abhandelung.</head>
 dürffte / der bey mir stehet! laß mich darvor sorgen! aber / siehe da / meine Sonne! mein Leben! meine Göttin erscheinet. Signora mia, bella di corpo, bellissima d'animo!</p>
                                  <lb xml:id="tg776.2.13"/>
                                  <stage rend="zenoPC" xml:id="tg776.2.14">
-                                    <stage rend="italic" xml:id="tg776.2.14.1" dr:fixed-stage="true">Coelestina. Camilla. Horribilicribrifax. Der Page.</stage>
+                                    <stage type="enter" rend="italic" xml:id="tg776.2.14.1" dr:fixed-stage="true">Coelestina. Camilla. Horribilicribrifax. Der Page.</stage>
                                  </stage>
                                  <lb xml:id="tg776.2.15"/>
                               </sp>
@@ -1020,7 +1021,7 @@ auffrichtig Gemüthe / und weiß / wie fest ich in Liebe gegen meine Englische C
                                  <p xml:id="tg776.2.64.part2"> Gefehlt Jungfrau Camilla! Denn das Horn flog just dem Hirsch zum Hindern hinein / und weil das Wild in vollen Fartzen war / gab es so ein wunderlich Getöne / daß alle Hunde herzu gelauffen kamen / und den Hirschen anhielten / also ward das Wild gefället.</p>
                                  <lb xml:id="tg776.2.65"/>
                                  <stage rend="zenoPC" xml:id="tg776.2.66">
-                                    <stage rend="italic" xml:id="tg776.2.66.1" dr:fixed-stage="true">Coelestina und Camilla fangen an zu lachen.</stage>
+                                    <stage type="other" rend="italic" xml:id="tg776.2.66.1" dr:fixed-stage="true">Coelestina und Camilla fangen an zu lachen.</stage>
                                  </stage>
                                  <lb xml:id="tg776.2.67"/>
                               </sp>
@@ -1053,7 +1054,7 @@ auffrichtig Gemüthe / und weiß / wie fest ich in Liebe gegen meine Englische C
                                  <p xml:id="tg776.2.74.part2"> Adio dann wenn es ja nicht anders seyn kan / mein Engel / Adio meine Göttin / Adio mein Auffenthalt / Adio mio bene, adio mia gloria, adio donna Celeste! adio!</p>
                                  <lb xml:id="tg776.2.75"/>
                                  <stage rend="zenoPC" xml:id="tg776.2.76">
-                                    <stage rend="italic" xml:id="tg776.2.76.1" dr:fixed-stage="true">
+                                    <stage type="enter" rend="italic" xml:id="tg776.2.76.1" dr:fixed-stage="true">
                                        <pb n="37" xml:id="tg776.2.76.1.1"/>
 Palladius. Coelestina. Camilla.</stage>
                                  </stage>
@@ -1161,7 +1162,7 @@ Palladius. Coelestina. Camilla.</stage>
                                  <l xml:id="tg776.2.104.part2"> Sie liebe / was sie liebet / und lasse fahren / was nicht bleiben wil.</l>
                                  <lb xml:id="tg776.2.105"/>
                                  <stage rend="zenoPC" xml:id="tg776.2.106">
-                                    <stage rend="italic" xml:id="tg776.2.106.1" dr:fixed-stage="true">Die alte Cyrilla.</stage>
+                                    <stage type="enter" rend="italic" xml:id="tg776.2.106.1" dr:fixed-stage="true">Die alte Cyrilla.</stage>
                                  </stage>
                                  <lb xml:id="tg776.2.107"/>
                               </sp>
@@ -1172,10 +1173,10 @@ Palladius. Coelestina. Camilla.</stage>
                                  </p>
                                  <lb xml:id="tg776.2.109"/>
                                  <stage rend="zenoPC" xml:id="tg776.2.110">
-                                    <stage rend="italic" xml:id="tg776.2.110.1" dr:fixed-stage="true">Camilla. Coelestina. Cyrilla.</stage>
+                                    <stage type="enter" rend="italic" xml:id="tg776.2.110.1" dr:fixed-stage="true">Camilla. Coelestina. Cyrilla.</stage>
                                  </stage>
                                  <stage rend="zenoPC" xml:id="tg776.2.111">
-                                    <stage rend="italic" xml:id="tg776.2.111.1" dr:fixed-stage="true">Die Pagen und Gesinde von Coelestina.</stage>
+                                    <stage type="enter" rend="italic" xml:id="tg776.2.111.1" dr:fixed-stage="true">Die Pagen und Gesinde von Coelestina.</stage>
                                  </stage>
                                  <lb xml:id="tg776.2.112"/>
                               </sp>
@@ -1389,7 +1390,7 @@ redliche Frau! O GOtt sey ihrer Seelen genädig! O was hat sie mir guts gethan! 
                               <sp>
                                  <speaker xml:id="tg776.2.166.part1">CAMILLA</speaker> 
                                  <stage>
-                                    <stage rend="italic" xml:id="tg776.2.166.1.part1" dr:fixed-stage="true">mit dem Gesinde.</stage>
+                                    <stage type="other" rend="italic" xml:id="tg776.2.166.1.part1" dr:fixed-stage="true">mit dem Gesinde.</stage>
                                  </stage>
                                  <l xml:id="tg776.2.166.part2"> Wie ists meine Jungfrau? ist die Maß nicht vollkommen?</l>
                               </sp>
@@ -1406,7 +1407,7 @@ redliche Frau! O GOtt sey ihrer Seelen genädig! O was hat sie mir guts gethan! 
                                  <l xml:id="tg776.2.169.part2"> Schmieret die alte Hexe zum tügen ab / daß andere eine Abscheu nehmen derogleichen zu begehen.</l>
                                  <lb xml:id="tg776.2.170"/>
                                  <stage rend="zenoPC" xml:id="tg776.2.171">
-                                    <stage rend="italic" xml:id="tg776.2.171.1" dr:fixed-stage="true">Coelestina gehet davon.</stage>
+                                    <stage type="exit" rend="italic" xml:id="tg776.2.171.1" dr:fixed-stage="true">Coelestina gehet davon.</stage>
                                  </stage>
                                  <lb xml:id="tg776.2.172"/>
                                  <pb n="44" xml:id="tg776.2.173"/>
@@ -1440,20 +1441,20 @@ redliche Frau! O GOtt sey ihrer Seelen genädig! O was hat sie mir guts gethan! 
                                  <l xml:id="tg776.2.180.part2"> Gebet ihr die Tasche / und lasset sie vor den Teuffel lauffen!</l>
                                  <lb xml:id="tg776.2.181"/>
                                  <stage rend="zenoPC" xml:id="tg776.2.182">
-                                    <stage rend="italic" xml:id="tg776.2.182.1" dr:fixed-stage="true">Die Pagen schmieren sie um und um mit Koth / und gehen mit Camilla davon.</stage>
+                                    <stage rend="italic" xml:id="tg776.2.182.1" dr:fixed-stage="true"><seg type="other">Die Pagen schmieren sie um und um mit Koth</seg><seg type="exit"> / und gehen mit Camilla davon.</seg></stage>
                                  </stage>
                                  <lb xml:id="tg776.2.183"/>
                               </sp>
                               <sp>
                                  <speaker xml:id="tg776.2.184.part1">CYRILLA</speaker> 
                                  <stage>
-                                    <stage rend="italic" xml:id="tg776.2.184.1.part1" dr:fixed-stage="true">bleibet stehen / wischet die Augen ab / und fähret redent fort.</stage>
+                                    <stage type ="other" rend="italic" xml:id="tg776.2.184.1.part1" dr:fixed-stage="true">bleibet stehen / wischet die Augen ab / und fähret redent fort.</stage>
                                  </stage>
                                  <p xml:id="tg776.2.184.part2">
                                     <hi rend="italic" xml:id="tg776.2.184.1.part2">):</hi> Ach mein Kopff! mein Bauch! mein Rücken! O mein Schleyer / meine Mütze! mein Körblin ist gar in Stücken. Hab ich auch noch meine Spitzen gar / 1. 2. 3. 4. 5. 8. 12. Stück; ja das heist Brieffe getragen. Aber schaut / dort komt Don Diego, der muß mirs wohl bezahlen.</p>
                                  <lb xml:id="tg776.2.185"/>
                                  <stage rend="zenoPC" xml:id="tg776.2.186">
-                                    <stage rend="italic" xml:id="tg776.2.186.1" dr:fixed-stage="true">Don Diego. Cyrilla.</stage>
+                                    <stage type="enter" rend="italic" xml:id="tg776.2.186.1" dr:fixed-stage="true">Don Diego. Cyrilla.</stage>
                                  </stage>
                                  <lb xml:id="tg776.2.187"/>
                               </sp>
@@ -1465,7 +1466,7 @@ sich fertig macht seine Selenisse zu besuchen / hab ich mich von ihm weg gestole
                               <sp>
                                  <speaker xml:id="tg776.2.189.part1">CYRILLA</speaker> 
                                  <stage>
-                                    <stage rend="italic" xml:id="tg776.2.189.1.part1" dr:fixed-stage="true">heulende.</stage>
+                                    <stage type ="other" rend="italic" xml:id="tg776.2.189.1.part1" dr:fixed-stage="true">heulende.</stage>
                                  </stage>
                                  <l xml:id="tg776.2.189.part2"> Ja Jungfer Sophien zu überreden.</l>
                               </sp>
@@ -1529,7 +1530,7 @@ sich fertig macht seine Selenisse zu besuchen / hab ich mich von ihm weg gestole
                                  </p>
                                  <lb xml:id="tg776.2.205"/>
                                  <stage rend="zenoPC" xml:id="tg776.2.206">
-                                    <stage rend="italic" xml:id="tg776.2.206.1" dr:fixed-stage="true">Coelestina. Camilla.</stage>
+                                    <stage type="enter" rend="italic" xml:id="tg776.2.206.1" dr:fixed-stage="true">Coelestina. Camilla.</stage>
                                  </stage>
                                  <lb xml:id="tg776.2.207"/>
                               </sp>
@@ -1622,7 +1623,7 @@ Pein und Knochen ein Traurkleid zu machen; weil ich gäntzlich entschlossen bin 
                                  <l xml:id="tg776.2.238.part2"> Jch fürchte fürwar / er würde mit seiner Kälte alles Feur in der gantzen Küchen außlöschen.</l>
                                  <lb xml:id="tg776.2.239"/>
                                  <stage rend="zenoPC" xml:id="tg776.2.240">
-                                    <stage rend="italic" xml:id="tg776.2.240.1" dr:fixed-stage="true">
+                                    <stage type="enter" rend="italic" xml:id="tg776.2.240.1" dr:fixed-stage="true">
                                        <pb n="49" xml:id="tg776.2.240.1.1"/>
 Cyrilla. Sempronius.</stage>
                                  </stage>
@@ -1864,10 +1865,10 @@ es wohl / ich weiß aber nicht / ob ihr mich eine Hure heisset.</p>
                                  <l xml:id="tg776.2.301.part2"> Eyre / Mehl und Butter lassen sich am besten unterrühren.</l>
                                  <lb xml:id="tg776.2.302"/>
                                  <stage rend="zenoPC" xml:id="tg776.2.303">
-                                    <stage rend="italic" xml:id="tg776.2.303.1" dr:fixed-stage="true">Daradiridatumtarides. Selenissa.</stage>
+                                    <stage type="enter" rend="italic" xml:id="tg776.2.303.1" dr:fixed-stage="true">Daradiridatumtarides. Selenissa.</stage>
                                  </stage>
                                  <stage rend="zenoPC" xml:id="tg776.2.304">
-                                    <stage rend="italic" xml:id="tg776.2.304.1" dr:fixed-stage="true">Cacciadiavolo. Diego.</stage>
+                                    <stage type="enter" rend="italic" xml:id="tg776.2.304.1" dr:fixed-stage="true">Cacciadiavolo. Diego.</stage>
                                  </stage>
                                  <lb xml:id="tg776.2.305"/>
                               </sp>
@@ -1936,7 +1937,7 @@ und weiß gar wohl / aus was für einer Art wir kommen. Alsbald ich auf diese We
                               <head type="h4" xml:id="tg777.2.1">Der dritte Auffzug.</head>
                               
                               
-                              <stage rend="zenoPC" xml:id="tg777.2.4">
+                              <stage type="enter" rend="zenoPC" xml:id="tg777.2.4">
                                  <hi rend="italic" xml:id="tg777.2.4.1">Bonosus. Palladius.</hi>
                               </stage>
                               <lb xml:id="tg777.2.5"/>
@@ -1974,7 +1975,7 @@ Mich schmertzt nicht mehr / als daß wir / wegen der nichts werthen unbedachtsam
                                  <l xml:id="tg777.2.13.part2"> Jch kan mich nicht genung verwundern über der thörichten und unbesonnenen Jugend!</l>
                                  <lb xml:id="tg777.2.14"/>
                                  <stage rend="zenoPC" xml:id="tg777.2.15">
-                                    <stage rend="italic" xml:id="tg777.2.15.1" dr:fixed-stage="true">
+                                    <stage type="enter" rend="italic" xml:id="tg777.2.15.1" dr:fixed-stage="true">
                                        <pb n="56" xml:id="tg777.2.15.1.1"/>
 Cleander. Bonosus. Palladius.</stage>
                                  </stage>
@@ -2013,7 +2014,7 @@ Cleander. Bonosus. Palladius.</stage>
                                  <p xml:id="tg777.2.24.part2"> Mein Herr / ich weiß bey diesem Zustand nicht / wie oder wem ich zuförderst zu dancken verpflichtet; Diß einige ergetzet mich / daß ich Mittel an die Hand bekommen / ihnen in der That zu erweisen / daß ich ihrer allerhöchst verpflichtester Diener.</p>
                                  <lb xml:id="tg777.2.25"/>
                                  <stage rend="zenoPC" xml:id="tg777.2.26">
-                                    <stage rend="italic" xml:id="tg777.2.26.1" dr:fixed-stage="true">
+                                    <stage type="enter" rend="italic" xml:id="tg777.2.26.1" dr:fixed-stage="true">
                                        <pb n="57" xml:id="tg777.2.26.1.1"/>
 Sempronius. Cyrilla.</stage>
                                  </stage>
@@ -2133,7 +2134,7 @@ Sempronius. Cyrilla.</stage>
                                  <l xml:id="tg777.2.56.part2"> Ja / ja ich wohne hierinnen.</l>
                                  <lb xml:id="tg777.2.57"/>
                                  <stage rend="zenoPC" xml:id="tg777.2.58">
-                                    <stage rend="italic" xml:id="tg777.2.58.1" dr:fixed-stage="true">Coelestina. Camilla.</stage>
+                                    <stage type="enter" rend="italic" xml:id="tg777.2.58.1" dr:fixed-stage="true">Coelestina. Camilla.</stage>
                                  </stage>
                                  <lb xml:id="tg777.2.59"/>
                               </sp>
@@ -2204,7 +2205,7 @@ lassen / was wir schon ohne diß vernünfftig muthmassen können.</p>
                                  <p xml:id="tg777.2.76.part2"> Jch bin weit anders gesinnet. Aber / ich sehe den Capitain! last uns beyseit / daß er meiner Jungfrauen nicht verdrießlich falle.</p>
                                  <lb xml:id="tg777.2.77"/>
                                  <stage rend="zenoPC" xml:id="tg777.2.78">
-                                    <stage rend="italic" xml:id="tg777.2.78.1" dr:fixed-stage="true">Capitain Horribilicribrifax. Harpax.</stage>
+                                    <stage type="enter" rend="italic" xml:id="tg777.2.78.1" dr:fixed-stage="true">Capitain Horribilicribrifax. Harpax.</stage>
                                  </stage>
                                  <lb xml:id="tg777.2.79"/>
                               </sp>
@@ -2275,7 +2276,7 @@ scannar Marte e Morte, e Sempronio, e far si, che di lei non si ragioni mai piu.
                                  <l xml:id="tg777.2.96.part2"> Nun ist Noth vorhanden: Sempronius komt selbst selber zu seinem Unglück E. Herrligkeit in die Hände.</l>
                                  <lb xml:id="tg777.2.97"/>
                                  <stage rend="zenoPC" xml:id="tg777.2.98">
-                                    <stage rend="italic" xml:id="tg777.2.98.1" dr:fixed-stage="true">Horribilicribrifax. Sempronius. Harpax.</stage>
+                                    <stage type="enter" rend="italic" xml:id="tg777.2.98.1" dr:fixed-stage="true">Horribilicribrifax. Sempronius. Harpax.</stage>
                                  </stage>
                                  <lb xml:id="tg777.2.99"/>
                               </sp>
@@ -2488,12 +2489,12 @@ etwas zu sagen / wolte ich lieber also gesaget haben: ὑψηλᾶν ἀρετ�
                                  <l xml:id="tg777.2.151.part2"> Ho / ho / sie kommen ja beyde noch lebend von einander.</l>
                                  <lb xml:id="tg777.2.152"/>
                                  <stage rend="zenoPC" xml:id="tg777.2.153">
-                                    <stage rend="italic" xml:id="tg777.2.153.1" dr:fixed-stage="true">
+                                    <stage type="enter" rend="italic" xml:id="tg777.2.153.1" dr:fixed-stage="true">
                                        <pb n="71" xml:id="tg777.2.153.1.1"/>
 Rabbi Isaschar. Frau Antonia.</stage>
                                  </stage>
                                  <stage rend="zenoPC" xml:id="tg777.2.154">
-                                    <stage rend="italic" xml:id="tg777.2.154.1" dr:fixed-stage="true">Der Jude trägt ein silbern Gießbecken unter dem Arm / und die Kanne in der Hand.</stage>
+                                    <stage type="other" rend="italic" xml:id="tg777.2.154.1" dr:fixed-stage="true">Der Jude trägt ein silbern Gießbecken unter dem Arm / und die Kanne in der Hand.</stage>
                                  </stage>
                                  <lb xml:id="tg777.2.155"/>
                               </sp>
@@ -2643,7 +2644,7 @@ zwey Stunden der tapfferste Cavalier an seinem Halse getragen!</p>
                               <head type="h4" xml:id="tg778.2.1">Der vierdte Auffzug.</head>
                               
                               
-                              <stage rend="zenoPC" xml:id="tg778.2.4">
+                              <stage type="enter" rend="zenoPC" xml:id="tg778.2.4">
                                  <hi rend="italic" xml:id="tg778.2.4.1">Bonosus. Palladius. Cleander.</hi>
                               </stage>
                               <lb xml:id="tg778.2.5"/>
@@ -2681,7 +2682,7 @@ befehlen / er sol mich bereitwilligst finden / ihm zu dienen.</p>
                                  <l xml:id="tg778.2.13.part2"> Jch ersterbe der Herren bereitwilligst- und verpflichtester Diener.</l>
                                  <lb xml:id="tg778.2.14"/>
                                  <stage rend="zenoPC" xml:id="tg778.2.15">
-                                    <stage rend="italic" xml:id="tg778.2.15.1" dr:fixed-stage="true">Bonosus. Palladius.</stage>
+                                    <stage type="enter" rend="italic" xml:id="tg778.2.15.1" dr:fixed-stage="true">Bonosus. Palladius.</stage>
                                  </stage>
                                  <lb xml:id="tg778.2.16"/>
                               </sp>
@@ -2714,7 +2715,7 @@ befehlen / er sol mich bereitwilligst finden / ihm zu dienen.</p>
                                  <l xml:id="tg778.2.23.part2"> Ein glückseliges Widersehen / mein Herr Mareschall.</l>
                                  <lb xml:id="tg778.2.24"/>
                                  <stage rend="zenoPC" xml:id="tg778.2.25">
-                                    <stage rend="italic" xml:id="tg778.2.25.1" dr:fixed-stage="true">
+                                    <stage type="enter" rend="italic" xml:id="tg778.2.25.1" dr:fixed-stage="true">
                                        <pb n="76" xml:id="tg778.2.25.1.1"/>
 Flaccilla. Cleander.</stage>
                                  </stage>
@@ -2899,7 +2900,7 @@ Flaccilla. Cleander.</stage>
                                  <p xml:id="tg778.2.72.part2"> Servili, führe sie in das Haus / und lasse ihr ein tutzend Ducaten zustellen. Verlasset euch auff mich! und wo euch was gebricht / so sprechet mich sicher an.</p>
                                  <lb xml:id="tg778.2.73"/>
                                  <stage rend="zenoPC" xml:id="tg778.2.74">
-                                    <stage rend="italic" xml:id="tg778.2.74.1" dr:fixed-stage="true">Cleander. Dionysius.</stage>
+                                    <stage type="enter" rend="italic" xml:id="tg778.2.74.1" dr:fixed-stage="true">Cleander. Dionysius.</stage>
                                  </stage>
                                  <lb xml:id="tg778.2.75"/>
                               </sp>
@@ -2970,7 +2971,7 @@ nicht. Berichte mich mit ehesten / wie es abgelauffen. Jn dem Lustgarten werde i
                                  <p xml:id="tg778.2.92.part2"> Mein Herr hat die Federn gesehen / es scheinet er wil den Papagoy selbst haben. Doch ich bin ein Diener! Es stehet zu seiner Verantwortung.</p>
                                  <lb xml:id="tg778.2.93"/>
                                  <stage rend="zenoPC" xml:id="tg778.2.94">
-                                    <stage rend="italic" xml:id="tg778.2.94.1" dr:fixed-stage="true">Coelestina. Camilla. Palladius.</stage>
+                                    <stage type="enter" rend="italic" xml:id="tg778.2.94.1" dr:fixed-stage="true">Coelestina. Camilla. Palladius.</stage>
                                  </stage>
                                  <lb xml:id="tg778.2.95"/>
                               </sp>
@@ -3098,7 +3099,7 @@ nicht angenehm / vornemlich / wenn sie für sich selbst unwerth. Solte sich aber
                                  <p xml:id="tg778.2.126.part2"> O auffrichtiges Gemüth! Warum laß ich mich länger meine eigene Fantasien verleiten? Wolte GOtt / wertheste Jungfrau / mir were möglich ihr mit gleicher Liebe und Ehren-Neigungen zu begegnen. Unterdessen / gebe ihr ich mich selbst zu einem Pfande der von mir versprochenen Dienste / und bitte sie / sie geruhe zu glauben / daß sie die einige sey / welche durchaus und allein über Palladium gebieten mag.</p>
                                  <lb xml:id="tg778.2.127"/>
                                  <stage rend="zenoPC" xml:id="tg778.2.128">
-                                    <stage rend="italic" xml:id="tg778.2.128.1" dr:fixed-stage="true">Coelestina weinet.</stage>
+                                    <stage type="other" rend="italic" xml:id="tg778.2.128.1" dr:fixed-stage="true">Coelestina weinet.</stage>
                                  </stage>
                                  <lb xml:id="tg778.2.129"/>
                               </sp>
@@ -3127,7 +3128,7 @@ nicht angenehm / vornemlich / wenn sie für sich selbst unwerth. Solte sich aber
                                  <p xml:id="tg778.2.135.part2"> Jch bitte / mein Herr Palladi, trete etwas mit ab in mein Hauß / in welchem er über alle zu gebieten!</p>
                                  <lb xml:id="tg778.2.136"/>
                                  <stage rend="zenoPC" xml:id="tg778.2.137">
-                                    <stage rend="italic" xml:id="tg778.2.137.1" dr:fixed-stage="true">Selenissa. Antonia.</stage>
+                                    <stage type="enter" rend="italic" xml:id="tg778.2.137.1" dr:fixed-stage="true">Selenissa. Antonia.</stage>
                                  </stage>
                                  <lb xml:id="tg778.2.138"/>
                               </sp>
@@ -3165,7 +3166,7 @@ der Ertzberenheuter! Jch elende verlassene Jungfrau! was fange ich an?</p>
                                  <p xml:id="tg778.2.146.part2"> Frau Mutter / man muß das euserste versuchen! Jch wil mich lieber lebend begraben lassen / als mit diesem leichtfertigen Menschen vermählen. O sehet! sehet! das Glück selber spielet mit uns. Herren Palladii kleiner Page kommet dort hervor / durch diesen kan ich ihm auffs beqvemste meine Meynung wissen lassen.</p>
                                  <lb xml:id="tg778.2.147"/>
                                  <stage rend="zenoPC" xml:id="tg778.2.148">
-                                    <stage rend="italic" xml:id="tg778.2.148.1" dr:fixed-stage="true">Florianus. Antonia. Selenissa.</stage>
+                                    <stage type="enter" rend="italic" xml:id="tg778.2.148.1" dr:fixed-stage="true">Florianus. Antonia. Selenissa.</stage>
                                  </stage>
                                  <lb xml:id="tg778.2.149"/>
                               </sp>
@@ -3304,7 +3305,7 @@ Mandelkernen / überzogne Zienement / sie ließ die Musicanten holen / und stack
                                  <l xml:id="tg778.2.182.part2"> O Tochter! Tochter! welch ein Glücke hast du muthwillig verschertzet?</l>
                                  <lb xml:id="tg778.2.183"/>
                                  <stage rend="zenoPC" xml:id="tg778.2.184">
-                                    <stage rend="italic" xml:id="tg778.2.184.1" dr:fixed-stage="true">Cyrilla. Daradiridatumtarides. Sempronius.</stage>
+                                    <stage type="enter" rend="italic" xml:id="tg778.2.184.1" dr:fixed-stage="true">Cyrilla. Daradiridatumtarides. Sempronius.</stage>
                                  </stage>
                                  <lb xml:id="tg778.2.185"/>
                               </sp>
@@ -3556,7 +3557,7 @@ lassen, wollen wir unterdessen diesen Ring zu Pfande setzen / biß wir Gelegenhe
                               <sp>
                                  <speaker xml:id="tg778.2.250.part1">CYRILLA</speaker> 
                                  <stage>
-                                    <stage rend="italic" xml:id="tg778.2.250.1.part1" dr:fixed-stage="true">macht ein Creutz.</stage>
+                                    <stage type="other" rend="italic" xml:id="tg778.2.250.1.part1" dr:fixed-stage="true">macht ein Creutz.</stage>
                                  </stage>
                                  <p xml:id="tg778.2.250.part2"> Je behüte GOTT / Herr Ficfonys! ich hab es lange gedacht / daß er nicht muß klug seyn / weil er so seltzame Worte im Reden gebraucht.</p>
                               </sp>
@@ -3602,10 +3603,10 @@ Rinck hoc amoris pignus, hanc fidei arrham, dreissig tausend Epigrammata, sieben
                                  <p xml:id="tg778.2.260.part2"> Jch will auff den Abend mich in den Garten verstecken / daß Herr Sephonius glaubt / Jch sey Coelestine, und kriegt er mich einmal / so muß er mich behalten sein Lebenlang.</p>
                                  <lb xml:id="tg778.2.261"/>
                                  <stage rend="zenoPC" xml:id="tg778.2.262">
-                                    <stage rend="italic" xml:id="tg778.2.262.1" dr:fixed-stage="true">Sophia. Flaccilla. Dionysius.</stage>
+                                    <stage type="enter" rend="italic" xml:id="tg778.2.262.1" dr:fixed-stage="true">Sophia. Flaccilla. Dionysius.</stage>
                                  </stage>
                                  <stage rend="zenoPC" xml:id="tg778.2.263">
-                                    <stage rend="italic" xml:id="tg778.2.263.1" dr:fixed-stage="true">Palladii Gesinde mit blossen Degen um ihn her. Dionysius hat die Jungfrau auff den Arm. Flaccilla laufft hinter ihnen her.</stage>
+                                    <stage type="other" rend="italic" xml:id="tg778.2.263.1" dr:fixed-stage="true">Palladii Gesinde mit blossen Degen um ihn her. Dionysius hat die Jungfrau auff den Arm. Flaccilla laufft hinter ihnen her.</stage>
                                  </stage>
                                  <lb xml:id="tg778.2.264"/>
                               </sp>
@@ -3626,7 +3627,7 @@ Rinck hoc amoris pignus, hanc fidei arrham, dreissig tausend Epigrammata, sieben
                                  <l xml:id="tg778.2.268.part2"> O Himmel / ist denn keine Hülffe mehr verhanden!</l>
                                  <lb xml:id="tg778.2.269"/>
                                  <stage rend="zenoPC" xml:id="tg778.2.270">
-                                    <stage rend="italic" xml:id="tg778.2.270.1" dr:fixed-stage="true">Horribilicribrifax. Harpax.</stage>
+                                    <stage type="enter" rend="italic" xml:id="tg778.2.270.1" dr:fixed-stage="true">Horribilicribrifax. Harpax.</stage>
                                  </stage>
                                  <lb xml:id="tg778.2.271"/>
                               </sp>
@@ -3662,7 +3663,7 @@ werden. Kommet / wir wollen folgen. Qvesta è di cosa decente al esser mio.</p>
                               <head type="h4" xml:id="tg779.2.1">Der fünffte Auffzug.</head>
                               
                               
-                              <stage rend="zenoPC" xml:id="tg779.2.4">
+                              <stage type="enter" rend="zenoPC" xml:id="tg779.2.4">
                                  <hi rend="italic" xml:id="tg779.2.4.1">Florianus. Selenissa. Antonia.</hi>
                               </stage>
                               <lb xml:id="tg779.2.5"/>
@@ -3685,14 +3686,14 @@ werden. Kommet / wir wollen folgen. Qvesta è di cosa decente al esser mio.</p>
                               <sp>
                                  <speaker xml:id="tg779.2.10.part1">FLORIANUS</speaker> 
                                  <stage>
-                                    <stage rend="italic" xml:id="tg779.2.10.1.part1" dr:fixed-stage="true">singend.</stage>
+                                    <stage type="other" rend="italic" xml:id="tg779.2.10.1.part1" dr:fixed-stage="true">singend.</stage>
                                  </stage>
 
                                  <p rend="zenoPLm8n8" xml:id="tg779.2.11">Lustig ihr Brüder: auff lasset uns leben!</p>
                                  <p rend="zenoPLm8n8" xml:id="tg779.2.12">Lesbia meine Freud' hat sich ergeben!</p>
                                  <p rend="zenoPLm8n8" xml:id="tg779.2.13">Wer mich wil neiden / der müsse zuspringen!</p>
                                  <p rend="zenoPLm8n8" xml:id="tg779.2.14">Lustig ihr Brüder / es wil mir gelingen!</p>
-                                 <p xml:id="tg779.2.15">Hola! <stage rend="italic" xml:id="tg779.2.15.1" dr:fixed-stage="true">Er jauchtzet etliche mahl nacheinander / nachmals fähret er fort.</stage> Guten Morgen / guten Morgen / Jungfrau Selenissa.</p>
+                                 <p xml:id="tg779.2.15">Hola! <stage type="other" rend="italic" xml:id="tg779.2.15.1" dr:fixed-stage="true">Er jauchtzet etliche mahl nacheinander / nachmals fähret er fort.</stage> Guten Morgen / guten Morgen / Jungfrau Selenissa.</p>
                               </sp>
                               <sp>
                                  <speaker xml:id="tg779.2.16.part1">SELENISSA.</speaker>
@@ -3789,7 +3790,7 @@ werden. Kommet / wir wollen folgen. Qvesta è di cosa decente al esser mio.</p>
                                  </lg>
                                  <lb xml:id="tg779.2.43"/>
                                  <stage rend="zenoPC" xml:id="tg779.2.44">
-                                    <stage rend="italic" xml:id="tg779.2.44.1" dr:fixed-stage="true">Gehet singend hinein.</stage>
+                                    <stage type="exit" rend="italic" xml:id="tg779.2.44.1" dr:fixed-stage="true">Gehet singend hinein.</stage>
                                  </stage>
                                  <lb xml:id="tg779.2.45"/>
                                  <pb n="96" xml:id="tg779.2.46"/>
@@ -3797,7 +3798,7 @@ werden. Kommet / wir wollen folgen. Qvesta è di cosa decente al esser mio.</p>
                               <sp>
                                  <speaker xml:id="tg779.2.47.part1">SELENISSA</speaker> 
                                  <stage>
-                                    <stage rend="italic" xml:id="tg779.2.47.1.part1" dr:fixed-stage="true">lieset den Brieff.</stage>
+                                    <stage type="other" rend="italic" xml:id="tg779.2.47.1.part1" dr:fixed-stage="true">lieset den Brieff.</stage>
                                  </stage>
                                  <p xml:id="tg779.2.47.part2"> Wehlende und unbesonnene Jungfrau / die Zeit ist nunmehr aus / in welcher ich meiner Vernunfft beraubet / euch einig zu Gebote gestanden. Jzt erkenne ich meine Thorheit / und schertze mit eurer Unbedachtsamkeit. Die allerkeuscheste und vollkomneste Seele Coelestina hält mich auff ewig gebunden / und wünschet euch Glück zu eurer Hochzeit mit dem elenden Auffschneider / welchen ihr euch allein zu stetem Schimpffe / wackern Gemütern vorgezogen. Gehabt euch wohl mit ihm / und bleibet von mir / weil ihr meines Grusses nicht bedürffend / ewig gesegnet! <stage rend="italic" xml:id="tg779.2.47.2.part2" dr:fixed-stage="true">Selen. fält nieder / und wird ohnmächtig.</stage>
                                  </p>
@@ -3808,7 +3809,7 @@ werden. Kommet / wir wollen folgen. Qvesta è di cosa decente al esser mio.</p>
                                  </p>
                                  <lb xml:id="tg779.2.49"/>
                                  <stage rend="zenoPC" xml:id="tg779.2.50">
-                                    <stage rend="italic" xml:id="tg779.2.50.1" dr:fixed-stage="true">Daradiridatumtarides. Don Diego.</stage>
+                                    <stage type="enter" rend="italic" xml:id="tg779.2.50.1" dr:fixed-stage="true">Daradiridatumtarides. Don Diego.</stage>
                                  </stage>
                                  <lb xml:id="tg779.2.51"/>
                               </sp>
@@ -3826,7 +3827,7 @@ werden. Kommet / wir wollen folgen. Qvesta è di cosa decente al esser mio.</p>
 Le Grand Diable des Juristes selber nicht zu Gelde machen können; und kaum so viel kahle Marck bahres Geldes / daß man Arswische darvon auffs Scheishaus / und SchwefelLichter in die Küchen kauffen kan. Doch / point du prouit, sie hat noch etwas von göldnen Ketten und Perlen / das muß hebräisch lernen / dir in Vertrauen entdecket / Fendions le vent Morgen weil sie noch schläfft! was nicht mitgehen wil / das nehmen wir / und sehen / ob unsere Klepper noch das Thor finden können. Wir müssen anderswo unser Glück suchen! faisons, selon le lieu, &amp; le temps.</p>
                                  <lb xml:id="tg779.2.55"/>
                                  <stage rend="zenoPC" xml:id="tg779.2.56">
-                                    <stage rend="italic" xml:id="tg779.2.56.1" dr:fixed-stage="true">Selenissa. Antonia. Daradiridatumtarides.</stage>
+                                    <stage type="enter" rend="italic" xml:id="tg779.2.56.1" dr:fixed-stage="true">Selenissa. Antonia. Daradiridatumtarides.</stage>
                                  </stage>
                                  <lb xml:id="tg779.2.57"/>
                               </sp>
@@ -3886,7 +3887,7 @@ zu lassen / zu schalten und zu walten. Jch mag euch verschencken / verkauffen / 
                                  <p xml:id="tg779.2.70.part2"> Jch will mein Leben daran setzen / und nicht ruhen / biß ich seiner loß worden / oder ihn von dem Platze gebracht. Jch will den Capiten Horribilicribrifax auff ein paar Worte zu mir bitten lassen. Der wird mir schon zu diesem Stück beförderlich seyn.</p>
                                  <lb xml:id="tg779.2.71"/>
                                  <stage rend="zenoPC" xml:id="tg779.2.72">
-                                    <stage rend="italic" xml:id="tg779.2.72.1" dr:fixed-stage="true">Coelestina. Palladius. Camilla.</stage>
+                                    <stage type="enter" rend="italic" xml:id="tg779.2.72.1" dr:fixed-stage="true">Coelestina. Palladius. Camilla.</stage>
                                  </stage>
                                  <lb xml:id="tg779.2.73"/>
                               </sp>
@@ -3911,7 +3912,7 @@ zu lassen / zu schalten und zu walten. Jch mag euch verschencken / verkauffen / 
                                  <l xml:id="tg779.2.78.part2"> Camilla komm und folge.</l>
                                  <lb xml:id="tg779.2.79"/>
                                  <stage rend="zenoPC" xml:id="tg779.2.80">
-                                    <stage rend="italic" xml:id="tg779.2.80.1" dr:fixed-stage="true">Cyrilla mit schönen Kleidern angezogen / und auffgeflochtenen Haaren.</stage>
+                                    <stage type="other" rend="italic" xml:id="tg779.2.80.1" dr:fixed-stage="true">Cyrilla mit schönen Kleidern angezogen / und auffgeflochtenen Haaren.</stage>
                                  </stage>
                                  <lb xml:id="tg779.2.81"/>
                                  <pb n="100" xml:id="tg779.2.82"/>
@@ -3921,7 +3922,7 @@ zu lassen / zu schalten und zu walten. Jch mag euch verschencken / verkauffen / 
                                  <p xml:id="tg779.2.83.part2"> Verwundert euch nicht / daß ich so schöne bin / die Kleider hab ich bey einer Jüdin geborget / um Herren Vixephonigis eine Nase zu machen. Jungfer Coelestina ist nicht daheime / das weiß ich wol. Deswegen kan ich mich desto besser in ihrem Lust-Garten verstecken. Wo ich ihn diesen Abend recht betrüge / muß er mich sein Lebenlang behalten! Da komt der Monden. Sey mir gnädig du neues Licht / für das Fieber und auch die Gicht. u.d.g.</p>
                                  <lb xml:id="tg779.2.84"/>
                                  <stage rend="zenoPC" xml:id="tg779.2.85">
-                                    <stage rend="italic" xml:id="tg779.2.85.1" dr:fixed-stage="true">Selenissa. Horribilicribrifax. Harpax.</stage>
+                                    <stage type="enter" rend="italic" xml:id="tg779.2.85.1" dr:fixed-stage="true">Selenissa. Horribilicribrifax. Harpax.</stage>
                                  </stage>
                                  <lb xml:id="tg779.2.86"/>
                               </sp>
@@ -3984,7 +3985,7 @@ zu der Sachen! signora mia belissima, sie entschliesse sich / auff welche Art si
                                  <l xml:id="tg779.2.101.part2"> Jch stelle mich und meine Ehre in seine Hände. Der Herr Capitain bleibe gesegnet.</l>
                                  <lb xml:id="tg779.2.102"/>
                                  <stage rend="zenoPC" xml:id="tg779.2.103">
-                                    <stage rend="italic" xml:id="tg779.2.103.1" dr:fixed-stage="true">
+                                    <stage type="enter" rend="italic" xml:id="tg779.2.103.1" dr:fixed-stage="true">
                                        <pb n="103" xml:id="tg779.2.103.1.1"/>
 Sempronius.</stage>
                                  </stage>
@@ -3995,7 +3996,7 @@ Sempronius.</stage>
                                  <p xml:id="tg779.2.105.part2"> Nox erat &amp; coelo fulgebat luna sereno, inter minora sidera. Horatius. Speluncam Dido, Dux &amp; Trojanus eandem devenient, Virgilius Lib. 2. Aeneidos. Κωμάσδω ποτὶ τὰν Ἀμαρύλλιδα. Theocritus. Das heist / Herr Sempronius wird zu Jungfrau Coelestina gehen. Qvas volvit fortuna vices? Statius lib. 10. Thebaidos. Wer hätte dis heute morgen geglaubt? Aber es heist: kein verzagtes Hertz krieget eine schöne Dam. Non per dormire poteris ad alta venire! Sed per studere poteris ad alta sedere. Nun / das gehet drauff hin! Casta fave Lucina! Sparge marite nuces, hilaris, tibi ducitur uxor! Virgilius in Eclogis.</p>
                                  <lb xml:id="tg779.2.106"/>
                                  <stage rend="zenoPC" xml:id="tg779.2.107">
-                                    <stage rend="italic" xml:id="tg779.2.107.1" dr:fixed-stage="true">Bonosus.</stage>
+                                    <stage type="enter" rend="italic" xml:id="tg779.2.107.1" dr:fixed-stage="true">Bonosus.</stage>
                                  </stage>
                                  <lb xml:id="tg779.2.108"/>
                               </sp>
@@ -4004,7 +4005,7 @@ Sempronius.</stage>
                                  <p xml:id="tg779.2.109.part2"> Die resolution ist gefasset. Herr Palladius ist fest mit Coelestinen, und ich / durch Zuthuen des Stadthalters mit Eudoxia. Man erwartet meiner / wie ich vernehme / bey dem Herren Cleander. Derowegen ist es Zeit / daß ich mich nicht länger auffhalte / sondern mit ehesten dahin verfüge.</p>
                                  <lb xml:id="tg779.2.110"/>
                                  <stage rend="zenoPC" xml:id="tg779.2.111">
-                                    <stage rend="italic" xml:id="tg779.2.111.1" dr:fixed-stage="true">
+                                    <stage type="enter" rend="italic" xml:id="tg779.2.111.1" dr:fixed-stage="true">
                                        <pb n="104" xml:id="tg779.2.111.1.1"/>
 Daradiridatumtarides. Horribilicribrifax.</stage>
                                  </stage>
@@ -4101,7 +4102,7 @@ so viel Zeit / befiehle deine Seele GOtt / und bete ein Vater unser!</p>
                                  <l xml:id="tg779.2.135.part2"> Les beaux Esprits lernen einander durch dergleichen rencontre erkennen.</l>
                                  <lb xml:id="tg779.2.136"/>
                                  <stage rend="zenoPC" xml:id="tg779.2.137">
-                                    <stage rend="italic" xml:id="tg779.2.137.1" dr:fixed-stage="true">Dionysius. Daradiridatumtarides. Horribilicribrifax.</stage>
+                                    <stage type="enter" rend="italic" xml:id="tg779.2.137.1" dr:fixed-stage="true">Dionysius. Daradiridatumtarides. Horribilicribrifax.</stage>
                                  </stage>
                                  <lb xml:id="tg779.2.138"/>
                               </sp>
@@ -4157,7 +4158,7 @@ so viel Zeit / befiehle deine Seele GOtt / und bete ein Vater unser!</p>
                               <sp>
                                  <speaker xml:id="tg779.2.152.part1">DIONYSIUS</speaker> 
                                  <stage>
-                                    <stage rend="italic" xml:id="tg779.2.152.1.part1" dr:fixed-stage="true">nimt beyden die Degen und schlägt sie darmit um die Köpffe.</stage>
+                                    <stage type="other" rend="italic" xml:id="tg779.2.152.1.part1" dr:fixed-stage="true">nimt beyden die Degen und schlägt sie darmit um die Köpffe.</stage>
                                  </stage>
                                  <l xml:id="tg779.2.152.part2"> Auffschneider / Lügner / Berenhäuter / Bengel / Baurenschinder / Ertznarren / Cujonen.</l>
                               </sp>
@@ -4174,7 +4175,7 @@ so viel Zeit / befiehle deine Seele GOtt / und bete ein Vater unser!</p>
                                  <p xml:id="tg779.2.155.part2"> Packet euch / oder ich will euch also zurichten / daß man euch mit Mistwagen soll von dem Platze führen.</p>
                                  <lb xml:id="tg779.2.156"/>
                                  <stage rend="zenoPC" xml:id="tg779.2.157">
-                                    <stage rend="italic" xml:id="tg779.2.157.1" dr:fixed-stage="true">Sempronius. Cyrilla.</stage>
+                                    <stage type="enter" rend="italic" xml:id="tg779.2.157.1" dr:fixed-stage="true">Sempronius. Cyrilla.</stage>
                                  </stage>
                                  <lb xml:id="tg779.2.158"/>
                               </sp>
@@ -4333,7 +4334,7 @@ so viel Zeit / befiehle deine Seele GOtt / und bete ein Vater unser!</p>
                                  <p xml:id="tg779.2.198.part2"> Der Hencker soll dir die Spinnweben mit Besen abkehren / und den Bart mit dem breiten Messer scheren.</p>
                                  <lb xml:id="tg779.2.199"/>
                                  <stage rend="zenoPC" xml:id="tg779.2.200">
-                                    <stage rend="italic" xml:id="tg779.2.200.1" dr:fixed-stage="true">Sie fallen über einander und schlagen einander zum guten Tiegen ab.</stage>
+                                    <stage type="other" rend="italic" xml:id="tg779.2.200.1" dr:fixed-stage="true">Sie fallen über einander und schlagen einander zum guten Tiegen ab.</stage>
                                  </stage>
                                  <lb xml:id="tg779.2.201"/>
                               </sp>
@@ -4387,10 +4388,10 @@ so viel Zeit / befiehle deine Seele GOtt / und bete ein Vater unser!</p>
                                  <p xml:id="tg779.2.214.part2"> Ja in der Stadt ists. Kommet mit mir in mein Haus / ich will einen Notarigus holen lassen / der unsern Eh-contract auffsetzet / und uns / vor die Gebühr / ein in nominus macht.</p>
                                  <lb xml:id="tg779.2.215"/>
                                  <stage rend="zenoPC" xml:id="tg779.2.216">
-                                    <stage rend="italic" xml:id="tg779.2.216.1" dr:fixed-stage="true">Cleander. Bonosus. Eudoxia.</stage>
+                                    <stage type="enter" rend="italic" xml:id="tg779.2.216.1" dr:fixed-stage="true">Cleander. Bonosus. Eudoxia.</stage>
                                  </stage>
                                  <stage rend="zenoPC" xml:id="tg779.2.217">
-                                    <stage rend="italic" xml:id="tg779.2.217.1" dr:fixed-stage="true">Palladius. Coelestina. Flaccilla. Sophia.</stage>
+                                    <stage type="enter" rend="italic" xml:id="tg779.2.217.1" dr:fixed-stage="true">Palladius. Coelestina. Flaccilla. Sophia.</stage>
                                  </stage>
                                  <lb xml:id="tg779.2.218"/>
                               </sp>
@@ -4409,7 +4410,7 @@ so viel Zeit / befiehle deine Seele GOtt / und bete ein Vater unser!</p>
                               <sp>
                                  <speaker xml:id="tg779.2.222.part1">SOPHIA</speaker> 
                                  <stage>
-                                    <stage rend="italic" xml:id="tg779.2.222.1.part1" dr:fixed-stage="true">fället vor ihm auff die Knie.</stage>
+                                    <stage type="other" rend="italic" xml:id="tg779.2.222.1.part1" dr:fixed-stage="true">fället vor ihm auff die Knie.</stage>
                                  </stage>
                                  <p xml:id="tg779.2.222.part2"> Die unglückselige Schönheit / gnädiger Herr / ist diß eintzige / was mir / doch zu meinem Unglück / die Natur verliehen. Wenn sie mich und die Reinigkeit meines Gemüthes in Gefahr setzen soll / wündsche ich eher die weissen Brüste mit meinem eignen Blute zürröten / als ein durch Unehr beflecktes Gesicht / vor Euer Genaden auffzuheben. Jch bitte in diesen Schrancken in welchen mich Elend / Armuth <pb n="111" xml:id="tg779.2.222.2.part2"/>
 und Gewalt dringet und herum treibet / Eure Genaden wolle mir dieses eintzige erhalten und beschützen helffen / was mir noch die euserste und recht Eiserne Noth nicht abzwingen können / oder mitleidend gedulden / daß ich vor seinen Füssen dem geängsteten Geiste den Weg durch diese Brüste öffne!</p>
@@ -4431,7 +4432,7 @@ und Gewalt dringet und herum treibet / Eure Genaden wolle mir dieses eintzige er
                                  <p xml:id="tg779.2.226.part2"> O GOTT! ist es nicht genung / daß ich bey allen in Argwohn gerathen bin; durch diese gewaltsame Hinwegführung? Muß noch meine Unschuld von dem in Zweiffel gezogen werden / welcher von allen für den kräfftigsten Beschützer elender und verlassener Waisen gehalten wird? Gute Nacht Himmel! sey zum letzten mahl gegrüsset Erde! Was verziehe ich weiter?</p>
                                  <lb xml:id="tg779.2.227"/>
                                  <stage rend="zenoPC" xml:id="tg779.2.228">
-                                    <stage rend="italic" xml:id="tg779.2.228.1" dr:fixed-stage="true">Sie holet aus mit einem blossen Messer. Cleander fället ihr in die Armen: die andern kommen alle herzu gelauffen.</stage>
+                                    <stage type="other" rend="italic" xml:id="tg779.2.228.1" dr:fixed-stage="true">Sie holet aus mit einem blossen Messer. Cleander fället ihr in die Armen: die andern kommen alle herzu gelauffen.</stage>
                                  </stage>
                                  <lb xml:id="tg779.2.229"/>
                               </sp>
@@ -4445,7 +4446,7 @@ Perlen und Demante / um meine Schöneste also außzukleiden / wie ihre Tugend un
                                  <p xml:id="tg779.2.231.part2"> Werthe Jungfrau Sophia. Jch wündsche zu dieser unverhofften Ehe und Ehre Jhr so viel Glücks / als dero keusche Tugend verdienet / und schätze mich glückselig / in dem ich heute Jhre Kundschafft erhalte / von Jhr / als dem vollkommenen Spiegel aller Zucht / zu lernen / was uns allen anstehet.</p>
                                  <lb xml:id="tg779.2.232"/>
                                  <stage rend="zenoPC" xml:id="tg779.2.233">
-                                    <stage rend="italic" xml:id="tg779.2.233.1" dr:fixed-stage="true">Sophia. Wird von den Jungfrauen auffs prächtigste gekleidet. Jndessen wünschen die andern einander allerseits Glücke.</stage>
+                                    <stage type="other" rend="italic" xml:id="tg779.2.233.1" dr:fixed-stage="true">Sophia. Wird von den Jungfrauen auffs prächtigste gekleidet. Jndessen wünschen die andern einander allerseits Glücke.</stage>
                                  </stage>
                                  <lb xml:id="tg779.2.234"/>
                               </sp>
@@ -4454,7 +4455,7 @@ Perlen und Demante / um meine Schöneste also außzukleiden / wie ihre Tugend un
                                  <p xml:id="tg779.2.235.part2"> Dionysius, welcher diesem unsern Vorsatz bey sich die Hand geboten / soll nicht sonder Lohn dieser Freude beiwohnen / wenn Jungfrau Coelestina ihre Camillam ihm vermählen will / werden wir Mittel finden / sie beyde bester massen zu befördern; Und damit Horribilicribrifax und Daradiridatumtarides nicht alleine bey der allgemeinen Freude sich mit Schlägen / wie uns erzehlet / behelffen dürffen / wollen wir dem Daradiridatumtaride, doch mehr aus Mittleiden gegen die unglückselige Selenissam, das Commendo über die gvarnison in dem nechsten Flecken / dem Horribilicribrifax aber eine Corporalschafft Tragoner in der Vorstadt vertrauen. Lasset die Personen alle auff den Hoff fordern / und unterdessen die Heerpaucken und Trompeten erschallen!</p>
                                  <lb xml:id="tg779.2.236"/>
                                  <stage rend="zenoPC" xml:id="tg779.2.237">
-                                    <stage rend="italic" xml:id="tg779.2.237.1" dr:fixed-stage="true">Die Personen gehen alle ab / biß auff Florentin.</stage>
+                                    <stage rend="italic" xml:id="tg779.2.237.1" dr:fixed-stage="true"><seg type="exit">Die Personen gehen alle ab</seg><seg type="other"> / biß auff Florentin.</seg></stage>
                                  </stage>
                                  <lb xml:id="tg779.2.238"/>
                               </sp>
@@ -4464,7 +4465,7 @@ Perlen und Demante / um meine Schöneste also außzukleiden / wie ihre Tugend un
 das ist die Vierdte; der ungeheure Capitain mit dem Namen von sieben Meilen / und Selenissa, werden die fünffte halten; ja wol / es mangelt mir noch eine / ey ja! ja! der Stadthalter mit der fremden Jungfrau / das ist die Sechste. Wenn doch sieben wehren / so hätten wir eine gantze Woche voll Hochzeit! wolan! Capitain Horribilicribrifax mag unsre grosse / dicke / derbe / alte / vierschrötige / ungehobelte / trieffäugichte / spitznäsichte / schlüsseltragende Schleusserin nehmen / so ist die Reihe vollkommen. Jhr Herren / Jungfrauen und Frauen / wo euch Sophiae großmüthige Keuschheit / und Coelestinen beständige Anmuth / zuforderst aber Florentini (und der bin ich) hoher Verstand gefallen so kommet alle mit auff die Hochzeit / jener grosse weitmäulichte Baur der dort hinten stehet / mag wol zu Hause bleiben / Er möchte uns den Wein gar aussauffen / und alles auff fressen / daß die Braut selbst hungerig zu Bette gehen müste.</p>
                                  <lb xml:id="tg779.2.240"/>
                                  <stage rend="zenoPC" xml:id="tg779.2.241">
-                                    <stage rend="italic" xml:id="tg779.2.241.1" dr:fixed-stage="true">Der Auffzug wird beschlossen unter Trompeten und Heerpaucken mit einem Tantz / in welchem alle Personen / wie auch Sempronius mit seiner Cyrilla erscheinen.</stage>
+                                    <stage rend="italic" xml:id="tg779.2.241.1" dr:fixed-stage="true"><seg type="other"> Der Auffzug wird beschlossen unter Trompeten und Heerpaucken mit einem Tantz</seg><seg type="enter"> / in welchem alle Personen / wie auch Sempronius mit seiner Cyrilla erscheinen.</seg></stage>
                                  </stage>
                                  <lb xml:id="tg779.2.242"/>
 

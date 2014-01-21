@@ -144,10 +144,10 @@
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg483.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg483.2.4">
                                     <hi rend="italic" xml:id="tg483.2.4.1">Der Schauplatz ist ein Saal im Gasthofe.</hi>
                                  </stage>
-                                 <stage rend="zenoPC" xml:id="tg483.2.5">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg483.2.5">
                                     <hi rend="italic" xml:id="tg483.2.5.1">Sir William Sampson und Waitwell treten in Reisekleidern herein.</hi>
                                  </stage>
                                  <lb xml:id="tg483.2.6"/>
@@ -209,7 +209,7 @@ ein Verbrechen; vergrößre das Vergehen meiner Tochter; erfülle mich, wenn du 
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg484.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg484.2.4">
                                     <hi rend="italic" xml:id="tg484.2.4.1">Der Wirt. Sir William Sampson. Waitwell.</hi>
                                  </stage>
                                  <lb xml:id="tg484.2.5"/>
@@ -264,7 +264,8 @@ ein Verbrechen; vergrößre das Vergehen meiner Tochter; erfülle mich, wenn du 
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg484.2.19.part1">DER WIRT.</speaker>
-                                    <l xml:id="tg484.2.19.part2"> Wollen Sie mir also folgen, gnädiger Herr? <stage rend="italic" xml:id="tg484.2.19.1.part2" dr:fixed-stage="true">Geht ab.</stage>
+                                    <l xml:id="tg484.2.19.part2"> Wollen Sie mir also folgen, gnädiger Herr? 
+                                       <stage type="exit" rend="italic" xml:id="tg484.2.19.1.part2" dr:fixed-stage="true">Geht ab.</stage>
                                     </l>
                                     <pb n="13" xml:id="tg484.2.20"/>
                                     <lb xml:id="tg484.2.21"/>
@@ -285,28 +286,28 @@ ein Verbrechen; vergrößre das Vergehen meiner Tochter; erfülle mich, wenn du 
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg485.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg485.2.4">
                                     <hi rend="italic" xml:id="tg485.2.4.1">Der mittlere Vorhang wird aufgezogen.</hi>
                                  </stage>
-                                 <stage rend="zenoPC" xml:id="tg485.2.5">
+                                 <stage type="other" rend="zenoPC" xml:id="tg485.2.5">
                                     <hi rend="italic" xml:id="tg485.2.5.1">Mellefonts Zimmer.</hi>
                                  </stage>
-                                 <stage rend="zenoPC" xml:id="tg485.2.6">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg485.2.6">
                                     <hi rend="italic" xml:id="tg485.2.6.1">Mellefont und hernach sein Bedienter.</hi>
                                  </stage>
                                  <lb xml:id="tg485.2.7"/>
                                  <sp>
                                     <speaker xml:id="tg485.2.8.part1">MELLEFONT</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg485.2.8.1.part1" dr:fixed-stage="true">unangekleidet in einem Lehnstuhle.</stage>
-                                    </stage>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg485.2.8.1.part1" dr:fixed-stage="true">unangekleidet in einem Lehnstuhle.</stage>
+                                    
                                     <p xml:id="tg485.2.8.part2"> Wieder eine Nacht, die ich auf der Folter nicht grausamer hätte zubringen können! – Norton! – Ich muß nur machen, daß ich Gesichter zu sehen bekomme. Bliebe ich mit meinen Gedanken länger allein: sie möchten mich zu weit führen. – He, Norton! Er schläft noch. Aber bin ich nicht grausam, daß ich den armen Teufel nicht schlafen lasse? Wie glücklich ist er! – Doch ich will nicht, daß ein Mensch um mich glücklich sei. – Norton!</p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg485.2.9.part1">NORTON</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg485.2.9.1.part1" dr:fixed-stage="true">kommend.</stage>
-                                    </stage>
+                                    
+                                       <stage type="enter" rend="italic" xml:id="tg485.2.9.1.part1" dr:fixed-stage="true">kommend.</stage>
+                                    
                                     <l xml:id="tg485.2.9.part2"> Mein Herr!</l>
                                  </sp>
                                  <sp>
@@ -371,7 +372,7 @@ ein Verbrechen; vergrößre das Vergehen meiner Tochter; erfülle mich, wenn du 
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg486.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg486.2.4">
                                     <hi rend="italic" xml:id="tg486.2.4.1">Betty. Mellefont. Norton.</hi>
                                  </stage>
                                  <lb xml:id="tg486.2.5"/>
@@ -385,7 +386,8 @@ ein Verbrechen; vergrößre das Vergehen meiner Tochter; erfülle mich, wenn du 
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg486.2.8.part1">BETTY.</speaker>
-                                    <p xml:id="tg486.2.8.part2"> Was macht sie? <stage rend="italic" xml:id="tg486.2.8.1.part2" dr:fixed-stage="true">Schluchzend.</stage> Es war schon lange nach Mitternacht, da ich sie endlich bewegte, zur Ruhe zu gehen. Sie schlief einige Augenblicke, aber Gott! Gott! was muß das für ein Schlaf gewesen sein! Plötzlich fuhr sie in die Höhe, sprang auf, und fiel mir als eine Unglückliche in die <pb n="15" xml:id="tg486.2.8.2.part2"/>
+                                    <p xml:id="tg486.2.8.part2"> Was macht sie? 
+                                       <stage type="other" rend="italic" xml:id="tg486.2.8.1.part2" dr:fixed-stage="true">Schluchzend.</stage> Es war schon lange nach Mitternacht, da ich sie endlich bewegte, zur Ruhe zu gehen. Sie schlief einige Augenblicke, aber Gott! Gott! was muß das für ein Schlaf gewesen sein! Plötzlich fuhr sie in die Höhe, sprang auf, und fiel mir als eine Unglückliche in die <pb n="15" xml:id="tg486.2.8.2.part2"/>
 Arme, die von einem Mörder verfolgt wird. Sie zitterte, und ein kalter Schweiß floß ihr über das erblaßte Gesicht. Ich wandte alles an, sie zu beruhigen, aber sie hat mir bis an den Morgen nur mit stummen Tränen geantwortet. Endlich hat sie mich einmal über das andre an Ihre Türe geschickt, zu hören, ob Sie schon aufwären. Sie will Sie sprechen. Sie allein können sie trösten. Tun Sie es doch, liebster gnädiger Herr, tun Sie es doch. Das Herz muß mir springen, wenn sie sich so zu ängstigen fortfährt.</p>
                                  </sp>
                                  <sp>
@@ -398,7 +400,7 @@ Arme, die von einem Mörder verfolgt wird. Sie zitterte, und ein kalter Schweiß
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg486.2.11.part1">MELLEFONT.</speaker>
-                                    <l xml:id="tg486.2.11.part2"> Nun so sage ihr, daß ich sie erwarte – Ach! – – <stage rend="italic" xml:id="tg486.2.11.1.part2" dr:fixed-stage="true">Betty geht ab.</stage>
+                                    <l xml:id="tg486.2.11.part2"> Nun so sage ihr, daß ich sie erwarte – Ach! – – <stage type="exit" rend="italic" xml:id="tg486.2.11.1.part2" dr:fixed-stage="true">Betty geht ab.</stage>
                                     </l>
                                     <lb xml:id="tg486.2.12"/>
                                  </sp>
@@ -418,7 +420,7 @@ Arme, die von einem Mörder verfolgt wird. Sie zitterte, und ein kalter Schweiß
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg487.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg487.2.4">
                                     <hi rend="italic" xml:id="tg487.2.4.1">Mellefont. Norton.</hi>
                                  </stage>
                                  <lb xml:id="tg487.2.5"/>
@@ -428,7 +430,7 @@ Arme, die von einem Mörder verfolgt wird. Sie zitterte, und ein kalter Schweiß
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg487.2.7.part1">MELLEFONT.</speaker>
-                                    <p xml:id="tg487.2.7.part2"> Wessen Gefühl willst du durch deine Ausrufung rege machen? Sieh, da läuft die erste Träne, die ich seit meiner Kindheit geweinet, die Wange herunter! – Eine schlechte Vorbereitung, eine trostsuchende Betrübte zu empfangen. Warum sucht sie ihn auch bei mir? – Doch wo soll sie ihn sonst suchen? – Ich muß mich fassen. <stage rend="italic" xml:id="tg487.2.7.1.part2" dr:fixed-stage="true">Indem er sich die Augen abtrocknet.</stage> Wo ist die alte Standhaftigkeit, mit der ich ein schönes Auge konnte weinen sehen? Wo ist die Gabe der Verstellung hin, durch die ich sein und sagen konnte, was ich wollte? – Nun wird sie kommen, und wird unwiderstehliche Tränen weinen. Verwirrt, beschämt werde ich vor ihr stehen; als ein verurteilter Sünder werde ich vor ihr stehen. Rate mir doch, was soll ich tun? was soll ich sagen?</p>
+                                    <p xml:id="tg487.2.7.part2"> Wessen Gefühl willst du durch deine Ausrufung rege machen? Sieh, da läuft die erste Träne, die ich seit meiner Kindheit geweinet, die Wange herunter! – Eine schlechte Vorbereitung, eine trostsuchende Betrübte zu empfangen. Warum sucht sie ihn auch bei mir? – Doch wo soll sie ihn sonst suchen? – Ich muß mich fassen. <stage type="other" rend="italic" xml:id="tg487.2.7.1.part2" dr:fixed-stage="true">Indem er sich die Augen abtrocknet.</stage> Wo ist die alte Standhaftigkeit, mit der ich ein schönes Auge konnte weinen sehen? Wo ist die Gabe der Verstellung hin, durch die ich sein und sagen konnte, was ich wollte? – Nun wird sie kommen, und wird unwiderstehliche Tränen weinen. Verwirrt, beschämt werde ich vor ihr stehen; als ein verurteilter Sünder werde ich vor ihr stehen. Rate mir doch, was soll ich tun? was soll ich sagen?</p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg487.2.8.part1">NORTON.</speaker>
@@ -464,15 +466,15 @@ Arme, die von einem Mörder verfolgt wird. Sie zitterte, und ein kalter Schweiß
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg488.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg488.2.4">
                                     <hi rend="italic" xml:id="tg488.2.4.1">Sara. Mellefont. Norton.</hi>
                                  </stage>
                                  <lb xml:id="tg488.2.5"/>
                                  <sp>
                                     <speaker xml:id="tg488.2.6.part1">MELLEFONT</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg488.2.6.1.part1" dr:fixed-stage="true">indem er ihr entgegen geht.</stage>
-                                    </stage>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg488.2.6.1.part1" dr:fixed-stage="true">indem er ihr entgegen geht.</stage>
+                                    
                                     <l xml:id="tg488.2.6.part2"> Sie haben eine unruhige Nacht gehabt, liebste Miß – –</l>
                                  </sp>
                                  <sp>
@@ -481,16 +483,16 @@ Arme, die von einem Mörder verfolgt wird. Sie zitterte, und ein kalter Schweiß
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg488.2.8.part1">MELLEFONT</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg488.2.8.1.part1" dr:fixed-stage="true">zum Bedienten.</stage>
-                                    </stage>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg488.2.8.1.part1" dr:fixed-stage="true">zum Bedienten.</stage>
+                                    
                                     <l xml:id="tg488.2.8.part2"> Verlaß uns!</l>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg488.2.9.part1">NORTON</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg488.2.9.1.part1" dr:fixed-stage="true">im Abgehen.</stage>
-                                    </stage>
+                                    
+                                       <stage type="exit" rend="italic" xml:id="tg488.2.9.1.part1" dr:fixed-stage="true">im Abgehen.</stage>
+                                    
                                     <l xml:id="tg488.2.9.part2"> Ich wollte auch nicht da bleiben, und wenn mir gleich jeder Augenblick mit Golde bezahlt würde.</l>
                                     <lb xml:id="tg488.2.10"/>
                                  </sp>
@@ -510,7 +512,7 @@ Arme, die von einem Mörder verfolgt wird. Sie zitterte, und ein kalter Schweiß
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg489.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg489.2.4">
                                     <hi rend="italic" xml:id="tg489.2.4.1">Sara. Mellefont.</hi>
                                  </stage>
                                  <lb xml:id="tg489.2.5"/>
@@ -520,9 +522,9 @@ Arme, die von einem Mörder verfolgt wird. Sie zitterte, und ein kalter Schweiß
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg489.2.7.part1">SARA</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg489.2.7.1.part1" dr:fixed-stage="true">sie setzt sich.</stage>
-                                    </stage>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg489.2.7.1.part1" dr:fixed-stage="true">sie setzt sich.</stage>
+                                    
                                     <p xml:id="tg489.2.7.part2"> Ich beunruhige Sie sehr früh; und werden Sie mir es vergeben, daß ich meine Klagen wieder mit dem Morgen anfange?</p>
                                  </sp>
                                  <sp>
@@ -668,7 +670,7 @@ Sonst klang es mir süße, aber itzt schallt mir ein schrecklicher Donner darin!
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg490.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg490.2.4">
                                     <hi rend="italic" xml:id="tg490.2.4.1">Norton. Mellefont. Sara.</hi>
                                  </stage>
                                  <lb xml:id="tg490.2.5"/>
@@ -682,7 +684,7 @@ Sonst klang es mir süße, aber itzt schallt mir ein schrecklicher Donner darin!
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg490.2.8.part1">MELLEFONT.</speaker>
-                                    <l xml:id="tg490.2.8.part2"> An mich? Wer weiß hier meinen Namen? – <stage rend="italic" xml:id="tg490.2.8.1.part2" dr:fixed-stage="true">Indem er den Brief betrachtet.</stage> Himmel!</l>
+                                    <l xml:id="tg490.2.8.part2"> An mich? Wer weiß hier meinen Namen? – <stage type="other" rend="italic" xml:id="tg490.2.8.1.part2" dr:fixed-stage="true">Indem er den Brief betrachtet.</stage> Himmel!</l>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg490.2.9.part1">SARA.</speaker>
@@ -715,9 +717,9 @@ Sonst klang es mir süße, aber itzt schallt mir ein schrecklicher Donner darin!
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg490.2.17.part1">MELLEFONT</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg490.2.17.1.part1" dr:fixed-stage="true">indem er sie bis an die Szene begleitet.</stage>
-                                    </stage>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg490.2.17.1.part1" dr:fixed-stage="true">indem er sie bis an die Szene begleitet.</stage>
+                                    
                                     <l xml:id="tg490.2.17.part2"> Ich werde den Augenblick bei Ihnen sein, liebste Miß.</l>
                                     <lb xml:id="tg490.2.18"/>
                                  </sp>
@@ -737,15 +739,15 @@ Sonst klang es mir süße, aber itzt schallt mir ein schrecklicher Donner darin!
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg491.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg491.2.4">
                                     <hi rend="italic" xml:id="tg491.2.4.1">Mellefont. Norton.</hi>
                                  </stage>
                                  <lb xml:id="tg491.2.5"/>
                                  <sp>
                                     <speaker xml:id="tg491.2.6.part1">MELLEFONT</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg491.2.6.1.part1" dr:fixed-stage="true">der den Brief noch ansieht.</stage>
-                                    </stage>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg491.2.6.1.part1" dr:fixed-stage="true">der den Brief noch ansieht.</stage>
+                                    
                                     <l xml:id="tg491.2.6.part2"> Gerechter Gott!</l>
                                  </sp>
                                  <sp>
@@ -758,9 +760,9 @@ Sonst klang es mir süße, aber itzt schallt mir ein schrecklicher Donner darin!
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg491.2.9.part1">NORTON</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg491.2.9.1.part1" dr:fixed-stage="true">er liest.</stage>
-                                    </stage>
+                                    
+                                       <stage type="aside" rend="italic" xml:id="tg491.2.9.1.part1" dr:fixed-stage="true">er liest.</stage>
+                                    
                                     <p xml:id="tg491.2.9.part2"> »Es wird so gut sein, als ob ich Ihnen den längsten Brief geschrieben hätte, Mellefont, wenn Sie den Namen, den Sie am Ende der Seite finden werden, nur einer kleinen Betrachtung würdigen wollen – –«</p>
                                  </sp>
                                  <sp>
@@ -769,9 +771,9 @@ Sonst klang es mir süße, aber itzt schallt mir ein schrecklicher Donner darin!
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg491.2.11.part1">NORTON</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg491.2.11.1.part1" dr:fixed-stage="true">liest weiter.</stage>
-                                    </stage>
+                                    
+                                       <stage type="aside" rend="italic" xml:id="tg491.2.11.1.part1" dr:fixed-stage="true">liest weiter.</stage>
+                                    
                                     <l xml:id="tg491.2.11.part2"> »Die Mühe Sie auszuforschen, hat mir die Liebe, welche mir forschen half, versüßt.«</l>
                                     <pb n="24" xml:id="tg491.2.12"/>
                                  </sp>
@@ -781,9 +783,9 @@ Sonst klang es mir süße, aber itzt schallt mir ein schrecklicher Donner darin!
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg491.2.14.part1">NORTON</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg491.2.14.1.part1" dr:fixed-stage="true">fährt fort.</stage>
-                                    </stage>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg491.2.14.1.part1" dr:fixed-stage="true">fährt fort.</stage>
+                                    
                                     <l xml:id="tg491.2.14.part2"> »Sie hat noch mehr getan; – –«</l>
                                  </sp>
                                  <sp>
@@ -796,7 +798,7 @@ Sonst klang es mir süße, aber itzt schallt mir ein schrecklicher Donner darin!
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg491.2.17.part1">MELLEFONT.</speaker>
-                                    <p xml:id="tg491.2.17.part2"> Verräter, was liest du? <stage rend="italic" xml:id="tg491.2.17.1.part2" dr:fixed-stage="true">Er reißt ihm den Brief aus der Hand und liest selbst.</stage> »Sie hat mich Ihnen – nachgebracht. – Ich bin hier; und es stehet bei Ihnen, – ob Sie meinen Besuch erwarten, – oder mir mit dem Ihrigen – zuvorkommen wollen. Marwood.« – Was für ein Donnerschlag! Sie ist hier? – Wo ist sie? Diese Frechheit soll sie mit dem Leben büßen.</p>
+                                    <p xml:id="tg491.2.17.part2"> Verräter, was liest du? <stage type="other" rend="italic" xml:id="tg491.2.17.1.part2" dr:fixed-stage="true">Er reißt ihm den Brief aus der Hand und liest selbst.</stage> »Sie hat mich Ihnen – nachgebracht. – Ich bin hier; und es stehet bei Ihnen, – ob Sie meinen Besuch erwarten, – oder mir mit dem Ihrigen – zuvorkommen wollen. Marwood.« – Was für ein Donnerschlag! Sie ist hier? – Wo ist sie? Diese Frechheit soll sie mit dem Leben büßen.</p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg491.2.18.part1">NORTON.</speaker>
@@ -812,7 +814,7 @@ Sonst klang es mir süße, aber itzt schallt mir ein schrecklicher Donner darin!
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg491.2.21.part1">MELLEFONT.</speaker>
-                                    <p xml:id="tg491.2.21.part2"> Sage nichts! – Laß sehen, <stage rend="italic" xml:id="tg491.2.21.1.part2" dr:fixed-stage="true">Indem er in den Brief sieht.</stage> ob sie ihre Wohnung angezeigt hat. Hier ist sie. Komm, führe mich. <stage rend="italic" xml:id="tg491.2.21.2.part2" dr:fixed-stage="true">Sie gehen ab.</stage>
+                                    <p xml:id="tg491.2.21.part2"> Sage nichts! – Laß sehen, <stage type="other" rend="italic" xml:id="tg491.2.21.1.part2" dr:fixed-stage="true">Indem er in den Brief sieht.</stage> ob sie ihre Wohnung angezeigt hat. Hier ist sie. Komm, führe mich. <stage type="exit" rend="italic" xml:id="tg491.2.21.2.part2" dr:fixed-stage="true">Sie gehen ab.</stage>
                                     </p>
                                     <lb xml:id="tg491.2.22"/>
                                     
@@ -845,7 +847,7 @@ Sonst klang es mir süße, aber itzt schallt mir ein schrecklicher Donner darin!
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg493.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg493.2.4">
                                     <hi rend="italic" xml:id="tg493.2.4.1">Der Schauplatz stellt das Zimmer der Marwood vor, in einem andern Gasthofe. Marwood im Neglischee. Hannah.</hi>
                                  </stage>
                                  <lb xml:id="tg493.2.5"/>
@@ -928,7 +930,7 @@ sein. Er riß das Kind vor einiger Zeit aus meinen Armen, unter dem Vorwande, ih
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg494.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg494.2.4">
                                     <hi rend="italic" xml:id="tg494.2.4.1">Ein Bedienter. Marwood. Hannah.</hi>
                                  </stage>
                                  <lb xml:id="tg494.2.5"/>
@@ -946,7 +948,7 @@ sein. Er riß das Kind vor einiger Zeit aus meinen Armen, unter dem Vorwande, ih
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg494.2.9.part1">MARWOOD.</speaker>
-                                    <p xml:id="tg494.2.9.part2"> Mellefont! – Geschwind, führe ihn herauf! <stage rend="italic" xml:id="tg494.2.9.1.part2" dr:fixed-stage="true">Der Bediente geht ab.</stage> Ach Hannah, nun ist er da! Wie soll ich ihn empfangen? Was soll ich sagen? Welche Miene soll ich annehmen? Ist diese ruhig genug? Sieh doch!</p>
+                                    <p xml:id="tg494.2.9.part2"> Mellefont! – Geschwind, führe ihn herauf! <stage type="exit" rend="italic" xml:id="tg494.2.9.1.part2" dr:fixed-stage="true">Der Bediente geht ab.</stage> Ach Hannah, nun ist er da! Wie soll ich ihn empfangen? Was soll ich sagen? Welche Miene soll ich annehmen? Ist diese ruhig genug? Sieh doch!</p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg494.2.10.part1">HANNAH.</speaker>
@@ -993,29 +995,29 @@ sein. Er riß das Kind vor einiger Zeit aus meinen Armen, unter dem Vorwande, ih
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg495.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg495.2.4">
                                     <hi rend="italic" xml:id="tg495.2.4.1">Mellefont. Marwood. Hannah.</hi>
                                  </stage>
                                  <lb xml:id="tg495.2.5"/>
                                  <sp>
                                     <speaker xml:id="tg495.2.6.part1">MELLEFONT</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg495.2.6.1.part1" dr:fixed-stage="true">der mit einer wilden Stellung herein tritt.</stage>
-                                    </stage>
+                                    
+                                       <stage type="enter" rend="italic" xml:id="tg495.2.6.1.part1" dr:fixed-stage="true">der mit einer wilden Stellung herein tritt.</stage>
+                                    
                                     <l xml:id="tg495.2.6.part2"> Ha! Marwood –</l>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg495.2.7.part1">MARWOOD</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg495.2.7.1.part1" dr:fixed-stage="true">die ihm mit offnen Armen lächelnd entgegen rennt.</stage>
-                                    </stage>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg495.2.7.1.part1" dr:fixed-stage="true">die ihm mit offnen Armen lächelnd entgegen rennt.</stage>
+                                    
                                     <l xml:id="tg495.2.7.part2"> Ach Mellefont –</l>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg495.2.8.part1">MELLEFONT</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg495.2.8.1.part1" dr:fixed-stage="true">bei Seite.</stage>
-                                    </stage>
+                                    
+                                       <stage type="aside" rend="italic" xml:id="tg495.2.8.1.part1" dr:fixed-stage="true">bei Seite.</stage>
+                                    
                                     <l xml:id="tg495.2.8.part2"> Die Mörderin, was für ein Blick!</l>
                                  </sp>
                                  <sp>
@@ -1073,17 +1075,17 @@ kann, als ich fühle! – Sehen Sie, Mellefont, sehen Sie, daß auch die Freude 
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg495.2.22.part1">MELLEFONT</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg495.2.22.1.part1" dr:fixed-stage="true">bei Seite.</stage>
-                                    </stage>
+                                    
+                                       <stage type="aside" rend="italic" xml:id="tg495.2.22.1.part1" dr:fixed-stage="true">bei Seite.</stage>
+                                    
                                     <p xml:id="tg495.2.22.part2"> Was für eine Schlange! Hier wird das beste sein, zu fliehen. – Sagen Sie mir es nur kurz, Marwood, <pb n="29" xml:id="tg495.2.22.2.part2"/>
 warum Sie mir nachgekommen sind? Was Sie noch von mir verlangen? Aber sagen Sie es nur ohne dieses Lächeln, ohne diesen Blick, aus welchem mich eine ganze Hölle von Verführung schreckt.</p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg495.2.23.part1">MARWOOD</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg495.2.23.1.part1" dr:fixed-stage="true">vertraulich.</stage>
-                                    </stage>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg495.2.23.1.part1" dr:fixed-stage="true">vertraulich.</stage>
+                                    
                                     <p xml:id="tg495.2.23.part2"> Höre nur, mein lieber Mellefont; ich merke wohl, wie es itzt mit dir steht. Deine Begierden und dein Geschmack sind itzt deine Tyrannen. Laß es gut sein; man muß sie austoben lassen. Sich ihnen widersetzen, ist Torheit. Sie werden am sichersten eingeschläfert, und endlich gar überwunden, wenn man ihnen freies Feld läßt. Sie reiben sich selbst auf. Kannst du mir nachsagen, kleiner Flattergeist, daß ich jemals eifersüchtig gewesen wäre, wenn stärkere Reize, als die meinigen, dich mir auf eine Zeitlang abspenstig machten? Ich gönnte dir ja allezeit diese Veränderung, bei der ich immer mehr gewann, als verlor. Du kehrtest mit neuem Feuer, mit neuer Inbrunst in meine Arme zurück, in die ich dich nur als in leichte Bande, und nie als in schwere Fesseln schloß. Bin ich nicht oft selbst deine Vertraute gewesen, wenn du mir auch schon nichts zu vertrauen hattest, als die Gunstbezeigungen, die du mir entwandtest, um sie gegen andre zu verschwenden? Warum glaubst du denn, daß ich itzt einen Eigensinn gegen dich zu zeigen anfangen würde, zu welchem ich nun eben berechtiget zu sein aufhöre, oder – vielleicht schon aufgehört habe? Wenn deine Hitze gegen das schöne Landmädchen noch nicht verraucht ist; wenn du noch in dem ersten Fieber deiner Liebe gegen sie bist; wenn du ihren Genuß noch nicht entbehren kannst: wer hindert dich denn, ihr so lange ergeben zu sein, als du es für gut befindest? Mußt du deswegen so unbesonnene Anschläge machen, und mit ihr aus dem Reiche fliehen wollen?</p>
                                  </sp>
                                  <sp>
@@ -1143,10 +1145,10 @@ hat. Ich will Sie an den ersten Tag erinnern, da Sie mich sahen und liebten; an 
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg495.2.37.part1">MARWOOD</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg495.2.37.1.part1" dr:fixed-stage="true">die ihn zurück hält.</stage>
-                                    </stage>
-                                    <p xml:id="tg495.2.37.part2"> Sie müssen mich verlassen? Und was wollen Sie denn, das aus mir werde? So wie ich itzt bin, bin ich Ihr Geschöpf; tun Sie also, was einem Schöpfer zukömmt; er darf die Hand von seinem Werke nicht eher abziehn, als bis er es gänzlich vernichten will. – Ach, Hannah, ich sehe wohl, meine Bitten allein sind zu schwach. Geh, bringe meinen Vorsprecher her, der mir vielleicht itzt auf einmal mehr wiedergeben wird, als er von mir erhalten hat. <stage rend="italic" xml:id="tg495.2.37.2.part2" dr:fixed-stage="true">Hannah geht ab.</stage>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg495.2.37.1.part1" dr:fixed-stage="true">die ihn zurück hält.</stage>
+                                    
+                                    <p xml:id="tg495.2.37.part2"> Sie müssen mich verlassen? Und was wollen Sie denn, das aus mir werde? So wie ich itzt bin, bin ich Ihr Geschöpf; tun Sie also, was einem Schöpfer zukömmt; er darf die Hand von seinem Werke nicht eher abziehn, als bis er es gänzlich vernichten will. – Ach, Hannah, ich sehe wohl, meine Bitten allein sind zu schwach. Geh, bringe meinen Vorsprecher her, der mir vielleicht itzt auf einmal mehr wiedergeben wird, als er von mir erhalten hat. <stage type="exit" rend="italic" xml:id="tg495.2.37.2.part2" dr:fixed-stage="true">Hannah geht ab.</stage>
                                     </p>
                                  </sp>
                                  <sp>
@@ -1179,7 +1181,7 @@ hat. Ich will Sie an den ersten Tag erinnern, da Sie mich sahen und liebten; an 
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg496.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg496.2.4">
                                     <hi rend="italic" xml:id="tg496.2.4.1">Arabella. Hannah. Mellefont. Marwood.</hi>
                                  </stage>
                                  <lb xml:id="tg496.2.5"/>
@@ -1193,16 +1195,16 @@ hat. Ich will Sie an den ersten Tag erinnern, da Sie mich sahen und liebten; an 
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg496.2.8.part1">MELLEFONT</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg496.2.8.1.part1" dr:fixed-stage="true">mit abgewandtem Gesichte.</stage>
-                                    </stage>
+                                    
+                                       <stage type="aside" rend="italic" xml:id="tg496.2.8.1.part1" dr:fixed-stage="true">mit abgewandtem Gesichte.</stage>
+                                    
                                     <l xml:id="tg496.2.8.part2"> Gott! wie wird es mir hier ergehen?</l>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg496.2.9.part1">ARABELLA</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg496.2.9.1.part1" dr:fixed-stage="true">indem sie ihm furchtsam näher tritt.</stage>
-                                    </stage>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg496.2.9.1.part1" dr:fixed-stage="true">indem sie ihm furchtsam näher tritt.</stage>
+                                    
                                     <p xml:id="tg496.2.9.part2"> Ach, mein Herr! Sind Sie es? Sind Sie unser Mellefont? – Nein doch, Madam, er ist es nicht. – Würde er mich nicht ansehen, wenn er es wäre? Würde er mich nicht in seine Arme schließen? Er hat es ja sonst getan. Ich unglückliches Kind! Womit hätte ich ihn denn erzürnt, diesen Mann, diesen liebsten Mann, der mir erlaubte, mich seine Tochter zu nennen?</p>
                                  </sp>
                                  <sp>
@@ -1223,9 +1225,9 @@ hat. Ich will Sie an den ersten Tag erinnern, da Sie mich sahen und liebten; an 
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg496.2.14.part1">ARABELLA</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg496.2.14.1.part1" dr:fixed-stage="true">die vor ihm niederfällt.</stage>
-                                    </stage>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg496.2.14.1.part1" dr:fixed-stage="true">die vor ihm niederfällt.</stage>
+                                    
                                     <p xml:id="tg496.2.14.part2"> Hier liege ich schon. Sie uns verlassen? Sie uns auf ewig verlassen? War es nicht schon eine kleine Ewigkeit, die wir Sie jetzt vermißt haben? Wir sollen Sie wieder vermissen? Sie haben ja so oft gesagt, daß Sie uns liebten. Verläßt man denn die, die man liebt? So muß ich Sie wohl nicht lieben: denn ich wünschte, Sie nie zu verlassen. Nie; und will Sie auch nie verlassen.</p>
                                  </sp>
                                  <sp>
@@ -1235,10 +1237,10 @@ mir – Nun, Mellefont, sehen Sie auch mich zu Ihren Füßen – –</p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg496.2.16.part1">MELLEFONT</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg496.2.16.1.part1" dr:fixed-stage="true">hält sie zurück, indem sie sich niederwerfen will.</stage>
-                                    </stage>
-                                    <p xml:id="tg496.2.16.part2"> Marwood, gefährliche Marwood – Und auch du, meine liebste Bella, <stage rend="italic" xml:id="tg496.2.16.2.part2" dr:fixed-stage="true">Hebt sie auf.</stage> auch du bist wider deinen Mellefont?</p>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg496.2.16.1.part1" dr:fixed-stage="true">hält sie zurück, indem sie sich niederwerfen will.</stage>
+                                    
+                                    <p xml:id="tg496.2.16.part2"> Marwood, gefährliche Marwood – Und auch du, meine liebste Bella, <stage type="other" rend="italic" xml:id="tg496.2.16.2.part2" dr:fixed-stage="true">Hebt sie auf.</stage> auch du bist wider deinen Mellefont?</p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg496.2.17.part1">ARABELLA.</speaker>
@@ -1254,9 +1256,9 @@ mir – Nun, Mellefont, sehen Sie auch mich zu Ihren Füßen – –</p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg496.2.20.part1">MARWOOD</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg496.2.20.1.part1" dr:fixed-stage="true">die ihn umarmt.</stage>
-                                    </stage>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg496.2.20.1.part1" dr:fixed-stage="true">die ihn umarmt.</stage>
+                                    
                                     <p xml:id="tg496.2.20.part2"> Ach, ich weiß es ja, daß die Redlichkeit Ihres Herzens allezeit über den Eigensinn Ihrer Begierden gesiegt hat.</p>
                                  </sp>
                                  <sp>
@@ -1269,9 +1271,9 @@ mir – Nun, Mellefont, sehen Sie auch mich zu Ihren Füßen – –</p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg496.2.23.part1">ARABELLA</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg496.2.23.1.part1" dr:fixed-stage="true">schmeichelnd.</stage>
-                                    </stage>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg496.2.23.1.part1" dr:fixed-stage="true">schmeichelnd.</stage>
+                                    
                                     <l xml:id="tg496.2.23.part2"> O ja! tun Sie dieses.</l>
                                  </sp>
                                  <sp>
@@ -1321,7 +1323,7 @@ können sich mit der Heftigkeit Ihrer Leidenschaft entschuldigen. Allein, daß S
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg496.2.35.part1">ARABELLA.</speaker>
-                                    <p xml:id="tg496.2.35.part2"> Der war für Sie; aber nun einen für mich. Kommen Sie nur ja bald wieder; ich bitte.<stage rend="italic" xml:id="tg496.2.35.1.part2" dr:fixed-stage="true"> Mellefont geht ab.</stage>
+                                    <p xml:id="tg496.2.35.part2"> Der war für Sie; aber nun einen für mich. Kommen Sie nur ja bald wieder; ich bitte.<stage type="exit" rend="italic" xml:id="tg496.2.35.1.part2" dr:fixed-stage="true"> Mellefont geht ab.</stage>
                                     </p>
                                     <pb n="36" xml:id="tg496.2.36"/>
                                     <lb xml:id="tg496.2.37"/>
@@ -1342,16 +1344,16 @@ können sich mit der Heftigkeit Ihrer Leidenschaft entschuldigen. Allein, daß S
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg497.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg497.2.4">
                                     <hi rend="italic" xml:id="tg497.2.4.1">Marwood. Arabella. Hannah.</hi>
                                  </stage>
                                  <lb xml:id="tg497.2.5"/>
                                  <sp>
                                     <speaker xml:id="tg497.2.6.part1">MARWOOD</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg497.2.6.1.part1" dr:fixed-stage="true">nachdem sie tief Atem geholt.</stage>
-                                    </stage>
-                                    <p xml:id="tg497.2.6.part2"> Sieg, Hannah! aber ein saurer Sieg! – Gib mir einen Stuhl; ich fühle mich ganz abgemattet – <stage rend="italic" xml:id="tg497.2.6.2.part2" dr:fixed-stage="true">Sie setzt sich.</stage> Eben war es die höchste Zeit, als er sich ergab; noch einen Augenblick hätte er anstehen dürfen, so würde ich ihm eine ganz andre Marwood gezeigt haben.</p>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg497.2.6.1.part1" dr:fixed-stage="true">nachdem sie tief Atem geholt.</stage>
+                                    
+                                    <p xml:id="tg497.2.6.part2"> Sieg, Hannah! aber ein saurer Sieg! – Gib mir einen Stuhl; ich fühle mich ganz abgemattet – <stage type="other" rend="italic" xml:id="tg497.2.6.2.part2" dr:fixed-stage="true">Sie setzt sich.</stage> Eben war es die höchste Zeit, als er sich ergab; noch einen Augenblick hätte er anstehen dürfen, so würde ich ihm eine ganz andre Marwood gezeigt haben.</p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg497.2.7.part1">HANNAH.</speaker>
@@ -1375,7 +1377,7 @@ können sich mit der Heftigkeit Ihrer Leidenschaft entschuldigen. Allein, daß S
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg497.2.12.part1">MARWOOD.</speaker>
-                                    <l xml:id="tg497.2.12.part2"> Ich glaube es auch. Ha! ha! <stage rend="italic" xml:id="tg497.2.12.1.part2" dr:fixed-stage="true">Verächtlich.</stage>
+                                    <l xml:id="tg497.2.12.part2"> Ich glaube es auch. Ha! ha! <stage type="other" rend="italic" xml:id="tg497.2.12.1.part2" dr:fixed-stage="true">Verächtlich.</stage>
                                     </l>
                                  </sp>
                                  <sp>
@@ -1400,7 +1402,7 @@ können sich mit der Heftigkeit Ihrer Leidenschaft entschuldigen. Allein, daß S
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg497.2.18.part1">ARABELLA.</speaker>
-                                    <l xml:id="tg497.2.18.part2"> Dasmal? <stage rend="italic" xml:id="tg497.2.18.1.part2" dr:fixed-stage="true">Schluchzend.</stage>
+                                    <l xml:id="tg497.2.18.part2"> Dasmal? <stage type="other" rend="italic" xml:id="tg497.2.18.1.part2" dr:fixed-stage="true">Schluchzend.</stage>
                                     </l>
                                  </sp>
                                  <sp>
@@ -1441,20 +1443,20 @@ ungehalten. Ich will Sie ja gern alle beide so lieb, so lieb haben, daß ich unm
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg498.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg498.2.4">
                                     <hi rend="italic" xml:id="tg498.2.4.1">Mellefont. Marwood. Arabella. Hannah.</hi>
                                  </stage>
                                  <lb xml:id="tg498.2.5"/>
                                  <sp>
                                     <speaker xml:id="tg498.2.6.part1">MARWOOD.</speaker>
-                                    <l xml:id="tg498.2.6.part2"> Warum kommen Sie schon wieder, Mellefont? <stage rend="italic" xml:id="tg498.2.6.1.part2" dr:fixed-stage="true">Sie steht auf.</stage>
+                                    <l xml:id="tg498.2.6.part2"> Warum kommen Sie schon wieder, Mellefont? <stage type="other" rend="italic" xml:id="tg498.2.6.1.part2" dr:fixed-stage="true">Sie steht auf.</stage>
                                     </l>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg498.2.7.part1">MELLEFONT</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg498.2.7.1.part1" dr:fixed-stage="true">hitzig.</stage>
-                                    </stage>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg498.2.7.1.part1" dr:fixed-stage="true">hitzig.</stage>
+                                    
                                     <l xml:id="tg498.2.7.part2"> Weil ich mehr nicht, als einige Augenblicke nötig hatte, wieder zu mir selbst zu kommen.</l>
                                  </sp>
                                  <sp>
@@ -1467,9 +1469,9 @@ ungehalten. Ich will Sie ja gern alle beide so lieb, so lieb haben, daß ich unm
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg498.2.10.part1">MARWOOD</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg498.2.10.1.part1" dr:fixed-stage="true">hastig.</stage>
-                                    </stage>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg498.2.10.1.part1" dr:fixed-stage="true">hastig.</stage>
+                                    
                                     <l xml:id="tg498.2.10.part2"> Was ist das wieder für eine Sprache?</l>
                                  </sp>
                                  <sp>
@@ -1486,9 +1488,9 @@ ungehalten. Ich will Sie ja gern alle beide so lieb, so lieb haben, daß ich unm
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg498.2.14.part1">ARABELLA</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg498.2.14.1.part1" dr:fixed-stage="true">furchtsam.</stage>
-                                    </stage>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg498.2.14.1.part1" dr:fixed-stage="true">furchtsam.</stage>
+                                    
                                     <l xml:id="tg498.2.14.part2"> Ach! Hannah –</l>
                                  </sp>
                                  <sp>
@@ -1506,9 +1508,9 @@ zurück gekommen. Geben Sie mir die Hand, und folgen Sie mir nur getrost.</p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg498.2.18.part1">MARWOOD</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg498.2.18.1.part1" dr:fixed-stage="true">die beide zurückhält.</stage>
-                                    </stage>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg498.2.18.1.part1" dr:fixed-stage="true">die beide zurückhält.</stage>
+                                    
                                     <l xml:id="tg498.2.18.part2"> Wem soll sie folgen, Verräter?</l>
                                  </sp>
                                  <sp>
@@ -1529,12 +1531,12 @@ zurück gekommen. Geben Sie mir die Hand, und folgen Sie mir nur getrost.</p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg498.2.23.part1">MELLEFONT.</speaker>
-                                    <l xml:id="tg498.2.23.part2"> Bleiben Sie, Bella. <stage rend="italic" xml:id="tg498.2.23.1.part2" dr:fixed-stage="true">Indem er sie zurück halten will.</stage>
+                                    <l xml:id="tg498.2.23.part2"> Bleiben Sie, Bella. <stage type="other" rend="italic" xml:id="tg498.2.23.1.part2" dr:fixed-stage="true">Indem er sie zurück halten will.</stage>
                                     </l>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg498.2.24.part1">MARWOOD.</speaker>
-                                    <l xml:id="tg498.2.24.part2"> Nur keine Gewalt, Mellefont, oder – –<stage rend="italic" xml:id="tg498.2.24.1.part2" dr:fixed-stage="true"> Hannah und Arabella gehen ab.</stage>
+                                    <l xml:id="tg498.2.24.part2"> Nur keine Gewalt, Mellefont, oder – –<stage type="exit" rend="italic" xml:id="tg498.2.24.1.part2" dr:fixed-stage="true"> Hannah und Arabella gehen ab.</stage>
                                     </l>
                                     <lb xml:id="tg498.2.25"/>
                                  </sp>
@@ -1554,7 +1556,7 @@ zurück gekommen. Geben Sie mir die Hand, und folgen Sie mir nur getrost.</p>
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg499.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg499.2.4">
                                     <hi rend="italic" xml:id="tg499.2.4.1">Mellefont. Marwood.</hi>
                                  </stage>
                                  <lb xml:id="tg499.2.5"/>
@@ -1564,16 +1566,16 @@ zurück gekommen. Geben Sie mir die Hand, und folgen Sie mir nur getrost.</p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg499.2.7.part1">MELLEFONT</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg499.2.7.1.part1" dr:fixed-stage="true">bitter.</stage>
-                                    </stage>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg499.2.7.1.part1" dr:fixed-stage="true">bitter.</stage>
+                                    
                                     <p xml:id="tg499.2.7.part2"> Aufzuopfern? Sie machen, daß ich mich hier erinnere, daß den alten Göttern auch sehr unreine Tiere geopfert wurden.</p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg499.2.8.part1">MARWOOD</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg499.2.8.1.part1" dr:fixed-stage="true">spöttisch.</stage>
-                                    </stage>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg499.2.8.1.part1" dr:fixed-stage="true">spöttisch.</stage>
+                                    
                                     <l xml:id="tg499.2.8.part2"> Drücken Sie sich ohne so gelehrte Anspielungen aus.</l>
                                  </sp>
                                  <sp>
@@ -1604,9 +1606,9 @@ kosten müßte! Ungeheuer! Ist der Teufel ärger als du, der schwache Menschen z
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg499.2.16.part1">MELLEFONT</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg499.2.16.1.part1" dr:fixed-stage="true">erschrocken.</stage>
-                                    </stage>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg499.2.16.1.part1" dr:fixed-stage="true">erschrocken.</stage>
+                                    
                                     <l xml:id="tg499.2.16.part2"> Marwood – –</l>
                                  </sp>
                                  <sp>
@@ -1619,20 +1621,20 @@ kosten müßte! Ungeheuer! Ist der Teufel ärger als du, der schwache Menschen z
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg499.2.19.part1">MARWOOD.</speaker>
-                                    <p xml:id="tg499.2.19.part2"> Du erinnerst mich, daß ich nicht gegen den Rechten rase. Der Vater muß voran! Er muß schon in jener Welt sein, wenn der Geist seiner Tochter unter tausend Seufzern ihm nachzieht. <stage rend="italic" xml:id="tg499.2.19.1.part2" dr:fixed-stage="true">Sie geht mit einem Dolche, den sie aus dem Busen reißt, auf ihn los.</stage> Drum stirb, Verräter!</p>
+                                    <p xml:id="tg499.2.19.part2"> Du erinnerst mich, daß ich nicht gegen den Rechten rase. Der Vater muß voran! Er muß schon in jener Welt sein, wenn der Geist seiner Tochter unter tausend Seufzern ihm nachzieht. <stage type="other" rend="italic" xml:id="tg499.2.19.1.part2" dr:fixed-stage="true">Sie geht mit einem Dolche, den sie aus dem Busen reißt, auf ihn los.</stage> Drum stirb, Verräter!</p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg499.2.20.part1">MELLEFONT</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg499.2.20.1.part1" dr:fixed-stage="true">der ihr in den Arm fällt, und den Dolch entreißt.</stage>
-                                    </stage>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg499.2.20.1.part1" dr:fixed-stage="true">der ihr in den Arm fällt, und den Dolch entreißt.</stage>
+                                    
                                     <p xml:id="tg499.2.20.part2"> Unsinniges Weibsbild! – Was hindert mich nun, den Stahl wider dich zu kehren? Doch lebe, und deine Strafe müsse einer ehrlosen Hand aufgehoben sein!</p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg499.2.21.part1">MARWOOD</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg499.2.21.1.part1" dr:fixed-stage="true">mit gerungenen Händen.</stage>
-                                    </stage>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg499.2.21.1.part1" dr:fixed-stage="true">mit gerungenen Händen.</stage>
+                                    
                                     <l xml:id="tg499.2.21.part2"> Himmel, was hab' ich getan? Mellefont – –</l>
                                  </sp>
                                  <sp>
@@ -1669,7 +1671,7 @@ kosten müßte! Ungeheuer! Ist der Teufel ärger als du, der schwache Menschen z
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg500.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg500.2.4">
                                     <hi rend="italic" xml:id="tg500.2.4.1">Hannah erschrocken. Marwood. Mellefont.</hi>
                                  </stage>
                                  <lb xml:id="tg500.2.5"/>
@@ -1683,7 +1685,7 @@ kosten müßte! Ungeheuer! Ist der Teufel ärger als du, der schwache Menschen z
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg500.2.8.part1">MELLEFONT.</speaker>
-                                    <p xml:id="tg500.2.8.part2"> Ich will das unschuldige Kind bald in völlige Sicherheit bringen. Die Gerechtigkeit wird einer so grausamen Mutter die mörderischen Hände schon zu binden wissen. <stage rend="italic" xml:id="tg500.2.8.1.part2" dr:fixed-stage="true">Er will gehen.</stage>
+                                    <p xml:id="tg500.2.8.part2"> Ich will das unschuldige Kind bald in völlige Sicherheit bringen. Die Gerechtigkeit wird einer so grausamen Mutter die mörderischen Hände schon zu binden wissen. <stage type="other" rend="italic" xml:id="tg500.2.8.1.part2" dr:fixed-stage="true">Er will gehen.</stage>
                                     </p>
                                  </sp>
                                  <sp>
@@ -1725,7 +1727,7 @@ nicht einmal die Hoffnung gönnen wollte? Ich will mich ihr nicht als Marwood, s
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg500.2.18.part1">MELLEFONT.</speaker>
-                                    <p xml:id="tg500.2.18.part2"> Diese Bitte, Marwood, <stage rend="italic" xml:id="tg500.2.18.1.part2" dr:fixed-stage="true">Nachdem er einen Augenblick nachgedacht.</stage> – – könnte ich Ihnen gewähren. Wollen Sie aber auch alsdann gewiß diesen Ort verlassen?</p>
+                                    <p xml:id="tg500.2.18.part2"> Diese Bitte, Marwood, <stage type="other" rend="italic" xml:id="tg500.2.18.1.part2" dr:fixed-stage="true">Nachdem er einen Augenblick nachgedacht.</stage> – – könnte ich Ihnen gewähren. Wollen Sie aber auch alsdann gewiß diesen Ort verlassen?</p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg500.2.19.part1">MARWOOD.</speaker>
@@ -1733,7 +1735,7 @@ nicht einmal die Hoffnung gönnen wollte? Ich will mich ihr nicht als Marwood, s
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg500.2.20.part1">MELLEFONT.</speaker>
-                                    <p xml:id="tg500.2.20.part2"> Dieses haben Sie nicht nötig. Ich hoffe, daß er auch mich in die Verzeihung mit einschließen wird, die er seiner Tochter widerfahren läßt. Will er aber dieser nicht verzeihen: so werde ich auch wissen, wie ich ihm begegnen soll. – Ich gehe, Sie bei meiner Miß zu melden. Nur halten Sie Wort, Marwood! <stage rend="italic" xml:id="tg500.2.20.1.part2" dr:fixed-stage="true">Geht ab.</stage>
+                                    <p xml:id="tg500.2.20.part2"> Dieses haben Sie nicht nötig. Ich hoffe, daß er auch mich in die Verzeihung mit einschließen wird, die er seiner Tochter widerfahren läßt. Will er aber dieser nicht verzeihen: so werde ich auch wissen, wie ich ihm begegnen soll. – Ich gehe, Sie bei meiner Miß zu melden. Nur halten Sie Wort, Marwood! <stage type="exit" rend="italic" xml:id="tg500.2.20.1.part2" dr:fixed-stage="true">Geht ab.</stage>
                                     </p>
                                  </sp>
                                  <sp>
@@ -1770,10 +1772,10 @@ nicht einmal die Hoffnung gönnen wollte? Ich will mich ihr nicht als Marwood, s
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg502.2.4">
+                                 <stage type="other" rend="zenoPC" xml:id="tg502.2.4">
                                     <hi rend="italic" xml:id="tg502.2.4.1">Ein Saal im ersten Gasthofe.</hi>
                                  </stage>
-                                 <stage rend="zenoPC" xml:id="tg502.2.5">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg502.2.5">
                                     <hi rend="italic" xml:id="tg502.2.5.1">Sir William Sampson. Waitwell.</hi>
                                  </stage>
                                  <lb xml:id="tg502.2.6"/>
@@ -1804,7 +1806,7 @@ war eben so natürlich, daß sich ein Mensch von seiner Denkungsart durch diese 
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg502.2.13.part1">SIR WILLIAM.</speaker>
-                                    <p xml:id="tg502.2.13.part2"> Der Zweifel, guter Waitwell, macht deiner Tugend Ehre. Aber warum ist es gleichwohl wahr, daß sich die Grenzen der menschlichen Bosheit noch viel weiter erstrecken? – Geh nur jetzt und tue was ich dir gesagt habe. Gib auf alle ihre Mienen Acht, wenn sie meinen Brief lesen wird. In der kurzen Entfernung von der Tugend, kann sie die Verstellung noch nicht gelernt haben, zu deren Larven nur das eingewurzelte Laster seine Zuflucht nimmt. Du wirst ihre ganze Seele in ihrem Gesichte lesen. Laß dir ja keinen Zug entgehen, der etwa eine Gleichgültigkeit gegen mich, eine Verschmähung ihres Vaters, anzeigen könnte. Denn wenn du diese unglückliche Entdeckung machen solltest, und wenn sie mich nicht mehr liebt: so hoffe ich, daß ich mich endlich werde überwinden können, sie ihrem Schicksale zu überlassen. Ich hoffe es, Waitwell – Ach! wenn nur hier kein Herz schlüge, das dieser Hoffnung widerspricht. <stage rend="italic" xml:id="tg502.2.13.1.part2" dr:fixed-stage="true">Sie gehen beide auf verschiedenen Seiten ab.</stage>
+                                    <p xml:id="tg502.2.13.part2"> Der Zweifel, guter Waitwell, macht deiner Tugend Ehre. Aber warum ist es gleichwohl wahr, daß sich die Grenzen der menschlichen Bosheit noch viel weiter erstrecken? – Geh nur jetzt und tue was ich dir gesagt habe. Gib auf alle ihre Mienen Acht, wenn sie meinen Brief lesen wird. In der kurzen Entfernung von der Tugend, kann sie die Verstellung noch nicht gelernt haben, zu deren Larven nur das eingewurzelte Laster seine Zuflucht nimmt. Du wirst ihre ganze Seele in ihrem Gesichte lesen. Laß dir ja keinen Zug entgehen, der etwa eine Gleichgültigkeit gegen mich, eine Verschmähung ihres Vaters, anzeigen könnte. Denn wenn du diese unglückliche Entdeckung machen solltest, und wenn sie mich nicht mehr liebt: so hoffe ich, daß ich mich endlich werde überwinden können, sie ihrem Schicksale zu überlassen. Ich hoffe es, Waitwell – Ach! wenn nur hier kein Herz schlüge, das dieser Hoffnung widerspricht. <stage type="exit" rend="italic" xml:id="tg502.2.13.1.part2" dr:fixed-stage="true">Sie gehen beide auf verschiedenen Seiten ab.</stage>
                                     </p>
                                     <pb n="45" xml:id="tg502.2.14"/>
                                     <lb xml:id="tg502.2.15"/>
@@ -1825,7 +1827,7 @@ war eben so natürlich, daß sich ein Mensch von seiner Denkungsart durch diese 
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg503.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg503.2.4">
                                     <hi rend="italic" xml:id="tg503.2.4.1">Das Zimmer der Sara. Miß Sara. Mellefont.</hi>
                                  </stage>
                                  <lb xml:id="tg503.2.5"/>
@@ -1896,14 +1898,12 @@ war eben so natürlich, daß sich ein Mensch von seiner Denkungsart durch diese 
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg503.2.23.part1">MELLEFONT.</speaker>
-                                    <p xml:id="tg503.2.23.part2"> Ach, Miß, lassen Sie mich meinen Ehrgeiz gestehen. Ich möchte gern gegen die ganze Welt mit Ihnen prahlen. Und wenn ich auf den Besitz einer solchen Person nicht eitel wäre, so würde ich mir selbst vorwerfen, daß ich den Wert derselben nicht zu schätzen wüßte. Ich gehe, und bringe die Lady sogleich zu Ihnen. <stage rend="italic" xml:id="tg503.2.23.1.part2" dr:fixed-stage="true">Gehet ab.</stage>
+                                    <p xml:id="tg503.2.23.part2"> Ach, Miß, lassen Sie mich meinen Ehrgeiz gestehen. Ich möchte gern gegen die ganze Welt mit Ihnen prahlen. Und wenn ich auf den Besitz einer solchen Person nicht eitel wäre, so würde ich mir selbst vorwerfen, daß ich den Wert derselben nicht zu schätzen wüßte. Ich gehe, und bringe die Lady sogleich zu Ihnen. <stage type="exit" rend="italic" xml:id="tg503.2.23.1.part2" dr:fixed-stage="true">Gehet ab.</stage>
                                     </p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg503.2.24.part1">SARA</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg503.2.24.1.part1" dr:fixed-stage="true">allein.</stage>
-                                    </stage>
+                                    <stage type="aside" rend="italic" xml:id="tg503.2.24.1.part1" dr:fixed-stage="true">allein.</stage>
                                     <p xml:id="tg503.2.24.part2"> Wenn es nur keine von den stolzen Weibern ist, die voll von ihrer Tugend, über alle Schwachheiten erhaben zu sein glauben. Sie machen uns mit einem einzigen verächtlichen Blicke den Prozeß, und ein zweideutiges Achselzucken ist das ganze Mitleiden, das wir ihnen zu verdienen scheinen.</p>
                                     <lb xml:id="tg503.2.25"/>
                                  </sp>
@@ -1923,22 +1923,22 @@ war eben so natürlich, daß sich ein Mensch von seiner Denkungsart durch diese 
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg504.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg504.2.4">
                                     <hi rend="italic" xml:id="tg504.2.4.1">Waitwell. Sara.</hi>
                                  </stage>
                                  <lb xml:id="tg504.2.5"/>
                                  <sp>
                                     <speaker xml:id="tg504.2.6.part1">BETTY</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg504.2.6.1.part1" dr:fixed-stage="true">zwischen der Szene.</stage>
-                                    </stage>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg504.2.6.1.part1" dr:fixed-stage="true">zwischen der Szene.</stage>
+                                    
                                     <l xml:id="tg504.2.6.part2"> Nur hier herein, wenn Er selbst mit ihr sprechen muß.</l>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg504.2.7.part1">SARA</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg504.2.7.1.part1" dr:fixed-stage="true">die sich umsieht.</stage>
-                                    </stage>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg504.2.7.1.part1" dr:fixed-stage="true">die sich umsieht.</stage>
+                                    
                                     <l xml:id="tg504.2.7.part2"> Wer muß selbst mit mir sprechen? – Wen seh' ich? Ist es möglich? Waitwell, dich?</l>
                                  </sp>
                                  <sp>
@@ -1977,9 +1977,9 @@ war eben so natürlich, daß sich ein Mensch von seiner Denkungsart durch diese 
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg504.2.17.part1">WAITWELL</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg504.2.17.1.part1" dr:fixed-stage="true">indem er sich die Augen wischt.</stage>
-                                    </stage>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg504.2.17.1.part1" dr:fixed-stage="true">indem er sich die Augen wischt.</stage>
+                                    
                                     <l xml:id="tg504.2.17.part2"> Nein, Miß, dazu hat er es nicht kommen lassen.</l>
                                  </sp>
                                  <sp>
@@ -2046,9 +2046,9 @@ durch diese Verteidigung, wo möglich, noch zorniger zu machen. Meine Beruhigung
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg504.2.34.part1">WAITWELL</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg504.2.34.1.part1" dr:fixed-stage="true">etwas bei Seite.</stage>
-                                    </stage>
+                                    
+                                       <stage type="aside" rend="italic" xml:id="tg504.2.34.1.part1" dr:fixed-stage="true">etwas bei Seite.</stage>
+                                    
                                     <p xml:id="tg504.2.34.part2"> Ich glaube wahrhaftig, ich werde das gute Kind hintergehen müssen, damit es den Brief doch nur lieset.</p>
                                  </sp>
                                  <sp>
@@ -2069,7 +2069,7 @@ durch diese Verteidigung, wo möglich, noch zorniger zu machen. Meine Beruhigung
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg504.2.39.part1">SARA.</speaker>
-                                    <p xml:id="tg504.2.39.part2"> Ist das wahr? – Nun so gib mir ihn her. Ich will ihn lesen. Wenn man den Zorn eines Vaters unglücklicher Weise verdient hat, so muß man wenigstens gegen diesen väterlichen Zorn so viel Achtung haben, daß er ihn nach allen Gefallen gegen uns auslassen kann. Ihn zu vereiteln suchen, heißt Beleidigungen mit Geringschätzung häufen. Ich werde ihn nach aller seiner Stärke empfinden. Du siehst, ich zittre schon – Aber ich soll auch zittern; und ich will lieber zittern, als weinen. – <stage rend="italic" xml:id="tg504.2.39.1.part2" dr:fixed-stage="true">Sie erbricht den Brief.</stage> Nun ist er erbrochen! Ich bebe – Aber was seh ich? <stage rend="italic" xml:id="tg504.2.39.2.part2" dr:fixed-stage="true">Sie lieset.</stage> »Einzige, geliebteste Tochter!« – Ha! du alter Betrieger, ist das die Anrede eines zornigen Vaters? Geh, weiter werde ich nicht lesen – –</p>
+                                    <p xml:id="tg504.2.39.part2"> Ist das wahr? – Nun so gib mir ihn her. Ich will ihn lesen. Wenn man den Zorn eines Vaters unglücklicher Weise verdient hat, so muß man wenigstens gegen diesen väterlichen Zorn so viel Achtung haben, daß er ihn nach allen Gefallen gegen uns auslassen kann. Ihn zu vereiteln suchen, heißt Beleidigungen mit Geringschätzung häufen. Ich werde ihn nach aller seiner Stärke empfinden. Du siehst, ich zittre schon – Aber ich soll auch zittern; und ich will lieber zittern, als weinen. – <stage type="other" rend="italic" xml:id="tg504.2.39.1.part2" dr:fixed-stage="true">Sie erbricht den Brief.</stage> Nun ist er erbrochen! Ich bebe – Aber was seh ich? <stage type="other" rend="italic" xml:id="tg504.2.39.2.part2" dr:fixed-stage="true">Sie lieset.</stage> »Einzige, geliebteste Tochter!« – Ha! du alter Betrieger, ist das die Anrede eines zornigen Vaters? Geh, weiter werde ich nicht lesen – –</p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg504.2.40.part1">WAITWELL.</speaker>
@@ -2120,27 +2120,27 @@ selbst. Doch muß das Mißtrauen nicht über sein Ziel getrieben werden.</p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg504.2.51.part1">SARA.</speaker>
-                                    <l xml:id="tg504.2.51.part2"> Sei still! <stage rend="italic" xml:id="tg504.2.51.1.part2" dr:fixed-stage="true">Sie fängt an für sich zu lesen.</stage>
+                                    <l xml:id="tg504.2.51.part2"> Sei still! <stage type="aside" rend="italic" xml:id="tg504.2.51.1.part2" dr:fixed-stage="true">Sie fängt an für sich zu lesen.</stage>
                                     </l>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg504.2.52.part1">WAITWELL</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg504.2.52.1.part1" dr:fixed-stage="true">bei Seite.</stage>
-                                    </stage>
+                                   
+                                       <stage type="aside" rend="italic" xml:id="tg504.2.52.1.part1" dr:fixed-stage="true">bei Seite.</stage>
+                                   
                                     <l xml:id="tg504.2.52.part2"> O! wenn er sie selbst sehen sollte!</l>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg504.2.53.part1">SARA</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg504.2.53.1.part1" dr:fixed-stage="true">nachdem sie einige Augenblicke gelesen.</stage>
-                                    </stage>
-                                    <p xml:id="tg504.2.53.part2"> Ach Waitwell, was für ein Vater! Er nennt meine Flucht eine Abwesenheit. Wie viel sträflicher wird sie durch dieses gelinde Wort! <stage rend="italic" xml:id="tg504.2.53.2.part2" dr:fixed-stage="true">Sie lieset weiter und unterbricht sich wieder.</stage> Höre doch! er schmeichelt sich, ich würde ihn noch lieben. Er schmeichelt sich! <stage rend="italic" xml:id="tg504.2.53.3.part2" dr:fixed-stage="true">Lieset und unterbricht sich.</stage> Er bittet mich – Er bittet mich? Ein Vater seine Tochter? seine strafbare Tochter? Und was bittet er mich denn? –<stage rend="italic" xml:id="tg504.2.53.4.part2" dr:fixed-stage="true"> Lieset für sich.</stage> Er bittet mich, seine übereilte Strenge zu vergessen, und ihn mit meiner Entfernung nicht länger zu strafen. Übereilte Strenge! – Zu strafen! – <stage rend="italic" xml:id="tg504.2.53.5.part2" dr:fixed-stage="true">Lieset wieder und unterbricht sich.</stage> Noch mehr! Nun dankt er mir gar, und dankt mir, daß ich ihm Gelegenheit gegeben, den ganzen Umfang der väterlichen Liebe kennen zu lernen. Unselige Gelegenheit! Wenn er doch nur auch sagte, daß sie ihm zugleich den ganzen Umfang des kindlichen Ungehorsams habe kennen lernen! <stage rend="italic" xml:id="tg504.2.53.6.part2" dr:fixed-stage="true">Sie lieset wieder.</stage> Nein, er sagt es nicht! Er gedenkt meines Verbrechens nicht mit einem Buchstaben. <stage rend="italic" xml:id="tg504.2.53.7.part2" dr:fixed-stage="true">Sie fährt weiter fort für sich zu lesen.</stage> Er will kommen, und seine Kinder selbst zurückholen. Seine Kinder, Waitwell! Das geht über alles! – Hab' ich auch recht gelesen? <stage rend="italic" xml:id="tg504.2.53.8.part2" dr:fixed-stage="true">Sie lieset wieder für sich.</stage> – Ich möchte vergehen! Er sagt, derjenige verdiene nur allzu wohl sein Sohn zu sein, ohne welchen er keine Tochter haben könne. – O! hätte er sie nie gehabt, diese unglückliche <pb n="54" xml:id="tg504.2.53.9.part2"/>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg504.2.53.1.part1" dr:fixed-stage="true">nachdem sie einige Augenblicke gelesen.</stage>
+                                    
+                                    <p xml:id="tg504.2.53.part2"> Ach Waitwell, was für ein Vater! Er nennt meine Flucht eine Abwesenheit. Wie viel sträflicher wird sie durch dieses gelinde Wort! <stage rend="italic" xml:id="tg504.2.53.2.part2" dr:fixed-stage="true">Sie lieset weiter und unterbricht sich wieder.</stage> Höre doch! er schmeichelt sich, ich würde ihn noch lieben. Er schmeichelt sich! <stage type="aside" rend="italic" xml:id="tg504.2.53.3.part2" dr:fixed-stage="true">Lieset und unterbricht sich.</stage> Er bittet mich – Er bittet mich? Ein Vater seine Tochter? seine strafbare Tochter? Und was bittet er mich denn? –<stage type="aside" rend="italic" xml:id="tg504.2.53.4.part2" dr:fixed-stage="true"> Lieset für sich.</stage> Er bittet mich, seine übereilte Strenge zu vergessen, und ihn mit meiner Entfernung nicht länger zu strafen. Übereilte Strenge! – Zu strafen! – <stage type="aside" rend="italic" xml:id="tg504.2.53.5.part2" dr:fixed-stage="true">Lieset wieder und unterbricht sich.</stage> Noch mehr! Nun dankt er mir gar, und dankt mir, daß ich ihm Gelegenheit gegeben, den ganzen Umfang der väterlichen Liebe kennen zu lernen. Unselige Gelegenheit! Wenn er doch nur auch sagte, daß sie ihm zugleich den ganzen Umfang des kindlichen Ungehorsams habe kennen lernen! <stage type="aside" rend="italic" xml:id="tg504.2.53.6.part2" dr:fixed-stage="true">Sie lieset wieder.</stage> Nein, er sagt es nicht! Er gedenkt meines Verbrechens nicht mit einem Buchstaben. <stage type="aside" rend="italic" xml:id="tg504.2.53.7.part2" dr:fixed-stage="true">Sie fährt weiter fort für sich zu lesen.</stage> Er will kommen, und seine Kinder selbst zurückholen. Seine Kinder, Waitwell! Das geht über alles! – Hab' ich auch recht gelesen? <stage type="aside" rend="italic" xml:id="tg504.2.53.8.part2" dr:fixed-stage="true">Sie lieset wieder für sich.</stage> – Ich möchte vergehen! Er sagt, derjenige verdiene nur allzu wohl sein Sohn zu sein, ohne welchen er keine Tochter haben könne. – O! hätte er sie nie gehabt, diese unglückliche <pb n="54" xml:id="tg504.2.53.9.part2"/>
 Tochter! – Geh, Waitwell, laß mich allein. Er verlangt eine Antwort, und ich will sie sogleich machen. Frag' in einer Stunde wieder nach. Ich danke dir unterdessen für deine Mühe. Du bist ein rechtschaffner Mann. Es sind wenig Diener die Freunde ihrer Herren!</p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg504.2.54.part1">WAITWELL.</speaker>
-                                    <p xml:id="tg504.2.54.part2"> Beschämen Sie mich nicht, Miß. Wenn alle Herren Sir Williams wären, so müßten die Diener Unmenschen sein, wenn sie nicht ihr Leben für sie lassen wollten. <stage rend="italic" xml:id="tg504.2.54.1.part2" dr:fixed-stage="true">Geht ab.</stage>
+                                    <p xml:id="tg504.2.54.part2"> Beschämen Sie mich nicht, Miß. Wenn alle Herren Sir Williams wären, so müßten die Diener Unmenschen sein, wenn sie nicht ihr Leben für sie lassen wollten. <stage type="exit" rend="italic" xml:id="tg504.2.54.1.part2" dr:fixed-stage="true">Geht ab.</stage>
                                     </p>
                                     <lb xml:id="tg504.2.55"/>
                                  </sp>
@@ -2160,10 +2160,10 @@ Tochter! – Geh, Waitwell, laß mich allein. Er verlangt eine Antwort, und ich 
 
                                  <sp>
                                     <speaker xml:id="tg505.2.2.part1">SARA</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg505.2.2.1.part1" dr:fixed-stage="true">sie setzet sich zum Schreiben nieder.</stage>
-                                    </stage>
-                                    <p xml:id="tg505.2.2.part2"> Wenn man mir es vor Jahr und Tag gesagt hätte, daß ich auf einen solchen Brief würde antworten müssen! Und unter solchen Umständen! – Ja, die Feder hab' ich in der Hand. – Weiß ich aber auch schon, was ich schreiben soll? Was ich denke; was ich empfinde. – Und was denkt man denn, wenn sich in einem Augenblicke tausend Gedanken durchkreuzen? Und was empfindet man denn, wenn das Herz, vor lauter Empfinden, in einer tiefen Betäubung liegt? – Ich muß doch schreiben – Ich führe ja die Feder nicht das erste Mal. Nachdem sie mir schon so manche kleine Dienste der Höflichkeit und Freundschaft abstatten helfen: sollte mir ihre Hülfe wohl bei dem wichtigsten Dienste entstehen? – <stage rend="italic" xml:id="tg505.2.2.2.part2" dr:fixed-stage="true">Sie denkt ein wenig nach, und schreibt darauf einige Zeilen.</stage> Das soll der Anfang sein? Ein sehr frostiger Anfang. Und werde ich denn bei seiner Liebe anfangen wollen? Ich muß bei meinem Verbrechen anfangen. <stage rend="italic" xml:id="tg505.2.2.3.part2" dr:fixed-stage="true">Sie streicht aus und schreibt anders.</stage> Daß ich mich ja nicht zu oben hin davon ausdrücke! – Das Schämen kann überall an seiner rechten Stelle sein, nur bei dem Bekenntnisse unserer Fehler nicht. Ich darf mich nicht fürchten, in Übertreibungen zu geraten, wenn ich auch schon die gräßlichsten Züge anwende. – Ach! warum muß ich nun gestört werden?</p>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg505.2.2.1.part1" dr:fixed-stage="true">sie setzet sich zum Schreiben nieder.</stage>
+                                    
+                                    <p xml:id="tg505.2.2.part2"> Wenn man mir es vor Jahr und Tag gesagt hätte, daß ich auf einen solchen Brief würde antworten müssen! Und unter solchen Umständen! – Ja, die Feder hab' ich in der Hand. – Weiß ich aber auch schon, was ich schreiben soll? Was ich denke; was ich empfinde. – Und was denkt man denn, wenn sich in einem Augenblicke tausend Gedanken durchkreuzen? Und was empfindet man denn, wenn das Herz, vor lauter Empfinden, in einer tiefen Betäubung liegt? – Ich muß doch schreiben – Ich führe ja die Feder nicht das erste Mal. Nachdem sie mir schon so manche kleine Dienste der Höflichkeit und Freundschaft abstatten helfen: sollte mir ihre Hülfe wohl bei dem wichtigsten Dienste entstehen? – <stage type="aside" rend="italic" xml:id="tg505.2.2.2.part2" dr:fixed-stage="true">Sie denkt ein wenig nach, und schreibt darauf einige Zeilen.</stage> Das soll der Anfang sein? Ein sehr frostiger Anfang. Und werde ich denn bei seiner Liebe anfangen wollen? Ich muß bei meinem Verbrechen anfangen. <stage type="other" rend="italic" xml:id="tg505.2.2.3.part2" dr:fixed-stage="true">Sie streicht aus und schreibt anders.</stage> Daß ich mich ja nicht zu oben hin davon ausdrücke! – Das Schämen kann überall an seiner rechten Stelle sein, nur bei dem Bekenntnisse unserer Fehler nicht. Ich darf mich nicht fürchten, in Übertreibungen zu geraten, wenn ich auch schon die gräßlichsten Züge anwende. – Ach! warum muß ich nun gestört werden?</p>
                                     <pb n="55" xml:id="tg505.2.3"/>
                                     <lb xml:id="tg505.2.4"/>
                                  </sp>
@@ -2183,7 +2183,7 @@ Tochter! – Geh, Waitwell, laß mich allein. Er verlangt eine Antwort, und ich 
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg506.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg506.2.4">
                                     <hi rend="italic" xml:id="tg506.2.4.1">Marwood. Mellefont. Sara.</hi>
                                  </stage>
                                  <lb xml:id="tg506.2.5"/>
@@ -2201,14 +2201,14 @@ Tochter! – Geh, Waitwell, laß mich allein. Er verlangt eine Antwort, und ich 
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg506.2.9.part1">MARWOOD</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg506.2.9.1.part1" dr:fixed-stage="true">kalt.</stage>
-                                    </stage>
-                                    <p xml:id="tg506.2.9.part2"> Ich würde untröstlich sein, Miß, wenn Sie mir andre, als die freundschaftlichsten Gesinnungen, zutrauten. – <stage rend="italic" xml:id="tg506.2.9.2.part2" dr:fixed-stage="true">Bei Seite.</stage> Sie ist schön!</p>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg506.2.9.1.part1" dr:fixed-stage="true">kalt.</stage>
+                                    
+                                    <p xml:id="tg506.2.9.part2"> Ich würde untröstlich sein, Miß, wenn Sie mir andre, als die freundschaftlichsten Gesinnungen, zutrauten. – <stage type="aside" rend="italic" xml:id="tg506.2.9.2.part2" dr:fixed-stage="true">Bei Seite.</stage> Sie ist schön!</p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg506.2.10.part1">MELLEFONT.</speaker>
-                                    <p xml:id="tg506.2.10.part2"> Und wäre es denn auch möglich, Lady, gegen so viel Schönheit, gegen so viel Bescheidenheit gleichgültig zu bleiben? Man sagt zwar, daß einem reizenden Frauenzimmer selten von einem andern Gerechtigkeit erwiesen werde: allein dieses ist auf der einen Seite nur von denen, die auf ihre Vorzüge allzu eitel sind, und auf der andern nur von solchen zu verstehen, welche sich selbst keiner Vorzüge bewußt sind. Wie weit sind Sie beide von diesem Falle entfernt! – <stage rend="italic" xml:id="tg506.2.10.1.part2" dr:fixed-stage="true">Zur Marwood, welche in Gedanken steht.</stage> Ist es nicht wahr, Lady, daß meine Liebe nichts weniger, als parteiisch, gewesen ist? Ist es nicht wahr, daß ich Ihnen zum Lobe meiner Miß viel, aber noch lange nicht so viel gesagt habe, als Sie selbst finden? – Aber warum so in Gedanken? – <stage rend="italic" xml:id="tg506.2.10.2.part2" dr:fixed-stage="true">Sachte zu ihr.</stage> Sie vergessen, wer Sie sein wollen.</p>
+                                    <p xml:id="tg506.2.10.part2"> Und wäre es denn auch möglich, Lady, gegen so viel Schönheit, gegen so viel Bescheidenheit gleichgültig zu bleiben? Man sagt zwar, daß einem reizenden Frauenzimmer selten von einem andern Gerechtigkeit erwiesen werde: allein dieses ist auf der einen Seite nur von denen, die auf ihre Vorzüge allzu eitel sind, und auf der andern nur von solchen zu verstehen, welche sich selbst keiner Vorzüge bewußt sind. Wie weit sind Sie beide von diesem Falle entfernt! – <stage type="other" rend="italic" xml:id="tg506.2.10.1.part2" dr:fixed-stage="true">Zur Marwood, welche in Gedanken steht.</stage> Ist es nicht wahr, Lady, daß meine Liebe nichts weniger, als parteiisch, gewesen ist? Ist es nicht wahr, daß ich Ihnen zum Lobe meiner Miß viel, aber noch lange nicht so viel gesagt habe, als Sie selbst finden? – Aber warum so in Gedanken? – <stage type="other" rend="italic" xml:id="tg506.2.10.2.part2" dr:fixed-stage="true">Sachte zu ihr.</stage> Sie vergessen, wer Sie sein wollen.</p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg506.2.11.part1">MARWOOD.</speaker>
@@ -2225,9 +2225,9 @@ ging mir nahe, daß sie die Früchte ihrer Liebe nicht in ihrem Vaterlande genie
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg506.2.14.part1">MARWOOD</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg506.2.14.1.part1" dr:fixed-stage="true">bei Seite.</stage>
-                                    </stage>
+                                    
+                                       <stage type="aside" rend="italic" xml:id="tg506.2.14.1.part1" dr:fixed-stage="true">bei Seite.</stage>
+                                    
                                     <l xml:id="tg506.2.14.part2"> Was will das sagen?</l>
                                  </sp>
                                  <sp>
@@ -2236,30 +2236,30 @@ ging mir nahe, daß sie die Früchte ihrer Liebe nicht in ihrem Vaterlande genie
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg506.2.16.part1">MELLEFONT.</speaker>
-                                    <p xml:id="tg506.2.16.part2"> Geschwind reißen Sie mich aus meiner Ungewißheit. Was hab' ich zu fürchten? Was habe ich zu hoffen? Ist er noch der Vater, den wir flohen? Und wenn er es noch ist, wird Sara die Tochter sein, die mich zärtlich genug liebt, um ihn noch weiter zu fliehen? Ach! hätte ich Ihnen gefolgt, liebste Miß, so wären wir jetzt durch ein Band verknüpft, das man aus eigensinnigen Absichten zu trennen wohl unterlassen müßte. In diesem Augenblick empfinde ich alles das Unglück, das unser entdeckter Aufenthalt für mich nach sich ziehen kann. – Er wird kommen, und Sie aus meinen Armen reißen. – Wie hasse ich den Nichtswürdigen, der uns ihm verraten hat! <stage rend="italic" xml:id="tg506.2.16.1.part2" dr:fixed-stage="true">Mit einem zornigen Blick gegen die Marwood.</stage>
+                                    <p xml:id="tg506.2.16.part2"> Geschwind reißen Sie mich aus meiner Ungewißheit. Was hab' ich zu fürchten? Was habe ich zu hoffen? Ist er noch der Vater, den wir flohen? Und wenn er es noch ist, wird Sara die Tochter sein, die mich zärtlich genug liebt, um ihn noch weiter zu fliehen? Ach! hätte ich Ihnen gefolgt, liebste Miß, so wären wir jetzt durch ein Band verknüpft, das man aus eigensinnigen Absichten zu trennen wohl unterlassen müßte. In diesem Augenblick empfinde ich alles das Unglück, das unser entdeckter Aufenthalt für mich nach sich ziehen kann. – Er wird kommen, und Sie aus meinen Armen reißen. – Wie hasse ich den Nichtswürdigen, der uns ihm verraten hat! <stage type="other" rend="italic" xml:id="tg506.2.16.1.part2" dr:fixed-stage="true">Mit einem zornigen Blick gegen die Marwood.</stage>
                                     </p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg506.2.17.part1">SARA.</speaker>
-                                    <p xml:id="tg506.2.17.part2"> Liebster Mellefont, wie schmeichelhaft ist diese Ihre Unruhe für mich! Und wie glücklich sind wir beide, daß sie vergebens ist! Lesen Sie hier seinen Brief. – <stage rend="italic" xml:id="tg506.2.17.1.part2" dr:fixed-stage="true">Gegen die Marwood, indem Mellefont den Brief für sich lieset.</stage> Lady, er wird über die Liebe meines Vaters erstaunen. Meines Vaters? Ach! er ist nun auch der seinige.</p>
+                                    <p xml:id="tg506.2.17.part2"> Liebster Mellefont, wie schmeichelhaft ist diese Ihre Unruhe für mich! Und wie glücklich sind wir beide, daß sie vergebens ist! Lesen Sie hier seinen Brief. – <stage type="other" rend="italic" xml:id="tg506.2.17.1.part2" dr:fixed-stage="true">Gegen die Marwood, indem Mellefont den Brief für sich lieset.</stage> Lady, er wird über die Liebe meines Vaters erstaunen. Meines Vaters? Ach! er ist nun auch der seinige.</p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg506.2.18.part1">MARWOOD</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg506.2.18.1.part1" dr:fixed-stage="true">betroffen.</stage>
-                                    </stage>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg506.2.18.1.part1" dr:fixed-stage="true">betroffen.</stage>
+                                    
                                     <l xml:id="tg506.2.18.part2"> Ist es möglich?</l>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg506.2.19.part1">SARA.</speaker>
-                                    <p xml:id="tg506.2.19.part2"> Ja wohl, Lady, haben Sie Ursache, diese Veränderung zu bewundern. Er vergibt uns alles; wir werden uns nun vor seinen Augen lieben; er erlaubt es uns; er befiehlt es uns. – Wie hat diese Gütigkeit meine ganze Seele durchdrungen! – Nun, Mellefont? <stage rend="italic" xml:id="tg506.2.19.1.part2" dr:fixed-stage="true">Der ihr den Brief wieder gibt.</stage> Sie schweigen? <pb n="57" xml:id="tg506.2.19.2.part2"/>
+                                    <p xml:id="tg506.2.19.part2"> Ja wohl, Lady, haben Sie Ursache, diese Veränderung zu bewundern. Er vergibt uns alles; wir werden uns nun vor seinen Augen lieben; er erlaubt es uns; er befiehlt es uns. – Wie hat diese Gütigkeit meine ganze Seele durchdrungen! – Nun, Mellefont? <stage type="other" rend="italic" xml:id="tg506.2.19.1.part2" dr:fixed-stage="true">Der ihr den Brief wieder gibt.</stage> Sie schweigen? <pb n="57" xml:id="tg506.2.19.2.part2"/>
 O nein, diese Träne, die sich aus Ihrem Auge schleicht, sagt weit mehr, als Ihr Mund ausdrücken könnte.</p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg506.2.20.part1">MARWOOD</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg506.2.20.1.part1" dr:fixed-stage="true">bei Seite.</stage>
-                                    </stage>
+                                    
+                                       <stage type="aside" rend="italic" xml:id="tg506.2.20.1.part1" dr:fixed-stage="true">bei Seite.</stage>
+                                    
                                     <l xml:id="tg506.2.20.part2"> Wie sehr habe ich mir selbst geschadet! Ich Unvorsichtige!</l>
                                  </sp>
                                  <sp>
@@ -2272,9 +2272,9 @@ O nein, diese Träne, die sich aus Ihrem Auge schleicht, sagt weit mehr, als Ihr
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg506.2.23.part1">MARWOOD</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg506.2.23.1.part1" dr:fixed-stage="true">bei Seite.</stage>
-                                    </stage>
+                                    
+                                       <stage type="aside" rend="italic" xml:id="tg506.2.23.1.part1" dr:fixed-stage="true">bei Seite.</stage>
+                                    
                                     <l xml:id="tg506.2.23.part2"> Und das muß ich mit anhören!</l>
                                  </sp>
                                  <sp>
@@ -2283,9 +2283,9 @@ O nein, diese Träne, die sich aus Ihrem Auge schleicht, sagt weit mehr, als Ihr
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg506.2.25.part1">MARWOOD</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg506.2.25.1.part1" dr:fixed-stage="true">bei Seite.</stage>
-                                    </stage>
+                                    
+                                       <stage type="aside" rend="italic" xml:id="tg506.2.25.1.part1" dr:fixed-stage="true">bei Seite.</stage>
+                                    
                                     <l xml:id="tg506.2.25.part2"> Was für Zwang muß ich mir antun!</l>
                                  </sp>
                                  <sp>
@@ -2294,7 +2294,7 @@ O nein, diese Träne, die sich aus Ihrem Auge schleicht, sagt weit mehr, als Ihr
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg506.2.27.part1">MARWOOD.</speaker>
-                                    <l xml:id="tg506.2.27.part2"> Mir gleichgültig, Miß? <stage rend="italic" xml:id="tg506.2.27.1.part2" dr:fixed-stage="true">Sie nimmt den Brief.</stage>
+                                    <l xml:id="tg506.2.27.part2"> Mir gleichgültig, Miß? <stage type="other" rend="italic" xml:id="tg506.2.27.1.part2" dr:fixed-stage="true">Sie nimmt den Brief.</stage>
                                     </l>
                                  </sp>
                                  <sp>
@@ -2307,9 +2307,9 @@ O nein, diese Träne, die sich aus Ihrem Auge schleicht, sagt weit mehr, als Ihr
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg506.2.30.part1">MELLEFONT</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg506.2.30.1.part1" dr:fixed-stage="true">bei Seite.</stage>
-                                    </stage>
+                                    
+                                       <stage type="aside" rend="italic" xml:id="tg506.2.30.1.part1" dr:fixed-stage="true">bei Seite.</stage>
+                                    
                                     <l xml:id="tg506.2.30.part2"> Himmel! wo sie sich verrät!</l>
                                  </sp>
                                  <sp>
@@ -2322,7 +2322,7 @@ O nein, diese Träne, die sich aus Ihrem Auge schleicht, sagt weit mehr, als Ihr
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg506.2.33.part1">SARA.</speaker>
-                                    <p xml:id="tg506.2.33.part2"> Gewiß nicht, Lady, gewiß nicht. Lesen Sie nur, und Sie werden es selbst gestehen. Die Verstellung bleibt immer kalt, und eine so zärtliche Sprache ist in ihrem Vermögen nicht. <stage rend="italic" xml:id="tg506.2.33.1.part2" dr:fixed-stage="true">Marwood lieset für sich.</stage> Werden Sie nicht argwöhnisch, Mellefont; ich bitte Sie. Ich stehe Ihnen dafür, daß mein Vater sich zu keiner List herablassen kann. Er sagt nichts, was er nicht denkt, und Falschheit ist ihm ein unbekanntes Laster.</p>
+                                    <p xml:id="tg506.2.33.part2"> Gewiß nicht, Lady, gewiß nicht. Lesen Sie nur, und Sie werden es selbst gestehen. Die Verstellung bleibt immer kalt, und eine so zärtliche Sprache ist in ihrem Vermögen nicht. <stage type="aside" rend="italic" xml:id="tg506.2.33.1.part2" dr:fixed-stage="true">Marwood lieset für sich.</stage> Werden Sie nicht argwöhnisch, Mellefont; ich bitte Sie. Ich stehe Ihnen dafür, daß mein Vater sich zu keiner List herablassen kann. Er sagt nichts, was er nicht denkt, und Falschheit ist ihm ein unbekanntes Laster.</p>
                                     <pb n="58" xml:id="tg506.2.34"/>
                                  </sp>
                                  <sp>
@@ -2331,16 +2331,16 @@ O nein, diese Träne, die sich aus Ihrem Auge schleicht, sagt weit mehr, als Ihr
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg506.2.36.part1">SARA</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg506.2.36.1.part1" dr:fixed-stage="true">indem ihr Marwood den Brief zurück gibt.</stage>
-                                    </stage>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg506.2.36.1.part1" dr:fixed-stage="true">indem ihr Marwood den Brief zurück gibt.</stage>
+                                    
                                     <l xml:id="tg506.2.36.part2"> Was seh' ich, Lady? Sie haben sich entfärbt? Sie zittern? Was fehlt Ihnen?</l>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg506.2.37.part1">MELLEFONT</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg506.2.37.1.part1" dr:fixed-stage="true">bei Seite.</stage>
-                                    </stage>
+                                    
+                                       <stage type="aside" rend="italic" xml:id="tg506.2.37.1.part1" dr:fixed-stage="true">bei Seite.</stage>
+                                    
                                     <l xml:id="tg506.2.37.part2"> In welcher Angst bin ich! Warum habe ich sie auch hergebracht?</l>
                                  </sp>
                                  <sp>
@@ -2369,15 +2369,15 @@ O nein, diese Träne, die sich aus Ihrem Auge schleicht, sagt weit mehr, als Ihr
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg506.2.44.part1">MARWOOD.</speaker>
-                                    <l xml:id="tg506.2.44.part2"> Wenn Sie erlauben, Miß – <stage rend="italic" xml:id="tg506.2.44.1.part2" dr:fixed-stage="true">Mellefont führt sie ab.</stage>
+                                    <l xml:id="tg506.2.44.part2"> Wenn Sie erlauben, Miß – <stage type="exit" rend="italic" xml:id="tg506.2.44.1.part2" dr:fixed-stage="true">Mellefont führt sie ab.</stage>
                                     </l>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg506.2.45.part1">SARA</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg506.2.45.1.part1" dr:fixed-stage="true">allein.</stage>
-                                    </stage>
-                                    <p xml:id="tg506.2.45.part2"> Die arme Lady! – Sie scheinet die freundschaftlichste Person zwar nicht zu sein; aber mürrisch und stolz scheinet sie doch auch nicht. – Ich bin wieder allein. Kann ich die wenigen Augenblicke, die ich es vielleicht sein werde, zu etwas Besserm, als zur Vollendung meiner Antwort anwenden? <stage rend="italic" xml:id="tg506.2.45.2.part2" dr:fixed-stage="true">Sie will sich niedersetzen zu schreiben.</stage>
+                                    
+                                       <stage type="aside" rend="italic" xml:id="tg506.2.45.1.part1" dr:fixed-stage="true">allein.</stage>
+                                    
+                                    <p xml:id="tg506.2.45.part2"> Die arme Lady! – Sie scheinet die freundschaftlichste Person zwar nicht zu sein; aber mürrisch und stolz scheinet sie doch auch nicht. – Ich bin wieder allein. Kann ich die wenigen Augenblicke, die ich es vielleicht sein werde, zu etwas Besserm, als zur Vollendung meiner Antwort anwenden? <stage type="other" rend="italic" xml:id="tg506.2.45.2.part2" dr:fixed-stage="true">Sie will sich niedersetzen zu schreiben.</stage>
                                     </p>
                                     <lb xml:id="tg506.2.46"/>
                                  </sp>
@@ -2397,7 +2397,7 @@ O nein, diese Träne, die sich aus Ihrem Auge schleicht, sagt weit mehr, als Ihr
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg507.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg507.2.4">
                                     <hi rend="italic" xml:id="tg507.2.4.1">Betty. Sara.</hi>
                                  </stage>
                                  <lb xml:id="tg507.2.5"/>
@@ -2432,7 +2432,7 @@ O nein, diese Träne, die sich aus Ihrem Auge schleicht, sagt weit mehr, als Ihr
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg507.2.14.part1">SARA.</speaker>
-                                    <p xml:id="tg507.2.14.part2"> Du hättest mir ihrer in meinem ganzen andern Leben nicht mehrere leisten können, als in diesen neun Wochen. – Sie sind vorüber! – Komm nur itzt, Betty; weil Mellefont vielleicht wieder allein ist, so muß ich ihn noch sprechen. Ich bekomme eben den Einfall, daß es sehr gut sein würde, wenn er zugleich mit mir an meinen Vater schriebe, dem seine Danksagung schwerlich unerwartet sein dürfte. Komm! <stage rend="italic" xml:id="tg507.2.14.1.part2" dr:fixed-stage="true">Sie gehen ab.</stage>
+                                    <p xml:id="tg507.2.14.part2"> Du hättest mir ihrer in meinem ganzen andern Leben nicht mehrere leisten können, als in diesen neun Wochen. – Sie sind vorüber! – Komm nur itzt, Betty; weil Mellefont vielleicht wieder allein ist, so muß ich ihn noch sprechen. Ich bekomme eben den Einfall, daß es sehr gut sein würde, wenn er zugleich mit mir an meinen Vater schriebe, dem seine Danksagung schwerlich unerwartet sein dürfte. Komm! <stage type="exit" rend="italic" xml:id="tg507.2.14.1.part2" dr:fixed-stage="true">Sie gehen ab.</stage>
                                     </p>
                                     <lb xml:id="tg507.2.15"/>
                                  </sp>
@@ -2452,7 +2452,7 @@ O nein, diese Träne, die sich aus Ihrem Auge schleicht, sagt weit mehr, als Ihr
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg508.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg508.2.4">
                                     <hi rend="italic" xml:id="tg508.2.4.1">Der Saal. Sir William Sampson. Waitwell.</hi>
                                  </stage>
                                  <lb xml:id="tg508.2.5"/>
@@ -2471,7 +2471,7 @@ Wie erwünscht wäre er mir in den Augenblicken meines Kummers gewesen! Und wie 
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg508.2.9.part1">WAITWELL.</speaker>
-                                    <p xml:id="tg508.2.9.part2"> Ich gehe, Sir. Aber so ein Gang ist kein Dienst, den ich Ihnen tue. Er ist eine Belohnung, die Sie mir für meine Dienste gönnen. Ja gewiß, das ist er. <stage rend="italic" xml:id="tg508.2.9.1.part2" dr:fixed-stage="true">Sie gehen auf verschiedenen Seiten ab.</stage>
+                                    <p xml:id="tg508.2.9.part2"> Ich gehe, Sir. Aber so ein Gang ist kein Dienst, den ich Ihnen tue. Er ist eine Belohnung, die Sie mir für meine Dienste gönnen. Ja gewiß, das ist er. <stage type="exit" rend="italic" xml:id="tg508.2.9.1.part2" dr:fixed-stage="true">Sie gehen auf verschiedenen Seiten ab.</stage>
                                     </p>
                                     <lb xml:id="tg508.2.10"/>
                                     
@@ -2504,7 +2504,7 @@ Wie erwünscht wäre er mir in den Augenblicken meines Kummers gewesen! Und wie 
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg510.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg510.2.4">
                                     <hi rend="italic" xml:id="tg510.2.4.1">Mellefonts Zimmer. Mellefont. Sara.</hi>
                                  </stage>
                                  <lb xml:id="tg510.2.5"/>
@@ -2552,7 +2552,7 @@ ich mir ohne Zweifel nicht machen dürfte, wenn eine zärtliche Mutter die Führ
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg510.2.16.part1">MELLEFONT.</speaker>
-                                    <p xml:id="tg510.2.16.part2"> Jedes Wort soll Ihrer Beurteilung unterworfen sein; nur das nicht, was ich zu Ihrer Rettung sagen muß: denn ich weiß es, Sie halten sich nicht für so unschuldig, als Sie sind. <stage rend="italic" xml:id="tg510.2.16.1.part2" dr:fixed-stage="true">Indem er die Sara bis an die Szene begleitet.</stage>
+                                    <p xml:id="tg510.2.16.part2"> Jedes Wort soll Ihrer Beurteilung unterworfen sein; nur das nicht, was ich zu Ihrer Rettung sagen muß: denn ich weiß es, Sie halten sich nicht für so unschuldig, als Sie sind. <stage type="other" rend="italic" xml:id="tg510.2.16.1.part2" dr:fixed-stage="true">Indem er die Sara bis an die Szene begleitet.</stage>
                                     </p>
                                     <pb n="64" xml:id="tg510.2.17"/>
                                     <lb xml:id="tg510.2.18"/>
@@ -2573,9 +2573,9 @@ ich mir ohne Zweifel nicht machen dürfte, wenn eine zärtliche Mutter die Führ
 
                                  <sp>
                                     <speaker xml:id="tg511.2.2.part1">MELLEFONT</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg511.2.2.1.part1" dr:fixed-stage="true">nachdem er einigemal tiefsinnig auf und nieder gegangen.</stage>
-                                    </stage>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg511.2.2.1.part1" dr:fixed-stage="true">nachdem er einigemal tiefsinnig auf und nieder gegangen.</stage>
+                                    
                                     <p xml:id="tg511.2.2.part2"> Was für ein Rätsel bin ich mir selbst! Wofür soll ich mich halten? Für einen Toren? oder für einen Bösewicht? – oder für beides? – Herz, was für ein Schalk bist du! – Ich liebe den Engel, so ein Teufel ich auch sein mag. – Ich lieb' ihn? Ja, gewiß, gewiß ich lieb' ihn. Ich weiß, ich wollte tausend Leben für sie aufopfern, für sie, die mir ihre Tugend aufgeopfert hat! Ich wollt' es; jetzt gleich ohne Anstand wollt' ich es – Und doch, doch – Ich erschrecke, mir es selbst zu sagen – Und doch – Wie soll ich es begreifen? – Und doch fürchte ich mich vor dem Augenblicke, der sie auf ewig, vor dem Angesichte der Welt, zu der Meinigen machen wird. – Er ist nun nicht zu vermeiden; denn der Vater ist versöhnt. Auch weit hinaus werde ich ihn nicht schieben können. Die Verzögerung desselben hat mir schon schmerzhafte Vorwürfe genug zugezogen. So schmerzhaft sie aber waren, so waren sie mir doch erträglicher, als der melancholische Gedanke, auf Zeit Lebens gefesselt zu sein. – Aber bin ich es denn nicht schon? – Ich bin es freilich, und bin es mit Vergnügen. – Freilich bin ich schon ihr Gefangener. – Was will ich also? – Das! – Itzt bin ich ein Gefangener, den man auf sein Wort frei herum gehen läßt: das schmeichelt! Warum kann es dabei nicht sein Bewenden haben? Warum muß ich eingeschmiedet werden, und auch so gar den elenden Schatten der Freiheit entbehren? – Eingeschmiedet? Nichts anders! – Sara Sampson, meine Geliebte! Wie viel Seligkeiten liegen in diesen Worten! Sara Sampson, meine Ehegattin! – Die Hälfte dieser Seligkeiten ist verschwunden! und die andre Hälfte – wird verschwinden. – Ich Ungeheuer! – Und bei diesen Gesinnungen soll ich an ihren Vater schreiben? – Doch es sind keine Gesinnungen; es sind Einbildungen! Vermaledeite Einbildungen, die mir durch ein zügelloses Leben so natürlich geworden! Ich will ihrer los werden, oder – nicht leben.</p>
                                     <pb n="65" xml:id="tg511.2.3"/>
                                     <lb xml:id="tg511.2.4"/>
@@ -2596,7 +2596,7 @@ ich mir ohne Zweifel nicht machen dürfte, wenn eine zärtliche Mutter die Führ
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg512.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg512.2.4">
                                     <hi rend="italic" xml:id="tg512.2.4.1">Norton. Mellefont.</hi>
                                  </stage>
                                  <lb xml:id="tg512.2.5"/>
@@ -2606,7 +2606,7 @@ ich mir ohne Zweifel nicht machen dürfte, wenn eine zärtliche Mutter die Führ
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg512.2.7.part1">NORTON.</speaker>
-                                    <l xml:id="tg512.2.7.part2"> Verzeihen Sie also mein Herr – <stage rend="italic" xml:id="tg512.2.7.1.part2" dr:fixed-stage="true">Indem er wieder zurück gehen will.</stage>
+                                    <l xml:id="tg512.2.7.part2"> Verzeihen Sie also mein Herr – <stage type="other" rend="italic" xml:id="tg512.2.7.1.part2" dr:fixed-stage="true">Indem er wieder zurück gehen will.</stage>
                                     </l>
                                  </sp>
                                  <sp>
@@ -2647,7 +2647,7 @@ ich mir ohne Zweifel nicht machen dürfte, wenn eine zärtliche Mutter die Führ
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg512.2.17.part1">NORTON.</speaker>
-                                    <l xml:id="tg512.2.17.part2"> Darf ich frei reden? <stage rend="italic" xml:id="tg512.2.17.1.part2" dr:fixed-stage="true">Indem er ihn scharf ansieht.</stage>
+                                    <l xml:id="tg512.2.17.part2"> Darf ich frei reden? <stage type="other" rend="italic" xml:id="tg512.2.17.1.part2" dr:fixed-stage="true">Indem er ihn scharf ansieht.</stage>
                                     </l>
                                  </sp>
                                  <sp>
@@ -2718,7 +2718,7 @@ nicht auf dem Fuße, daß ich mich gern mit Ihnen möchte verdammen lassen.</p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg512.2.34.part1">MELLEFONT.</speaker>
-                                    <p xml:id="tg512.2.34.part2"> Sieh, dieses Mördereisen riß ich ihr aus der Hand, <stage rend="italic" xml:id="tg512.2.34.1.part2" dr:fixed-stage="true">Er zeigt ihm den Dolch, den er der Marwood genommen.</stage> als sie mir in der schrecklichsten Wut das Herz damit durchstoßen wollte. Glaubst du es nun bald, daß ich ihr festen Obstand gehalten habe? Anfangs zwar fehlte es nicht viel, sie hätte mir ihre Schlinge wieder um den Hals geworfen. Die Verräterin hat Arabellen bei sich.</p>
+                                    <p xml:id="tg512.2.34.part2"> Sieh, dieses Mördereisen riß ich ihr aus der Hand, <stage type="other" rend="italic" xml:id="tg512.2.34.1.part2" dr:fixed-stage="true">Er zeigt ihm den Dolch, den er der Marwood genommen.</stage> als sie mir in der schrecklichsten Wut das Herz damit durchstoßen wollte. Glaubst du es nun bald, daß ich ihr festen Obstand gehalten habe? Anfangs zwar fehlte es nicht viel, sie hätte mir ihre Schlinge wieder um den Hals geworfen. Die Verräterin hat Arabellen bei sich.</p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg512.2.35.part1">NORTON.</speaker>
@@ -2750,9 +2750,9 @@ nicht auf dem Fuße, daß ich mich gern mit Ihnen möchte verdammen lassen.</p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg512.2.42.part1">MELLEFONT.</speaker>
-                                    <p xml:id="tg512.2.42.part2"> Es ist noch nicht ganz vorbei, Norton. Es stieß ihr eine kleine Unbäßlichkeit zu, daß sie sich, ohne Abschied zu nehmen, wegbegeben mußte. Sie will wiederkommen. – Mag sie doch! Die Wespe, die den Stachel verloren hat, <stage rend="italic" xml:id="tg512.2.42.1.part2" dr:fixed-stage="true">Indem er auf den Dolch weiset, den er wieder in den Busen steckt.</stage> 
+                                    <p xml:id="tg512.2.42.part2"> Es ist noch nicht ganz vorbei, Norton. Es stieß ihr eine kleine Unbäßlichkeit zu, daß sie sich, ohne Abschied zu nehmen, wegbegeben mußte. Sie will wiederkommen. – Mag sie doch! Die Wespe, die den Stachel verloren hat, <stage type="other" rend="italic" xml:id="tg512.2.42.1.part2" dr:fixed-stage="true">Indem er auf den Dolch weiset, den er wieder in den Busen steckt.</stage> 
                                        <pb n="68" xml:id="tg512.2.42.2.part2"/>
-kann doch weiter nichts, als summen. Aber auch das Summen soll ihr teuer werden, wenn sie zu überlästig damit wird. – Hör' ich nicht jemand kommen? Verlaß mich, wenn sie es ist. – Sie ist es. Geh! <stage rend="italic" xml:id="tg512.2.42.3.part2" dr:fixed-stage="true">Norton geht ab.</stage>
+kann doch weiter nichts, als summen. Aber auch das Summen soll ihr teuer werden, wenn sie zu überlästig damit wird. – Hör' ich nicht jemand kommen? Verlaß mich, wenn sie es ist. – Sie ist es. Geh! <stage type="exit" rend="italic" xml:id="tg512.2.42.3.part2" dr:fixed-stage="true">Norton geht ab.</stage>
                                     </p>
                                     <lb xml:id="tg512.2.43"/>
                                  </sp>
@@ -2772,7 +2772,7 @@ kann doch weiter nichts, als summen. Aber auch das Summen soll ihr teuer werden,
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg513.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg513.2.4">
                                     <hi rend="italic" xml:id="tg513.2.4.1">Mellefont. Marwood.</hi>
                                  </stage>
                                  <lb xml:id="tg513.2.5"/>
@@ -2892,9 +2892,9 @@ alter Narr: er muß anders denken, als ich an seiner Stelle würde gedacht haben
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg513.2.34.part1">MARWOOD</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg513.2.34.1.part1" dr:fixed-stage="true">spöttisch lächelnd.</stage>
-                                    </stage>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg513.2.34.1.part1" dr:fixed-stage="true">spöttisch lächelnd.</stage>
+                                    
                                     <p xml:id="tg513.2.34.part2"> Sie haben eine bessere Meinung von sich selbst, als von mir. Wenn sie es aber auch glaubten, daß ich Ihrentwegen untröstlich sein müßte, so sollten Sie es doch wenigstens ganz in der Stille glauben. – Miß Sara soll gewisse Vorstellungen bei mir rege machen? Gewisse? O ja – aber keine gewisser, als diese, daß das beste Mädchen oft den nichtswürdigsten Mann lieben kann.</p>
                                  </sp>
                                  <sp>
@@ -2918,9 +2918,9 @@ alter Narr: er muß anders denken, als ich an seiner Stelle würde gedacht haben
 
                                  <sp>
                                     <speaker xml:id="tg514.2.2.part1">MARWOOD</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg514.2.2.1.part1" dr:fixed-stage="true">indem sie um sich herum sieht.</stage>
-                                    </stage>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg514.2.2.1.part1" dr:fixed-stage="true">indem sie um sich herum sieht.</stage>
+                                    
                                     <p xml:id="tg514.2.2.part2"> Bin ich allein? – Kann ich unbemerkt einmal Atem schöpfen, und die Muskeln des Gesichts in ihre natürliche Lage fahren lassen? – Ich muß geschwind <pb n="71" xml:id="tg514.2.2.2.part2"/>
 einmal in allen Mienen die wahre Marwood sein, um den Zwang der Verstellung wieder aushalten zu können. – Wie hasse ich dich, niedrige Verstellung! Nicht, weil ich die Aufrichtigkeit liebe, sondern weil du die armseligste Zuflucht der ohnmächtigen Rachsucht bist. Gewiß würde ich mich zu dir nicht herablassen, wenn mir ein Tyrann seine Gewalt, oder der Himmel seinen Blitz anvertrauen wollte. – Doch wann du mich nur zu meinem Zwecke bringst! – Der Anfang verspricht es; und Mellefont scheinet noch sichrer werden zu wollen. Wenn mir meine List gelingt, daß ich mit seiner Sara allein sprechen kann: so – Ja, so ist es doch noch sehr ungewiß, ob es mir etwas helfen wird. Die Wahrheiten von dem Mellefont werden ihr vielleicht nichts Neues sein; die Verleumdungen wird sie vielleicht nicht glauben; und die Drohungen vielleicht verachten. Aber doch soll sie Wahrheit, Verleumdung und Drohungen von mir hören. Es wäre schlecht, wenn sie in ihrem Gemüte ganz und gar keinen Stachel zurück ließen. – Still! sie kommen. Ich bin nun nicht mehr Marwood; ich bin eine nichtswürdige Verstoßene, die durch kleine Kunstgriffe die Schande von sich abzuwehren sucht; ein getretner Wurm, der sich krümmet und dem, der ihn getreten hat, wenigstens die Ferse gern verwunden möchte.</p>
                                     <lb xml:id="tg514.2.3"/>
@@ -2941,7 +2941,7 @@ einmal in allen Mienen die wahre Marwood sein, um den Zwang der Verstellung wied
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg515.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg515.2.4">
                                     <hi rend="italic" xml:id="tg515.2.4.1">Sara. Mellefont. Marwood.</hi>
                                  </stage>
                                  <lb xml:id="tg515.2.5"/>
@@ -2992,9 +2992,9 @@ einmal in allen Mienen die wahre Marwood sein, um den Zwang der Verstellung wied
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg515.2.18.part1">MARWOOD</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg515.2.18.1.part1" dr:fixed-stage="true">bei Seite.</stage>
-                                    </stage>
+                                    
+                                       <stage type="aside" rend="italic" xml:id="tg515.2.18.1.part1" dr:fixed-stage="true">bei Seite.</stage>
+                                    
                                     <l xml:id="tg515.2.18.part2"> Wie fein!</l>
                                  </sp>
                                  <sp>
@@ -3011,7 +3011,7 @@ einmal in allen Mienen die wahre Marwood sein, um den Zwang der Verstellung wied
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg515.2.22.part1">MARWOOD.</speaker>
-                                    <l xml:id="tg515.2.22.part2"> Vielleicht auch eher. <stage rend="italic" xml:id="tg515.2.22.1.part2" dr:fixed-stage="true">Bei Seite.</stage> Es will noch niemand kommen!</l>
+                                    <l xml:id="tg515.2.22.part2"> Vielleicht auch eher. <stage type="aside" rend="italic" xml:id="tg515.2.22.1.part2" dr:fixed-stage="true">Bei Seite.</stage> Es will noch niemand kommen!</l>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg515.2.23.part1">MELLEFONT.</speaker>
@@ -3034,7 +3034,7 @@ einmal in allen Mienen die wahre Marwood sein, um den Zwang der Verstellung wied
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg516.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg516.2.4">
                                     <hi rend="italic" xml:id="tg516.2.4.1">Betty. Mellefont. Sara. Marwood.</hi>
                                  </stage>
                                  <lb xml:id="tg516.2.5"/>
@@ -3048,9 +3048,9 @@ einmal in allen Mienen die wahre Marwood sein, um den Zwang der Verstellung wied
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg516.2.8.part1">MARWOOD</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg516.2.8.1.part1" dr:fixed-stage="true">bei Seite.</stage>
-                                    </stage>
+                                    
+                                       <stage type="aside" rend="italic" xml:id="tg516.2.8.1.part1" dr:fixed-stage="true">bei Seite.</stage>
+                                    
                                     <l xml:id="tg516.2.8.part2"> Ha! Nun kömmt es drauf an – –</l>
                                  </sp>
                                  <sp>
@@ -3072,14 +3072,14 @@ einmal in allen Mienen die wahre Marwood sein, um den Zwang der Verstellung wied
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg516.2.14.part1">MELLEFONT.</speaker>
-                                    <p xml:id="tg516.2.14.part2"> Geh nur; ich will gleich bei ihm sein – Ich vermute, Miß, daß es eine endliche Nachricht von dem Vergleiche sein wird, dessen ich gegen Sie gedacht habe. <stage rend="italic" xml:id="tg516.2.14.1.part2" dr:fixed-stage="true">Betty gehet ab.</stage>
+                                    <p xml:id="tg516.2.14.part2"> Geh nur; ich will gleich bei ihm sein – Ich vermute, Miß, daß es eine endliche Nachricht von dem Vergleiche sein wird, dessen ich gegen Sie gedacht habe. <stage type="exit" rend="italic" xml:id="tg516.2.14.1.part2" dr:fixed-stage="true">Betty gehet ab.</stage>
                                     </p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg516.2.15.part1">MARWOOD</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg516.2.15.1.part1" dr:fixed-stage="true">bei Seite.</stage>
-                                    </stage>
+                                    
+                                       <stage type="aside" rend="italic" xml:id="tg516.2.15.1.part1" dr:fixed-stage="true">bei Seite.</stage>
+                                    
                                     <l xml:id="tg516.2.15.part2"> Gute Vermutung!</l>
                                  </sp>
                                  <sp>
@@ -3104,14 +3104,14 @@ einmal in allen Mienen die wahre Marwood sein, um den Zwang der Verstellung wied
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg516.2.21.part1">MELLEFONT.</speaker>
-                                    <l xml:id="tg516.2.21.part2"> Ich gehorche. <stage rend="italic" xml:id="tg516.2.21.1.part2" dr:fixed-stage="true">Warnend.</stage> Lady, ich bin ganz gewiß den Augenblick wieder hier! <stage rend="italic" xml:id="tg516.2.21.2.part2" dr:fixed-stage="true">Geht ab.</stage>
+                                    <l xml:id="tg516.2.21.part2"> Ich gehorche. <stage type="other" rend="italic" xml:id="tg516.2.21.1.part2" dr:fixed-stage="true">Warnend.</stage> Lady, ich bin ganz gewiß den Augenblick wieder hier! <stage type="exit" rend="italic" xml:id="tg516.2.21.2.part2" dr:fixed-stage="true">Geht ab.</stage>
                                     </l>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg516.2.22.part1">MARWOOD</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg516.2.22.1.part1" dr:fixed-stage="true">bei Seite.</stage>
-                                    </stage>
+                                    
+                                       <stage type="aside" rend="italic" xml:id="tg516.2.22.1.part1" dr:fixed-stage="true">bei Seite.</stage>
+                                    
                                     <l xml:id="tg516.2.22.part2"> Glücklich!</l>
                                     <lb xml:id="tg516.2.23"/>
                                  </sp>
@@ -3131,7 +3131,7 @@ einmal in allen Mienen die wahre Marwood sein, um den Zwang der Verstellung wied
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg517.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg517.2.4">
                                     <hi rend="italic" xml:id="tg517.2.4.1">Sara. Marwood.</hi>
                                  </stage>
                                  <lb xml:id="tg517.2.5"/>
@@ -3149,7 +3149,7 @@ einmal in allen Mienen die wahre Marwood sein, um den Zwang der Verstellung wied
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg517.2.9.part1">MARWOOD.</speaker>
-                                    <p xml:id="tg517.2.9.part2"> Wenn Sie befehlen Miß – <stage rend="italic" xml:id="tg517.2.9.1.part2" dr:fixed-stage="true">Bei Seite, indem sie sich <pb n="74" xml:id="tg517.2.9.1.1.part2"/>
+                                    <p xml:id="tg517.2.9.part2"> Wenn Sie befehlen Miß – <stage type="aside" rend="italic" xml:id="tg517.2.9.1.part2" dr:fixed-stage="true">Bei Seite, indem sie sich <pb n="74" xml:id="tg517.2.9.1.1.part2"/>
 setzen.</stage> Ich muß diesen Augenblick nicht ungebraucht vorbeistreichen lassen.</p>
                                  </sp>
                                  <sp>
@@ -3409,9 +3409,9 @@ reiche Erbin noch immer Mannspersonen, die es so genau nicht nehmen. Wenn Marwoo
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg517.2.74.part1">SARA</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg517.2.74.1.part1" dr:fixed-stage="true">indem sie unwillig aufsteht.</stage>
-                                    </stage>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg517.2.74.1.part1" dr:fixed-stage="true">indem sie unwillig aufsteht.</stage>
+                                    
                                     <p xml:id="tg517.2.74.part2"> Das geht zu weit! Ist dieses die Sprache einer Anverwandten des Mellefont? – Wie unwürdig verrät man Sie, Mellefont! – Nun merke ich es, Lady, warum er Sie so ungern bei mir allein lassen wollte. Er mag es schon wissen, wie viel man von Ihrer Zunge zu fürchten habe. Eine giftige Zunge! – Ich rede dreist! Denn Lady haben lange genug unanständig geredet. Wodurch hat Marwood sich eine solche Vorsprecherin erwerben können, die alle ihre Erfindungskraft aufbietet, mir einen blendenden Roman von ihr aufzudringen; und alle Ränke anwendet, mich gegen die Redlichkeit eines Mannes argwöhnisch zu machen, der ein Mensch, aber kein Ungeheuer ist? Ward es mir nur deswegen gesagt, daß sich Marwood einer Tochter von ihm rühme; ward mir nur deswegen diese und jene betrogene Miß genannt, damit man mir am Ende auf die empfindlichste Art zu verstehen geben könne, ich würde wohl tun, wenn ich mich selbst einer verhärteten Buhlerin nachsetzte?</p>
                                  </sp>
                                  <sp>
@@ -3425,17 +3425,17 @@ etwas anders, aus Unwissenheit auf das Laster treffen; und ganz etwas anders, es
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg517.2.77.part1">MARWOOD</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg517.2.77.1.part1" dr:fixed-stage="true">die einige Schritte stolz zurück tritt und die Sara liegen läßt.</stage>
-                                    </stage>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg517.2.77.1.part1" dr:fixed-stage="true">die einige Schritte stolz zurück tritt und die Sara liegen läßt.</stage>
+                                    
                                     <p xml:id="tg517.2.77.part2"> Diese Stellung der Sara Sampson ist für Marwood viel zu reizend, als daß sie nur unerkannt darüber frohlocken sollte – Erkennen Sie, Miß, in mir die Marwood, mit der Sie nicht verglichen zu werden, die Marwood selbst fußfällig bitten.</p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg517.2.78.part1">SARA</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg517.2.78.1.part1" dr:fixed-stage="true">die voller Erschrecken aufspringt, und sich zitternd zurückzieht.</stage>
-                                    </stage>
-                                    <p xml:id="tg517.2.78.part2"> Sie, Marwood? – Ha! Nun erkenn' ich sie – nun erkenn' ich sie, die mördrische Retterin, deren Dolche mich ein warnender Traum Preis gab. Sie ist es! Flieh' unglückliche Sara! Retten Sie mich, Mellefont; retten Sie Ihre Geliebte! Und du, süße Stimme meines geliebten Vaters, erschalle! Wo schallt sie? wo soll ich auf sie zueilen? – hier? – da? – Hülfe, Mellefont! Hülfe, Betty! – Itzt dringt sie mit tötender Faust auf mich ein! Hülfe! <stage rend="italic" xml:id="tg517.2.78.2.part2" dr:fixed-stage="true">Eilt ab.</stage>
+                                    
+                                       <stage type="exit" rend="italic" xml:id="tg517.2.78.1.part1" dr:fixed-stage="true">die voller Erschrecken aufspringt, und sich zitternd zurückzieht.</stage>
+                                    
+                                    <p xml:id="tg517.2.78.part2"> Sie, Marwood? – Ha! Nun erkenn' ich sie – nun erkenn' ich sie, die mördrische Retterin, deren Dolche mich ein warnender Traum Preis gab. Sie ist es! Flieh' unglückliche Sara! Retten Sie mich, Mellefont; retten Sie Ihre Geliebte! Und du, süße Stimme meines geliebten Vaters, erschalle! Wo schallt sie? wo soll ich auf sie zueilen? – hier? – da? – Hülfe, Mellefont! Hülfe, Betty! – Itzt dringt sie mit tötender Faust auf mich ein! Hülfe! <stage type="exit" rend="italic" xml:id="tg517.2.78.2.part2" dr:fixed-stage="true">Eilt ab.</stage>
                                     </p>
                                     <pb n="83" xml:id="tg517.2.79"/>
                                     <lb xml:id="tg517.2.80"/>
@@ -3456,7 +3456,7 @@ etwas anders, aus Unwissenheit auf das Laster treffen; und ganz etwas anders, es
 
                                  <sp>
                                     <speaker xml:id="tg518.2.2.part1">MARWOOD.</speaker>
-                                    <p xml:id="tg518.2.2.part2"> Was will die Schwärmerin? – O daß sie wahr redte, und ich mit tötender Faust auf sie eindränge! Bis hieher hätte ich den Stahl sparen sollen, ich Törichte! Welche Wollust, eine Nebenbuhlerin in der freiwilligen Erniedrigung zu unsern Füßen durchbohren zu können! – Was nun? – Ich bin entdeckt. Mellefont kann den Augenblick hier sein. Soll ich ihn fliehen? Soll ich ihn erwarten? Ich will ihn erwarten, aber nicht müßig. Vielleicht, daß ihn die glückliche List meines Bedienten noch lange genug aufhält! – Ich sehe, ich werde gefürchtet. Warum folge ich ihr also nicht? Warum versuche ich nicht noch das letzte, das ich wider sie brauchen kann? Drohungen sind armselige Waffen: doch die Verzweiflung verschmäht keine, so armselig sie sind. Ein schreckhaftes Mädchen, das betäubt und mit zerrütteten Sinnen schon vor meinem Namen flieht, kann leicht fürchterliche Worte für fürchterliche Taten halten. Aber Mellefont? – Mellefont wird ihr wieder Mut machen, und sie über meine Drohungen spotten lehren. Er wird? Vielleicht wird er auch nicht. Es wäre wenig in der Welt unternommen worden, wenn man nur immer auf den Ausgang gesehen hätte. Und bin ich auf den unglücklichsten nicht schon vorbereitet? – Der Dolch war für andre, das Gift ist für mich! – Das Gift für mich! Schon längst mit mir herumgetragen, wartet es hier, dem Herzen bereits nahe, auf den traurigen Dienst; hier, wo ich in bessern Zeiten, die geschriebenen Schmeicheleien der Anbeter verbarg; für uns ein eben so gewisses, aber nur langsamres Gift. – Wenn es doch nur bestimmt wäre, in meinen Adern nicht allein zu toben! Wenn es doch einem Ungetreuen – Was halte ich mich mit Wünschen auf? – Fort! Ich muß weder mich, noch sie zu sich selbst kommen lassen. Der will sich nichts wagen, der sich mit kaltem Blute wagen will.<stage rend="italic" xml:id="tg518.2.2.1.part2" dr:fixed-stage="true"> Gehet ab.</stage>
+                                    <p xml:id="tg518.2.2.part2"> Was will die Schwärmerin? – O daß sie wahr redte, und ich mit tötender Faust auf sie eindränge! Bis hieher hätte ich den Stahl sparen sollen, ich Törichte! Welche Wollust, eine Nebenbuhlerin in der freiwilligen Erniedrigung zu unsern Füßen durchbohren zu können! – Was nun? – Ich bin entdeckt. Mellefont kann den Augenblick hier sein. Soll ich ihn fliehen? Soll ich ihn erwarten? Ich will ihn erwarten, aber nicht müßig. Vielleicht, daß ihn die glückliche List meines Bedienten noch lange genug aufhält! – Ich sehe, ich werde gefürchtet. Warum folge ich ihr also nicht? Warum versuche ich nicht noch das letzte, das ich wider sie brauchen kann? Drohungen sind armselige Waffen: doch die Verzweiflung verschmäht keine, so armselig sie sind. Ein schreckhaftes Mädchen, das betäubt und mit zerrütteten Sinnen schon vor meinem Namen flieht, kann leicht fürchterliche Worte für fürchterliche Taten halten. Aber Mellefont? – Mellefont wird ihr wieder Mut machen, und sie über meine Drohungen spotten lehren. Er wird? Vielleicht wird er auch nicht. Es wäre wenig in der Welt unternommen worden, wenn man nur immer auf den Ausgang gesehen hätte. Und bin ich auf den unglücklichsten nicht schon vorbereitet? – Der Dolch war für andre, das Gift ist für mich! – Das Gift für mich! Schon längst mit mir herumgetragen, wartet es hier, dem Herzen bereits nahe, auf den traurigen Dienst; hier, wo ich in bessern Zeiten, die geschriebenen Schmeicheleien der Anbeter verbarg; für uns ein eben so gewisses, aber nur langsamres Gift. – Wenn es doch nur bestimmt wäre, in meinen Adern nicht allein zu toben! Wenn es doch einem Ungetreuen – Was halte ich mich mit Wünschen auf? – Fort! Ich muß weder mich, noch sie zu sich selbst kommen lassen. Der will sich nichts wagen, der sich mit kaltem Blute wagen will.<stage type="exit" rend="italic" xml:id="tg518.2.2.1.part2" dr:fixed-stage="true"> Gehet ab.</stage>
                                     </p>
                                     <lb xml:id="tg518.2.3"/>
                                     
@@ -3489,10 +3489,10 @@ etwas anders, aus Unwissenheit auf das Laster treffen; und ganz etwas anders, es
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg520.2.4">
+                                 <stage type="other" rend="zenoPC" xml:id="tg520.2.4">
                                     <hi rend="italic" xml:id="tg520.2.4.1">Das Zimmer der Sara.</hi>
                                  </stage>
-                                 <stage rend="zenoPC" xml:id="tg520.2.5">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg520.2.5">
                                     <hi rend="italic" xml:id="tg520.2.5.1">Sara schwach in einem Lehnstuhle. Betty.</hi>
                                  </stage>
                                  <lb xml:id="tg520.2.6"/>
@@ -3562,7 +3562,7 @@ etwas anders, aus Unwissenheit auf das Laster treffen; und ganz etwas anders, es
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg521.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg521.2.4">
                                     <hi rend="italic" xml:id="tg521.2.4.1">Norton. Sara. Betty.</hi>
                                  </stage>
                                  <lb xml:id="tg521.2.5"/>
@@ -3620,7 +3620,7 @@ etwas anders, aus Unwissenheit auf das Laster treffen; und ganz etwas anders, es
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg522.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg522.2.4">
                                     <hi rend="italic" xml:id="tg522.2.4.1">Mellefont. Norton. Sara. Betty.</hi>
                                  </stage>
                                  <lb xml:id="tg522.2.5"/>
@@ -3650,7 +3650,7 @@ etwas anders, aus Unwissenheit auf das Laster treffen; und ganz etwas anders, es
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg522.2.12.part1">MELLEFONT.</speaker>
-                                    <l xml:id="tg522.2.12.part2"> Geh! <stage rend="italic" xml:id="tg522.2.12.1.part2" dr:fixed-stage="true">Norton geht ab.</stage>
+                                    <l xml:id="tg522.2.12.part2"> Geh! <stage type="exit" rend="italic" xml:id="tg522.2.12.1.part2" dr:fixed-stage="true">Norton geht ab.</stage>
                                     </l>
                                     <pb n="87" xml:id="tg522.2.13"/>
                                     <lb xml:id="tg522.2.14"/>
@@ -3671,7 +3671,7 @@ etwas anders, aus Unwissenheit auf das Laster treffen; und ganz etwas anders, es
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg523.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg523.2.4">
                                     <hi rend="italic" xml:id="tg523.2.4.1">Sara. Mellefont. Betty.</hi>
                                  </stage>
                                  <lb xml:id="tg523.2.5"/>
@@ -3727,12 +3727,12 @@ gewiß. Wenn ich nur nicht entdeckt hätte, daß seiner Liebe ein gewisses Vertr
                                  <sp>
                                     <speaker xml:id="tg523.2.18.part1">SARA.</speaker>
                                     <p xml:id="tg523.2.18.part2"> Wohl! Mellefont. – Wie sehr liebe ich Sie, auch um dieser Liebe willen. Sie würden mich empfindlich beleidiget haben, wenn Sie die Sympathie Ihres Bluts, aus mir nachteiligen Bedenklichkeiten, verleugnet hätten. Schon haben Sie mich dadurch beleidiget, daß Sie mir drohen, sie nicht vor meine Augen kommen zu lassen. Nein, Mellefont; es muß eine von den Versprechungen sein, die Sie mir vor den Augen des Höchsten angeloben, daß Sie Arabellen nicht von sich lassen wollen. Sie läuft Gefahr, in den Händen ihrer Mutter, ihres Vaters unwürdig zu werden. Brauchen Sie Ihre Rechte über beide, und lassen mich an die Stelle der Marwood treten. Gönnen Sie mir das Glück, mir eine Freundin zu erziehen, die Ihnen ihr Leben zu danken hat; einen Mellefont meines Geschlechts. Glückliche Tage, wenn mein Vater, wenn Sie, wenn Arabella, meine kindliche Ehrfurcht, meine vertrauliche Liebe, meine sorgsame Freundschaft um die Wette beschäftigen werden! Glückliche Tage! Aber ach! – sie sind noch fern in der Zukunft. – Doch vielleicht weiß auch die Zukunft nichts von ihnen, und sie sind bloß in meiner Begierde <pb n="89" xml:id="tg523.2.18.1.part2"/>
-nach Glück! – Empfindungen, Mellefont, nie gefühlte Empfindungen wenden meine Augen in eine andre Aussicht! Eine dunkle Aussicht in ehrfurchtsvolle Schatten! – Wie wird mir? – <stage rend="italic" xml:id="tg523.2.18.2.part2" dr:fixed-stage="true">Indem sie die Hand vors Gesicht hält.</stage>
+nach Glück! – Empfindungen, Mellefont, nie gefühlte Empfindungen wenden meine Augen in eine andre Aussicht! Eine dunkle Aussicht in ehrfurchtsvolle Schatten! – Wie wird mir? – <stage type="other" rend="italic" xml:id="tg523.2.18.2.part2" dr:fixed-stage="true">Indem sie die Hand vors Gesicht hält.</stage>
                                     </p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg523.2.19.part1">MELLEFONT.</speaker>
-                                    <p xml:id="tg523.2.19.part2"> Welcher plötzliche Übergang von Bewundrung zum Schrecken! – Eile doch, Betty! Schaffe doch Hülfe! – Was fehlt Ihnen, großmütige Miß! Himmlische Seele! Warum verbirgt mir diese neidische Hand <stage rend="italic" xml:id="tg523.2.19.1.part2" dr:fixed-stage="true">Indem er sie wegnimmt.</stage> so holde Blicke? – Ach es sind Mienen, die den grausamsten Schmerz, aber ungern, verraten! – Und doch ist die Hand neidisch, die mir diese Mienen verbergen will. Soll ich Ihre Schmerzen nicht mit fühlen, Miß? Ich Unglücklicher, daß ich sie nur mit fühlen kann! – Daß ich sie nicht allein fühlen soll! – So eile doch, Betty – –</p>
+                                    <p xml:id="tg523.2.19.part2"> Welcher plötzliche Übergang von Bewundrung zum Schrecken! – Eile doch, Betty! Schaffe doch Hülfe! – Was fehlt Ihnen, großmütige Miß! Himmlische Seele! Warum verbirgt mir diese neidische Hand <stage type="other" rend="italic" xml:id="tg523.2.19.1.part2" dr:fixed-stage="true">Indem er sie wegnimmt.</stage> so holde Blicke? – Ach es sind Mienen, die den grausamsten Schmerz, aber ungern, verraten! – Und doch ist die Hand neidisch, die mir diese Mienen verbergen will. Soll ich Ihre Schmerzen nicht mit fühlen, Miß? Ich Unglücklicher, daß ich sie nur mit fühlen kann! – Daß ich sie nicht allein fühlen soll! – So eile doch, Betty – –</p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg523.2.20.part1">BETTY.</speaker>
@@ -3767,7 +3767,7 @@ nach Glück! – Empfindungen, Mellefont, nie gefühlte Empfindungen wenden mein
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg524.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg524.2.4">
                                     <hi rend="italic" xml:id="tg524.2.4.1">Norton. Mellefont. Sara. Betty.</hi>
                                  </stage>
                                  <lb xml:id="tg524.2.5"/>
@@ -3790,9 +3790,9 @@ nach Glück! – Empfindungen, Mellefont, nie gefühlte Empfindungen wenden mein
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg524.2.11.part1">MELLEFONT</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg524.2.11.1.part1" dr:fixed-stage="true">indem er den Zettel nimmt.</stage>
-                                    </stage>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg524.2.11.1.part1" dr:fixed-stage="true">indem er den Zettel nimmt.</stage>
+                                    
                                     <l xml:id="tg524.2.11.part2"> Er ist an mich. – – Soll ich ihn lesen, Miß?</l>
                                  </sp>
                                  <sp>
@@ -3813,16 +3813,16 @@ nach Glück! – Empfindungen, Mellefont, nie gefühlte Empfindungen wenden mein
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg524.2.16.part1">SARA</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg524.2.16.1.part1" dr:fixed-stage="true">indem Mellefont für sich lieset.</stage>
-                                    </stage>
+                                    
+                                       <stage type="aside" rend="italic" xml:id="tg524.2.16.1.part1" dr:fixed-stage="true">indem Mellefont für sich lieset.</stage>
+                                    
                                     <p xml:id="tg524.2.16.part2"> Wie schlau weiß sich der Mensch zu trennen, und aus seinen Leidenschaften ein von sich unterschiedenes Wesen zu machen, dem er alles zur Last legen könne, was er bei kaltem Blute selbst nicht billiget – Mein Salz, Betty! Ich besorge einen neuen Schreck, und werde es nötig haben. – Siehst du, was der unglückliche Zettel für einen Eindruck auf ihn macht! – Mellefont! – Sie geraten außer sich! – Mellefont! – Gott! er erstarrt! – Hier, Betty! Reiche ihm das Salz! – Er hat es nötiger, als ich.</p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg524.2.17.part1">MELLEFONT</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg524.2.17.1.part1" dr:fixed-stage="true">der die Betty damit zurück stößt.</stage>
-                                    </stage>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg524.2.17.1.part1" dr:fixed-stage="true">der die Betty damit zurück stößt.</stage>
+                                    
                                     <l xml:id="tg524.2.17.part2"> Nicht näher, Unglückliche! – Deine Arzeneien sind Gift! –</l>
                                  </sp>
                                  <sp>
@@ -3843,7 +3843,7 @@ nach Glück! – Empfindungen, Mellefont, nie gefühlte Empfindungen wenden mein
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg524.2.22.part1">MELLEFONT.</speaker>
-                                    <p xml:id="tg524.2.22.part2"> Das letzte liebster Mellefont aus diesem göttlichen Munde, und dann ewig nicht mehr! – Zu Ihren Füßen, Sara – – <stage rend="italic" xml:id="tg524.2.22.1.part2" dr:fixed-stage="true">Indem er sich niederwirft.</stage> – – Aber was will ich zu Ihren Füßen? <stage rend="italic" xml:id="tg524.2.22.2.part2" dr:fixed-stage="true">Und wieder aufspringt.</stage> Entdecken? Ich <pb n="91" xml:id="tg524.2.22.3.part2"/>
+                                    <p xml:id="tg524.2.22.part2"> Das letzte liebster Mellefont aus diesem göttlichen Munde, und dann ewig nicht mehr! – Zu Ihren Füßen, Sara – – <stage type="other" rend="italic" xml:id="tg524.2.22.1.part2" dr:fixed-stage="true">Indem er sich niederwirft.</stage> – – Aber was will ich zu Ihren Füßen? <stage type="other" rend="italic" xml:id="tg524.2.22.2.part2" dr:fixed-stage="true">Und wieder aufspringt.</stage> Entdecken? Ich <pb n="91" xml:id="tg524.2.22.3.part2"/>
 Ihnen entdecken? – Ja, ich will Ihnen entdecken, Miß, daß Sie mich hassen werden, daß Sie mich hassen müssen. – Sie sollen den Inhalt nicht erfahren; nein von mir nicht! – Aber Sie werden ihn erfahren. – Sie werden – Was steht ihr noch hier, müßig und angeheftet? Lauf Norton, bring' alle Ärzte zusammen! Suche Hülfe, Betty! Laß die Hülfe so wirksam sein, als deinen Irrtum! – Nein! bleibt hier! Ich gehe selbst. –</p>
                                  </sp>
                                  <sp>
@@ -3871,7 +3871,7 @@ Ihnen entdecken? – Ja, ich will Ihnen entdecken, Miß, daß Sie mich hassen we
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg525.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg525.2.4">
                                     <hi rend="italic" xml:id="tg525.2.4.1">Sara. Norton. Betty.</hi>
                                  </stage>
                                  <lb xml:id="tg525.2.5"/>
@@ -3885,9 +3885,9 @@ Ihnen entdecken? – Ja, ich will Ihnen entdecken, Miß, daß Sie mich hassen we
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg525.2.8.part1">NORTON</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg525.2.8.1.part1" dr:fixed-stage="true">welcher nach der Szene zugegangen.</stage>
-                                    </stage>
+                                    
+                                       <stage type="enter" rend="italic" xml:id="tg525.2.8.1.part1" dr:fixed-stage="true">welcher nach der Szene zugegangen.</stage>
+                                    
                                     <l xml:id="tg525.2.8.part2"> Der alte Bediente Ihres Vaters, Miß –</l>
                                  </sp>
                                  <sp>
@@ -3912,7 +3912,7 @@ Ihnen entdecken? – Ja, ich will Ihnen entdecken, Miß, daß Sie mich hassen we
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg526.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg526.2.4">
                                     <hi rend="italic" xml:id="tg526.2.4.1">Waitwell. Sara. Betty. Norton.</hi>
                                  </stage>
                                  <lb xml:id="tg526.2.5"/>
@@ -3938,9 +3938,9 @@ Ihnen entdecken? – Ja, ich will Ihnen entdecken, Miß, daß Sie mich hassen we
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg526.2.11.part1">BETTY</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg526.2.11.1.part1" dr:fixed-stage="true">im Abgehn.</stage>
-                                    </stage>
+                                    
+                                       <stage type="exit" rend="italic" xml:id="tg526.2.11.1.part1" dr:fixed-stage="true">im Abgehn.</stage>
+                                    
                                     <l xml:id="tg526.2.11.part2"> Ach! Norton, ich nahm die Arzenei aus den Händen der Marwood! – –</l>
                                     <pb n="93" xml:id="tg526.2.12"/>
                                     <lb xml:id="tg526.2.13"/>
@@ -3961,7 +3961,7 @@ Ihnen entdecken? – Ja, ich will Ihnen entdecken, Miß, daß Sie mich hassen we
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg527.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg527.2.4">
                                     <hi rend="italic" xml:id="tg527.2.4.1">Waitwell. Sara.</hi>
                                  </stage>
                                  <lb xml:id="tg527.2.5"/>
@@ -4007,7 +4007,7 @@ Ihnen entdecken? – Ja, ich will Ihnen entdecken, Miß, daß Sie mich hassen we
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg528.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg528.2.4">
                                     <hi rend="italic" xml:id="tg528.2.4.1">Sir William Sampson. Sara. Waitwell.</hi>
                                  </stage>
                                  <lb xml:id="tg528.2.5"/>
@@ -4025,11 +4025,11 @@ Ihnen entdecken? – Ja, ich will Ihnen entdecken, Miß, daß Sie mich hassen we
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg528.2.9.part1">SARA.</speaker>
-                                    <p xml:id="tg528.2.9.part2"> Ach, mein Vater! – Hilf mir auf, Waitwell, hilf mir auf, daß ich mich zu seinen Füßen werfen kann. <stage rend="italic" xml:id="tg528.2.9.1.part2" dr:fixed-stage="true">Sie will aufstehen, und fällt aus Schwachheit in den Lehnstuhl zurück.</stage> Er ist es doch? Oder ist es eine erquickende Erscheinung, vom Himmel gesandt, gleich jenem Engel, der den Starken zu stärken kam? – Segne mich, wer du auch seist, ein Bote des Höchsten, in der Gestalt meines Vaters, oder selbst mein Vater!</p>
+                                    <p xml:id="tg528.2.9.part2"> Ach, mein Vater! – Hilf mir auf, Waitwell, hilf mir auf, daß ich mich zu seinen Füßen werfen kann. <stage type="other" rend="italic" xml:id="tg528.2.9.1.part2" dr:fixed-stage="true">Sie will aufstehen, und fällt aus Schwachheit in den Lehnstuhl zurück.</stage> Er ist es doch? Oder ist es eine erquickende Erscheinung, vom Himmel gesandt, gleich jenem Engel, der den Starken zu stärken kam? – Segne mich, wer du auch seist, ein Bote des Höchsten, in der Gestalt meines Vaters, oder selbst mein Vater!</p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg528.2.10.part1">SIR WILLIAM.</speaker>
-                                    <p xml:id="tg528.2.10.part2"> Gott segne dich, meine Tochter! – Bleib ruhig. <stage rend="italic" xml:id="tg528.2.10.1.part2" dr:fixed-stage="true">Indem sie es nochmals versuchen will, vor ihm niederzufallen.</stage> Ein andermal, bei mehrern Kräften, will ich dich nicht ungern mein zitterndes Knie umfassen sehen.</p>
+                                    <p xml:id="tg528.2.10.part2"> Gott segne dich, meine Tochter! – Bleib ruhig. <stage type="other" rend="italic" xml:id="tg528.2.10.1.part2" dr:fixed-stage="true">Indem sie es nochmals versuchen will, vor ihm niederzufallen.</stage> Ein andermal, bei mehrern Kräften, will ich dich nicht ungern mein zitterndes Knie umfassen sehen.</p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg528.2.11.part1">SARA.</speaker>
@@ -4061,7 +4061,7 @@ deiner fortdauernden Liebe gewiß sein wollte, ehe ich dir die meinige wiedersch
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg529.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg529.2.4">
                                     <hi rend="italic" xml:id="tg529.2.4.1">Mellefont. Sara. Sir William. Waitwell.</hi>
                                  </stage>
                                  <lb xml:id="tg529.2.5"/>
@@ -4092,12 +4092,12 @@ Unglücklicher Vater! Sie sind zu einer schrecklichen Szene gekommen. Warum kame
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg529.2.12.part1">MELLEFONT.</speaker>
-                                    <p xml:id="tg529.2.12.part2"> Sie müssen es wissen, denn wer könnte mir dafür stehen, daß Sie nicht falsch argwöhnten? Dies schreibet Marwood. <stage rend="italic" xml:id="tg529.2.12.1.part2" dr:fixed-stage="true">Er lieset.</stage> »Wenn Sie diesen Zettel lesen werden, Mellefont, wird Ihre Untreue in dem Anlasse derselben schon bestraft sein. Ich hatte mich ihr entdeckt, und vor Schrecken war sie in Ohnmacht gefallen. Betty gab sich alle Mühe, sie wieder zu sich selbst zu bringen. Ich ward gewahr, daß sie ein Kordialpulver bei Seite legte, und hatte den glücklichen Einfall, es mit einem Giftpulver zu vertauschen. Ich stellte mich gerührt und dienstfertig, und machte es selbst zurechte. Ich sah es ihr geben, und ging triumphierend fort. Rache und Wut haben mich zu einer Mörderin gemacht; ich will aber keine von den gemeinen Mörderinnen sein, die sich ihrer Tat nicht zu rühmen wagen. Ich bin auf dem Wege nach Dover: Sie können mich verfolgen, und meine eigne Hand wider mich zeugen lassen. Komme ich unverfolgt in den Hafen, so will ich Arabellen unverletzt zurücklassen. Bis dahin aber werde ich sie als einen Geisel betrachten. Marwood.« – – Nun wissen Sie alles, Miß. Hier, Sir, verwahren Sie dieses Papier. Sie müssen die Mörderin zur Strafe ziehen lassen, und dazu ist es Ihnen unentbehrlich. – Wie erstarrt er da steht!</p>
+                                    <p xml:id="tg529.2.12.part2"> Sie müssen es wissen, denn wer könnte mir dafür stehen, daß Sie nicht falsch argwöhnten? Dies schreibet Marwood. <stage type="other" rend="italic" xml:id="tg529.2.12.1.part2" dr:fixed-stage="true">Er lieset.</stage> »Wenn Sie diesen Zettel lesen werden, Mellefont, wird Ihre Untreue in dem Anlasse derselben schon bestraft sein. Ich hatte mich ihr entdeckt, und vor Schrecken war sie in Ohnmacht gefallen. Betty gab sich alle Mühe, sie wieder zu sich selbst zu bringen. Ich ward gewahr, daß sie ein Kordialpulver bei Seite legte, und hatte den glücklichen Einfall, es mit einem Giftpulver zu vertauschen. Ich stellte mich gerührt und dienstfertig, und machte es selbst zurechte. Ich sah es ihr geben, und ging triumphierend fort. Rache und Wut haben mich zu einer Mörderin gemacht; ich will aber keine von den gemeinen Mörderinnen sein, die sich ihrer Tat nicht zu rühmen wagen. Ich bin auf dem Wege nach Dover: Sie können mich verfolgen, und meine eigne Hand wider mich zeugen lassen. Komme ich unverfolgt in den Hafen, so will ich Arabellen unverletzt zurücklassen. Bis dahin aber werde ich sie als einen Geisel betrachten. Marwood.« – – Nun wissen Sie alles, Miß. Hier, Sir, verwahren Sie dieses Papier. Sie müssen die Mörderin zur Strafe ziehen lassen, und dazu ist es Ihnen unentbehrlich. – Wie erstarrt er da steht!</p>
                                     <pb n="97" xml:id="tg529.2.13"/>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg529.2.14.part1">SARA.</speaker>
-                                    <p xml:id="tg529.2.14.part2"> Geben Sie mir dieses Papier, Mellefont. Ich will mich mit meinen Augen überzeugen. <stage rend="italic" xml:id="tg529.2.14.1.part2" dr:fixed-stage="true">Er gibt es ihr, und sie sieht es einen Augenblick an.</stage> Werde ich so viel Kräfte noch haben? <stage rend="italic" xml:id="tg529.2.14.2.part2" dr:fixed-stage="true">Zerreißt es.</stage>
+                                    <p xml:id="tg529.2.14.part2"> Geben Sie mir dieses Papier, Mellefont. Ich will mich mit meinen Augen überzeugen. <stage type="other" rend="italic" xml:id="tg529.2.14.1.part2" dr:fixed-stage="true">Er gibt es ihr, und sie sieht es einen Augenblick an.</stage> Werde ich so viel Kräfte noch haben? <stage type="other" rend="italic" xml:id="tg529.2.14.2.part2" dr:fixed-stage="true">Zerreißt es.</stage>
                                     </p>
                                  </sp>
                                  <sp>
@@ -4119,7 +4119,7 @@ den gefährlichen Schranken – Wem fließen diese Tränen, mein Vater? Sie fall
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg529.2.19.part1">MELLEFONT.</speaker>
-                                    <p xml:id="tg529.2.19.part2"> Sie stirbt! – Ach! diese kalte Hand noch einmal zu küssen, <stage rend="italic" xml:id="tg529.2.19.1.part2" dr:fixed-stage="true">Indem er zu ihren Füßen fällt.</stage> – Nein, ich will es nicht wagen, sie zu berühren. Die gemeine Sage schreckt mich, daß der Körper eines Erschlagenen durch die Berührung seines Mörders zu bluten anfange. Und wer ist ihr Mörder? Bin ich es nicht mehr, als Marwood? <stage rend="italic" xml:id="tg529.2.19.2.part2" dr:fixed-stage="true">Steht auf.</stage> – Nun ist sie tot, Sir; nun hört sie uns nicht mehr: nun verfluchen Sie mich! Lassen Sie Ihren Schmerz in verdiente Verwünschungen aus! Es müsse keine mein Haupt verfehlen, und die gräßlichste derselben müsse gedoppelt erfüllt werden! – Was schweigen Sie noch? Sie ist tot; sie ist gewiß tot! Nun bin ich wieder nichts, als Mellefont. Ich bin nicht mehr der Geliebte einer zärtlichen Tochter, die Sie in ihm zu schonen Ursach hätten. – Was ist das? Ich will nicht, daß Sie einen barmherzigen Blick auf mich werfen sollen! Das ist Ihre Tochter! Ich bin ihr Verführer! Denken Sie nach, Sir! – Wie soll ich Ihre Wut besser reizen? – Diese blühende Schönheit, über die Sie allein ein Recht hatten, ward wider Ihren Willen mein Raub! Meinetwegen vergaß sich diese unerfahrne Tugend! Meinetwegen riß sie sich aus den Armen eines geliebten Vaters! Meinetwegen mußte sie sterben! – Sie machen mich mit Ihrer Langmut ungeduldig, Sir! Lassen Sie mich es hören, daß Sie Vater sind.</p>
+                                    <p xml:id="tg529.2.19.part2"> Sie stirbt! – Ach! diese kalte Hand noch einmal zu küssen, <stage type="other" rend="italic" xml:id="tg529.2.19.1.part2" dr:fixed-stage="true">Indem er zu ihren Füßen fällt.</stage> – Nein, ich will es nicht wagen, sie zu berühren. Die gemeine Sage schreckt mich, daß der Körper eines Erschlagenen durch die Berührung seines Mörders zu bluten anfange. Und wer ist ihr Mörder? Bin ich es nicht mehr, als Marwood? <stage type="other" rend="italic" xml:id="tg529.2.19.2.part2" dr:fixed-stage="true">Steht auf.</stage> – Nun ist sie tot, Sir; nun hört sie uns nicht mehr: nun verfluchen Sie mich! Lassen Sie Ihren Schmerz in verdiente Verwünschungen aus! Es müsse keine mein Haupt verfehlen, und die gräßlichste derselben müsse gedoppelt erfüllt werden! – Was schweigen Sie noch? Sie ist tot; sie ist gewiß tot! Nun bin ich wieder nichts, als Mellefont. Ich bin nicht mehr der Geliebte einer zärtlichen Tochter, die Sie in ihm zu schonen Ursach hätten. – Was ist das? Ich will nicht, daß Sie einen barmherzigen Blick auf mich werfen sollen! Das ist Ihre Tochter! Ich bin ihr Verführer! Denken Sie nach, Sir! – Wie soll ich Ihre Wut besser reizen? – Diese blühende Schönheit, über die Sie allein ein Recht hatten, ward wider Ihren Willen mein Raub! Meinetwegen vergaß sich diese unerfahrne Tugend! Meinetwegen riß sie sich aus den Armen eines geliebten Vaters! Meinetwegen mußte sie sterben! – Sie machen mich mit Ihrer Langmut ungeduldig, Sir! Lassen Sie mich es hören, daß Sie Vater sind.</p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg529.2.20.part1">SIR WILLIAM.</speaker>
@@ -4128,7 +4128,7 @@ den gefährlichen Schranken – Wem fließen diese Tränen, mein Vater? Sie fall
                                  <sp>
                                     <speaker xml:id="tg529.2.21.part1">MELLEFONT.</speaker>
                                     <p xml:id="tg529.2.21.part2"> Nicht so, Sir! Diese Heilige befahl mehr, als die <pb n="99" xml:id="tg529.2.21.1.part2"/>
-menschliche Natur vermag! Sie können mein Vater nicht sein. – Sehen Sie, Sir, <stage rend="italic" xml:id="tg529.2.21.2.part2" dr:fixed-stage="true">Indem er den Dolch aus dem Busen zieht.</stage> dieses ist der Dolch, den Marwood heute auf mich zuckte. Zu meinem Unglücke mußte ich sie entwaffnen. Wenn ich als das schuldige Opfer ihrer Eifersucht gefallen wäre, so lebte Sara noch. Sie hätten Ihre Tochter noch, und hätten sie ohne Mellefont. Es stehet bei mir nicht, das Geschehene ungeschehen zu machen; aber mich wegen des Geschehenen zu strafen – das steht bei mir! <stage rend="italic" xml:id="tg529.2.21.3.part2" dr:fixed-stage="true">Er ersticht sich, und fällt an dem Stuhle der Sara nieder.</stage>
+menschliche Natur vermag! Sie können mein Vater nicht sein. – Sehen Sie, Sir, <stage type="other" rend="italic" xml:id="tg529.2.21.2.part2" dr:fixed-stage="true">Indem er den Dolch aus dem Busen zieht.</stage> dieses ist der Dolch, den Marwood heute auf mich zuckte. Zu meinem Unglücke mußte ich sie entwaffnen. Wenn ich als das schuldige Opfer ihrer Eifersucht gefallen wäre, so lebte Sara noch. Sie hätten Ihre Tochter noch, und hätten sie ohne Mellefont. Es stehet bei mir nicht, das Geschehene ungeschehen zu machen; aber mich wegen des Geschehenen zu strafen – das steht bei mir! <stage type="dead" rend="italic" xml:id="tg529.2.21.3.part2" dr:fixed-stage="true">Er ersticht sich, und fällt an dem Stuhle der Sara nieder.</stage>
                                     </p>
                                  </sp>
                                  <sp>
@@ -4137,10 +4137,10 @@ menschliche Natur vermag! Sie können mein Vater nicht sein. – Sehen Sie, Sir,
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg529.2.23.part1">MELLEFONT</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg529.2.23.1.part1" dr:fixed-stage="true">sterbend.</stage>
-                                    </stage>
-                                    <p xml:id="tg529.2.23.part2"> Ich fühl' es – daß ich nicht fehl gestoßen habe! – Wollen Sie mich nun Ihren Sohn nennen, Sir, und mir als diesem die Hand drücken, so sterb' ich zufrieden. <stage rend="italic" xml:id="tg529.2.23.2.part2" dr:fixed-stage="true">Sir William umarmt ihn.</stage> – Sie haben von einer Arabella gehört, für die die sterbende Sara Sie bat. Ich würde auch für sie bitten – aber sie ist der Marwood Kind sowohl, als meines – Was für fremde Empfindungen ergreifen mich! – Gnade! o Schöpfer, Gnade! –</p>
+                                    
+                                       <stage type="dead" rend="italic" xml:id="tg529.2.23.1.part1" dr:fixed-stage="true">sterbend.</stage>
+                                    
+                                    <p xml:id="tg529.2.23.part2"> Ich fühl' es – daß ich nicht fehl gestoßen habe! – Wollen Sie mich nun Ihren Sohn nennen, Sir, und mir als diesem die Hand drücken, so sterb' ich zufrieden. <stage type="other" rend="italic" xml:id="tg529.2.23.2.part2" dr:fixed-stage="true">Sir William umarmt ihn.</stage> – Sie haben von einer Arabella gehört, für die die sterbende Sara Sie bat. Ich würde auch für sie bitten – aber sie ist der Marwood Kind sowohl, als meines – Was für fremde Empfindungen ergreifen mich! – Gnade! o Schöpfer, Gnade! –</p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg529.2.24.part1">SIR WILLIAM.</speaker>
@@ -4163,7 +4163,7 @@ menschliche Natur vermag! Sie können mein Vater nicht sein. – Sehen Sie, Sir,
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg530.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg530.2.4">
                                     <hi rend="italic" xml:id="tg530.2.4.1">Norton. Die Vorigen.</hi>
                                  </stage>
                                  <lb xml:id="tg530.2.5"/>
@@ -4173,7 +4173,7 @@ menschliche Natur vermag! Sie können mein Vater nicht sein. – Sehen Sie, Sir,
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg530.2.7.part1">SIR WILLIAM.</speaker>
-                                    <p xml:id="tg530.2.7.part2"> Wenn sie Wunder tun können, so laß sie herein kommen! – Laß mich nicht länger, Waitwell, bei diesem tötenden Anblicke verweilen. Ein Grab soll beide umschließen. Komm, schleunige Anstalt zu machen, und dann laß uns auf Arabellen denken. Sie sei, wer sie sei: sie ist ein Vermächtnis meiner Tochter. <stage rend="italic" xml:id="tg530.2.7.1.part2" dr:fixed-stage="true">Sie gehen ab, und das Theater fällt zu.</stage>
+                                    <p xml:id="tg530.2.7.part2"> Wenn sie Wunder tun können, so laß sie herein kommen! – Laß mich nicht länger, Waitwell, bei diesem tötenden Anblicke verweilen. Ein Grab soll beide umschließen. Komm, schleunige Anstalt zu machen, und dann laß uns auf Arabellen denken. Sie sei, wer sie sei: sie ist ein Vermächtnis meiner Tochter. <stage type="exit" rend="italic" xml:id="tg530.2.7.1.part2" dr:fixed-stage="true">Sie gehen ab, und das Theater fällt zu.</stage>
                                     </p>
                                     <lb xml:id="tg530.2.8"/>
                                     

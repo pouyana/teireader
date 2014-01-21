@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xmlns:dr="http://www.germanistik.uni-wuerzburg.de/lehrstuehle/computerphilologie/dramenanalyse" xml:id="tg336" n="/Literatur/M/Lessing, Gotthold Ephraim/Dramen/Die alte Jungfer">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../Digibib-Schemas/RomaResults/tei_digibibDrama.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xmlns:dr="http://www.germanistik.uni-wuerzburg.de/lehrstuehle/computerphilologie/dramenanalyse" xml:id="tg336" n="/Literatur/M/Lessing, Gotthold Ephraim/Dramen/Die alte Jungfer">
             <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors" n="work:yes">
                <fileDesc>
                   <titleStmt>
@@ -169,7 +170,7 @@
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg340.2.4">
+                                 <stage  type="enter" rend="zenoPC" xml:id="tg340.2.4">
                                     <hi rend="italic" xml:id="tg340.2.4.1">Jungfer Ohldin. Herr Oronte und seine Frau.</hi>
                                  </stage>
                                  <lb xml:id="tg340.2.5"/>
@@ -414,7 +415,7 @@
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg341.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg341.2.4">
                                     <hi rend="italic" xml:id="tg341.2.4.1">Jungfer Ohldin. Frau Oronte.</hi>
                                  </stage>
                                  <lb xml:id="tg341.2.5"/>
@@ -467,7 +468,7 @@
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg342.2.4">
+                                 <stage  type="enter" rend="zenoPC" xml:id="tg342.2.4">
                                     <hi rend="italic" xml:id="tg342.2.4.1">Jungfer Ohldin, hernach Lisette.</hi>
                                  </stage>
                                  <lb xml:id="tg342.2.5"/>
@@ -550,7 +551,7 @@
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg343.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg343.2.4">
                                     <hi rend="italic" xml:id="tg343.2.4.1">Lisette, und hernach Lelio.</hi>
                                  </stage>
                                  <lb xml:id="tg343.2.5"/>
@@ -664,7 +665,7 @@ mir es die Frau Oronte gesagt, die mir auch allen möglichen Beistand, es zu hin
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg344.2.4">
+                                 <stage  type="enter" rend="zenoPC" xml:id="tg344.2.4">
                                     <hi rend="italic" xml:id="tg344.2.4.1">Lelio. Lisette. Peter, mit einem Korbe Gebackens.</hi>
                                  </stage>
                                  <lb xml:id="tg344.2.5"/>
@@ -751,7 +752,7 @@ mir es die Frau Oronte gesagt, die mir auch allen möglichen Beistand, es zu hin
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg344.2.27.part1">PETER.</speaker>
-                                    <l xml:id="tg344.2.27.part2"> Topp! Wenn er mir was einbringt, so ist er so gut als getan. Laß hören! <stage rend="italic" xml:id="tg344.2.27.1.part2" dr:fixed-stage="true">Er setzt seinen Korb weg.</stage>
+                                    <l xml:id="tg344.2.27.part2"> Topp! Wenn er mir was einbringt, so ist er so gut als getan. Laß hören! <stage type="other" rend="italic" xml:id="tg344.2.27.1.part2" dr:fixed-stage="true">Er setzt seinen Korb weg.</stage>
                                     </l>
                                  </sp>
                                  <sp>
@@ -780,7 +781,7 @@ mir es die Frau Oronte gesagt, die mir auch allen möglichen Beistand, es zu hin
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg344.2.34.part1">LISETTE.</speaker>
-                                    <l xml:id="tg344.2.34.part2"> Ja, Narre, aber wir wollen nicht. <stage rend="italic" xml:id="tg344.2.34.1.part2" dr:fixed-stage="true">Sie macht sich über den Korb.</stage>
+                                    <l xml:id="tg344.2.34.part2"> Ja, Narre, aber wir wollen nicht. <stage type="other" rend="italic" xml:id="tg344.2.34.1.part2" dr:fixed-stage="true">Sie macht sich über den Korb.</stage>
                                     </l>
                                  </sp>
                                  <sp>
@@ -802,16 +803,16 @@ mir es die Frau Oronte gesagt, die mir auch allen möglichen Beistand, es zu hin
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg344.2.40.part1">PETER.</speaker>
-                                    <p xml:id="tg344.2.40.part2"> Ha! ha! Steht Ihre Erbschaft auf Freiers Füßen? Gut, daß ich meine Makronen noch habe! Aber, was wolltest du mir sagen, Lisette? <stage rend="italic" xml:id="tg344.2.40.1.part2" dr:fixed-stage="true">Er sieht, daß sie nascht.</stage> O! mein Blut, du wärst mir die Rechte! Kätz weg! Ich werde ankommen bei meiner Frau. Sie hat mir alle Stückgen zugezählt. <stage rend="italic" xml:id="tg344.2.40.2.part2" dr:fixed-stage="true">Er setzt den Korb auf die andre Seite.</stage>
+                                    <p xml:id="tg344.2.40.part2"> Ha! ha! Steht Ihre Erbschaft auf Freiers Füßen? Gut, daß ich meine Makronen noch habe! Aber, was wolltest du mir sagen, Lisette? <stage type="other" rend="italic" xml:id="tg344.2.40.1.part2" dr:fixed-stage="true">Er sieht, daß sie nascht.</stage> O! mein Blut, du wärst mir die Rechte! Kätz weg! Ich werde ankommen bei meiner Frau. Sie hat mir alle Stückgen zugezählt. <stage type="other" rend="italic" xml:id="tg344.2.40.2.part2" dr:fixed-stage="true">Er setzt den Korb auf die andre Seite.</stage>
                                     </p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg344.2.41.part1">LISETTE.</speaker>
-                                    <p xml:id="tg344.2.41.part2"> Narre, ich will kosten. Vielleicht kaufe ich was, wenn mirs schmeckt. Nu, höre nur. Mache dir doch einen Weg mit deinem Krame – – <stage rend="italic" xml:id="tg344.2.41.1.part2" dr:fixed-stage="true">Sie geht auf die andre Seite.</stage> zu ihm.</p>
+                                    <p xml:id="tg344.2.41.part2"> Narre, ich will kosten. Vielleicht kaufe ich was, wenn mirs schmeckt. Nu, höre nur. Mache dir doch einen Weg mit deinem Krame – – <stage type="other" rend="italic" xml:id="tg344.2.41.1.part2" dr:fixed-stage="true">Sie geht auf die andre Seite.</stage> zu ihm.</p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg344.2.42.part1">PETER.</speaker>
-                                    <p xml:id="tg344.2.42.part2"> Wärst du nur stehn geblieben, Lisette. Ich kann auf jenem Ohre so gut hören, als auf dem. <stage rend="italic" xml:id="tg344.2.42.1.part2" dr:fixed-stage="true">Er setzt den Korb wieder auf die andre Seite.</stage> Nu, was soll ich denn bei ihm, er kauft mir ja nichts ab.</p>
+                                    <p xml:id="tg344.2.42.part2"> Wärst du nur stehn geblieben, Lisette. Ich kann auf jenem Ohre so gut hören, als auf dem. <stage type="other" rend="italic" xml:id="tg344.2.42.1.part2" dr:fixed-stage="true">Er setzt den Korb wieder auf die andre Seite.</stage> Nu, was soll ich denn bei ihm, er kauft mir ja nichts ab.</p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg344.2.43.part1">LISETTE.</speaker>
@@ -844,7 +845,7 @@ lassen? Sie, der sonst ein solcher Verächter des Ehestands – – zwar, nein, 
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg344.2.50.part1">LISETTE.</speaker>
-                                    <p xml:id="tg344.2.50.part2"> Ach, behüte uns Gott. Mit einem dreifachen – – Kerl! du machst einem mit deinen Reden zu fürchten, daß man des Todes sein könnte. <stage rend="italic" xml:id="tg344.2.50.1.part2" dr:fixed-stage="true">Sie macht sich wieder über den Korb.</stage>
+                                    <p xml:id="tg344.2.50.part2"> Ach, behüte uns Gott. Mit einem dreifachen – – Kerl! du machst einem mit deinen Reden zu fürchten, daß man des Todes sein könnte. <stage type="other" rend="italic" xml:id="tg344.2.50.1.part2" dr:fixed-stage="true">Sie macht sich wieder über den Korb.</stage>
                                     </p>
                                  </sp>
                                  <sp>
@@ -914,7 +915,7 @@ lassen? Sie, der sonst ein solcher Verächter des Ehestands – – zwar, nein, 
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg346.2.4">
+                                 <stage  type="enter" rend="zenoPC" xml:id="tg346.2.4">
                                     <hi rend="italic" xml:id="tg346.2.4.1">Lisette. Lelio.</hi>
                                  </stage>
                                  <lb xml:id="tg346.2.5"/>
@@ -955,7 +956,7 @@ lassen? Sie, der sonst ein solcher Verächter des Ehestands – – zwar, nein, 
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg347.2.4">
+                                 <stage  type="enter" rend="zenoPC" xml:id="tg347.2.4">
                                     <hi rend="italic" xml:id="tg347.2.4.1">Clitander. Lelio. Lisette.</hi>
                                  </stage>
                                  <lb xml:id="tg347.2.5"/>
@@ -1091,7 +1092,7 @@ Gutes kommen. Aber was fehlt dir, Lelio? Du siehst mir ganz, ganz, ich weiß nic
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg348.2.4">
+                                 <stage  type="enter" rend="zenoPC" xml:id="tg348.2.4">
                                     <hi rend="italic" xml:id="tg348.2.4.1">Clitander. Jungfer Ohldin.</hi>
                                  </stage>
                                  <lb xml:id="tg348.2.5"/>
@@ -1171,7 +1172,7 @@ Gutes kommen. Aber was fehlt dir, Lelio? Du siehst mir ganz, ganz, ich weiß nic
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg348.2.26.part1">CLITANDER.</speaker>
-                                    <p xml:id="tg348.2.26.part2"> Zum Henker, Sie haben ja einen rechten artigen Fuß zum Tanzen. <stage rend="italic" xml:id="tg348.2.26.1.part2" dr:fixed-stage="true">Er hebt ihr den Rock ein wenig in die Höh.</stage>
+                                    <p xml:id="tg348.2.26.part2"> Zum Henker, Sie haben ja einen rechten artigen Fuß zum Tanzen. <stage type="other" rend="italic" xml:id="tg348.2.26.1.part2" dr:fixed-stage="true">Er hebt ihr den Rock ein wenig in die Höh.</stage>
                                     </p>
                                  </sp>
                                  <sp>
@@ -1184,7 +1185,7 @@ Gutes kommen. Aber was fehlt dir, Lelio? Du siehst mir ganz, ganz, ich weiß nic
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg348.2.29.part1">JUNGFER OHLDIN.</speaker>
-                                    <l xml:id="tg348.2.29.part2"> O Ihre Dienerin! so weit lasse ich mich nicht zum besten haben. <stage rend="italic" xml:id="tg348.2.29.1.part2" dr:fixed-stage="true">Hier macht sie eine Verbeugung.</stage>
+                                    <l xml:id="tg348.2.29.part2"> O Ihre Dienerin! so weit lasse ich mich nicht zum besten haben. <stage type="other" rend="italic" xml:id="tg348.2.29.1.part2" dr:fixed-stage="true">Hier macht sie eine Verbeugung.</stage>
                                     </l>
                                  </sp>
                                  <sp>
@@ -1193,7 +1194,7 @@ Gutes kommen. Aber was fehlt dir, Lelio? Du siehst mir ganz, ganz, ich weiß nic
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg348.2.31.part1">JUNGFER OHLDIN.</speaker>
-                                    <p xml:id="tg348.2.31.part2"> Es ist wahr, der Rock ist mir ohnedem ein wenig zu lang. Ich muß wenigstens so viel lassen wegnehmen. <stage rend="italic" xml:id="tg348.2.31.1.part2" dr:fixed-stage="true">Sie zieht ihn ein wenig in die Höh.</stage>
+                                    <p xml:id="tg348.2.31.part2"> Es ist wahr, der Rock ist mir ohnedem ein wenig zu lang. Ich muß wenigstens so viel lassen wegnehmen. <stage type="other" rend="italic" xml:id="tg348.2.31.1.part2" dr:fixed-stage="true">Sie zieht ihn ein wenig in die Höh.</stage>
                                     </p>
                                  </sp>
                                  <sp>
@@ -1202,7 +1203,7 @@ Gutes kommen. Aber was fehlt dir, Lelio? Du siehst mir ganz, ganz, ich weiß nic
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg348.2.33.part1">JUNGFER OHLDIN.</speaker>
-                                    <p xml:id="tg348.2.33.part2"> Mein Herr Clitander, ich muß es Ihnen gestehen. Das Tanzen ist mein Werk gar nicht, und mein Abscheu davor ist nicht geringe. Anstatt ein Paar natürliche und feste Schritte zu machen <stage rend="italic" xml:id="tg348.2.33.1.part2" dr:fixed-stage="true">Sie geht ein Paar Schritte.</stage> ziert man sich, und macht ein unsinniges Pas. <stage rend="italic" xml:id="tg348.2.33.2.part2" dr:fixed-stage="true">Sie macht wirklich ein Pas.</stage> Was für eine Torheit!</p>
+                                    <p xml:id="tg348.2.33.part2"> Mein Herr Clitander, ich muß es Ihnen gestehen. Das Tanzen ist mein Werk gar nicht, und mein Abscheu davor ist nicht geringe. Anstatt ein Paar natürliche und feste Schritte zu machen <stage type="other" rend="italic" xml:id="tg348.2.33.1.part2" dr:fixed-stage="true">Sie geht ein Paar Schritte.</stage> ziert man sich, und macht ein unsinniges Pas. <stage rend="italic" xml:id="tg348.2.33.2.part2" dr:fixed-stage="true">Sie macht wirklich ein Pas.</stage> Was für eine Torheit!</p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg348.2.34.part1">CLITANDER.</speaker>
@@ -1294,7 +1295,7 @@ soll der Capitaine von Schlag? Bekomme ich den einmal unter meine Hände – –
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg350.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg350.2.4">
                                     <hi rend="italic" xml:id="tg350.2.4.1">Jungfer Ohldin, Lisette, Herr Kräusel und der Schneider.</hi>
                                  </stage>
                                  <lb xml:id="tg350.2.5"/>
@@ -1304,10 +1305,10 @@ soll der Capitaine von Schlag? Bekomme ich den einmal unter meine Hände – –
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg350.2.7.part1">JUNGFER OHLDIN</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg350.2.7.1.part1" dr:fixed-stage="true">zum Poeten.</stage>
-                                    </stage>
-                                    <p xml:id="tg350.2.7.part2"> Willkommen Meister Schneider! <stage rend="italic" xml:id="tg350.2.7.2.part2" dr:fixed-stage="true">Zum Schneider.</stage> Gedulden Sie sich einen Augenblick, mein lieber Herr Poete, ich will nur erstlich ihn abfertigen.</p>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg350.2.7.1.part1" dr:fixed-stage="true">zum Poeten.</stage>
+                                    
+                                    <p xml:id="tg350.2.7.part2"> Willkommen Meister Schneider! <stage type="other" rend="italic" xml:id="tg350.2.7.2.part2" dr:fixed-stage="true">Zum Schneider.</stage> Gedulden Sie sich einen Augenblick, mein lieber Herr Poete, ich will nur erstlich ihn abfertigen.</p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg350.2.8.part1">HERR KRÄUSEL.</speaker>
@@ -1344,12 +1345,12 @@ soll der Capitaine von Schlag? Bekomme ich den einmal unter meine Hände – –
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg350.2.17.part1">HERR KRÄUSEL.</speaker>
-                                    <p xml:id="tg350.2.17.part2"> Einen Mann, der Tag und Nacht mit den göttlichen Musen umgeht, einen Schneider zu heißen? Das ist unerträglich! Lassen Sie mich fort. <stage rend="italic" xml:id="tg350.2.17.1.part2" dr:fixed-stage="true">Geht ab.</stage>
+                                    <p xml:id="tg350.2.17.part2"> Einen Mann, der Tag und Nacht mit den göttlichen Musen umgeht, einen Schneider zu heißen? Das ist unerträglich! Lassen Sie mich fort. <stage type="exit" rend="italic" xml:id="tg350.2.17.1.part2" dr:fixed-stage="true">Geht ab.</stage>
                                     </p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg350.2.18.part1">DER SCHNEIDER.</speaker>
-                                    <p xml:id="tg350.2.18.part2"> Ein Mann, der wohl fürstliche Personen gekleidet hat, soll sich einen Poeten schimpfen lassen? Ich versteh meine Profession. Es wird mir niemand was Übels nachzusagen haben. Und ich will den Schimpf gewiß auch nicht leiden. Wir wollens schon sehen; wir wollens schon sehn.<stage rend="italic" xml:id="tg350.2.18.1.part2" dr:fixed-stage="true"> Geht ab.</stage>
+                                    <p xml:id="tg350.2.18.part2"> Ein Mann, der wohl fürstliche Personen gekleidet hat, soll sich einen Poeten schimpfen lassen? Ich versteh meine Profession. Es wird mir niemand was Übels nachzusagen haben. Und ich will den Schimpf gewiß auch nicht leiden. Wir wollens schon sehen; wir wollens schon sehn.<stage type="exit" rend="italic" xml:id="tg350.2.18.1.part2" dr:fixed-stage="true"> Geht ab.</stage>
                                     </p>
                                     <lb xml:id="tg350.2.19"/>
                                  </sp>
@@ -1369,7 +1370,7 @@ soll der Capitaine von Schlag? Bekomme ich den einmal unter meine Hände – –
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg351.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg351.2.4">
                                     <hi rend="italic" xml:id="tg351.2.4.1">Jungfer Ohldin, Lisette und Herr Kräusel.</hi>
                                  </stage>
                                  <lb xml:id="tg351.2.5"/>
@@ -1558,7 +1559,7 @@ ein allerliebster Mann sein! Haben Sie ihn schon gesehn, mein Herr Poete?</p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg351.2.53.part1">HERR KRÄUSEL.</speaker>
-                                    <l xml:id="tg351.2.53.part2"> Das begreife ich nicht. <stage rend="italic" xml:id="tg351.2.53.1.part2" dr:fixed-stage="true">Geht ab.</stage>
+                                    <l xml:id="tg351.2.53.part2"> Das begreife ich nicht. <stage type="exit" rend="italic" xml:id="tg351.2.53.1.part2" dr:fixed-stage="true">Geht ab.</stage>
                                     </l>
                                     <lb xml:id="tg351.2.54"/>
                                  </sp>
@@ -1578,7 +1579,7 @@ ein allerliebster Mann sein! Haben Sie ihn schon gesehn, mein Herr Poete?</p>
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg352.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg352.2.4">
                                     <hi rend="italic" xml:id="tg352.2.4.1">Jungfer Ohldin. Lisette.</hi>
                                  </stage>
                                  <lb xml:id="tg352.2.5"/>
@@ -1637,7 +1638,7 @@ von Schlag, sprach er, ist einer von meinen besten Freunden. Ich gönne es ihm. 
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg354.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg354.2.4">
                                     <hi rend="italic" xml:id="tg354.2.4.1">Lisette, und Peter, in einer alten Montierung, mit einem Stelzfuße und einem Knebelbart.</hi>
                                  </stage>
                                  <lb xml:id="tg354.2.5"/>
@@ -1703,7 +1704,7 @@ sehen. Wie willst du deine Rolle spielen? Stelle dir einmal vor, ich wäre meine
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg355.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg355.2.4">
                                     <hi rend="italic" xml:id="tg355.2.4.1">Herr Kräusel, mit einem beschriebenen Bogen Papier. Lisette. Peter.</hi>
                                  </stage>
                                  <lb xml:id="tg355.2.5"/>
@@ -1713,7 +1714,7 @@ sehen. Wie willst du deine Rolle spielen? Stelle dir einmal vor, ich wäre meine
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg355.2.7.part1">HERR KRÄUSEL.</speaker>
-                                    <l xml:id="tg355.2.7.part2"> Bene! <stage rend="italic" xml:id="tg355.2.7.1.part2" dr:fixed-stage="true">In Gedanken, und liest sein Gedicht.</stage>
+                                    <l xml:id="tg355.2.7.part2"> Bene! <stage type="other" rend="italic" xml:id="tg355.2.7.1.part2" dr:fixed-stage="true">In Gedanken, und liest sein Gedicht.</stage>
                                     </l>
                                  </sp>
                                  <sp>
@@ -1734,7 +1735,7 @@ sehen. Wie willst du deine Rolle spielen? Stelle dir einmal vor, ich wäre meine
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg355.2.12.part1">HERR KRÄUSEL.</speaker>
-                                    <l xml:id="tg355.2.12.part2"> Das ist poetisch! <stage rend="italic" xml:id="tg355.2.12.1.part2" dr:fixed-stage="true">Immer noch in Gedanken.</stage>
+                                    <l xml:id="tg355.2.12.part2"> Das ist poetisch! <stage type="other" rend="italic" xml:id="tg355.2.12.1.part2" dr:fixed-stage="true">Immer noch in Gedanken.</stage>
                                     </l>
                                  </sp>
                                  <sp>
@@ -1755,7 +1756,7 @@ sehen. Wie willst du deine Rolle spielen? Stelle dir einmal vor, ich wäre meine
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg355.2.17.part1">HERR KRÄUSEL.</speaker>
-                                    <l xml:id="tg355.2.17.part2"> Das heißt sich schön ausdrücken, <stage rend="italic" xml:id="tg355.2.17.1.part2" dr:fixed-stage="true">Noch in Gedanken.</stage>
+                                    <l xml:id="tg355.2.17.part2"> Das heißt sich schön ausdrücken, <stage type="other" rend="italic" xml:id="tg355.2.17.1.part2" dr:fixed-stage="true">Noch in Gedanken.</stage>
                                     </l>
                                  </sp>
                                  <sp>
@@ -1784,9 +1785,9 @@ sehen. Wie willst du deine Rolle spielen? Stelle dir einmal vor, ich wäre meine
 
                                  <sp>
                                     <speaker xml:id="tg356.2.2.part1">HERR KRÄUSEL</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg356.2.2.1.part1" dr:fixed-stage="true">geht sein Gedichte durch.</stage>
-                                    </stage>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg356.2.2.1.part1" dr:fixed-stage="true">geht sein Gedichte durch.</stage>
+                                    
 
                                     <lg>
                                        <l rend="zenoPLm4n4" xml:id="tg356.2.3">
@@ -1794,7 +1795,7 @@ sehen. Wie willst du deine Rolle spielen? Stelle dir einmal vor, ich wäre meine
                                           <hi rend="spaced" xml:id="tg356.2.3.2">Hahn</hi>
                                        </l>
                                        <l rend="zenoPLm4n4" xml:id="tg356.2.4">
-                                          <stage rend="spaced" xml:id="tg356.2.4.1" dr:fixed-stage="true">Vor sein Bemühen zu danken.</stage>
+                                          <stage type="other" rend="spaced" xml:id="tg356.2.4.1" dr:fixed-stage="true">Vor sein Bemühen zu danken.</stage>
                                        </l>
                                        <l rend="zenoPLm4n4" xml:id="tg356.2.5">Das nenne ich schalkhaft! Dahinter steckt was.</l>
                                        <l rend="zenoPLm4n4" xml:id="tg356.2.6">
@@ -1839,7 +1840,7 @@ sehen. Wie willst du deine Rolle spielen? Stelle dir einmal vor, ich wäre meine
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg357.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg357.2.4">
                                     <hi rend="italic" xml:id="tg357.2.4.1">Lelio. Jungfer Ohldin. Herr Kräusel.</hi>
                                  </stage>
                                  <lb xml:id="tg357.2.5"/>
@@ -1864,11 +1865,11 @@ meine liebe Jungfer Ohldin. Sie können es nun drucken lassen, unter was für ei
                                     <speaker xml:id="tg357.2.10.part1">HERR KRÄUSEL.</speaker>
                                     <l xml:id="tg357.2.10.part2"> Hier auf der andern Seite:</l>
                                     <lb xml:id="tg357.2.11"/>
-                                    <stage rend="zenoPC" xml:id="tg357.2.12">
+                                    
                                        <hi rend="italic" xml:id="tg357.2.12.1">
-                                          <stage rend="spaced" xml:id="tg357.2.12.1.1" dr:fixed-stage="true">Ich schmelze itzt Miseriam.</stage>
+                                          Ich schmelze itzt Miseriam.
                                        </hi>
-                                    </stage>
+                                    
                                     <lb xml:id="tg357.2.13"/>
                                  </sp>
                                  <sp>
@@ -1889,7 +1890,7 @@ meine liebe Jungfer Ohldin. Sie können es nun drucken lassen, unter was für ei
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg357.2.18.part1">HERR KRÄUSEL.</speaker>
-                                    <p xml:id="tg357.2.18.part2"> O, ich bitte, mein Herr, haben Sie die Gutheit für mich, und überheben Sie mich einer deutlichen Erklärung, die mir allzuviel Schamröte kosten würde. <stage rend="italic" xml:id="tg357.2.18.1.part2" dr:fixed-stage="true">Er hält den Hut vors Gesichte.</stage>
+                                    <p xml:id="tg357.2.18.part2"> O, ich bitte, mein Herr, haben Sie die Gutheit für mich, und überheben Sie mich einer deutlichen Erklärung, die mir allzuviel Schamröte kosten würde. <stage type="other" rend="italic" xml:id="tg357.2.18.1.part2" dr:fixed-stage="true">Er hält den Hut vors Gesichte.</stage>
                                     </p>
                                  </sp>
                                  <sp>
@@ -1926,7 +1927,7 @@ meine liebe Jungfer Ohldin. Sie können es nun drucken lassen, unter was für ei
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg358.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg358.2.4">
                                     <hi rend="italic" xml:id="tg358.2.4.1">Lisette. Lelio. Jungfer Ohldin. Herr Kräusel.</hi>
                                  </stage>
                                  <lb xml:id="tg358.2.5"/>
@@ -1975,15 +1976,15 @@ meine liebe Jungfer Ohldin. Sie können es nun drucken lassen, unter was für ei
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg359.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg359.2.4">
                                     <hi rend="italic" xml:id="tg359.2.4.1">Peter. Lisette. Jungfer Ohldin. Lelio. Herr Kräusel.</hi>
                                  </stage>
                                  <lb xml:id="tg359.2.5"/>
                                  <sp>
                                     <speaker xml:id="tg359.2.6.part1">PETER</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg359.2.6.1.part1" dr:fixed-stage="true">in seinem vorigen Aufzuge.</stage>
-                                    </stage>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg359.2.6.1.part1" dr:fixed-stage="true">in seinem vorigen Aufzuge.</stage>
+                                    
                                     <p xml:id="tg359.2.6.part2"> Was, zum Teufel! Begegnet man einem Bräutigam hier so? Es kömmt mir ja weder Hund noch Katze entgegen. Für was zum Henker sieht man mich an? Weiß man auch, wer ich bin?</p>
                                  </sp>
                                  <sp>
@@ -2062,9 +2063,9 @@ ich wollte Ihr das dumme Wort aus dem Maule bringen. Wie hoch ist Ihr Vermögen?
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg359.2.26.part1">LISETTE</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg359.2.26.1.part1" dr:fixed-stage="true">zu Petern sachte.</stage>
-                                    </stage>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg359.2.26.1.part1" dr:fixed-stage="true">zu Petern sachte.</stage>
+                                    
                                     <l xml:id="tg359.2.26.part2"> Mache es ja recht arg. Sie beißt wirklich sonst noch an – – Nun, was will Er, mein Herr?</l>
                                     <lb xml:id="tg359.2.27"/>
                                  </sp>
@@ -2084,7 +2085,7 @@ ich wollte Ihr das dumme Wort aus dem Maule bringen. Wie hoch ist Ihr Vermögen?
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg360.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg360.2.4">
                                     <hi rend="italic" xml:id="tg360.2.4.1">Herr Rehfuß und die Vorigen.</hi>
                                  </stage>
                                  <lb xml:id="tg360.2.5"/>
@@ -2248,7 +2249,7 @@ So gewiß ich 900 Taler von Ihm geborgt habe, so gewiß will ich sie Ihm, mit In
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg360.2.46.part1">LISETTE.</speaker>
-                                    <l xml:id="tg360.2.46.part2"> Nein, nein. Wir nehmen es nicht übel, wenn Er geht. Geh Er nur. <stage rend="italic" xml:id="tg360.2.46.1.part2" dr:fixed-stage="true">Geht ab.</stage>
+                                    <l xml:id="tg360.2.46.part2"> Nein, nein. Wir nehmen es nicht übel, wenn Er geht. Geh Er nur. <stage type="exit" rend="italic" xml:id="tg360.2.46.1.part2" dr:fixed-stage="true">Geht ab.</stage>
                                     </l>
                                     <lb xml:id="tg360.2.47"/>
                                  </sp>
@@ -2268,13 +2269,13 @@ So gewiß ich 900 Taler von Ihm geborgt habe, so gewiß will ich sie Ihm, mit In
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg361.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg361.2.4">
                                     <hi rend="italic" xml:id="tg361.2.4.1">Lelio. Lisette. Peter. Der Poet. Jungfer Ohldin.</hi>
                                  </stage>
                                  <lb xml:id="tg361.2.5"/>
                                  <sp>
                                     <speaker xml:id="tg361.2.6.part1">PETER.</speaker>
-                                    <p xml:id="tg361.2.6.part2"> Der verfluchte Kerl! Nu wie weit wären wir denn richtig, mein Schatz? Nu ja, bis aufs Vermögen. Vorher aber habe ich doch noch unterschiedene Punkte, die Sie mir notwendig eingehen müssen. Ich habe sie ohngefähr ein wenig aufgesetzt.<stage rend="italic" xml:id="tg361.2.6.1.part2" dr:fixed-stage="true"> Er zieht einen Zettel aus der Tasche.</stage> Erstlich verspricht die Braut, weil sie bürgerlichen Standes, und der Bräutigam, als der Hochwohlgeborne Herr, Herr Capitaine von Schlag, aus einem uralten adlichen Geschlechte entsprossen, ihrem künftigen Mann allezeit die gebührende Ehrfurcht zu leisten, und ihn nicht anders, als Ewr. Gnaden, zu benennen. Nu? Versprechen Sies?</p>
+                                    <p xml:id="tg361.2.6.part2"> Der verfluchte Kerl! Nu wie weit wären wir denn richtig, mein Schatz? Nu ja, bis aufs Vermögen. Vorher aber habe ich doch noch unterschiedene Punkte, die Sie mir notwendig eingehen müssen. Ich habe sie ohngefähr ein wenig aufgesetzt.<stage type="other" rend="italic" xml:id="tg361.2.6.1.part2" dr:fixed-stage="true"> Er zieht einen Zettel aus der Tasche.</stage> Erstlich verspricht die Braut, weil sie bürgerlichen Standes, und der Bräutigam, als der Hochwohlgeborne Herr, Herr Capitaine von Schlag, aus einem uralten adlichen Geschlechte entsprossen, ihrem künftigen Mann allezeit die gebührende Ehrfurcht zu leisten, und ihn nicht anders, als Ewr. Gnaden, zu benennen. Nu? Versprechen Sies?</p>
                                     <pb n="768" xml:id="tg361.2.7"/>
                                  </sp>
                                  <sp>
@@ -2315,7 +2316,7 @@ So gewiß ich 900 Taler von Ihm geborgt habe, so gewiß will ich sie Ihm, mit In
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg361.2.17.part1">JUNGFER OHLDIN.</speaker>
-                                    <l xml:id="tg361.2.17.part2"> Hier. <stage rend="italic" xml:id="tg361.2.17.1.part2" dr:fixed-stage="true">Sie gibt es ihm.</stage>
+                                    <l xml:id="tg361.2.17.part2"> Hier. <stage type="other" rend="italic" xml:id="tg361.2.17.1.part2" dr:fixed-stage="true">Sie gibt es ihm.</stage>
                                     </l>
                                  </sp>
                                  <sp>
@@ -2340,7 +2341,7 @@ mit darauf kommen. Auch daß ich 16 Jahr unter den Franzosen, 12 Jahr unter den 
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg362.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg362.2.4">
                                     <hi rend="italic" xml:id="tg362.2.4.1">Herr Oronte. Frau Oronte. von Schlag. Peter. Lelio. Lisette. Herr Kräusel. Jungfer Ohldin.</hi>
                                  </stage>
                                  <lb xml:id="tg362.2.5"/>
@@ -2386,7 +2387,7 @@ mit darauf kommen. Auch daß ich 16 Jahr unter den Franzosen, 12 Jahr unter den 
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg362.2.16.part1">PETER.</speaker>
-                                    <p xml:id="tg362.2.16.part2"> Der Herr Capitaine von Schlag bin ich – – nicht. Sondern, – – <stage rend="italic" xml:id="tg362.2.16.1.part2" dr:fixed-stage="true">Er nimmt den Bart und den Stelzfuß ab.</stage> sondern – –</p>
+                                    <p xml:id="tg362.2.16.part2"> Der Herr Capitaine von Schlag bin ich – – nicht. Sondern, – – <stage type="other" rend="italic" xml:id="tg362.2.16.1.part2" dr:fixed-stage="true">Er nimmt den Bart und den Stelzfuß ab.</stage> sondern – –</p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg362.2.17.part1">VON SCHLAG.</speaker>
@@ -2399,16 +2400,16 @@ mit darauf kommen. Auch daß ich 16 Jahr unter den Franzosen, 12 Jahr unter den 
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg362.2.20.part1">VON SCHLAG</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg362.2.20.1.part1" dr:fixed-stage="true">zu Petern.</stage>
-                                    </stage>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg362.2.20.1.part1" dr:fixed-stage="true">zu Petern.</stage>
+                                    
                                     <l xml:id="tg362.2.20.part2"> Halt, Galgenschwengel!</l>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg362.2.21.part1">PETER</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg362.2.21.1.part1" dr:fixed-stage="true">zu Kräuseln.</stage>
-                                    </stage>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg362.2.21.1.part1" dr:fixed-stage="true">zu Kräuseln.</stage>
+                                    
                                     <l xml:id="tg362.2.21.part2"> Halt, Galgenschwengel!</l>
                                  </sp>
                                  <sp>
@@ -2417,23 +2418,23 @@ mit darauf kommen. Auch daß ich 16 Jahr unter den Franzosen, 12 Jahr unter den 
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg362.2.23.part1">PETER</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg362.2.23.1.part1" dr:fixed-stage="true">zu Kräuseln.</stage>
-                                    </stage>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg362.2.23.1.part1" dr:fixed-stage="true">zu Kräuseln.</stage>
+                                    
                                     <l xml:id="tg362.2.23.part2"> Was soll das heißen? Meine Gedult so zu mißbrauchen? Wenn wirst du mein Gebackens einmal bezahlen?</l>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg362.2.24.part1">VON SCHLAG</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg362.2.24.1.part1" dr:fixed-stage="true">zu Petern.</stage>
-                                    </stage>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg362.2.24.1.part1" dr:fixed-stage="true">zu Petern.</stage>
+                                    
                                     <l xml:id="tg362.2.24.part2"> Antworte, Hund!</l>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg362.2.25.part1">PETER</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg362.2.25.1.part1" dr:fixed-stage="true">zu Kräuseln.</stage>
-                                    </stage>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg362.2.25.1.part1" dr:fixed-stage="true">zu Kräuseln.</stage>
+                                    
                                     <l xml:id="tg362.2.25.part2"> Antworte, Hund!</l>
                                  </sp>
                                  <sp>
@@ -2446,28 +2447,28 @@ mit darauf kommen. Auch daß ich 16 Jahr unter den Franzosen, 12 Jahr unter den 
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg362.2.28.part1">VON SCHLAG</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg362.2.28.1.part1" dr:fixed-stage="true">zu Petern.</stage>
-                                    </stage>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg362.2.28.1.part1" dr:fixed-stage="true">zu Petern.</stage>
+                                    
                                     <l xml:id="tg362.2.28.part2"> Kerl, ich erdroßle dich. Gleich gesteh. Zu was hat die Verkleidung sollen nutzen?</l>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg362.2.29.part1">PETER</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg362.2.29.1.part1" dr:fixed-stage="true">reißt sich los und zu Kräuseln.</stage>
-                                    </stage>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg362.2.29.1.part1" dr:fixed-stage="true">reißt sich los und zu Kräuseln.</stage>
+                                    
                                     <l xml:id="tg362.2.29.part2"> Kerl, ich erdroßle dich. Gleich gesteh. Warum hast du mich noch dazu in ein Gassenlied gebracht?</l>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg362.2.30.part1">HERR KRÄUSEL.</speaker>
-                                    <l xml:id="tg362.2.30.part2"> O hier ist nicht gut sein. Adieu! Adieu! <stage rend="italic" xml:id="tg362.2.30.1.part2" dr:fixed-stage="true">Er läuft fort.</stage>
+                                    <l xml:id="tg362.2.30.part2"> O hier ist nicht gut sein. Adieu! Adieu! <stage type="exit" rend="italic" xml:id="tg362.2.30.1.part2" dr:fixed-stage="true">Er läuft fort.</stage>
                                     </l>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg362.2.31.part1">PETER</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg362.2.31.1.part1" dr:fixed-stage="true">läuft ihm nach.</stage>
-                                    </stage>
+                                    
+                                       <stage type="exit" rend="italic" xml:id="tg362.2.31.1.part1" dr:fixed-stage="true">läuft ihm nach.</stage>
+                                    
                                     <l xml:id="tg362.2.31.part2"> Ha! ha! Du sollst mir gewiß nicht entkommen.</l>
                                  </sp>
                                  <sp>
@@ -2491,7 +2492,7 @@ mit darauf kommen. Auch daß ich 16 Jahr unter den Franzosen, 12 Jahr unter den 
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg363.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg363.2.4">
                                     <hi rend="italic" xml:id="tg363.2.4.1">Jungfer Ohldin. Lelio. Lisette. von Schlag. Herr Oronte und Frau Oronte.</hi>
                                  </stage>
                                  <lb xml:id="tg363.2.5"/>
@@ -2546,9 +2547,9 @@ sich an einen Menschen kehren, der Ihnen solche Streiche spielen kann.</p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg363.2.18.part1">VON SCHLAG</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg363.2.18.1.part1" dr:fixed-stage="true">zieht den Lelio bei Seite.</stage>
-                                    </stage>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg363.2.18.1.part1" dr:fixed-stage="true">zieht den Lelio bei Seite.</stage>
+                                    
                                     <p xml:id="tg363.2.18.part2"> Ein Wort im Vertrauen. Warum wollen Sie mich nicht an ihrem Vermögen Anteil nehmen lassen? Ich glaube, es wird für uns beide genug sein. Als Mann bekäme ich es in die Hände. Und ich versichere Sie, Sie sollens von mir besser genießen als von ihr. Ja, ich verspreche Ihnen so gar, an das, was übrig bleibt, wenn sie stirbt, keinen Anspruch zu machen. Meine Schulden nötigen mich itzo, diesen Schritt zu tun, den ich sonst gewiß würde unterlassen haben. Widerstehen Sie mir nicht länger, so können wir als beständige Freunde leben.</p>
                                  </sp>
                                  <sp>
@@ -2570,16 +2571,16 @@ sich an einen Menschen kehren, der Ihnen solche Streiche spielen kann.</p>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg363.2.24.part1">LISETTE</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg363.2.24.1.part1" dr:fixed-stage="true">sachte.</stage>
-                                    </stage>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg363.2.24.1.part1" dr:fixed-stage="true">sachte.</stage>
+                                    
                                     <l xml:id="tg363.2.24.part2"> Aber Herr Lelio.</l>
                                  </sp>
                                  <sp>
                                     <speaker xml:id="tg363.2.25.part1">LELIO</speaker> 
-                                    <stage>
-                                       <stage rend="italic" xml:id="tg363.2.25.1.part1" dr:fixed-stage="true">sachte.</stage>
-                                    </stage>
+                                    
+                                       <stage type="other" rend="italic" xml:id="tg363.2.25.1.part1" dr:fixed-stage="true">sachte.</stage>
+                                    
                                     <l xml:id="tg363.2.25.part2"> Laß es sein Lisette, nun soll es erst recht bunt über Ecke gehn.</l>
                                  </sp>
                                  <sp>
@@ -2627,7 +2628,7 @@ sich an einen Menschen kehren, der Ihnen solche Streiche spielen kann.</p>
 
                                  
                                  
-                                 <stage rend="zenoPC" xml:id="tg364.2.4">
+                                 <stage type="enter" rend="zenoPC" xml:id="tg364.2.4">
                                     <hi rend="italic" xml:id="tg364.2.4.1">Die Vorigen und Clitander.</hi>
                                  </stage>
                                  <lb xml:id="tg364.2.5"/>
