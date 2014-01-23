@@ -226,8 +226,8 @@ class WordPackCollection():
 	#we move the pointer	
 	def del_words(self):
 		#with 10 and 10 range you are to slow for testing use 1000 (with 500 spans)
-		self.word_count = self.word_count-10
-		for i in range(0,10):
+		self.word_count = self.word_count-50
+		for i in range(0,50):
 			if(len(self.wordpack_list)>0):
 				wordpack = self.wordpack_list[0]
 				if(not wordpack.get_speech()):
