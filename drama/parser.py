@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 from drama import Drama
 #the_drama =  Drama('files/LessiDer_MisogynDrame.xml')
-the_drama = Drama('files/Horribilicribrifax.xml')
+the_drama = Drama('files/LessiMi__Sara_SamDrame.xml')
 #test the file properties.
 #print the_drama.get_title()
 #print the_drama.get_bibl_title()
@@ -10,4 +10,5 @@ the_drama = Drama('files/Horribilicribrifax.xml')
 #print the_drama.get_publish_data()["license"]
 #print the_drama.get_creation_date()
 #print the_drama.get_fix_stage()
-print the_drama.get_stage_all()
+a = the_drama.get_stage_all()
+print a["enter"]

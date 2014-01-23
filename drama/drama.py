@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 #the code has extentive use of xPath.
 import xml.etree.ElementTree as ET
+import re
 from speech import Speech, SpeakerStatistics, SpeakerStatisticsCollection
 from tools import Tools
 class Drama:
@@ -130,8 +131,11 @@ class Drama:
             for f in fDs:
                 #check if the stage has type attribute
                 if ("type" in f.attrib):
-                    if(f.attrib["type"] in modes):
+                    if(f.attrib["type"] in modes and re.match('^[a-zA-Z0-9_]+$',f.text)) :
                         collection[f.attrib["type"]].append(f.text)
+                    else:
+                        for c in f:
+                            collection[f.attrib["type"]].append(c.text)
                 else:
                     for c in f:
                         if("type" in c.attrib):
