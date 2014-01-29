@@ -101,9 +101,9 @@ class Drama:
 		tool = Tools()
 		fDs = self.root.findall(".//"+self.prefix+"stage")
 		result = []
-		for f in fDs:
-			if ("{http://www.germanistik.uni-wuerzburg.de/lehrstuehle/computerphilologie/dramenanalyse}fixed-stage" in f.attrib):
-				result.append(tool.unicode_safe(f.text))
+                for f in fDs:
+                        for c in f:
+                            result.append(tool.unicode_safe(c.text))
 				#print tool.unicode_safe(f.text)
 		return result
 	#find act or scene
