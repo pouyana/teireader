@@ -131,9 +131,11 @@ class Drama:
             for f in fDs:
                 #check if the stage has type attribute
                 if ("type" in f.attrib):
-                    if(f.attrib["type"] in modes and re.match('^[a-zA-Z0-9_]+$',f.text)) :
+#                    print f.attrib["type"]
+                    if(f.attrib["type"] in modes and re.match('\S+',f.text)) :
+                      #  print f.attrib["type"]
                         collection[f.attrib["type"]].append(f.text)
-                    else:
+                    elif(f.attrib["type"] in modes):
                         for c in f:
                             collection[f.attrib["type"]].append(c.text)
                 else:

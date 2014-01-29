@@ -4455,7 +4455,7 @@ Perlen und Demante / um meine Schöneste also außzukleiden / wie ihre Tugend un
                                  <p xml:id="tg779.2.235.part2"> Dionysius, welcher diesem unsern Vorsatz bey sich die Hand geboten / soll nicht sonder Lohn dieser Freude beiwohnen / wenn Jungfrau Coelestina ihre Camillam ihm vermählen will / werden wir Mittel finden / sie beyde bester massen zu befördern; Und damit Horribilicribrifax und Daradiridatumtarides nicht alleine bey der allgemeinen Freude sich mit Schlägen / wie uns erzehlet / behelffen dürffen / wollen wir dem Daradiridatumtaride, doch mehr aus Mittleiden gegen die unglückselige Selenissam, das Commendo über die gvarnison in dem nechsten Flecken / dem Horribilicribrifax aber eine Corporalschafft Tragoner in der Vorstadt vertrauen. Lasset die Personen alle auff den Hoff fordern / und unterdessen die Heerpaucken und Trompeten erschallen!</p>
                                  <lb xml:id="tg779.2.236"/>
                                  <stage rend="zenoPC" xml:id="tg779.2.237">
-                                    <stage rend="italic" xml:id="tg779.2.237.1" dr:fixed-stage="true"><seg type="exeunt">Die Personen gehen alle ab</seg><seg type="other"> / biß auff Florentin.</seg></stage>
+                                    <stage rend="italic" xml:id="tg779.2.237.1" dr:fixed-stage="true"><seg type="exit">Die Personen gehen alle ab</seg><seg type="other"> / biß auff Florentin.</seg></stage>
                                  </stage>
                                  <lb xml:id="tg779.2.238"/>
                               </sp>
