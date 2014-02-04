@@ -1,0 +1,76 @@
+tg814.2.7: Die Liebe erscheinet mit Bogen und Pfeilen in den Wolcken.  ==> other
+tg816.2.4: Sulpicius auff dem Bette. Fabricius. Flavia.  ==> other
+tg816.2.43: Cornelien Brieff.  ==> other
+tg816.2.128: Sulpicius. Fabricius.  ==> other
+tg816.2.172: 
+                                            ==> other
+tg816.2.188: Levin. Sulpicius. Fabricius.  ==> other
+tg817.2.4: Gregor Kornblume.  ==> other
+tg817.2.5: Kommet auff den Schawplatz / stehet eine lange weill und beschauet die Zuseher / nachmals fänget er voll Verwunderung an.  ==> other
+tg817.2.9: Stehet wider eine weile und bedencket sich / nachmals stöst er mit dem Stabe wider die Erden und fähret fort.  ==> other
+tg817.2.13: Bartel Klotzmann bringet einen Hahn unter dem Arme mit sich / welchem der Fuß entzwey geschmissen.  ==> other
+tg817.2.19: Jockeldreyecke kommet von der andern Seiten und träget einen mit sidendem Wasser verbrandten Hund.  ==> other
+tg817.2.102: Jockel Dreyecke gehet ab.  ==> exit
+tg817.2.107: Bartel in deme er wiederkommet zu Kornblumen.  ==> other
+tg817.2.121: Gehet ab.  ==> exit
+tg817.2.122: Greger Kornblume.  ==> other
+tg818.2.4: Cassander. Fabricius.  ==> other
+tg818.2.70: Flavia. Cassander.  ==> other
+tg818.2.124: Cornelia. Chloris.  ==> other
+tg818.2.125: Jn dem Lust-Garten.  ==> other
+tg818.2.194: Sie setzet sich nider / liset und entschläft.  ==> other
+tg818.2.336: Flavia. Chloris. Cornelia.  ==> other
+tg818.2.366: Beyde sehn einander als erstarret eine zeitlang an.  ==> other
+tg818.2.396: Levin. Cornelia. Chloris. Flavia. Cassander.  ==> other
+tg818.2.452: Sulpicius. Fabricius. Cornelia. Chloris. Levin. Flavia. Cassander.  ==> other
+tg818.2.484: Die Personen kommen alle in Sulpicen Gemach.  ==> other
+tg818.2.541: Er schmeist die Citronat hinweg.  ==> other
+tg819.2.2: Matz Aschenwedel / Lise Dornrose / Gregor Kornblume.  ==> other
+tg819.2.45: Aschewedel fasset Dornrosen mit Gewalt und wil mit ihr nach dem Pusche lauffen / sie wehret sich mit reissen und schlagen und ruffet überlaut.  ==> other
+tg819.2.56: Kornblume laufft hinzu und schlägt auff Aschewedeln.  ==> other
+tg819.2.63: 
+                                         ==> other
+tg820.2.4: Sulpicius. Fabricius.  ==> other
+tg820.2.74: Cassander. Fabricius.  ==> other
+tg820.2.120: Levin. Cornelia. Chloris. Cassander.  ==> other
+tg820.2.121: Vor der Cornelie Behausung.  ==> other
+tg820.2.214: Sulpicius. Fabricius.  ==> other
+tg820.2.215: Jn Sulpiciuss Behausung.  ==> other
+tg820.2.234: Cornelia. Chloris. Flavia.  ==> other
+tg820.2.235: Jn dem Lust-Garten.  ==> other
+tg820.2.270: Chloris allein.  ==> aside
+tg820.2.309: Sulpicius in Gestalt des Geistes.  ==> other
+tg820.2.347: 
+                                         ==> other
+tg820.2.382: Sulpicius verschwindet.  ==> other
+tg820.2.394: Flavia. Sulpicius.  ==> other
+tg820.2.395: Vor Cornelie Behausung.  ==> other
+tg820.2.445: Fabricius. Sulpicii Bild auff dem Bette /  ==> other
+tg820.2.446: die andern alle.  ==> other
+tg820.2.447: Jn Sulpicii Behausung.  ==> other
+tg820.2.448: Fabricius allein vor der falschen Leiche.  ==> other
+tg820.2.456: 
+                                         ==> other
+tg820.2.473: Sie gehen wieder weg.  ==> other
+tg820.2.487: Chloris. Cornelia. Cassander. Flavia. Levin.  ==> other
+tg820.2.488: Vor der Cornelia Behausung.  ==> other
+tg821.2.2: Greger Kornblume / und Fraw Salome.  ==> other
+tg821.2.27: Zu der Salome.  ==> other
+tg822.2.4: Cornelia. Levin. Chloris. Sulpicius.  ==> other
+tg822.2.5: Fabricius. Flavia. Cassander.  ==> other
+tg822.2.6: Jn Sulpiciuss Behausung.  ==> other
+tg823.2.2: Wilhelm von hohen Sinnen Arendator  ==> other
+tg823.2.3: des Gutts Vildünckel.  ==> other
+tg823.2.4: Vor ihm gehen Cuntz und Lorentz derer  ==> other
+tg823.2.5: iedweder eine Hewgabel träget.  ==> other
+tg823.2.16: Wilhelm. Ciliax Dorffschreiber. Cuntz und Lorentz.  ==> other
+tg823.2.46: Wilhelm. Cuntz. Lorentz. Jockel. Bartel. Kornblume.  ==> other
+tg823.2.47: Aschewedel. Dornrose. Fraw Salome.  ==> other
+tg823.2.119: Er stehet auff und gehet etliche mahl auff und nider.  ==> exit
+tg823.2.126: Er setzet sich wider und fähret fort.  ==> other
+tg823.2.138: Beide stehen und sehen einander eine ziemliche weile betrübet an.  ==> other
+tg823.2.185: Stehet auff und spricht in dem hingehen.  ==> other
+tg823.2.189: Die andern treten alle hinter ihm hinein / biß auff Kornblumen / welcher die Zuseher folgends anredet.  ==> other
+tg823.2.193: Tantz der Geister.  ==> other
+tg823.2.194: Tantz der Liben.  ==> other
+tg824.2.5: Welche in dem Gesang-Spiel auffgezogen / und Reyen der Bauren / die in dem untergemischten Schertz-Spil erschienen.  ==> other

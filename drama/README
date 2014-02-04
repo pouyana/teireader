@@ -1,0 +1,50 @@
+Random Forrest Classifier was trained with the Corpora created through the, user classifiaction of tei files.
+
+the result with 0.75/0.25 (Train/Test) was as follows:
+
+aside precision: 0.878788
+aside recall: 0.878788
+aside f-measure: 0.878788
+dead precision: 0.000000
+dead recall: 0.000000
+dead f-measure: 0.000000
+enter precision: 0.936842
+enter recall: 0.631206
+enter f-measure: 0.754237
+exit precision: 0.820000
+exit recall: 0.694915
+exit f-measure: 0.752294
+other precision: 0.866667
+other recall: 0.972222
+other f-measure: 0.916415
+
+Adding enter to the folders lower the chance of high precision.
+
+Without enter folder the Training Results was as follows:
+
+aside precision: 0.933333
+aside recall: 0.848485
+aside f-measure: 0.888889
+dead precision: 0.000000
+dead recall: 0.000000
+dead f-measure: 0.000000
+exit precision: 0.893617
+exit recall: 0.711864
+exit f-measure: 0.792453
+other precision: 0.952577
+other recall: 0.987179
+other f-measure: 0.969570
+
+Without Other folder:
+aside precision: 1.000000
+aside recall: 0.923077
+aside f-measure: 0.960000
+dead precision: 0.000000
+dead recall: 0.000000
+dead f-measure: 0.000000
+enter precision: 0.962963
+enter recall: 0.928571
+enter f-measure: 0.945455
+exit precision: 0.846154
+exit recall: 0.956522
+exit f-measure: 0.897959

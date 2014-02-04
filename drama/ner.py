@@ -17,24 +17,33 @@ def extract_entities(text):
 
 if __name__ == '__main__':
     text = Drama("ncfiles/WeiseMasanielloDrame.xml")
-    classifier = pickle.load(open("grid_sklearn.RandomForestClassifier.pickle"))
+    classifier = pickle.load(open("grid_sklearn.RandomForestClassifier.with.enter.pickle"))
 #    print text.get_fix_stage()
     collection_a = text.get_fix_stage()
 
     temp=[]
+    tree = text.get_tree()
+    title = text.get_title()
+    file_handle = open("mcfiles/"+title+".txt","w")
     for c in collection_a:
-        if(c):
+        if("text" in c):
             stage = {}
-            stage["text"]=c
-            c = re.sub('\.$', '', c)
-            words = re.findall('(\S+)',c)
-            feats = dict([(word, True) for word in words])
-            stage["type"]=classifier.classify(feats)
-            temp.append(stage)
-            #classification = None
+            stage["text"]=c["text"]
+            stage["id"]=c["id"]
+            if(c["text"]):
+                c = re.sub('\.$', '', stage["text"])
+                words = re.findall('(\S+)',c)
+                feats = dict([(word, True) for word in words])
+                stage["type"]=classifier.classify(feats)
+                temp.append(stage)
+                classification = None
     for a in temp:
-        print a["text"]+" ==> "+a["type"]
-#    n=["Geht","ab"]
-#    feats = dict([(word, True) for word in n])
-#    print classifier.classify(feats)
-
+        stage = text.get_content_by_id(a["id"])
+        stage.set("type",a["type"])
+        file_handle.write(a["id"]+": "+a["text"]+"  ==> "+a["type"]+"\n")
+        print a["id"]+": "+a["text"]+" ==> "+a["type"]
+    tree.write("mcfiles/"+text.get_title()+".out.xml")
+    file_handle.close()
+    #n=["Sara", "und","Mat","Gehen","ab"]
+    #feats = dict([(word, True) for word in n])
+    #print classifier.classify(feats)

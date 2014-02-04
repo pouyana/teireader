@@ -1,0 +1,57 @@
+tg545.2.4: Der Wirt. Just.  ==> other
+tg546.2.4: Von Tellheim. Der Wirt. Just.  ==> other
+tg547.2.4: Von Tellheim. Just.  ==> other
+tg548.2.4: Eine Dame in Trauer. Von Tellheim. Just.  ==> other
+tg549.2.4: Die Dame. Von Tellheim.  ==> other
+tg551.2.4: Just. Von Tellheim.  ==> other
+tg552.2.4: Ein Bedienter. Von Tellheim. Just.  ==> other
+tg553.2.4: Von Tellheim. Just.  ==> other
+tg555.2.4: Paul Werner. Just.  ==> other
+tg557.2.4: Minna von Barnhelm. Franziska.  ==> other
+tg557.2.5: Die Szene ist in dem Zimmer des Fräuleins.  ==> other
+tg558.2.4: Der Wirt. Die Vorigen.  ==> other
+tg559.2.4: Das Fräulein. Franziska.  ==> other
+tg560.2.4: Der Wirt. Das Fräulein. Franziska.  ==> other
+tg561.2.4: Das Fräulein. Franziska.  ==> other
+tg562.2.4: Der Wirt. Just. Die Vorigen.  ==> other
+tg563.2.4: Das Fräulein und hierauf Franziska.  ==> other
+tg564.2.4: Von Tellheim. Der Wirt. Die Vorigen.  ==> other
+tg565.2.4: Von Tellheim. Das Fräulein.  ==> other
+tg567.2.4: Die Szene, der Saal.  ==> other
+tg568.2.4: Franziska. Just.  ==> other
+tg569.2.4: Franziska und hernach der Wirt.  ==> other
+tg570.2.4: Paul Werner. Der Wirt. Franziska.  ==> other
+tg571.2.4: Paul Werner. Franziska.  ==> other
+tg573.2.4: Von Tellheim. Paul Werner.  ==> other
+tg574.2.4: Franziska aus dem Zimmer des Fräuleins. von Tellheim. Paul Werner.  ==> other
+tg575.2.4: Von Tellheim. Paul Werner.  ==> other
+tg576.2.4: Franziska wieder heraus, mit einem Brief in der Hand. von Tellheim. Paul Werner.  ==> other
+tg577.2.4: Paul Werner. Franziska.  ==> other
+tg578.2.4: Das Fräulein. Franziska.  ==> other
+tg580.2.4: Die Szene, das Zimmer des Fräuleins.  ==> other
+tg580.2.5: Das Fräulein völlig, und reich, aber mit Geschmack gekleidet. Franziska sie stehen vom Tische auf, den ein Bedienter abräumt.  ==> other
+tg581.2.4: Riccaut de la Marliniere. Das Fräulein. Franziska.  ==> other
+tg582.2.4: Das Fräulein. Franziska.  ==> other
+tg583.2.4: Paul Werner der in einer steifen Stellung, gleichsam im Dienste, hereintritt. Das Fräulein.  ==> other
+tg583.2.5: Franziska.  ==> other
+tg584.2.4: Das Fräulein. Franziska.  ==> other
+tg585.2.4: Von Tellheim in dem nämlichen Kleide, aber sonst so, wie es Franziska verlangt. Das Fräulein.  ==> other
+tg585.2.5: Franziska.  ==> other
+tg586.2.4: Von Tellheim. Franziska.  ==> other
+tg589.2.4: Die Szene, der Saal.  ==> other
+tg589.2.5: Von Tellheim von der einen und Werner von der andern Seite.  ==> enter
+tg591.2.4: Franziska. von Tellheim.  ==> other
+tg593.2.4: Das Fräulein. Franziska. von Tellheim.  ==> other
+tg594.2.4: Ein Feldjäger. Von Tellheim. Das Fräulein. Franziska.  ==> other
+tg594.2.17: Geht ab.  ==> exit
+tg595.2.4: Von Tellheim. Das Fräulein. Franziska.  ==> other
+tg596.2.4: Der Wirt. Die Vorigen.  ==> other
+tg596.2.13: Der Wirt geht ab.  ==> exit
+tg597.2.4: Von Tellheim. Das Fräulein. Franziska.  ==> other
+tg598.2.4: Just. Die Vorigen.  ==> other
+tg599.2.4: Werner mit einem Beutel Gold. von Tellheim.  ==> other
+tg599.2.5: Das Fräulein. Franziska. Just.  ==> other
+tg600.2.4: Zwei Bediente, nach einander, von verschiedenen Seiten über den Saal laufend. Die Vorigen.  ==> other
+tg601.2.4: Der Graf von Bruchsall, von verschiedenen Bedienten und dem Wirte begleitet. Die Vorigen.  ==> other
+tg602.2.4: Von Tellheim. Werner. Just. Franziska.  ==> other
+tg603.2.4: Werner. Franziska.  ==> other

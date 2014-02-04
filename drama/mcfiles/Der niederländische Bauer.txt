@@ -1,0 +1,114 @@
+tg307.2.4: Der Schauplatz praesentiret sich gantz finster.  ==> other
+tg307.2.5: Liebhold, ein Gastwirth. France, Hugo, zwey Bürger. Lars. Der Haußknecht / mit einem Lichte /ingleichen zwey Knaben mit Laternen / welche beyden Gästen nach Hause leuchten.  ==> other
+tg307.2.21: France und Hugo gehen ab.  ==> exit
+tg308.2.4: Ebbe, Puse, Brütte, drey Bauer-Weiber.  ==> other
+tg308.2.17: Die Bauern fangen inwendig an heßlich zu schreyen.  ==> other
+tg309.2.4: Die Vorigen. Lars, der Haußknecht / erstlich hinter der Scene.  ==> other
+tg309.2.17: Sie klopffen sehr.  ==> other
+tg309.2.39: Sie pochen alle drey.  ==> other
+tg310.2.4: Die. Vorigen. Krix, ein Bauer.  ==> other
+tg311.2.4: Die Vorigen. Mierten, Gosch, Clas, Bauern.  ==> other
+tg311.2.19: Hier fangen die Weiber und Männer zusammen ein Geschrey an / endlich werden sie von Mierten gestillet.  ==> other
+tg311.2.27: Gehen ab.  ==> exit
+tg312.2.4: Mierten, ein Bauer. Stax, Micke, Trabanten.  ==> other
+tg313.2.4: Philippus, der Hertzog. Robert, der Cammer-Herr. Ein Page mit dem Lichte.  ==> other
+tg314.2.4: Die Vorigen. Stax, Micke, Trabanten. Mierten, ein Bauer / schlaffende. Hernach Lauxon, eines Brandtweinbrenners Diener.  ==> other
+tg314.2.20: Geht mit Robert ab.  ==> exit
+tg314.2.28: Sie schleppen ihn heraus.  ==> other
+tg314.2.51: Er bringt den Schiebekarn / da agiren sie poßierlich mit einander / biß er fortgeführet wird.  ==> other
+tg316.2.4: Mierten, ein Bauer / liegt im Bette / und seuffzet etliche mahl / endlich redet er halb im Schlaffe.  ==> other
+tg317.2.4: Cornelis, ein Cammerdiener. Mierten, der Bauer.  ==> other
+tg318.2.4: Die Vorigen. Robert, Cammer-Herr. Leo, Hoff-Juncker.  ==> other
+tg318.2.22: Sie gehen mit einander hinter das Bette / da zeucht er Hosen an / Strümpff und Schuh.  ==> other
+tg319.2.4: Robert, Cammer-Juncker. Leo, Hoff-Juncker. Karsten, Breit, Chim, Frerik, Hoff-Pursche. Hernach Mierten, der Bauer. Cornelis, Cammerdiener.  ==> other
+tg319.2.5: Die vier Bedienten bringen in silbernen Schalen Conficturen und etliche Becher mit delicaten Weine.  ==> other
+tg319.2.58: Die Bedienten gehen ab.  ==> exit
+tg319.2.80: Sie gehen hinein / die Scene fällt zu und verbirgt das Bette.  ==> other
+tg320.2.4: Wilhelm, Stallmeister. Heinrich, Cammerjuncker. Robert, Cammerherr. Leo, Hoffjuncker.  ==> other
+tg321.2.4: Die Vorigen. Mierten, der Bauer. Cornelis, Cammer-Diener.  ==> other
+tg322.2.4: Philippus, der Hertzog. Egmund, Hoff-Marschall.  ==> other
+tg323.2.4: Die Vorigen. Carolus, der Printz.  ==> other
+tg324.2.4: Die Vorigen. Wilhelm, Stallmeister. Heinrich, Cammer-Juncker. Robert, Cammer-Herr. Leo, Hoff-Juncker. Mierten, ein Bauer.  ==> other
+tg325.2.4: Die Vorigen. Brigitte, die Kammerfrau.  ==> other
+tg325.2.35: Mierten, Brigitte, Robert, und Leo gehn ab.  ==> exit
+tg326.2.4: Die Vorigen. Philippus, der Hertzog. Egmund, Hoff-Marschall. Carolus, der Printz.  ==> other
+tg326.2.16: Sie gehen ab.  ==> exit
+tg327.2.4: Wilhelm, Stallmeister. Heinrich Cammer-Juncker.  ==> other
+tg327.2.28: Gehen ab.  ==> exit
+tg328.2.4: Krix, ein Bauer. Ebbe, seine Frau. Gosch, ein Bauer. Puse, dessen Frau. Clas, ein Bauer. Brütte, die Frau.  ==> other
+tg328.2.25: Sie gehen an unterschiedenen Orten ab.  ==> exit
+tg329.2.4: Leo, Hoff-Juncker. Brigitte, die Cammer-Frau.  ==> other
+tg329.2.21: Sie gehen an unterschiedenen Orten ab.  ==> exit
+tg330.2.4: Heinrich, Cammer-Juncker. Hernach Adelheit, Erdmuth, Hoff-Jungfern. Mierten, der Bauer.  ==> other
+tg330.2.8: Die mittelste Scene eröffnet sich / da sie heraus spatzieren.  ==> other
+tg331.2.4: Die Vorigen. Cornelis, Cammerdiener.  ==> other
+tg331.2.17: Cornelis und Mierten gehen ab.  ==> exit
+tg332.2.4: France, ein Bürger. Hernach Gosch, ein Bauer. Puse, seine Frau.  ==> other
+tg332.2.24: Sie reden alle beyde zusammen / was ihnen einfällt /und wollen einander überschreyen.  ==> other
+tg332.2.35: Sie jagen einander hinein.  ==> exit
+tg333.2.4: Hugo, ein Bürger. Krix, ein Bauer. Ebbe, seine Frau.  ==> other
+tg333.2.26: Er will sie schlagen / sie läufft / und wiederholen alle beyde das Wort drey oder vierdtehalbe Wochen / endlich fällt der Bauer.  ==> other
+tg334.2.4: Liebhold, der Gastwirth. Clas, ein Bauer. Brütte, dessen Frau.  ==> other
+tg334.2.25: Gehen ab.  ==> exit
+tg336.2.4: Egmund, Hoff-Marschall. Wilhelm, Stallmeister.  ==> other
+tg337.2.4: Leo, Hoff-Juncker. Adelheit, Erdmuth, Hoff-Jungfern.  ==> other
+tg337.2.19: Gehen ab.  ==> exit
+tg338.2.4: Heinrich, Cammer-Juncker. Mierten, der verstellte Fürst.  ==> other
+tg339.2.4: Die Vorigen. Adelheit, Erdmuth, Hoff-Jungfern.  ==> other
+tg343.2.4: Burgundia, eine Princeßin. Pax, Opulentia, ihre Gespielin.  ==> other
+tg343.2.31: Zusammen.  ==> other
+tg344.2.4: Die Vorigen. Fatum, ein Göttlicher Bote.  ==> other
+tg345.2.4: Fatum, ein Göttlicher Bote. Amandus, Burgundien Liebster. Fatuum, ein lustiger Bedienter / versteckt. Burgundia, die Princeßin. Pax, Opulentia, ihre Gespielin.  ==> other
+tg345.2.64: Geht ab.  ==> exit
+tg345.2.70: Geht ab.  ==> exit
+tg346.2.4: Amandus, der Liebste. Burgundia, die Princeßin.  ==> other
+tg347.2.4: Die Drey Chöre.  ==> other
+tg348.2.4: Invidia, Burgundiens Feindin. Die Vorigen.  ==> other
+tg348.2.18: Sie treten ab.  ==> exit
+tg349.2.4: Mars, Plutus, Bacchus, Satyrus, Invidiens Bekandte. Venus, dero Getreue. Fatuum, ein lustiger Bedienter. Invidia, Burgundiens Feindin.  ==> other
+tg349.2.19: Gehet ab.  ==> exit
+tg349.2.55: Sie ziehen sich in die mittelste Scene.  ==> other
+tg350.2.4: Venus, Invidiens Getreue. Amandus, Burgundiens Liebster. Fatum, ein Göttlicher Bote.  ==> other
+tg350.2.35: Fatum gehet mit Amandus ab.  ==> exit
+tg351.2.4: Mars, Invidiens Bekandter.  ==> other
+tg352.2.4: Mars, Invidiens Bekanter. Amandus, Burgundiens Liebster. Fatum, ein Göttlicher Bote.  ==> other
+tg352.2.38: Fatum bindet Mars.  ==> other
+tg353.2.4: Plutus, Bacchus, Satyrus, Invidiens Bekandte.  ==> other
+tg354.2.4: Die Vorigen. Amandus, der Burgundien Liebster.  ==> other
+tg354.2.51: Amandus entläufft.  ==> other
+tg355.2.4: Die Vorigen. Fatum, ein Göttlicher Bote.  ==> other
+tg355.2.14: Fatum bindet Plutus, Bacchus, Satyrus an.  ==> other
+tg356.2.4: Die Drey Chöre.  ==> other
+tg357.2.4: Burgundia, die Princeßin. Pax, Opulentia, ihr Gespielen.  ==> other
+tg358.2.4: Amandus, der Liebste. Burgundia, die Princeßin.  ==> other
+tg359.2.4: Die Vorigen. Fatum, der Göttliche Bote.  ==> other
+tg359.2.13: Zusammen.  ==> other
+tg360.2.4: Fatum, der Göttliche Bote. Venus, der Invidien Getreue. Fatuum, ein lustiger Bedienter.  ==> other
+tg361.2.4: Die drey Chöre.  ==> other
+tg363.2.4: Robert, Cammer-Herr. Heinrich, Cammer-Juncker.  ==> other
+tg364.2.4: Die vorigen. Karsten, Breit, Hoff-Pursche.  ==> other
+tg365.2.4: Die Vorigen. Boyson, ihr Auffwärter.  ==> other
+tg366.2.4: Die mittelste Scene öffnet sich. Mierten, der Bauer. Stax, Micke, Trabanten. Die Vorigen.  ==> other
+tg366.2.18: Boyson bringt zu trincken.  ==> other
+tg366.2.36: Hier sind gewisse Vexier-Becher / mit doppelten Boden / die vor den Spectatoribus voll eingeschenckt / und hernach als ledige umgestürtzt werden / damit kan der Bauer sich stellen / als wenn er ein Schock Becher aussöffe / die Spectatores müssen sich verwundern / wie er alles bezwingen kan.  ==> other
+tg366.2.62: Er trinckt offte / sie haben allemahl etwas zu tadeln /und schreyen hefftig darzu / wenn auch der Becher nicht voll genung ist / wird allezeit was darzu geschenckt: Auff die letzt kan ers.  ==> other
+tg366.2.73: Hier wird ein Becher nach dem andern eingeschenckt / sie verzehlen sich allezeit / daß er von forne wieder anfangen muß / endlich bittet er man solle ihn verschonen / und er muß allzeit dran /biß er seine Hülffe hat.  ==> other
+tg366.2.86: Er zeucht ein rauch Schwäntzgen an statt des Degens rauß / sie fangen alle überlaut an zu lachen / endlich lauffen sie davon.  ==> other
+tg367.2.4: Mierten, der Bauer. Philippus, der Hertzog. Wilhelm, Stall-Meister. Heinrich, Cammer-Juncker. Hernach Robert, Cammer-Herr.  ==> other
+tg369.2.4: Mierten im Bauer-Kleide liegt und schläfft. Micke, ein Trabante. Karsten, ein Hoff-Pursche.  ==> other
+tg370.2.4: Liebhold, ein Gastwirth. France, Hugo, zwey Bürger.  ==> other
+tg371.2.4: Die Vorigen. Leo, Hoff-Juncker.  ==> other
+tg372.2.4: Die Vorigen. Robert, Cammer-Herr.  ==> other
+tg372.2.23: Sie nehmen eine Stange / und binden ihn die Armen die qvere.  ==> other
+tg372.2.29: Gehen ab.  ==> exit
+tg373.2.4: Ebbe, Puse, Brütte, Bauerweiber.  ==> other
+tg373.2.15: Er stellt sich allezeit gar ungebärdig.  ==> other
+tg373.2.27: Sie fangen an zu heulen / er stellt sich poßierlich dazu.  ==> other
+tg374.2.4: Die Vorigen. Krix, Gosch, Clas, Bauern.  ==> other
+tg374.2.19: Sie heulen wieder.  ==> other
+tg374.2.23: Er will reden und kan nicht.  ==> other
+tg374.2.45: Sie gehen ab.  ==> exit
+tg374.2.51: Gehen ab.  ==> exit
+tg375.2.4: Mierten, der Bauer. Adelheit, Erdmuth, Hoff-Jungfern.  ==> other
+tg376.2.4: Mierten, der Bauer. Wilhelm, Stallmeister.  ==> other
+tg377.2.4: Philippus, der Hertzog. Egmund, Hoff-Marschall. Robert, Cammer-Herr. Leo, Hoff-Juncker. Wilhelm, Stall-Meister. Heinrich, Cammer-Juncker. Mierten, der Bauer. Aus der mittelsten Scene.  ==> other

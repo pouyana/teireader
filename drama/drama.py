@@ -17,6 +17,13 @@ class Drama:
 		tree = ET.parse(self.text_file)
 		root = tree.getroot()
 		self.set_root(root)
+		self.set_tree(tree)
+	
+	def set_tree(self,tree):
+		self.tree = tree
+	
+	def get_tree(self):
+		return self.tree
 	
 	def set_root(self,root):
 		self.root = root
@@ -102,9 +109,12 @@ class Drama:
 		fDs = self.root.findall(".//"+self.prefix+"stage")
 		result = []
                 for f in fDs:
-                        for c in f:
-                            result.append(tool.unicode_safe(c.text))
-				#print tool.unicode_safe(f.text)
+                	if(f.attrib):
+                		tmp_stage={}
+        	        	tmp_stage["id"]=f.attrib["{http://www.w3.org/XML/1998/namespace}id"]
+        	                for c in f:
+        	                    tmp_stage["text"]=tool.unicode_safe(c.text)
+        	                    result.append(tmp_stage)
 		return result
 	#find act or scene
 	def get_scene(self):
