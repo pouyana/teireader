@@ -36,6 +36,3 @@ if __name__ == '__main__':
         print a["id"]+": "+a["text"]+" ==> "+a["type"]
     tree.write("mcfiles/"+text.get_title()+".out.xml")
     file_handle.close()
-    #n=["Sara", "und","Mat","Gehen","ab"]
-    #feats = dict([(word, True) for word in n])
-    #print classifier.classify(feats)
