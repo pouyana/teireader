@@ -1,0 +1,1071 @@
+<ns0:TEI xmlns:ns0="http://www.tei-c.org/ns/1.0" n="/Literatur/M/Lessing, Gotthold Ephraim/Dramen/Damon, oder die wahre Freundschaft" xml:id="tg277">
+            <ns0:teiHeader n="work:yes">
+               <ns0:fileDesc>
+                  <ns0:titleStmt>
+                     <ns0:title>Damon, oder die wahre Freundschaft</ns0:title>
+                  </ns0:titleStmt>
+                  <ns0:publicationStmt>
+                     <ns0:idno type="FileCreationTime">Lessing, Gotthold Ephraim: Element 00278 [2012/04/19 at 05:27:31]</ns0:idno>
+                     <ns0:availability>
+                        <ns0:p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zug&#228;ngliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid, www.editura.de) ver&#246;ffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </ns0:p>
+                        <ns0:p>
+                           <ns0:ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ns0:ref>
+                        </ns0:p>
+                        <ns0:p>
+                           <ns0:ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverst&#228;ndlicher Sprache </ns0:ref>
+                        </ns0:p>
+                        <ns0:p>
+                           <ns0:ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ns0:ref>
+                        </ns0:p>
+                     </ns0:availability>
+                  </ns0:publicationStmt>
+                  <ns0:notesStmt>
+                     <ns0:note>
+                              Erstdruck in: Ermunterungen zum Vergn&#252;gen des Gem&#252;ts (Hamburg), Bd. 1, 1747.
+                           </ns0:note>
+                  </ns0:notesStmt>
+                  <ns0:sourceDesc>
+                     <ns0:biblFull>
+                        <ns0:titleStmt>
+                           <ns0:title>Gotthold Ephraim Lessing: Werke. Herausgegeben von Herbert G. G&#246;pfert in Zusammenarbeit mit Karl Eibl, Helmut G&#246;bel, Karl S. Guthke, Gerd Hillen, Albert von Schirmding und J&#246;rg Sch&#246;nert, Band 1&#8211;8, M&#252;nchen: Hanser, 1970 ff.</ns0:title>
+                           <ns0:author key="pnd:118572121">Lessing, Gotthold Ephraim</ns0:author>
+                        </ns0:titleStmt>
+                        <ns0:extent>706-</ns0:extent>
+                        <ns0:publicationStmt>
+                           <ns0:date when="1970" />
+                           <ns0:pubPlace>M&#252;nchen</ns0:pubPlace>
+                        </ns0:publicationStmt>
+                     </ns0:biblFull>
+                  </ns0:sourceDesc>
+               </ns0:fileDesc>
+               <ns0:profileDesc>
+                  <ns0:creation>
+                     <ns0:date notAfter="1781" notBefore="1729" />
+                  </ns0:creation>
+                  <ns0:textClass>
+                     <ns0:keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+                        <ns0:term>drama</ns0:term>
+                     </ns0:keywords>
+                  </ns0:textClass>
+               </ns0:profileDesc>
+            </ns0:teiHeader>
+            <ns0:text>
+               <ns0:front>
+                  <ns0:div type="front">
+                        <ns0:milestone n="Lessing-W Bd. 1" unit="sigel" xml:id="tg277.3.1" />
+                        
+
+
+
+                        <ns0:head type="h3" xml:id="tg277.3.3">Gotthold Ephraim Lessing</ns0:head>
+
+
+                        <ns0:head type="h2" xml:id="tg277.3.4">Damon</ns0:head>
+
+                        <ns0:head type="h4" xml:id="tg277.3.5">oder</ns0:head>
+
+                        <ns0:head type="h2" xml:id="tg277.3.6">Die wahre Freundschaft</ns0:head>
+
+                        <ns0:head type="h4" xml:id="tg277.3.7">Ein Lustspiel in einem Aufzuge</ns0:head>
+
+                        <ns0:milestone n="Lessing-W Bd. 1" unit="sigel" xml:id="tg277.3.8" />
+                        <ns0:pb n="706" type="start" xml:id="tg277.3.9" />
+
+                     </ns0:div>
+               </ns0:front>
+               <ns0:body>
+                     
+                        
+                     
+                     
+                     
+                     
+                     <ns0:div n="/Literatur/M/Lessing, Gotthold Ephraim/Dramen/Damon, oder die wahre Freundschaft/Personen" subtype="work:no" xml:id="tg278">
+                        <ns0:div>
+                           <ns0:desc>
+                              <ns0:title>Personen</ns0:title>
+                           </ns0:desc>
+                        </ns0:div>
+                        
+                        <ns0:div type="text" xml:id="tg278.2">
+                           <ns0:div type="Dramatis_Personae">
+                              <ns0:castList>
+                                 <ns0:head type="h4" xml:id="tg278.2.1">Personen.</ns0:head>
+
+
+                                 <ns0:castGroup>
+                                    <ns0:castItem rend="zenoPLm0n4" xml:id="tg278.2.2">Die Witwe.</ns0:castItem>
+                                    <ns0:lb xml:id="tg278.2.3" />
+                                    <ns0:castItem rend="zenoPLm0n4" xml:id="tg278.2.4">Leander.</ns0:castItem>
+                                    <ns0:lb xml:id="tg278.2.5" />
+                                    <ns0:castItem rend="zenoPLm0n4" xml:id="tg278.2.6">Damon.</ns0:castItem>
+                                    <ns0:lb xml:id="tg278.2.7" />
+                                    <ns0:castItem rend="zenoPLm0n4" xml:id="tg278.2.8">Oronte.</ns0:castItem>
+                                    <ns0:lb xml:id="tg278.2.9" />
+                                    <ns0:castItem rend="zenoPLm0n4" xml:id="tg278.2.10">Lisette.</ns0:castItem>
+                                    <ns0:lb xml:id="tg278.2.11" />
+                                    <ns0:pb n="706" xml:id="tg278.2.12" />
+                                    <ns0:lb xml:id="tg278.2.13" />
+                                 </ns0:castGroup>
+                              </ns0:castList>
+                           </ns0:div>
+                        </ns0:div>
+                     </ns0:div>
+                     <ns0:div n="/Literatur/M/Lessing, Gotthold Ephraim/Dramen/Damon, oder die wahre Freundschaft/1. Auftritt" subtype="work:no" xml:id="tg279">
+                        <ns0:div>
+                           <ns0:desc>
+                              <ns0:title>1. Auftritt</ns0:title>
+                           </ns0:desc>
+                        </ns0:div>
+                        
+                        <ns0:div type="text" xml:id="tg279.2">
+                           <ns0:div type="h4">
+                              <ns0:head type="h4" xml:id="tg279.2.1">Der erste Auftritt</ns0:head>
+
+                              
+                              
+                              <ns0:stage rend="zenoPC" type="enter" xml:id="tg279.2.4">
+                                 <ns0:hi rend="italic" xml:id="tg279.2.4.1">Die Witwe. Lisette.</ns0:hi>
+                              </ns0:stage>
+                              <ns0:lb xml:id="tg279.2.5" />
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg279.2.6.part1">LISETTE.</ns0:speaker>
+                                 <ns0:p xml:id="tg279.2.6.part2"> Nun, das ist wahr, unser Haus hat sich in kurzem recht sehr ge&#228;ndert. Noch vor acht Tagen war es ein belebter Sammelplatz von unz&#228;hligen jungen Herren und verliebten Narren. Alle Tage haben sich ihrer ein Paar verloren. Heute blieben die weg; morgen folgten ein Paar andre nach, und &#252;bermorgen desgleichen. Gott sei Dank! zwei sind noch &#252;brig geblieben. Wenn die sich auch abfinden sollten: so wird unser Haus zur Ein&#246;de. Madame &#8211; &#8211; &#8211; Madame!</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg279.2.7.part1">DIE WITWE.</ns0:speaker>
+                                 <ns0:l xml:id="tg279.2.7.part2"> Nun, was ist es?</ns0:l>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg279.2.8.part1">LISETTE.</ns0:speaker>
+                                 <ns0:p xml:id="tg279.2.8.part2"> Alsdann bleibe ich gewi&#223; auch nicht l&#228;nger bei Ihnen; so gut ich es auch hier habe. Gesellschaft ist das halbe Leben!</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg279.2.9.part1">DIE WITWE.</ns0:speaker>
+                                 <ns0:l xml:id="tg279.2.9.part2"> Du h&#228;ttest dich also besser in einen Gasthof, als in meine Dienste, geschickt?</ns0:l>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg279.2.10.part1">LISETTE.</ns0:speaker>
+                                 <ns0:p xml:id="tg279.2.10.part2"> Ja. In einem Gasthofe geht es doch noch munter zu. Wenn es nicht so viel Arbeit da g&#228;be, wer wei&#223;, was ich getan h&#228;tte. Wenn man einmal, leider! dienen mu&#223;, so, d&#228;chte ich, ist es wohl am vern&#252;nftigsten, man dient da, wo man bei seinem Dienen das gr&#246;&#223;te Vergn&#252;gen haben kann. Doch, Scherz bei Seite. Was stellt denn itzo Herr Damon und Herr Leander bei Ihnen vor?</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg279.2.11.part1">DIE WITWE.</ns0:speaker>
+                                 <ns0:l xml:id="tg279.2.11.part2"> Was sie vorstellen?</ns0:l>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg279.2.12.part1">LISETTE.</ns0:speaker>
+                                 <ns0:l xml:id="tg279.2.12.part2"> Die Frage scheint Ihnen wundersam? Das wei&#223; ich wohl, was sie sonst vorgestellt haben. Ihre Freier.</ns0:l>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg279.2.13.part1">DIE WITWE.</ns0:speaker>
+                                 <ns0:l xml:id="tg279.2.13.part2"> Und das sind sie auch noch.</ns0:l>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg279.2.14.part1">LISETTE.</ns0:speaker>
+                                 <ns0:p xml:id="tg279.2.14.part2"> Das sind sie noch? So? Damon ist also des Leanders Nebenbuhler, und Leander des Damons. Und gleichwo sind Leander und Damon die besten Freunde? Das w&#228;re eine neue Mode. Wider die streite ich mit H&#228;nden und F&#252;&#223;en. Was? Nebenbuhler, die sich nicht unter einander zanken, verleumden, schimpfen, betr&#252;gen, herausfordern,<ns0:pb n="707" xml:id="tg279.2.14.1.part2" />
+ schlagen, das w&#228;ren mir artige Kreaturen. Nein. Es mu&#223; bei dem alten bleiben. Unter Nebenbuhlern mu&#223; Feindschaft sein, oder sie sind keine Nebenbuhler.</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg279.2.15.part1">DIE WITWE.</ns0:speaker>
+                                 <ns0:p xml:id="tg279.2.15.part2"> Es ist wahr, ich habe mich &#252;ber ihr Bezeigen einigerma&#223;en selbst gewundert. Ehe beide noch wu&#223;ten, da&#223; sie einerlei Zweck h&#228;tten, bezeigte sich niemand gegen mich verliebter, als eben sie. Niemand war z&#228;rtlicher, niemand bestrebte sich um meine Gegengunst mehr, als sie. So bald sie gewahr wurden, da&#223; einer des andern Nebenbuhler w&#228;re, so bald wurden beide, in ihrem Bestreben, mir zu gefallen, nachl&#228;ssiger. Einer redete bei mir dem andern das Wort, Damon dem Leander, und Leander dem Damon. Beide schwiegen von ihren eigenen Angelegenheiten.</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg279.2.16.part1">LISETTE.</ns0:speaker>
+                                 <ns0:l xml:id="tg279.2.16.part2"> Und bei der Auff&#252;hrung halten Sie beide noch f&#252;r Ihre Freier?</ns0:l>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg279.2.17.part1">DIE WITWE.</ns0:speaker>
+                                 <ns0:p xml:id="tg279.2.17.part2"> Ja, ich bin es gewi&#223; &#252;berzeugt, da&#223; sie mich beide lieben. Beide lieben mich aufrichtig. Nur schien mir Damon etwas zu fl&#252;chtig, und Leander etwas zu ungest&#252;m.</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg279.2.18.part1">LISETTE.</ns0:speaker>
+                                 <ns0:l xml:id="tg279.2.18.part2"> Beinahe m&#246;chte ich Sie itzt etwas fragen?</ns0:l>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg279.2.19.part1">DIE WITWE.</ns0:speaker>
+                                 <ns0:l xml:id="tg279.2.19.part2"> Nun, so la&#223; doch h&#246;ren.</ns0:l>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg279.2.20.part1">LISETTE.</ns0:speaker>
+                                 <ns0:l xml:id="tg279.2.20.part2"> Werden Sie mir aber aufrichtig antworten?</ns0:l>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg279.2.21.part1">DIE WITWE.</ns0:speaker>
+                                 <ns0:p xml:id="tg279.2.21.part2"> Ob ich dir aufrichtig antworten werde? Ich sehe nicht, was mich n&#246;tigen sollte, dir eine erdichtete Antwort zu geben. Wenn mir deine Frage nicht ansteht, so d&#252;rfte ich dir ja lieber gar nicht antworten.</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg279.2.22.part1">LISETTE.</ns0:speaker>
+                                 <ns0:p xml:id="tg279.2.22.part2"> Sie glauben, da&#223; Sie von beiden geliebt werden. Und vielleicht mit Recht. Welchen von ihnen lieben Sie denn aber?</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg279.2.23.part1">DIE WITWE.</ns0:speaker>
+                                 <ns0:l xml:id="tg279.2.23.part2"> Welchen?</ns0:l>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg279.2.24.part1">LISETTE.</ns0:speaker>
+                                 <ns0:l xml:id="tg279.2.24.part2"> Ja.</ns0:l>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg279.2.25.part1">DIE WITWE.</ns0:speaker>
+                                 <ns0:l xml:id="tg279.2.25.part2"> Welchen? die Frage ist wunderlich. Ich liebe sie beide.</ns0:l>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg279.2.26.part1">LISETTE.</ns0:speaker>
+                                 <ns0:l xml:id="tg279.2.26.part2"> Nun, das ist gut. Sie werden sie also auch beide heiraten?</ns0:l>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg279.2.27.part1">DIE WITWE.</ns0:speaker>
+                                 <ns0:p xml:id="tg279.2.27.part2"> Du mengest alles unter einander. ltzo war die Rede vom Lieben und nicht vom Heiraten. Alle Freier, die ich gehabt habe, waren teils eitle verliebte Hasen, teils eigenn&#252;tzige niedertr&#228;chtige Seelen. Was habe ich nicht <ns0:pb n="708" xml:id="tg279.2.27.1.part2" />
+von beiden ausstehen m&#252;ssen! Nur Damon und Leander unterschieden sich gleich anfangs von ihnen. Ich nahm diesen Unterschied mit dem gr&#246;&#223;ten Vergn&#252;gen wahr. Und ich glaube auch, da&#223; ich es ihnen selbst habe deutlich genug zu verstehen gegeben, wie sehr ich sie zu unterscheiden w&#252;&#223;te. Ich habe allen den Abschied gegeben, die nicht selbst so klug waren, ihn zu nehmen; nur sie habe ich da behalten, und sehe sie noch mit Vergn&#252;gen bei mir.</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg279.2.28.part1">LISETTE.</ns0:speaker>
+                                 <ns0:l xml:id="tg279.2.28.part2"> Was soll aber daraus werden?</ns0:l>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg279.2.29.part1">DIE WITWE.</ns0:speaker>
+                                 <ns0:p xml:id="tg279.2.29.part2"> Ich will es mit abwarten. Kann ich nicht beider Liebste werden, so kann ich doch wohl beider Freundin sein. Ja, gewi&#223;, die Freundschaft k&#246;mmt mir itzt viel reizender vor, als die Liebe. Ich mu&#223; dieses dem Exempel meiner z&#228;rtlichen Liebhaber zuschreiben.</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg279.2.30.part1">LISETTE.</ns0:speaker>
+                                 <ns0:p xml:id="tg279.2.30.part2"> Was, die Freundschaft? die Freundschaft reizender, als die Liebe? die trockne Freundschaft! Reden Sie mir nur nicht so philosophisch. Ich glaube doch davon so viel, als ich will. Ihr Herz denkt ganz anders. Und es w&#252;rde ihm auch gewi&#223; nicht viel Ehre machen, wenn es mit dem Munde &#252;bereinstimmte. Lassen Sie mich einmal versuchen, ob ich seine stumme Sprache verstehe. Ich h&#246;re es; ja, ja, es spricht: Wie? sind das die aufrichtigen Liebhaber? was ist das f&#252;r eine neue Art der Liebe, die der Anblick eines Freundes unterdr&#252;ckt? keiner wagt es, mir seinen Freund aufzuopfern? O die Unw&#252;rdigen! Ich will sie hassen, ja ich will &#8211; &#8211; aber werde ich auch k&#246;nnen? werde ich auch &#8211; &#8211; &#8211;</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg279.2.31.part1">DIE WITWE.</ns0:speaker>
+                                 <ns0:l xml:id="tg279.2.31.part2"> Schweig! schweig! Lisette. Du verstehst seine stumme Sprache sehr schlecht.</ns0:l>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg279.2.32.part1">LISETTE.</ns0:speaker>
+                                 <ns0:p xml:id="tg279.2.32.part2"> O! verzeihen Sie mir. Dieses Einfallen in die Rede, versichert mich, da&#223; ich sie sehr wohl verstehe. Je nun, wie kann es anders sein? Ich w&#252;rde selbst verdrie&#223;lich sein, wenn mir die Freundschaft so einen Streich spielte. &#220;berlegen Sie es nur, wer ist sonst daran schuld, als die Freundschaft, da&#223; Sie itzo, da Sie zwei Anbeter haben k&#246;nnten, gar keinen haben? Ach! es w&#228;re eine Schande, wenn die Liebe nicht st&#228;rker sein sollte, als die Freundschaft.</ns0:p>
+                                 <ns0:pb n="709" xml:id="tg279.2.33" />
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg279.2.34.part1">DIE WITWE.</ns0:speaker>
+                                 <ns0:l xml:id="tg279.2.34.part2"> Ach!</ns0:l>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg279.2.35.part1">LISETTE.</ns0:speaker>
+                                 <ns0:p xml:id="tg279.2.35.part2"> Ha! ha! den Ton verstehe ich auch. H&#246;ren Sie einmal, ob ich ihn geschickt umschreiben kann. Nicht wahr? er will so viel sagen: Lisette, n&#246;tige mich nicht weiter, dir etwas zu gestehen, was du schon wei&#223;t. Wollte der Himmel! da&#223; die Liebe nur bei einem m&#228;chtiger w&#228;re, als die Freundschaft! Kannst du was beitragen, meine Liebhaber empfindlicher und weniger gewissenhaft zu machen &#8211; &#8211;</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg279.2.36.part1">DIE WITWE.</ns0:speaker>
+                                 <ns0:l xml:id="tg279.2.36.part2"> Sage mir, was du schw&#228;rmst?</ns0:l>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg279.2.37.part1">LISETTE.</ns0:speaker>
+                                 <ns0:l xml:id="tg279.2.37.part2"> O! um Verzeihung. Es sind Ihre eigenen Schw&#228;rmereien.</ns0:l>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg279.2.38.part1">DIE WITWE.</ns0:speaker>
+                                 <ns0:p xml:id="tg279.2.38.part2"> Gesetzt nun, ich gest&#252;nde dir, da&#223; ich es lieber sehen w&#252;rde, wenn mir beide ihre Liebe noch ferner entdeckten, wenn sich beide die z&#228;rtlichste M&#252;he um mein Herz g&#228;ben, wenn einer dem andern einen Rang abzulaufen suchte, wenn sie meine Gunstbezeigungen selbst, die ich dem einem mehr oder weniger zukommen lie&#223;e, ein wenig uneinig machte[n], wenn ich alsdenn selbst das Vergn&#252;gen haben k&#246;nnte, sie wieder zu vereinigen, um sie aufs neue zu trennen, gesetzt, sage ich, ich gest&#252;nde dir dieses, was w&#228;re es nun mehr?</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg279.2.39.part1">LISETTE.</ns0:speaker>
+                                 <ns0:l xml:id="tg279.2.39.part2"> Es w&#228;re allerdings etwas mehr, als Sie mir vorhin zugestehen wollten.</ns0:l>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg279.2.40.part1">DIE WITWE.</ns0:speaker>
+                                 <ns0:l xml:id="tg279.2.40.part2"> Ich wei&#223; aber auch gar nicht, was ich f&#252;r Ursache habe, dir von meinem Herzen Rechenschaft zu geben?</ns0:l>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg279.2.41.part1">LISETTE.</ns0:speaker>
+                                 <ns0:p xml:id="tg279.2.41.part2"> Ich bin mit Ihnen einig, Sie haben keine, Sie tun es aus blo&#223;er G&#252;tigkeit. Aber Sie sollten nicht umsonst so g&#252;tig gewesen sein, ich versichre Sie. Ich will mein m&#246;glichstes tun, da&#223; es bald dahin k&#246;mmt, wohin Sie es gern haben wollen. Aber sagen Sie mir nur erst, f&#252;r wen wollten Sie sich wohl am liebsten erkl&#228;ren; f&#252;r Damon oder Leandern? Sie besinnen sich? H&#246;ren Sie, es f&#228;llt mir ein guter Rat ein. Sie wissen, da&#223; sie beide vor einem Jahre, beinahe ihr ganzes Verm&#246;gen, jeder auf ein besonderes Schiff, welche nach Ostindien handeln, gegeben haben. Sie warten alle Tage auf ihre R&#252;ckkunft. Wie w&#228;re es, wenn wir auch darauf warteten, und uns alsdenn f&#252;r denjenigen <ns0:pb n="710" xml:id="tg279.2.41.1.part2" />
+erkl&#228;rten, der der gl&#252;cklichste bei diesem Handel gewesen ist?</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg279.2.42.part1">DIE WITWE.</ns0:speaker>
+                                 <ns0:l xml:id="tg279.2.42.part2"> Ich lasse mir es gefallen. Nur &#8211; &#8211; &#8211;</ns0:l>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg279.2.43.part1">LISETTE.</ns0:speaker>
+                                 <ns0:l xml:id="tg279.2.43.part2"> Hier k&#246;mmt Herr Damon. Lassen Sie mich einmal mit ihm alleine, ich will ihn ausholen.</ns0:l>
+                                 <ns0:lb xml:id="tg279.2.44" />
+                              </ns0:sp>
+                           </ns0:div>
+                        </ns0:div>
+                     </ns0:div>
+                     <ns0:div n="/Literatur/M/Lessing, Gotthold Ephraim/Dramen/Damon, oder die wahre Freundschaft/2. Auftritt" subtype="work:no" xml:id="tg280">
+                        <ns0:div>
+                           <ns0:desc>
+                              <ns0:title>2. Auftritt</ns0:title>
+                           </ns0:desc>
+                        </ns0:div>
+                        
+                        <ns0:div type="text" xml:id="tg280.2">
+                           <ns0:div type="h4">
+                              <ns0:head type="h4" xml:id="tg280.2.1">Der zweite Auftritt</ns0:head>
+
+                              
+                              
+                              <ns0:stage rend="zenoPC" type="enter" xml:id="tg280.2.4">
+                                 <ns0:hi rend="italic" xml:id="tg280.2.4.1">Lisette. Damon.</ns0:hi>
+                              </ns0:stage>
+                              <ns0:lb xml:id="tg280.2.5" />
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg280.2.6.part1">LISETTE.</ns0:speaker>
+                                 <ns0:l xml:id="tg280.2.6.part2"> Ihre Dienerin, Herr Damon. Sie scheinen mir jemanden zu suchen. Wer ist es?</ns0:l>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg280.2.7.part1">DAMON.</ns0:speaker>
+                                 <ns0:l xml:id="tg280.2.7.part2"> Leander hat mich hier erwarten wollen. Habt Ihr ihn nicht gesehen?</ns0:l>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg280.2.8.part1">LISETTE.</ns0:speaker>
+                                 <ns0:p xml:id="tg280.2.8.part2"> Nein. Nun &#8211; &#8211; Aber m&#252;ssen Sie denn deswegen gleich wieder fort gehen? Verziehen Sie doch einen Augenblick. Wird Ihnen die Zeit schon zu lang, da&#223; er Ihnen nicht gleich seine s&#252;&#223;en Tr&#228;ume von der Freundschaft vorplaudern soll? Wenn Sie nur deswegen etwa hergekommen sind angenehme L&#252;gen und entz&#252;ckende Gedanken von Ihrem Freunde zu h&#246;ren; verziehen Sie, verziehen Sie, ich will es so gut machen, als er. Seit Sie und Herr Leander einander hier angetroffen, schallen ja alle W&#228;nde von dem Lobe der Freundschaft wider; ich werde doch wohl was behalten haben.</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg280.2.9.part1">DAMON.</ns0:speaker>
+                                 <ns0:p xml:id="tg280.2.9.part2"> Diese Sp&#246;ttereien geschehen auf Unkosten meines Freundes. Sie m&#252;ssen mir notwendig zuwider sein. Wenn ich bitten darf, schweigt!</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg280.2.10.part1">LISETTE.</ns0:speaker>
+                                 <ns0:p xml:id="tg280.2.10.part2"> Ei! sonst jemand m&#246;chte bei solchen Umst&#228;nden schweigen. &#220;berlegen Sie es doch nur selbst. Sie sind in dem Hause einer jungen liebensw&#252;rdigen Witwe. Sie lieben sie. Sie suchen ihre Gegenliebe. Aber, mein Gott! auf was f&#252;r eine besondre Art! Ein Freund macht Sie in Ihrem Antrage sch&#252;chtern. Sie wollen ihn nicht beleidigen. Ihre Liebe ist viel zu schwach, seine ungegr&#252;ndeten Vorw&#252;rfe zu erdulden. Sie wollen es lieber mit Ihrer Liebsten, als mit Ihrem Freunde verderben. Je nun, m&#246;chte es doch noch <ns0:pb n="711" xml:id="tg280.2.10.1.part2" />
+endlich sein, wenn der andre nur nicht eben so ein Grillenf&#228;nger w&#228;re.</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg280.2.11.part1">DAMON.</ns0:speaker>
+                                 <ns0:p xml:id="tg280.2.11.part2"> Unsre Auff&#252;hrung darf Eurer Frau gar nicht seltsam vorkommen. Sie wei&#223; unsrer beider Neigung. Wir haben uns ihr beide erkl&#228;rt, ehe wir wu&#223;ten, da&#223; wir ihr einerlei erkl&#228;ret h&#228;tten. Wir bestreben uns, aufrichtige Freunde zu sein. W&#228;re es also nicht unbillig, wenn ich dem Leander, oder Leander mir, durch ungest&#252;mes Anhalten, ein Herz entrei&#223;en wollte, das sich vielleicht mit der Zeit aus Neigung an einen von uns ergeben wird?</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg280.2.12.part1">LISETTE.</ns0:speaker>
+                                 <ns0:p xml:id="tg280.2.12.part2"> Aus Neigung? Als wenn ein Frauenzimmer nicht f&#252;r alle wohlgemachte Mannspersonen einerlei Neigung h&#228;tte. Zum Exempel, was w&#252;rde mir daran gelegen sein, ob ich Sie, oder Herr Leandern bekommen sollte. Nehmen Sie mir es nicht &#252;bel, da&#223; ich meinem Stolze einmal solche s&#252;&#223;e Tr&#228;ume vorhalte. Sie und Herr Leander sind von einer gesunden Leibesbeschaffenheit. Stark und munter. Zwischen zwei gleich guten Sachen kann man sich in der Wahl nicht irren. Der erste der beste. Nur blindlings zugegriffen!</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg280.2.13.part1">DAMON.</ns0:speaker>
+                                 <ns0:p xml:id="tg280.2.13.part2"> Lisette, Ihr beurteilt Eure Frau nach Euch; und gewi&#223; Ihr macht ihr dadurch nicht viel Ehre. Ich kenne sie zu wohl. Sie hat edlere Gedanken von der Liebe.</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg280.2.14.part1">LISETTE.</ns0:speaker>
+                                 <ns0:p xml:id="tg280.2.14.part2"> Ach, nehmen Sie mir es nicht &#252;bel. Liebe bleibt Liebe. Eine K&#246;nigin liebt nicht edler, als eine Bettlerin, und eine Philosophin nicht edler, als eine dumme Bauersfrau. Es ist Maus, wie Mutter. Und ich und meine Frau w&#252;rden in dem Wesentlichen der Liebe gewi&#223; nicht um ein Haar unterschieden sein.</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg280.2.15.part1">DAMON.</ns0:speaker>
+                                 <ns0:p xml:id="tg280.2.15.part2"> Lebt wohl! Ich habe itzo just weder Lust, noch Zeit, Eure ungegr&#252;ndeten Reden zu widerlegen. Sollte Herr Leander kommen, so bittet ihn, einen Augenblick zu verziehen. Ich habe was N&#246;tiges vorher zu verrichten. Ich werde gleich wieder da sein.</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg280.2.16.part1">LISETTE.</ns0:speaker>
+                                 <ns0:p xml:id="tg280.2.16.part2"> Je, zum Henker! so warten Sie noch einen Augenblick. Sie nennen meine Reden ungegr&#252;ndet? Nun, horchen Sie einmal. Itzo will ich Ihnen was sagen. Vielleicht werden sie Ihnen alsdenn gegr&#252;ndeter vorkommen.</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg280.2.17.part1">DAMON.</ns0:speaker>
+                                 <ns0:l xml:id="tg280.2.17.part2"> Nun, so werde ich was h&#246;ren.</ns0:l>
+                                 <ns0:pb n="712" xml:id="tg280.2.18" />
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg280.2.19.part1">LISETTE.</ns0:speaker>
+                                 <ns0:p xml:id="tg280.2.19.part2"> Wissen Sie, was meine Frau beschlossen hat? Sie will warten, bis die beiden Schiffe wieder da sind, auf welche Sie Ihre Gelder gegeben haben. Und wer bei dem Handel der Gl&#252;cklichste wird gewesen sein, den will sie heiraten, Knall und Fall. Glauben Sie nun, da&#223; es meiner Frau gleichviel sein wird, ob sie den Herrn Leander oder Sie bek&#246;mmt? He?</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg280.2.20.part1">DAMON.</ns0:speaker>
+                                 <ns0:l xml:id="tg280.2.20.part2"> Was? Lisette! Das h&#228;tte sich deine Frau entschlossen? Geh! erz&#228;hle dein M&#228;hrgen einem andern.</ns0:l>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg280.2.21.part1">LISETTE.</ns0:speaker>
+                                 <ns0:p xml:id="tg280.2.21.part2"> Nun, warum k&#246;mmt Ihnen das so unwahrscheinlich vor? Ist es ein Schelmst&#252;ck, da&#223; man lieber einen Reichen, als einen Armen, heiraten will? Ihr n&#228;rrischen Mannspersonen z&#228;hlt wohl eher die Rockkn&#246;pfe, wenn ihr euch zu nichts entschlie&#223;en k&#246;nnt. Und ich d&#228;chte doch, sie h&#228;tte noch zehnmal gescheiter getan, da sie es dem Gl&#252;cke &#252;berlassen, den Ausschlag zu tun, und ihre Neigung gewi&#223; zu bestimmen.</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg280.2.22.part1">DAMON.</ns0:speaker>
+                                 <ns0:p xml:id="tg280.2.22.part2"> Himmel! wie ungl&#252;cklich bin ich, wenn Ihr die Wahrheit redet! H&#228;tte ich mir auch jemals einbilden k&#246;nnen, da&#223; der Reichtum so viel Reizungen f&#252;r sie haben sollte? Soll der nun unsere Person erst beliebt machen? Findet sie an mir und an Leandern nichts, welches dieser verblendenden Kleinigkeit die Waage halten k&#246;nnte? Bald sollte es mich gereuen, eine Person zu lieben, die so niedertr&#228;chtig &#8211; &#8211; &#8211;</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg280.2.23.part1">LISETTE.</ns0:speaker>
+                                 <ns0:p xml:id="tg280.2.23.part2"> Nun, nun! Fein sachte, fein sachte! Nur nicht gleich geschimpft. Zum Geier, haben Sie es denn besser haben wollen? Der Reichtum an und f&#252;r sich selber ist eben dasjenige nicht, was sie an Ihnen sucht. Die Neigungen meiner Frau gegen Sie und gegen den Herrn Leander liegen itzo im Gleichgewichte, und dieser soll also nur ein kleiner Zuwurf sein, welcher der oder jener Schale den Ausschlag gibt. O! geizig sind wir eben nicht. Das sagen Sie uns nur nicht nach. Ob es uns auch gleich keine Schande sein w&#252;rde, wenn wir es w&#228;ren. Sie zeigen ja dadurch, da&#223; Sie ihr eine Zeit lang nichts mehr von Ihrer Liebe vorgesagt haben, ganz deutlich, da&#223; es Ihnen gleichviel sein w&#252;rde, ob sie sich f&#252;r Sie selbst oder f&#252;r Ihren Freund erkl&#228;rte; <ns0:pb n="713" xml:id="tg280.2.23.1.part2" />
+und Leander desgleichen. Wie h&#228;tte sie es also wohl kl&#252;ger k&#246;nnen anfangen?</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg280.2.24.part1">DAMON.</ns0:speaker>
+                                 <ns0:l xml:id="tg280.2.24.part2"> Ach da&#223; ich so verliebt, ach, da&#223; ich so gewissenhaft in der Freundschaft bin!</ns0:l>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg280.2.25.part1">LISETTE.</ns0:speaker>
+                                 <ns0:p xml:id="tg280.2.25.part2"> W&#252;rde es Ihnen vielleicht lieber gewesen sein, wenn meine Frau Sie beide h&#228;tte w&#252;rfeln lassen, damit die meisten oder die wenigsten Augen sie dem einen oder dem andern zur Frau gegeben h&#228;tten? Es ist dieses sonst eine ganz l&#246;bliche Soldatenmode, wenn von zwei Galgenschwengeln einem das Leben soll geschenkt werden, und es einer doch eben so wenig verdient, als der andre. Ja, ja. Nicht wahr, sie h&#228;tte der Mode wohl auch hier folgen k&#246;nnen?</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg280.2.26.part1">DAMON.</ns0:speaker>
+                                 <ns0:p xml:id="tg280.2.26.part2"> Eure Sp&#246;ttereien sind sehr &#252;bel angebracht. Mein Herz ist &#8211; &#8211; &#8211; doch ich will nur gehen, Lisette, Lisette, in was f&#252;r Unruhe habt Ihr mich gesetzt! Himmel!</ns0:p>
+                                 <ns0:lb xml:id="tg280.2.27" />
+                              </ns0:sp>
+                           </ns0:div>
+                        </ns0:div>
+                     </ns0:div>
+                     <ns0:div n="/Literatur/M/Lessing, Gotthold Ephraim/Dramen/Damon, oder die wahre Freundschaft/3. Auftritt" subtype="work:no" xml:id="tg281">
+                        <ns0:div>
+                           <ns0:desc>
+                              <ns0:title>3. Auftritt</ns0:title>
+                           </ns0:desc>
+                        </ns0:div>
+                        
+                        <ns0:div type="text" xml:id="tg281.2">
+                           <ns0:div type="h4">
+                              <ns0:head type="h4" xml:id="tg281.2.1">Dritter Auftritt</ns0:head>
+
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg281.2.2.part1">LISETTE.</ns0:speaker>
+                                 <ns0:p xml:id="tg281.2.2.part2"> Nun, der hat einen Floh hinter dem Ohre. Aber was hilft mirs? Ich kann itzo aus ihm eben so wenig klug werden, als zuvor. Wenn ich ihn nur wenigstens so weit h&#228;tte bringen k&#246;nnen, da&#223; er seine Liebeserkl&#228;rungen wieder vorgesucht h&#228;tte. Er lie&#223; aber auch gar nicht mit sich reden; es war, als wenn er auf Kohlen st&#252;nde. Hui! da k&#246;mmt Leander. La&#223;t sehn, was mit dem anzufangen ist!</ns0:p>
+                                 <ns0:lb xml:id="tg281.2.3" />
+                              </ns0:sp>
+                           </ns0:div>
+                        </ns0:div>
+                     </ns0:div>
+                     <ns0:div n="/Literatur/M/Lessing, Gotthold Ephraim/Dramen/Damon, oder die wahre Freundschaft/4. Auftritt" subtype="work:no" xml:id="tg282">
+                        <ns0:div>
+                           <ns0:desc>
+                              <ns0:title>4. Auftritt</ns0:title>
+                           </ns0:desc>
+                        </ns0:div>
+                        
+                        <ns0:div type="text" xml:id="tg282.2">
+                           <ns0:div type="h4">
+                              <ns0:head type="h4" xml:id="tg282.2.1">Vierter Auftritt</ns0:head>
+
+                              
+                              
+                              <ns0:stage rend="zenoPC" type="enter" xml:id="tg282.2.4">
+                                 <ns0:hi rend="italic" xml:id="tg282.2.4.1">Lisette. Leander.</ns0:hi>
+                              </ns0:stage>
+                              <ns0:lb xml:id="tg282.2.5" />
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg282.2.6.part1">LISETTE.</ns0:speaker>
+                                 <ns0:l xml:id="tg282.2.6.part2"> Ein klein bi&#223;gen eher, so h&#228;tten Sie ihn angetroffen.</ns0:l>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg282.2.7.part1">LEANDER.</ns0:speaker>
+                                 <ns0:l xml:id="tg282.2.7.part2"> So? Ist Damon schon hier gewesen?</ns0:l>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg282.2.8.part1">LISETTE.</ns0:speaker>
+                                 <ns0:p xml:id="tg282.2.8.part2"> Ja. Und er wird auch gleich wieder da sein. Sie sollen <ns0:pb n="714" xml:id="tg282.2.8.1.part2" />
+sich nur ein klein wenig gedulden. Herr Leander, wie sehen Sie mir denn aber heute einmal so verdrie&#223;lich aus? Ach! das Gesichte steht einem Freier gar nicht! Pfui! fein munter! h&#252;bsch lustig!</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg282.2.9.part1">LEANDER.</ns0:speaker>
+                                 <ns0:l xml:id="tg282.2.9.part2"> Wer so viel Ursache zum Verdrusse hat, wie ich &#8211; &#8211; &#8211; &#8211;</ns0:l>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg282.2.10.part1">LISETTE.</ns0:speaker>
+                                 <ns0:p xml:id="tg282.2.10.part2"> Ach! ach! Reden Sie doch. Sie m&#246;gen wohl viel auf dem Herzen haben, das Sie bek&#252;mmert. Ich merke zwar bald, was es sein kann? Hui! da&#223; Sie die Liebe qu&#228;lt. Sind Sie es einmal satt, sie der Freundschaft nachzusetzen. O Sie t&#228;ten nicht mehr, als billig. Frisch gewagt! Schade auf einen Freund. Halten Sie bei meiner Frau wieder aufs neue an. Ich gebe Ihnen mein Wort, Sie bekommen sie weg. Wenn Sie aber noch l&#228;nger t&#228;ndeln, so bin ich Ihnen f&#252;r nichts gut. W&#228;hlen kann meine Frau nicht. Wenn nicht bald einer von beiden k&#246;mmt, und sie so holt, so hat sie alles schon dem blinden Zufalle &#252;berlassen. Wer von Ihnen bei dem Handel nach Ostindien am gl&#252;cklichsten wird gewesen sein, dem will sie Hand, Herz und Verm&#246;gen schenken &#8211; &#8211; &#8211; Was fehlt Ihnen? &#8211; &#8211; Was fehlt Ihnen? &#8211; &#8211;</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg282.2.11.part1">LEANDER.</ns0:speaker>
+                                 <ns0:l xml:id="tg282.2.11.part2"> Lisette, um des Himmels willen, dem Gl&#252;cklichsten? Nun ist mein Ungl&#252;ck vollkommen.</ns0:l>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg282.2.12.part1">LISETTE.</ns0:speaker>
+                                 <ns0:l xml:id="tg282.2.12.part2"> Vollkommen? Was will das sagen? Erkl&#228;ren Sie sich.</ns0:l>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg282.2.13.part1">LEANDER.</ns0:speaker>
+                                 <ns0:p xml:id="tg282.2.13.part2"> Wohl, ich will mich Euch vertrauen. Wisset denn, da&#223; ich nur gestern Abends Briefe erhalten habe, da&#223; mein Schiff in einem Sturme verungl&#252;cket sei. Grausamer Himmel! so war es nicht genug, mir mein Verm&#246;gen zu nehmen, du mu&#223;test mir auch noch den Gegenstand meiner so z&#228;rtlichen Liebe entrei&#223;en?</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg282.2.14.part1">LISETTE.</ns0:speaker>
+                                 <ns0:p xml:id="tg282.2.14.part2"> Jener schimpfte auf meine Frau, und der schimpft auf den Himmel. Und beide sind wohl unschuldig. Herr Leander, Ihr Ungl&#252;ck geht mir nahe. Ich will es Ihnen schon glauben, da&#223; es einem Verdru&#223; genug verursachen mu&#223;, wenn man sein Verm&#246;gen verliert. Ich habe diese traurige Erfahrung noch nicht machen k&#246;nnen; denn, Gott sei Dank, ich habe keins. Wenn aber der Verdru&#223;, Reicht&#252;mer zu verlieren, so gro&#223; ist, als die Begierde, sie zu gewinnen, so mu&#223; er unertr&#228;glich sein. Ich gesteh es. Aber <ns0:pb n="715" xml:id="tg282.2.14.1.part2" />
+auf den andern Punkt zu kommen. Den Gegenstand Ihrer so z&#228;rtlichen Liebe &#8211; &#8211; Sie meinen doch meine Frau &#8211; &#8211; nicht? h&#246;ren Sie nur &#8211; &#8211; um den haben Sie sich selbst gebracht. Doch wenn Sie mir folgen wollen, Herr Leander, so verloren als er scheint, so ist er doch noch nicht ganz verloren.</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg282.2.15.part1">LEANDER.</ns0:speaker>
+                                 <ns0:l xml:id="tg282.2.15.part2"> O ich bitte Euch, redet frei. Ich will Euch in allem folgen, was mir n&#252;tzlich sein kann.</ns0:l>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg282.2.16.part1">LISETTE.</ns0:speaker>
+                                 <ns0:l xml:id="tg282.2.16.part2"> Aber ich zweifle, da&#223; Sie es tun werden.</ns0:l>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg282.2.17.part1">LEANDER.</ns0:speaker>
+                                 <ns0:l xml:id="tg282.2.17.part2"> Zweifelt nicht, ich bitte Euch.</ns0:l>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg282.2.18.part1">LISETTE.</ns0:speaker>
+                                 <ns0:p xml:id="tg282.2.18.part2"> Ich kenne Ihre Hartn&#228;ckigkeit allzu wohl. Sie sind von den erhabenen Begriffen der Freundschaft zu sehr eingenommen. Damon, Ihr liebster Freund auf der Welt, das kostbarste Geschenk des Himmels, ohne welches Ihnen alle G&#252;ter, alle Ehre, alles Vergn&#252;gen, nur verachtungswert, nur eitel, nur unschmackhaft vorkommen w&#252;rden, Damon, Ihr andres Ich, dessen Gl&#252;ck Ihr Gl&#252;ck, dessen Ungl&#252;ck Ihr Ungl&#252;ck ist; Damon, der edle Damon, der &#8211; &#8211; &#8211; &#8211;</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg282.2.19.part1">LEANDER.</ns0:speaker>
+                                 <ns0:p xml:id="tg282.2.19.part2"> Ja, allerdings Lisette. Du wirst ihn nie genug loben k&#246;nnen. Der ist noch der einzige, der mir mein Ungl&#252;ck wird tragen helfen. Ich habe allezeit die vorteilhaftesten Gedanken und die z&#228;rtlichsten Empfindungen f&#252;r ihn gehabt. Ich zweifle nicht, er wird itzo zeigen, wie w&#252;rdig er meiner Freundschaft sei. H&#228;tte er sein Verm&#246;gen verloren, so w&#252;rde das meinige das seinige gewesen sein. Ich w&#252;rde die Hand der liebensw&#252;rdigsten Person seinetwegen ausschlagen. Damon, ja Damon &#8211; &#8211; &#8211; &#8211; o h&#228;tte er mein Herz &#8211; &#8211; &#8211; &#8211; Aber, aber &#8211; &#8211; ich wei&#223;, das wahre Z&#228;rtliche in der Freundschaft hat er nie recht empfinden wollen &#8211; &#8211;</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg282.2.20.part1">LISETTE.</ns0:speaker>
+                                 <ns0:p xml:id="tg282.2.20.part2"> Ja, Herr Leander, wenn Sie gl&#252;cklich sein wollen, so m&#252;ssen Sie diesen Damon einige Zeit aus den Augen setzen. Erschrecken Sie &#252;ber diesen Vorschlag nicht.</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg282.2.21.part1">LEANDER.</ns0:speaker>
+                                 <ns0:l xml:id="tg282.2.21.part2"> Wie versteht Ihr das?</ns0:l>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg282.2.22.part1">LISETTE.</ns0:speaker>
+                                 <ns0:p xml:id="tg282.2.22.part2"> Nun, ich sehe doch, da&#223; Sie mit einem ziemlich unerschrocknen Gesichte meine Erkl&#228;rungen verlangen. Bef&#252;rchten Sie nur nichts, ich rate Ihnen keine Verr&#228;terei an Ihrem Freunde. Weder er wird Ihnen, noch Sie werden sich selbst dabei was vorzuwerfen haben. Kurz, gehen Sie zu <ns0:pb n="716" xml:id="tg282.2.22.1.part2" />
+meiner Frau. Tun Sie ihr eine aufrichtige Liebeserkl&#228;rung. Versichern Sie sie, da&#223; sie Damon nicht mehr liebte. Wenn es sein mu&#223;, nehmen Sie noch ein Paar Notl&#252;gen dazu, wodurch er ihr desto geh&#228;ssiger wird. Sie werden sehen, es wird alles gut gehen.</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg282.2.23.part1">LEANDER.</ns0:speaker>
+                                 <ns0:p xml:id="tg282.2.23.part2"> Wenn sie aber nun darauf beruht, erst abzuwarten, wer am gl&#252;cklichsten bei dem bewu&#223;ten Handel gewesen, so wird mich ja alles nichts helfen.</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg282.2.24.part1">LISETTE.</ns0:speaker>
+                                 <ns0:p xml:id="tg282.2.24.part2"> Hui! ist das der standhafte Freund? So leicht l&#228;&#223;t er sich bereden? &#8211; &#8211; &#8211; Herr Leander, darauf wird sie wohl schwerlich bestehen. Doch gesetzt. Es schadet uns nichts. Wissen Sie was? Ich wei&#223;, da&#223; Sie und Herr Damon einige mal Lust hatten, mit Ihren Kapitalen zu tauschen. Sie sind von gleicher Summe. Ich d&#228;chte, Sie versuchten den Herrn Damon noch dazu zu bereden. Er wei&#223; doch noch nichts, da&#223; Ihr Schiff soll ungl&#252;cklich gewesen sein?</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg282.2.25.part1">LEANDER.</ns0:speaker>
+                                 <ns0:l xml:id="tg282.2.25.part2"> Nein.</ns0:l>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg282.2.26.part1">LISETTE.</ns0:speaker>
+                                 <ns0:p xml:id="tg282.2.26.part2"> Nun, sehen Sie, so geht es vollkommen gut an. Versuchen Sie sein Kapital zu bekommen, und treten Sie ihm das Ihrige mit allem Wucher ab. Sie k&#246;nnen es leicht tun; und werden auch leicht eine scheinbare Ursache dazu ausf&#252;ndig machen k&#246;nnen. Wie, wenn Sie zu ihm sagten? Liebster Damon, die Freundschaft hat uns genau genug verbunden. Wie w&#228;r es aber, wenn wir auch unsre Gl&#252;cksg&#252;ter dazu anwendeten, da&#223; einer dem andern noch mehr verbunden w&#252;rde? Lassen Sie uns derohalben einen Tausch mit den bewu&#223;ten Geldern, die wir in die ostindische Handlung gegeben haben, treffen. Haben sich die Ihrigen mehr verinteressiert, als die meinigen, so werde ich Ihnen alsdenn einen Teil meines Verm&#246;gens zu danken haben. Sollten die meinigen mehr gewuchert haben, so werde ich das Vergn&#252;gen haben, dasjenige in Ihren H&#228;nden zu sehen, was das Gl&#252;ck mir eigentlich beschieden hatte. Und werden wir dadurch nicht desto mehr verpflichtet werden, einer dem andern mit seinem Verm&#246;gen, bei vorfallender Notwendigkeit, beizustehen?</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg282.2.27.part1">LEANDER.</ns0:speaker>
+                                 <ns0:p xml:id="tg282.2.27.part2"> Euer Rat ist gut. Und auch der Vorwand scheinet mir scheinbar genug zu sein. Aber ich besorge, mein Freund <ns0:pb n="717" xml:id="tg282.2.27.1.part2" />
+m&#246;chte einmal einen Verdacht auf mich werfen. Drum m&#246;chte ich selbst ihm diesen Vorschlag nicht gern tun. K&#246;nntet Ihr nicht etwa Eure Frau auf den Einfall bringen? Wenn diese t&#228;te, als ob sie es gern s&#228;he, &#8211; &#8211; so &#8211; &#8211; &#8211;</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg282.2.28.part1">LISETTE.</ns0:speaker>
+                                 <ns0:p xml:id="tg282.2.28.part2"> Ich verstehe Sie. Ich verstehe Sie. Verlassen Sie sich auf mich, und machen Sie nur, da&#223; Sie bald zu meiner Frau kommen.</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg282.2.29.part1">LEANDER.</ns0:speaker>
+                                 <ns0:p xml:id="tg282.2.29.part2"> So bald als ich mit meinem Freunde werde gesprochen haben. Gott ist mein Zeuge, da&#223; ich bei allem dem redliche Absichten habe. Ich wei&#223; es gewi&#223;, mein Freund w&#252;rde, wenn ich mein Verm&#246;gen verl&#246;re, nicht gro&#223;m&#252;tig genug sein k&#246;nnen, die Pflichten, die er mir alsdenn, verm&#246;ge unsers Bundes, schuldig w&#228;re, auszu&#252;ben. Ich will ihn derohalben von dem gewissen Schimpfe, von der Nachwelt ein ungetreuer Freund genennet zu werden, befreien. Meiner Seits aber will ich ihm zeigen, da&#223; meine Reden vollkommen mit meinen Taten &#252;bereinstimmen. Er soll die H&#228;lfte meines Verm&#246;gens haben. &#8211; &#8211; &#8211;</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg282.2.30.part1">LISETTE.</ns0:speaker>
+                                 <ns0:l xml:id="tg282.2.30.part2"> In Ansehung dessen, da&#223; ihm von Rechts wegen das ganze geh&#246;ret &#8211; &#8211; Das ist ein aufrichtiger Freund!</ns0:l>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg282.2.31.part1">LEANDER.</ns0:speaker>
+                                 <ns0:p xml:id="tg282.2.31.part2"> Ich will alles anwenden, ihm wieder aufzuhelfen. Vielleicht ist er ein andermal gl&#252;cklich. Vielleicht &#8211; &#8211; &#8211;</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg282.2.32.part1">LISETTE.</ns0:speaker>
+                                 <ns0:p xml:id="tg282.2.32.part2"> St! St! Herr Damon k&#246;mmt ohne Zweifel wieder. Ich will gehen. Er m&#246;chte denken, wer wei&#223; was wir mit einander zu reden gehabt h&#228;tten. Ich geh zu meiner Frau. Kommen Sie bald nach. &#8211; &#8211; &#8211; &#8211; Nun, das h&#228;tte ich mir nicht vermutet.</ns0:p>
+                                 <ns0:lb xml:id="tg282.2.33" />
+                              </ns0:sp>
+                           </ns0:div>
+                        </ns0:div>
+                     </ns0:div>
+                     <ns0:div n="/Literatur/M/Lessing, Gotthold Ephraim/Dramen/Damon, oder die wahre Freundschaft/5. Auftritt" subtype="work:no" xml:id="tg283">
+                        <ns0:div>
+                           <ns0:desc>
+                              <ns0:title>5. Auftritt</ns0:title>
+                           </ns0:desc>
+                        </ns0:div>
+                        
+                        <ns0:div type="text" xml:id="tg283.2">
+                           <ns0:div type="h4">
+                              <ns0:head type="h4" xml:id="tg283.2.1">F&#252;nfter Auftritt</ns0:head>
+
+                              
+                              
+                              <ns0:stage rend="zenoPC" type="enter" xml:id="tg283.2.4">
+                                 <ns0:hi rend="italic" xml:id="tg283.2.4.1">Leander. Damon.</ns0:hi>
+                              </ns0:stage>
+                              <ns0:lb xml:id="tg283.2.5" />
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg283.2.6.part1">LEANDER.</ns0:speaker>
+                                 <ns0:p xml:id="tg283.2.6.part2"> Ich darf ihm also nichts von meinem Ungl&#252;cke sagen; weswegen ich ihn doch herbestellet hatte. &#8211; &#8211; &#8211; Was werde ich also mit ihm zu reden haben? &#8211; &#8211; Es wird sich schon geben.</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg283.2.7.part1">DAMON.</ns0:speaker>
+                                 <ns0:l xml:id="tg283.2.7.part2"> O wertester Leander, verzeihen Sie mir, da&#223; Sie auf mich haben warten m&#252;ssen.</ns0:l>
+                                 <ns0:pb n="718" xml:id="tg283.2.8" />
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg283.2.9.part1">LEANDER.</ns0:speaker>
+                                 <ns0:p xml:id="tg283.2.9.part2"> Ich Ihnen verzeihen? Womit haben Sie mich beleidiget? Legen Sie doch endlich einmal, allerliebster Freund, das mir so nachteilige Vorurteil ab, da&#223; Sie im Stande w&#228;ren, mich zu beleidigen. Ein Freund wird &#252;ber den andern nie verdrie&#223;lich. Der P&#246;bel, dem die s&#252;&#223;e Vereinigung der Gem&#252;ter unbekannt ist, und ewig zu seinem unersetzlichen Schaden, unbekannt bleiben wird, der P&#246;bel, die Schande des menschlichen Geschlechts, mag untereinander z&#252;rnen. Die Freundschaft bewaffnet eine edle Seele mit einer un&#252;berwindlichen Sanftmut. Was ihr Freund tut, was von ihrem Freunde k&#246;mmt, ist ihr billig und angenehm. Die Beleidigungen werden nur durch die b&#246;sen Absichten dessen, der beleidiget, und durch die Empfindlichkeit dessen, der beleidiget wird, zu Beleidigungen. Wo niemand also b&#246;se Absichten hat, wo niemand empfindlich wird, da haben auch keine Beleidigungen Statt. Wird aber ein Freund gegen den andern wohl b&#246;se Absichten hegen? Oder wird ein Freund &#252;ber den andern wohl empfindlich werden? Nein. Drum, liebster Damon, wenn mir auch durch Sie der gr&#246;&#223;te Schimpf widerf&#252;hre; wenn ich durch Sie um Ehre und Ansehen k&#228;me; wenn ich durch Sie Gut und Geld verl&#246;re; wenn ich durch Sie ungesund, lahm, blind und taub w&#252;rde; wenn Sie mich um Vater und Mutter br&#228;chten; wenn Sie mir selbst das Leben n&#228;hmen; glauben Sie, liebster Damon, da&#223; Sie mich alsdenn beleidiget h&#228;tten? Nein. So viel Unrecht Sie auch h&#228;tten, so viel Recht w&#252;rden Sie bei mir haben. W&#252;rde Sie auch die ganze Welt verdammen; ich w&#252;rde Sie entschuldigen, ich w&#252;rde Sie lossprechen.</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg283.2.10.part1">DAMON.</ns0:speaker>
+                                 <ns0:p xml:id="tg283.2.10.part2"> Ich will w&#252;nschen, Leander, da&#223; ich Ihnen mit gleichem Feuer antworten k&#246;nnte. Ich will mich bem&#252;hen, Ihre Freundschaft nie auf eine so harte Probe zu setzen.</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg283.2.11.part1">LEANDER.</ns0:speaker>
+                                 <ns0:p xml:id="tg283.2.11.part2"> Ei, liebster Freund, wie so kaltsinnig? Zweifeln Sie an der Aufrichtigkeit meiner Rede? Zweifeln Sie, ob meine Freundschaft diese Probe aushalten w&#252;rde? Wollte doch Gott, ja wollte doch Gott, da&#223; Sie mich, je eher je lieber auf eine Art beleidigten, welche bei andern unvergeblich sein w&#252;rde! wie vergn&#252;gt, wie entz&#252;ckt wollte ich <ns0:pb n="719" xml:id="tg283.2.11.1.part2" />
+sein, die s&#252;&#223;e Rache einer gro&#223;m&#252;tigen Verzeihung an Ihnen auszu&#252;ben.</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg283.2.12.part1">DAMON.</ns0:speaker>
+                                 <ns0:l xml:id="tg283.2.12.part2"> Und ich will mir dagegen w&#252;nschen, da&#223; ich dieser gro&#223;m&#252;tigen Verzeihung niemals m&#246;ge n&#246;tig haben.</ns0:l>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg283.2.13.part1">LEANDER.</ns0:speaker>
+                                 <ns0:p xml:id="tg283.2.13.part2"> Ja, Damon, und ich w&#252;rde, in gleichen F&#228;llen, auch ein Gleiches von Ihnen erwarten. O! ich kenne Sie zu wohl. Ihre Seele ist edel und gro&#223;m&#252;tig. Und diese l&#228;&#223;t mich nicht daran zweifeln.</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg283.2.14.part1">DAMON.</ns0:speaker>
+                                 <ns0:p xml:id="tg283.2.14.part2"> Sie trauen mir zu viel zu, wertester Leander. Voll Scham gesteh ich Ihnen, da&#223; ich mich zu schwach dazu befinde. Die Gedanken davon scheinen mir edel und wahr. Die Erf&#252;llung aber unm&#246;glich. Ich zittere schon im voraus, wenn ich mir vorstelle, da&#223; meine Freundschaft einen so harten Versuch vielleicht einmal auszuhalten habe. Doch Ihre Tugend ist mir gut daf&#252;r. Und ist ein Freund wohl auch zu einer so allzu gro&#223;m&#252;tigen Sanftmut verbunden? Ich wei&#223; es, es ist die Pflicht eines Freundes, dem andern zu verzeihen. Doch ist es auch des andern Pflicht, ihm so wenig Gelegenheit dazu zu geben, als ihm nur m&#246;glich ist.</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg283.2.15.part1">LEANDER.</ns0:speaker>
+                                 <ns0:p xml:id="tg283.2.15.part2"> Freund, im Verzeihen m&#252;ssen wir dem Himmel gleich sein. Unsere Verbrechen, so gro&#223; und so h&#228;ufig sie sind, machen ihn in dieser, ihm w&#252;rdigen, Besch&#228;ftigung nicht m&#252;de. Wen man einmal zu seinem Freunde erw&#228;hlt hat, den mu&#223; man behalten. Weder seine Fehler noch seine Beleidigungen m&#252;ssen verm&#246;gend sein, ihn aus unsrer Gunst zu setzen. Man beschimpfet sich selbst, wenn man es dazu kommen l&#228;&#223;t. Oder ist es etwan kein Schimpf, wenn man mit Scham gestehen mu&#223;, da&#223; man in der Wahl gr&#246;blich geirret habe?</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg283.2.16.part1">DAMON.</ns0:speaker>
+                                 <ns0:p xml:id="tg283.2.16.part2"> Aber, liebster Leander, sagen Sie mir doch, weswegen Sie mit mir zu reden verlangt? Was ist denn das Wichtige, das Sie mir zu entdecken haben?</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg283.2.17.part1">LEANDER.</ns0:speaker>
+                                 <ns0:p xml:id="tg283.2.17.part2"> Werden Ihnen meine Reden beschwerlich? Ich kann es nicht glauben. Sie wissen, wie gern man von Sachen redet, die uns angenehm sind. Und ich wei&#223;, man h&#246;ret auch eben so gern davon. Sie scheinen mir aber heute zu beiden ein wenig verdrie&#223;lich. Was beunruhiget Sie? Ist Ihnen ein Ungl&#252;ck zugesto&#223;en? Entdecken Sie mir es. Machen <ns0:pb n="720" xml:id="tg283.2.17.1.part2" />
+Sie mir das Vergn&#252;gen, Ihren Schmerz mit Ihnen zu teilen. Sie sollen alsdenn alles erfahren, was ich Ihnen zu sagen habe.</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg283.2.18.part1">DAMON.</ns0:speaker>
+                                 <ns0:l xml:id="tg283.2.18.part2"> Sie betr&#252;gen sich nicht. Ich bin best&#252;rzt und bek&#252;mmert.</ns0:l>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg283.2.19.part1">LEANDER.</ns0:speaker>
+                                 <ns0:p xml:id="tg283.2.19.part2"> Und wor&#252;ber? O was zaudern Sie, mir Ihr Geheimnis anzuvertrauen. Setzen Sie in meine Verschwiegenheit ein Mi&#223;trauen? Zweifeln Sie, da&#223; ich Ihnen helfen werde, wenn es in meinen Kr&#228;ften stehet? Oder zweifeln Sie gar an meinem Mitleiden? Wenn ich mein Herz gegen Sie aussch&#252;tten kann, so weichet gleich die H&#228;lfte meines Grams. Und versuchen Sie es nur. Vielleicht bin ich so gl&#252;cklich, da&#223; Sie auch in meinem Vertrauen einige Erleichterung finden.</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg283.2.20.part1">DAMON.</ns0:speaker>
+                                 <ns0:l xml:id="tg283.2.20.part2"> Es betrifft mich und Sie.</ns0:l>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg283.2.21.part1">LEANDER.</ns0:speaker>
+                                 <ns0:p xml:id="tg283.2.21.part2"> Und desto eher; nur heraus damit. M&#252;ssen Sie es etwan verschweigen? O! was man nur seinem Freunde sagt, hat man noch niemanden gesagt. Ich und mein Freund sind eine Person. Und wenn ich den gr&#246;&#223;ten Eidschwur darauf getan h&#228;tte, gegen niemanden ein Wort von dem oder jenen zu gedenken, so k&#246;nnte ich es doch, ohne den Eidschwur zu brechen, meinem Freunde sagen. Was ich dem vertraue, vertraue ich mir selbst. Und ich tue nichts mehr, als wenn ich es noch einmal f&#252;r mich in den Gedanken wiederholte.</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg283.2.22.part1">DAMON.</ns0:speaker>
+                                 <ns0:p xml:id="tg283.2.22.part2"> Nein. Nein. Es soll Ihnen nicht verborgen sein. K&#246;nnten Sie sich wohl einbilden, zu was sich die Madam entschlossen?</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg283.2.23.part1">LEANDER.</ns0:speaker>
+                                 <ns0:l xml:id="tg283.2.23.part2"> Worinne?</ns0:l>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg283.2.24.part1">DAMON.</ns0:speaker>
+                                 <ns0:p xml:id="tg283.2.24.part2"> Nun raten Sie einmal, auf was sie es will ankommen lassen, welchem sie von uns beiden ihre Hand geben solle?</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg283.2.25.part1">LEANDER.</ns0:speaker>
+                                 <ns0:l xml:id="tg283.2.25.part2"> Und eben dieses, mein Damon, eben dieses hatte ich Ihnen auch zu sagen.</ns0:l>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg283.2.26.part1">DAMON.</ns0:speaker>
+                                 <ns0:p xml:id="tg283.2.26.part2"> Aufrichtig nun zu reden, ich bin &#252;ber diesen niedertr&#228;chtigen Entschlu&#223; erstaunet. Nein, Leander, ehe ich ihre Hand einer solchen sch&#228;ndlichen Ursache zu danken haben wollte, eher will ich sie Zeit Lebens ausschlagen.</ns0:p>
+                                 <ns0:pb n="721" xml:id="tg283.2.27" />
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg283.2.28.part1">LEANDER.</ns0:speaker>
+                                 <ns0:p xml:id="tg283.2.28.part2"> Und glauben Sie denn, da&#223; ich sie annehmen w&#252;rde? Wir haben die uneigenn&#252;tzigsten Absichten gegen sie. Wir w&#252;rden sie lieben, wenn sie auch nichts bes&#228;&#223;e. Und sie ist gegen uns so eigenn&#252;tzig? Ist ein verachtungsw&#252;rdiger Reichtum das einzige, was ihr an uns gef&#228;llt?</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg283.2.29.part1">DAMON.</ns0:speaker>
+                                 <ns0:p xml:id="tg283.2.29.part2"> Wie, wenn wir diesen Entschlu&#223; auf alle m&#246;gliche Art suchten zu nichte zu machen? Darf ich Ihnen wohl was vorschlagen? Was meinen Sie, wenn wir Schaden und Gewinst bei unserm Handel teilten?</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg283.2.30.part1">LEANDER.</ns0:speaker>
+                                 <ns0:p xml:id="tg283.2.30.part2"> St! das ist Wasser auf meine M&#252;hle. So k&#246;nnte das Tauschen gar bleiben &#8211; &#8211; &#8211; Ja, Sie haben Recht. Nichts k&#246;nnte sie leichter wieder auf den rechten Weg bringen, einen von uns aus Neigung und Verdienst zu w&#228;hlen. Wohl! Ich bin es zufrieden.</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg283.2.31.part1">DAMON.</ns0:speaker>
+                                 <ns0:p xml:id="tg283.2.31.part2"> O wie vergn&#252;gt machen Sie mich durch Ihren Beifall wieder. Ich besorgte immer, ich besorgte. Sie w&#252;rden mir ihn hier entziehen. Und Sie h&#228;tten Recht dazu gehabt.</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg283.2.32.part1">LEANDER.</ns0:speaker>
+                                 <ns0:p xml:id="tg283.2.32.part2"> Wie wenig trauen Sie mir doch zu! So? Was k&#246;nnte ich denn f&#252;r Recht haben, hierinne nicht mit Ihnen einig zu sein? Alle G&#252;ter sind ja unter Freunden gemein. Was ich besitze, besitzen Sie. Und was Sie besitzen, darauf glaube ich auch ein kleines Recht zu haben. Verflucht sei der Eigennutz! wenn Ihnen das Ungl&#252;ck auch so sehr zuwider sein sollte, da&#223; Sie alles, alles dabei verl&#246;ren. Nicht die H&#228;lfte meines Verm&#246;gens, mein ganzes Verm&#246;gen w&#228;re allezeit so gut, als das Ihrige.</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg283.2.33.part1">DAMON.</ns0:speaker>
+                                 <ns0:l xml:id="tg283.2.33.part2"> Freund, Sie machen mich ganz besch&#228;mt!</ns0:l>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg283.2.34.part1">LEANDER.</ns0:speaker>
+                                 <ns0:p xml:id="tg283.2.34.part2"> Was ich sage, w&#252;rde ich auch tun. Und wenn ich es getan h&#228;tte, so w&#252;rde ich doch nichts mehr getan haben, als was die Pflicht eines Freundes verlangt.</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg283.2.35.part1">DAMON.</ns0:speaker>
+                                 <ns0:p xml:id="tg283.2.35.part2"> Aber ich wei&#223; nicht, was ich bei mir f&#252;r eine geheime Ursache finde, selbst an der Wahrheit dieses Entschlusses zu zweifeln. K&#246;nnte mir wohl Lisette &#8211; &#8211;</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg283.2.36.part1">LEANDER.</ns0:speaker>
+                                 <ns0:p xml:id="tg283.2.36.part2"> Und von der hab ich es auch. Doch dahinter wollen wir wohl kommen. Es liegt uns beiden nicht wenig dran. Erlauben Sie mir, da&#223; ich Sie verlasse. Ich will selbst zu ihr gehen, und mich bei unserer Liebsten erkundigen.</ns0:p>
+                                 <ns0:pb n="722" xml:id="tg283.2.37" />
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg283.2.38.part1">DAMON.</ns0:speaker>
+                                 <ns0:p xml:id="tg283.2.38.part2"> Aber, Leander, wie wird sich das schicken? Wird sie &#252;ber diese Neugierigkeit nicht empfindlich werden?</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg283.2.39.part1">LEANDER.</ns0:speaker>
+                                 <ns0:l xml:id="tg283.2.39.part2"> Sorgen Sie nicht, ich will es schon mit einer Art vorzubringen wissen &#8211; &#8211; &#8211; &#8211;</ns0:l>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg283.2.40.part1">DAMON.</ns0:speaker>
+                                 <ns0:l xml:id="tg283.2.40.part2"> Nun ich verlasse mich auf Ihre Geschicklichkeit. Kommen Sie bald wieder, mir Nachricht zu bringen.</ns0:l>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg283.2.41.part1">LEANDER.</ns0:speaker>
+                                 <ns0:l xml:id="tg283.2.41.part2"> &#8211; &#8211; So komme ich doch unter einem guten Vorwande wieder von ihm.</ns0:l>
+                                 <ns0:lb xml:id="tg283.2.42" />
+                              </ns0:sp>
+                           </ns0:div>
+                        </ns0:div>
+                     </ns0:div>
+                     <ns0:div n="/Literatur/M/Lessing, Gotthold Ephraim/Dramen/Damon, oder die wahre Freundschaft/6. Auftritt" subtype="work:no" xml:id="tg284">
+                        <ns0:div>
+                           <ns0:desc>
+                              <ns0:title>6. Auftritt</ns0:title>
+                           </ns0:desc>
+                        </ns0:div>
+                        
+                        <ns0:div type="text" xml:id="tg284.2">
+                           <ns0:div type="h4">
+                              <ns0:head type="h4" xml:id="tg284.2.1">Sechster Auftritt</ns0:head>
+
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg284.2.2.part1">DAMON.</ns0:speaker>
+                                 <ns0:p xml:id="tg284.2.2.part2"> &#8211; &#8211; &#8211; Entweder, ich bin zur Freundschaft ganz ungeschickt, oder Leander hat sehr ausschweifende Begriffe davon. &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; Ich bin ungl&#252;cklich wenn das erste wahr ist &#8211; &#8211; &#8211; Ja &#8211; &#8211; die Freundschaft &#8211; &#8211; &#8211; sie ist allerdings das, was uns das Leben erst angenehm machen mu&#223; &#8211; &#8211; &#8211; So viel empfinde ich &#8211; &#8211; &#8211; Aber so viel empfinde ich doch nicht, als mein Freund zu empfinden sagt. &#8211; &#8211; &#8211; &#8211; Gesetzt ich w&#252;rde von ihm beleidigt &#8211; &#8211; &#8211; ich w&#252;rde so von ihm beleidigt &#8211; &#8211; &#8211; als er von mir sich w&#252;nschte, beleidiget zu werden &#8211; &#8211; &#8211; &#8211; w&#252;rde ich wohl &#8211; &#8211; &#8211; nein &#8211; &#8211; ich mag mir nicht schmeicheln &#8211; &#8211; &#8211; ich w&#252;rde &#8211; &#8211; ich w&#252;rde viel zu schwach sein, es ihm zu vergeben &#8211; &#8211; &#8211; &#8211; Ja, ich w&#252;rde es ihm verargen, wenn er mir bei einer solchen Gelegenheit verzeihen wollte &#8211; &#8211; &#8211; ich w&#252;rde ihn selbst tadeln &#8211; &#8211; &#8211; &#8211; Doch &#8211; &#8211; ich halte ihn auch nicht einmal f&#252;r f&#228;hig dazu &#8211; &#8211; &#8211; er mag sein, was er will &#8211; &#8211; &#8211; aber &#8211; &#8211; ich irre mich wohl auch &#8211; &#8211; ich beurteile ihn nach mir &#8211; &#8211; &#8211; &#8211; weil ich so schwach bin; folgt es denn daraus, da&#223; ein anderer &#8211; &#8211; &#8211; Doch allerdings eine so vollkommene Freundschaft ist f&#252;r diese Welt nicht &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; Ob auch wohl Leander so denkt, als er redet? &#8211; &#8211; Halt &#8211; &#8211; &#8211; ich will &#8211; &#8211; &#8211; ja wenn ich ihm berede, ich h&#228;tte Nachricht erhalten, da&#223; mein Schiff untergegangen &#8211; &#8211; &#8211; Da will ich sehen, ob seine Gro&#223;mut &#8211; &#8211; &#8211; es wird mich ein wenig k&#252;tzeln, wenn ich <ns0:pb n="723" xml:id="tg284.2.2.1.part2" />
+ihn best&#252;rzt &#8211; &#8211; &#8211; &#8211; Doch nein &#8211; &#8211; das war ein niedertr&#228;chtiger Einfall &#8211; &#8211; &#8211; Seinen Freund auf die Probe setzen, hei&#223;t, seinen Freund gern verlieren wollen &#8211; &#8211; &#8211; &#8211; &#8211; Nein &#8211; &#8211; aber wenn nun die Witwe auf ihrem t&#246;richten Entschlusse blieb &#8211; &#8211; Gesetzt, Leander w&#252;rde durch sie gl&#252;cklich &#8211; &#8211; &#8211; werde ich sein Freund bleiben k&#246;nnen? &#8211; &#8211; &#8211; Ich zittere &#8211; ja &#8211; ich f&#252;hle meine Schw&#228;che &#8211; &#8211; &#8211; ich w&#252;rde auf ihn z&#252;rnen &#8211; &#8211; &#8211; &#8211; ich w&#252;rde neidisch werden &#8211; &#8211; &#8211; ach &#8211; &#8211; ich sch&#228;me mich recht vor mir selbst &#8211; &#8211; &#8211;</ns0:p>
+                                 <ns0:lb xml:id="tg284.2.3" />
+                              </ns0:sp>
+                           </ns0:div>
+                        </ns0:div>
+                     </ns0:div>
+                     <ns0:div n="/Literatur/M/Lessing, Gotthold Ephraim/Dramen/Damon, oder die wahre Freundschaft/7. Auftritt" subtype="work:no" xml:id="tg285">
+                        <ns0:div>
+                           <ns0:desc>
+                              <ns0:title>7. Auftritt</ns0:title>
+                           </ns0:desc>
+                        </ns0:div>
+                        
+                        <ns0:div type="text" xml:id="tg285.2">
+                           <ns0:div type="h4">
+                              <ns0:head type="h4" xml:id="tg285.2.1">Siebenter Auftritt</ns0:head>
+
+                              
+                              
+                              <ns0:stage rend="zenoPC" type="enter" xml:id="tg285.2.4">
+                                 <ns0:hi rend="italic" xml:id="tg285.2.4.1">Oronte. Damon.</ns0:hi>
+                              </ns0:stage>
+                              <ns0:lb xml:id="tg285.2.5" />
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg285.2.6.part1">ORONTE.</ns0:speaker>
+                                 <ns0:p xml:id="tg285.2.6.part2"> Nun, da ist Er ja. Versteh Er mich! Vetter, habe ich Ihn doch m&#252;ssen in zehn H&#228;usern suchen. Versteh Er mich! Und ich h&#228;tte Ihn eher sonst wo zu finden geglaubt als bei der jungen Witwe. Versteh Er mich.</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg285.2.7.part1">DAMON.</ns0:speaker>
+                                 <ns0:l xml:id="tg285.2.7.part2"> Je was f&#252;hrt Sie denn hieher, Herr Vetter?</ns0:l>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg285.2.8.part1">ORONTE.</ns0:speaker>
+                                 <ns0:p xml:id="tg285.2.8.part2"> So? sieht Er mirs nicht an, versteh Er mich, was ich will? Mache Er sich nur parat, versteh Er mich, eine Nachricht von mir zu h&#246;ren, die Ihn halb tot, versteh Er mich, und wenn Er noch ein klein wenig Vernunft &#252;brig hat, versteh Er mich, die Ihn rasend machen wird.</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg285.2.9.part1">DAMON.</ns0:speaker>
+                                 <ns0:l xml:id="tg285.2.9.part2"> Sie erschrecken mich. Was ist es denn?</ns0:l>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg285.2.10.part1">ORONTE.</ns0:speaker>
+                                 <ns0:p xml:id="tg285.2.10.part2"> Habe ichs Ihm nicht gesagt, versteh Er mich, da&#223; es Ihm mit Seinem Kapitale w&#252;rde ungl&#252;cklich gehen? Versteh Er mich. Da seh Er, lese Er &#8211; &#8211; Sein Schiff ist untergegangen. Da, lese Er nur, versteh Er mich &#8211; &#8211; Er wird alle Umst&#228;nde finden, versteh Er mich.</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg285.2.11.part1">DAMON.</ns0:speaker>
+                                 <ns0:l xml:id="tg285.2.11.part2"> So?</ns0:l>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg285.2.12.part1">ORONTE.</ns0:speaker>
+                                 <ns0:p xml:id="tg285.2.12.part2"> Nun, hab ichs Ihm doch vorher gesagt, versteh Er mich. Aber ihr jungen Leute, la&#223;t euch doch niemals sagen, versteh Er mich. Alles, alles wollt ihr besser einsehen. Schon recht! versteh Er mich, schon recht!</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg285.2.13.part1">DAMON.</ns0:speaker>
+                                 <ns0:l xml:id="tg285.2.13.part2"> Dieses Ungl&#252;ck h&#228;tte ich mir nicht versehen &#8211; &#8211; &#8211;</ns0:l>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg285.2.14.part1">ORONTE.</ns0:speaker>
+                                 <ns0:p xml:id="tg285.2.14.part2"> Ist das das Ganze, was man sagen kann, versteh Er <ns0:pb n="724" xml:id="tg285.2.14.1.part2" />
+mich, wenn man sein Verm&#246;gen verliert? O Leichtsinnigkeit! o gottlose Leichtsinnigkeit! versteh Er mich. Auf 12000 Rtlr. versteh Er mich. Auf zw&#246;lf tausend! Nun, Vetter, sag Er, was will Er nun anfangen? versteh Er mich. Er ist von der ganzen Welt verlassen, verlassen, und mit Recht. Versteh Er mich. Kann Ers leugnen, da&#223; ichs Ihm vorher verk&#252;ndigt habe? Kann Ers leugnen? Versteh Er mich. Wie vielmal habe ich Ihm die g&#252;ldne Regel gegeben: Was aufs Wasser k&#246;mmt, versteh Er mich, ist so gut, als halb verloren.</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg285.2.15.part1">DAMON.</ns0:speaker>
+                                 <ns0:l xml:id="tg285.2.15.part2"> Ach! m&#246;chte doch das Geld sein, wo es wollte &#8211; &#8211; &#8211; &#8211; wenn nur &#8211; &#8211; &#8211;</ns0:l>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg285.2.16.part1">ORONTE.</ns0:speaker>
+                                 <ns0:p xml:id="tg285.2.16.part2"> Ach! Schade um das Geld! Das sind gescheute Reden. Versteh Er mich. Damon, Damon, ein Mensch, der so denken kann, ist nicht wert, da&#223; er mein Vetter sei. Versteh Er mich. Ach! schade ums Geld! Nein, Gott sei Dank, versteh Er mich, so albern und gottesvergessen bin ich in meiner Jugend nicht gewesen. Denkt Er, versteh Er mich, da&#223; Ihn die junge Witwe nun heiraten wird? versteh Er mich. Sie m&#252;&#223;te eine N&#228;rrin sein. Versteh Er mich.</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg285.2.17.part1">DAMON.</ns0:speaker>
+                                 <ns0:p xml:id="tg285.2.17.part2"> Ja, Herr Vetter, dieses besorge ich. Und dieses ist auch das einzige, was mir mein Ungl&#252;ck empfindlich macht.</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg285.2.18.part1">ORONTE.</ns0:speaker>
+                                 <ns0:p xml:id="tg285.2.18.part2"> Der Narr, versteh Er mich. Als wenn es nicht so schon empfindlich genug w&#228;re. Versteh Er mich. Doch Vetter, da&#223; Er sehn soll, versteh Er mich, wie gut ich es mit Ihm meine, so will ich Ihm, versteh Er mich, bei den Umst&#228;nden raten: mache Er banquerout.</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg285.2.19.part1">DAMON.</ns0:speaker>
+                                 <ns0:l xml:id="tg285.2.19.part2"> Wie, so niedertr&#228;chtig &#8211; &#8211; &#8211;</ns0:l>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg285.2.20.part1">ORONTE.</ns0:speaker>
+                                 <ns0:p xml:id="tg285.2.20.part2"> Was? Was? Niedertr&#228;chtig? versteh Er mich. Das nennt Er niedertr&#228;chtig, versteh Er mich, Vetter, wenn man banqueroute macht? Zum Henker! versteh Er mich, habe ich nicht f&#252;nf mal banqueroute gemacht? Und bin ich niedertr&#228;chtig gewesen? versteh Er mich. Habe ich mich mein ganzes Verm&#246;gen dem Banqueroute zu danken? versteh Er mich. Zu dem ersten brachte mich meine Frau! versteh Er mich. Das war eine stolze verschwenderische N&#228;rrin! Gott habe sie selig, versteh Er mich. Aber das vergelte <ns0:pb n="725" xml:id="tg285.2.20.1.part2" />
+ihr noch Gott im Himmel, wo sie ohne Zweifel sein wird, versteh Er mich, denn sie war allezeit gern, wo es fein lustig und fein pr&#228;chtig zuging, versteh Er mich; das, sage ich, vergelte ihr der liebe Gott, da&#223; sie mir auf den so kurzen Weg zum Reichtume zu gelangen geholfen hat. Versteh Er mich. Denkt Er, Vetter, da&#223; ich mit f&#252;nf Banquerouten, versteh Er mich, w&#252;rde aufgeh&#246;rt haben, wenn mir es nicht w&#228;re ausdr&#252;cklich verboten worden, versteh Er mich, die Handlung aufs neue anzufangen?</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg285.2.21.part1">DAMON.</ns0:speaker>
+                                 <ns0:p xml:id="tg285.2.21.part2"> Nein, Herr Vetter, ich kann Ihnen durchaus nicht schmeicheln. Es bringt Ihnen ein so schlimm erworbener Reichtum wenig Ehre.</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg285.2.22.part1">ORONTE.</ns0:speaker>
+                                 <ns0:p xml:id="tg285.2.22.part2"> Ach! ach! Ehre! Ehre! Versteh Er mich. Um die Ehre ist es auch zu tun. Es mu&#223; mancher, versteh Er mich, bei aller Ehre, die er hat, verhungern. Ach! die Ehre. Ist Er nicht ein Grillenf&#228;nger? Versteh Er mich. Nicht wahr, versteh Er mich, es wird meinen Erben gleichviel sein, ob ich ihn mit Ehre oder ohne Ehre besessen habe. Versteh Er mich. Sie werden mirs danken, und wenn ich ihn gestohlen h&#228;tte. Versteh Er mich.</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg285.2.23.part1">DAMON.</ns0:speaker>
+                                 <ns0:p xml:id="tg285.2.23.part2"> Nein, Herr Vetter, wenn Ihre Erben vern&#252;nftig sein werden, so werden sie nach Ihrem Tode Ihre Verlassenschaft dazu anwenden, da&#223; sie denjenigen, die durch Ihre Banqueroute ungl&#252;cklich geworden sind, wieder aufhelfen.</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg285.2.24.part1">ORONTE.</ns0:speaker>
+                                 <ns0:p xml:id="tg285.2.24.part2"> Was? Was? Versteh Er mich. Das sollen meine Erben tun? Ja, wenn ich das voraus sehen k&#246;nnte, gewi&#223;, versteh Er mich, gewi&#223; ich lie&#223;e mir eher einmal alle mein Hab und Gut mit ins Grab geben. H&#228;tte ich mirs deswegen so sauer werden lassen? Versteh Er mich. F&#252;nfmal habe ich m&#252;ssen schw&#246;ren. F&#252;nfmal h&#228;tte ich also umsonst geschworen? Versteh Er mich. H&#246;re Er, Vetter, weil ich sehe, da&#223; Er so wider Recht und Pflicht handeln w&#252;rde, versteh Er mich, so will ich Ihn fein aus meinem Testamente lassen. Versteh Er mich. Darnach mag Er vollends sehn, was man anf&#228;ngt, wenn man nichts hat, versteh Er mich.</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg285.2.25.part1">DAMON.</ns0:speaker>
+                                 <ns0:l xml:id="tg285.2.25.part2"> Alsdenn wird der Himmel f&#252;r mich sorgen.</ns0:l>
+                                 <ns0:pb n="726" xml:id="tg285.2.26" />
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg285.2.27.part1">ORONTE.</ns0:speaker>
+                                 <ns0:p xml:id="tg285.2.27.part2"> Wer? Wer? Versteh Er mich. Wer wird f&#252;r Ihn sorgen? Der Himmel? Ja, getr&#246;ste Er sich nur. Ja, er wird f&#252;r Ihn sorgen, versteh Er mich, wie f&#252;r die Sperlinge im Winter. Der Himmel will haben, versteh Er mich, da&#223; wir f&#252;r uns selbst fein sorgen sollen. Dazu hat er uns Verstand und Klugheit gegeben; versteh Er mich.</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg285.2.28.part1">DAMON.</ns0:speaker>
+                                 <ns0:p xml:id="tg285.2.28.part2"> Ja, und manchem noch &#252;ber dieses Bosheit und Geiz, wenn Verstand und Klugheit etwan nicht hinl&#228;nglich sein wollten.</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg285.2.29.part1">ORONTE.</ns0:speaker>
+                                 <ns0:p xml:id="tg285.2.29.part2"> Vetter, soll das auf mich gehen? Versteh Er mich! Sei Er mir nicht so naseweis! Ich wei&#223; schon, auf was Er trotzt. Versteh Er mich. Er denkt itzo eine gute Heirat zu tun. Aber sieht Er mich? Ich will dem Wolfe das Sch&#228;fchen noch schon entrei&#223;en, versteh Er mich. Leander hat nunmehr Recht dazu. Dessen Schiff ist gl&#252;cklich angekommen, ob man ihm gleich erst geschrieben hatte, versteh Er mich, da&#223; es verungl&#252;ckt w&#228;re. Es ist aber nichts weiter, als eine Irrung, versteh Er mich. Seines, Seines ist drauf gegangen. Versteh Er mich.</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg285.2.30.part1">DAMON.</ns0:speaker>
+                                 <ns0:l xml:id="tg285.2.30.part2"> Wie? Leandern ist dies geschrieben worden? Und er hat mir nichts gesagt?</ns0:l>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg285.2.31.part1">ORONTE.</ns0:speaker>
+                                 <ns0:p xml:id="tg285.2.31.part2"> Mu&#223; man Ihm denn alles auf die Nase binden? Versteh Er mich. Nun, nun. Er soll schon sehn, was ihm Sein Ungl&#252;ck, trotz Seiner Ehre und trotz des Himmels! schaden soll. Ich gehe itzo gleich selber zu der Witwe. Sie soll alles erfahren. Versteh Er mich. Leb Er wohl, versteh Er mich.</ns0:p>
+                                 <ns0:lb xml:id="tg285.2.32" />
+                              </ns0:sp>
+                           </ns0:div>
+                        </ns0:div>
+                     </ns0:div>
+                     <ns0:div n="/Literatur/M/Lessing, Gotthold Ephraim/Dramen/Damon, oder die wahre Freundschaft/8. Auftritt" subtype="work:no" xml:id="tg286">
+                        <ns0:div>
+                           <ns0:desc>
+                              <ns0:title>8. Auftritt</ns0:title>
+                           </ns0:desc>
+                        </ns0:div>
+                        
+                        <ns0:div type="text" xml:id="tg286.2">
+                           <ns0:div type="h4">
+                              <ns0:head type="h4" xml:id="tg286.2.1">Achter Auftritt</ns0:head>
+
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg286.2.2.part1">DAMON.</ns0:speaker>
+                                 <ns0:p xml:id="tg286.2.2.part2"> &#8211; &#8211; &#8211; Verdrie&#223;liche Nachricht! &#8211; &#8211; &#8211; Ich verliere mein Verm&#246;gen &#8211; &#8211; dieses m&#246;chte noch sein. Wer wei&#223;, wenn Leander ungl&#252;cklich gewesen w&#228;re, ich w&#252;rde vielleicht nicht gro&#223;m&#252;tig genug gewesen sein, ihm zu helfen &#8211; &#8211; &#8211; Was f&#252;r eine Schande f&#252;r mich, wenn ich an ihm untreu geworden <ns0:pb n="727" xml:id="tg286.2.2.1.part2" />
+w&#228;re! &#8211; &#8211; &#8211; &#8211; der Himmel hat mich davor bewahren wollen &#8211; &#8211; &#8211; ich bin gl&#252;cklich bei allem meinem Ungl&#252;cke &#8211; &#8211; &#8211; aber ich verliere zugleich die liebensw&#252;rdige Witwe &#8211; &#8211; &#8211; sie wird sich an Leandern nun ohne Schwierigkeit geben &#8211; &#8211; an Leandern &#8211; &#8211; doch Leander ist ja mein Freund &#8211; &#8211; &#8211; die Liebe &#8211; &#8211; die verdammte Liebe &#8211; &#8211; &#8211; verdient sie mein Freund nicht eben so wohl, als ich? &#8211; &#8211; &#8211; was darf ich viel nach einer Frau fragen, deren Herz ich, wenn ich es ja bekommen h&#228;tte, blo&#223; meines Geldes wegen bekommen h&#228;tte &#8211; &#8211; Aber doch &#8211; &#8211; &#8211; sie ist liebensw&#252;rdig &#8211; &#8211; &#8211; wie mu&#223; ich mit mir selber k&#228;mpfen! &#8211; &#8211; &#8211; Allein Leander &#8211; &#8211; sollte es wahr sein, da&#223; er diese falsche Nachricht bekommen h&#228;tte? &#8211; &#8211; &#8211; und er sollte mir es verschwiegen haben? &#8211; &#8211; &#8211; wie h&#228;tte er den Vorschlag annehmen k&#246;nnen, den ich ihm tat &#8211; &#8211; &#8211; ich falle auf ganz besondre Gedanken &#8211; &#8211; &#8211; doch weg damit &#8211; &#8211; sie sch&#228;nden meinen Freund &#8211; &#8211; &#8211;</ns0:p>
+                                 <ns0:lb xml:id="tg286.2.3" />
+                              </ns0:sp>
+                           </ns0:div>
+                        </ns0:div>
+                     </ns0:div>
+                     <ns0:div n="/Literatur/M/Lessing, Gotthold Ephraim/Dramen/Damon, oder die wahre Freundschaft/9. Auftritt" subtype="work:no" xml:id="tg287">
+                        <ns0:div>
+                           <ns0:desc>
+                              <ns0:title>9. Auftritt</ns0:title>
+                           </ns0:desc>
+                        </ns0:div>
+                        
+                        <ns0:div type="text" xml:id="tg287.2">
+                           <ns0:div type="h4">
+                              <ns0:head type="h4" xml:id="tg287.2.1">Neunter Auftritt</ns0:head>
+
+                              
+                              
+                              <ns0:stage rend="zenoPC" type="enter" xml:id="tg287.2.4">
+                                 <ns0:hi rend="italic" xml:id="tg287.2.4.1">Lisette. Damon.</ns0:hi>
+                              </ns0:stage>
+                              <ns0:lb xml:id="tg287.2.5" />
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg287.2.6.part1">LISETTE.</ns0:speaker>
+                                 <ns0:l xml:id="tg287.2.6.part2"> So alleine? und so betr&#252;bt?</ns0:l>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg287.2.7.part1">DAMON.</ns0:speaker>
+                                 <ns0:p xml:id="tg287.2.7.part2"> Ach Lisette, meinen Kummer zu erleichtern, mu&#223; ich ihn dem ersten dem besten erz&#228;hlen. Ich bin ungl&#252;cklich gewesen. Mein Schiff ist in einem Sturme untergegangen. Ich habe die gewisseste Nachricht. Himmel! und ich verliere zugleich alle Hoffnung von Eurer Frau &#8211; &#8211; &#8211;</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg287.2.8.part1">LISETTE.</ns0:speaker>
+                                 <ns0:l xml:id="tg287.2.8.part2"> Was? So ist es an Leanders Ungl&#252;cke nicht genug gewesen?</ns0:l>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg287.2.9.part1">DAMON.</ns0:speaker>
+                                 <ns0:p xml:id="tg287.2.9.part2"> Wie so, an Leanders? Sein Schiff ist ja gl&#252;cklich angekommen. Was ist ihm denn f&#252;r ein Ungl&#252;ck begegnet?</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg287.2.10.part1">LISETTE.</ns0:speaker>
+                                 <ns0:l xml:id="tg287.2.10.part2"> Ja. Sein Schiff ist so h&#252;bsch eingelaufen, wie das Ihre. Er hat mir es ja selber gesagt.</ns0:l>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg287.2.11.part1">DAMON.</ns0:speaker>
+                                 <ns0:p xml:id="tg287.2.11.part2"> Er hat es Euch selber gesagt? So ist mein Verdacht doch wohl gegr&#252;ndet &#8211; &#8211; &#8211; Dem ohngeachtet, Lisette, k&#246;nnt Ihr mir gewi&#223; glauben, da&#223; es eine blo&#223;e Irrung mit <ns0:pb n="728" xml:id="tg287.2.11.1.part2" />
+seinem Schiffe gewesen &#8211; &#8211; aber sollte mein Freund wohl eine kleine Untreue an mir begangen haben?</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg287.2.12.part1">LISETTE.</ns0:speaker>
+                                 <ns0:p xml:id="tg287.2.12.part2"> Eine Untreue? Was f&#252;r eine Untreue? Beh&#252;te Gott! Leander ist der getreuste Freund von der Welt. Ha ha ha ha!</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg287.2.13.part1">DAMON.</ns0:speaker>
+                                 <ns0:l xml:id="tg287.2.13.part2"> Warum lacht Ihr?</ns0:l>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg287.2.14.part1">LISETTE.</ns0:speaker>
+                                 <ns0:p xml:id="tg287.2.14.part2"> Ja das ist gewi&#223;. Auf seine Treue k&#246;nnen Sie sich nun verlassen. Ha ha ha! Er wird Ihnen in Ihrer Not redlich beistehen. Ha ha ha!</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg287.2.15.part1">DAMON.</ns0:speaker>
+                                 <ns0:l xml:id="tg287.2.15.part2"> Das hoffe ich auch gewi&#223;.</ns0:l>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg287.2.16.part1">LISETTE.</ns0:speaker>
+                                 <ns0:l xml:id="tg287.2.16.part2"> Und ich auch. Ha ha ha! Ich wei&#223; seine guten Absichten. Ha ha ha!</ns0:l>
+                                 <ns0:lb xml:id="tg287.2.17" />
+                              </ns0:sp>
+                           </ns0:div>
+                        </ns0:div>
+                     </ns0:div>
+                     <ns0:div n="/Literatur/M/Lessing, Gotthold Ephraim/Dramen/Damon, oder die wahre Freundschaft/10. Auftritt" subtype="work:no" xml:id="tg288">
+                        <ns0:div>
+                           <ns0:desc>
+                              <ns0:title>10. Auftritt</ns0:title>
+                           </ns0:desc>
+                        </ns0:div>
+                        
+                        <ns0:div type="text" xml:id="tg288.2">
+                           <ns0:div type="h4">
+                              <ns0:head type="h4" xml:id="tg288.2.1">Letzter Auftritt</ns0:head>
+
+                              
+                              
+                              <ns0:stage rend="zenoPC" type="enter" xml:id="tg288.2.4">
+                                 <ns0:hi rend="italic" xml:id="tg288.2.4.1">Oronte. Die Witwe. Leander. Damon. Lisette.</ns0:hi>
+                              </ns0:stage>
+                              <ns0:lb xml:id="tg288.2.5" />
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg288.2.6.part1">DIE WITWE.</ns0:speaker>
+                                 <ns0:p xml:id="tg288.2.6.part2"> Wertester Damon, ich habe die betr&#252;bte Nachricht von Ihrem Herrn Vetter vernommen. Ich versichre Sie, da&#223; mir Ihr Ungl&#252;ck nicht n&#228;her h&#228;tte k&#246;nnen gehen, wenn mir es auch selbst widerfahren w&#228;re.</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg288.2.7.part1">LEANDER.</ns0:speaker>
+                                 <ns0:p xml:id="tg288.2.7.part2"> Mein liebster Freund, das Gl&#252;ck ist Ihnen zuwider gewesen. Ich wei&#223;, Ihr Gem&#252;t ist viel zu gesetzt, als da&#223; es dieser eitle Verlust sehr beunruhigen sollte. Ich hoffe &#252;brigens, da&#223; Sie leicht mit dem Gl&#252;cke werden auszus&#246;hnen sein. Es wird Ihnen vielleicht dasjenige, was es Ihnen itzo entzogen, ein andermal desto reichlicher ersetzen.</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg288.2.8.part1">ORONTE.</ns0:speaker>
+                                 <ns0:l xml:id="tg288.2.8.part2"> Ja, Vetter, ja, versteh Er mich. Ein andermal. Ein andermal. Ha ha ha!</ns0:l>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg288.2.9.part1">LEANDER.</ns0:speaker>
+                                 <ns0:p xml:id="tg288.2.9.part2"> Sie, Madam, haben die G&#252;tigkeit gehabt, sich f&#252;r den gl&#252;cklichsten unter uns zu erkl&#228;ren. Der Himmel hat gewollt, da&#223; ich es sei. Doch ich werde mich alsdenn erst wirklich f&#252;r das halten, wenn Sie durch das kostbare Geschenk Ihres Herzens mir &#8211; &#8211; &#8211;</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg288.2.10.part1">DIE WITWE.</ns0:speaker>
+                                 <ns0:l xml:id="tg288.2.10.part2"> Und diesen Antrag, Leander, k&#246;nnen Sie in Gegenwart Ihres Freundes wiederholen?</ns0:l>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg288.2.11.part1">DAMON.</ns0:speaker>
+                                 <ns0:l xml:id="tg288.2.11.part2"> Gerechter Himmel! was h&#246;re ich?</ns0:l>
+                                 <ns0:pb n="729" xml:id="tg288.2.12" />
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg288.2.13.part1">LEANDER.</ns0:speaker>
+                                 <ns0:p xml:id="tg288.2.13.part2"> O, Madam, ich kenne meinen Freund allzu wohl. Er wird sich nicht unterstehen, Ihnen in Ihrem Gl&#252;cke hinderlich zu sein. Er wird Ihnen nichts, als sein Herz, darbieten k&#246;nnen. Ich kann das meinige mit einer Tonne Goldes begleiten &#8211; &#8211; &#8211;</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg288.2.14.part1">DAMON.</ns0:speaker>
+                                 <ns0:l xml:id="tg288.2.14.part2"> Leander, Sie wollen &#8211; &#8211; &#8211; Verdru&#223; und Erstaunen lassen mich kein Wort aufbringen.</ns0:l>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg288.2.15.part1">ORONTE.</ns0:speaker>
+                                 <ns0:p xml:id="tg288.2.15.part2"> H&#246;re Er, Herr Vetter, ich will Ihm doch was sagen, versteh Er mich. Er kann die h&#252;bsche Witwe nun nicht heiraten. So viel ist gewi&#223;, versteh Er mich. Leandern wird sie wohl auch nicht viel n&#252;tze sein. Versteh Er mich. Sie gef&#228;llt mir ganz wohl. Versteh Er mich. Ich m&#246;chte sie schon haben. Ich d&#228;chte, Er schl&#252;ge mich ihr vor. Versteh Er mich. Ich bin zu schamhaft dazu. Versteh Er mich. Mache Er, tue Er Sein m&#246;glichstes, ich will Ihn auch nicht in meinem Testamente vergessen. Versteh Er mich. Zwei Tonnen Goldes kann ich ihr mitbringen, versteh Er mich.</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg288.2.16.part1">LEANDER.</ns0:speaker>
+                                 <ns0:l xml:id="tg288.2.16.part2"> Ich bitte Sie inst&#228;ndig, Madam. Erkl&#228;ren Sie sich; damit auch mein Freund wei&#223;, woran er ist.</ns0:l>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg288.2.17.part1">ORONTE.</ns0:speaker>
+                                 <ns0:p xml:id="tg288.2.17.part2"> Madam, erkl&#228;ren Sie sich nicht so geschwind. Verstehn Sie mich. Mein Vetter wei&#223; einen h&#252;bschen Br&#228;utigam f&#252;r Sie, verstehn Sie mich, der Ihnen wohl anstehen m&#246;chte. Mit dem k&#246;nnen Sie zwei, zwei Tonnen Goldes bekommen. Verstehn Sie mich. Vetter, Vetter, sage Er ihr ihn doch! versteh Er mich.</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg288.2.18.part1">DIE WITWE.</ns0:speaker>
+                                 <ns0:p xml:id="tg288.2.18.part2"> Es wird unn&#246;tig sein. Mein Schlu&#223; ist schon fest gestellt. Leander, es ist wahr, ich habe mein Wort von mir gegeben den gl&#252;cklichsten von Ihnen zu erw&#228;hlen. Ich will es auch halten. Der gl&#252;cklichste, liebster Damon, sind Sie.</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg288.2.19.part1">DAMON.</ns0:speaker>
+                                 <ns0:l xml:id="tg288.2.19.part2"> Ich?</ns0:l>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg288.2.20.part1">LEANDER.</ns0:speaker>
+                                 <ns0:l xml:id="tg288.2.20.part2"> Damon?</ns0:l>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg288.2.21.part1">ORONTE.</ns0:speaker>
+                                 <ns0:p xml:id="tg288.2.21.part2"> Was? Was? Mein Vetter? Ja, dem sein Schiff ist ja untergegangen Madame. Verstehn Sie mich. Leander hat eine Tonne Goldes, verstehn Sie mich. Und ich habe ihrer zwei, verstehn Sie mich. Notwendig, notwendig m&#252;ssen Sie mich meinen.</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg288.2.22.part1">DIE WITWE.</ns0:speaker>
+                                 <ns0:p xml:id="tg288.2.22.part2"> Ja ja. Damon, Sie sind bei diesem Handel der <ns0:pb n="730" xml:id="tg288.2.22.1.part2" />
+gl&#252;cklichste gewesen. Sie sind gl&#252;cklich gewesen, da&#223; Sie Gelegenheit gefunden haben, Ihre gro&#223;e Seele auf so eine ausnehmende Art zu zeigen. Ihr gr&#246;&#223;tes Gl&#252;ck aber ist, da&#223; Sie nun Licht bekommen, die Falschheit Ihres Freundes einzusehen, dessen pr&#228;chtige Galimathias Sie bis hieher verblendet haben. Leander, erw&#228;gen Sie nicht Ihre Auff&#252;hrung? Sie hatten Nachricht bekommen, da&#223; Ihr Schiff verungl&#252;ckt sei. Bei dieser Angst wollten Sie sich an mir erholen. Sie setzten Ihren Freund sch&#228;ndlich aus den Augen. Mein Entschlu&#223;, mich f&#252;r den gl&#252;cklichsten zu erkl&#228;ren, war Ihnen nur in so fern verha&#223;t, als Sie besorgten, da&#223; Sie es nicht sein w&#252;rden. Sie suchten mich zu bereden, Damon liebte mich nicht mehr. Und gedenken Sie endlich an den Tausch, zu dem ich den Damon habe verf&#252;hren sollen, zu einer Zeit, da Sie vermuteten, seine Sachen st&#252;nden besser, als die Ihrigen. &#220;berlegen Sie dieses alles, und sch&#228;men Sie sich, einen Freund hintergangen zu haben, der Sie &#252;ber alles hoch sch&#228;tzte. Gehen Sie. Genie&#223;en Sie Ihrer Reicht&#252;mer, die just an keinen Unw&#252;rdigern h&#228;tten kommen k&#246;nnen.</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg288.2.23.part1">DAMON.</ns0:speaker>
+                                 <ns0:l xml:id="tg288.2.23.part2"> Leander, soll ich es glauben? Sie haben mich hintergehen wollen?</ns0:l>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg288.2.24.part1">LEANDER.</ns0:speaker>
+                                 <ns0:l xml:id="tg288.2.24.part2"> Damon &#8211; &#8211; Ich habe Sie beleidigt. Leben Sie wohl!</ns0:l>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg288.2.25.part1">DAMON.</ns0:speaker>
+                                 <ns0:l xml:id="tg288.2.25.part2"> Leander, liebster Leander! wohin? Verziehn Sie.</ns0:l>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg288.2.26.part1">LEANDER.</ns0:speaker>
+                                 <ns0:p xml:id="tg288.2.26.part2"> Lassen Sie mich, ich bitte Sie. Ich mu&#223; Ihr Angesicht fliehen, ich sterbe vor Scham. Es ist unm&#246;glich. Sie k&#246;nnen mir nicht verzeihen.</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg288.2.27.part1">DAMON.</ns0:speaker>
+                                 <ns0:p xml:id="tg288.2.27.part2"> Ich Ihnen nicht verzeihen? O Leander, w&#228;re Ihnen mit meinen Verzeihungen was gedient! Ja ja. Es ist Ihnen schon alles verziehen. Bleiben Sie da, mein Freund. Sie haben sich &#252;bereilet. Und diese &#220;bereilung hat der Mensch, und nicht der Freund, begangen. Madam, Sie sind erz&#252;rnet auf Leandern? Ich schlage alles aus, wo Sie nicht mit mir alles wider ihn vergessen. Wenn Sie uns trennen, so werde ich notwendig der ungl&#252;cklichste sein. Ich wei&#223;, wie schwer es ist, einen Freund zu finden. Und will man ihn schon des ersten Fehlers wegen verlassen, so wird man Zeit Lebens suchen, und keinen erhalten.</ns0:p>
+                                 <ns0:pb n="731" xml:id="tg288.2.28" />
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg288.2.29.part1">LEANDER.</ns0:speaker>
+                                 <ns0:l xml:id="tg288.2.29.part2"> Damon &#8211; &#8211; Urteilen Sie aus diesen Tr&#228;nen, ob ich ger&#252;hret bin?</ns0:l>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg288.2.30.part1">DIE WITWE.</ns0:speaker>
+                                 <ns0:p xml:id="tg288.2.30.part2"> Wohl! Leander, Damon verzeiht Ihnen. Und ich wei&#223; selbst nicht, ob ich &#252;ber seine Gro&#223;mut, oder &#252;ber Ihre Reue, mehr ger&#252;hret bin. Lassen Sie auch uns unsre Freundschaft wieder von neuem anfangen. O Damon, wie z&#228;rtlich wird Ihre Liebe sein, da Ihre Freundschaft schon so z&#228;rtlich ist!</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg288.2.31.part1">ORONTE.</ns0:speaker>
+                                 <ns0:l xml:id="tg288.2.31.part2"> Da war meine Freierei also auch umsonst!</ns0:l>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg288.2.32.part1">DAMON.</ns0:speaker>
+                                 <ns0:p xml:id="tg288.2.32.part2"> Nun, gestehen Sie mir wenigstens, lieber Leander, da&#223; es etwas schwerer sei, die Pflichten der Freundschaft auszu&#252;ben, als von ihr entz&#252;cket zu reden.</ns0:p>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg288.2.33.part1">LEANDER.</ns0:speaker>
+                                 <ns0:l xml:id="tg288.2.33.part2"> Ja, Damon, ich habe die Freundschaft oft genennt, aber sie heute erst von Ihnen kennen lernen.</ns0:l>
+                              </ns0:sp>
+                              <ns0:sp>
+                                 <ns0:speaker xml:id="tg288.2.34.part1">DIE WITWE.</ns0:speaker>
+                                 <ns0:p xml:id="tg288.2.34.part2"> Damon! Damon! ich bef&#252;rchte, ich bef&#252;rchte, ich werde eifers&#252;chtig werden. Keines Frauenzimmers wegen zwar nicht, aber doch gewi&#223; Leanders wegen!</ns0:p>
+                              </ns0:sp>
+                           </ns0:div>
+                        </ns0:div>
+                     </ns0:div>
+                  </ns0:body>
+            </ns0:text>
+         </ns0:TEI>

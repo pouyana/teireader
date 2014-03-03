@@ -1,0 +1,84 @@
+tg383.2.4: Wentzel. Rudolf, ein junger Graff.  ==> enter NLP
+tg384.2.4: Die Vorigen. Girschick, des Königs kleiner Münch. Wazek, sein lustiger Diener.  ==> other nltk
+tg384.2.24: Die mittelste Scene wird auffgezogen / doch Cunigunda bleibt stehen / biß sie ausgeredet haben.  ==> other nltk
+tg385.2.4: Cunigunda, Wentzel.  ==> enter NLP
+tg385.2.26: Sie setzet sich bey dem eusersten Theatro, daß die Action desto besser verstanden wird.  ==> other nltk
+tg386.2.4: Cunigunda, Zabisch.  ==> enter NLP
+tg387.2.4: Cunigunda. Hernach Bäbel, ein lustiger Gärtner.  ==> enter NLP
+tg388.2.4: Cunigunda. Hernach Czenko, Sbinko.  ==> enter NLP
+tg389.2.4: Cunigunda, Ludomilla, Wentzel, der in der mittlern Scene etliche Bilder besiehet.  ==> other nltk
+tg390.2.4: Woko. Bäbel, ein lustiger Gärtner.  ==> enter NLP
+tg391.2.4: Zabisch. Czenko, Woko, seine Brüder.  ==> enter NLP
+tg392.2.4: Wazek, des Königs lustiger Diener. Rudolf, ein junger Graffe.  ==> enter NLP
+tg393.2.4: Poto, Sbinko, Landstände König Wentzeln zugethan. Rudolf.  ==> other nltk
+tg394.2.4: Hinko, des Königs Inspector. Bäbel, hernach Wazek.  ==> enter nltk
+tg396.2.4: Poto, Rudolf, hernach Girschick, des Königs kleiner Münch. Wazek, dessen lustiger Diener.  ==> enter nltk
+tg397.2.4: Bäbel.  ==> other nltk
+tg397.2.5: Er hat einen langen Trauer-Mantel um / und gehet gantz gravitætisch / alle drey spatziren bey ihm vorbey / und wenn sie den Hut abziehen / macht er eine gravitætische Complimente dagegen.  ==> other nltk
+tg398.2.4: Woko. Bäbel. Auff der Seite.  ==> enter NLP
+tg399.2.4: Zabisch. Czenko, Woko, seine Brüder.  ==> enter NLP
+tg400.2.4: Die Vorigen. Poto, Sbinko Landstände auff Wentzels Seite.  ==> other nltk
+tg401.2.4: Die vorigen, Cunigunda.  ==> enter NLP
+tg402.2.4: Ludomilla, des Königs alte Kammerfrau. Bäbel, der lustige Gärtner.  ==> enter NLP
+tg403.2.4: Zabisch, hernach Cunigunda.  ==> enter nltk
+tg404.2.4: Cunigunda, Zabisch. Wentzel, Rudolf, ein junger Graf / kommen gelauffen.  ==> enter nltk
+tg405.2.4: Wentzel, Rudolf. Hernach Girschick, Wazek, Tobiasch, ein junger Bettler.  ==> enter NLP
+tg407.2.4: Tobiasch, hernach Hinko, des Königes Inspector.  ==> enter nltk
+tg408.2.4: Die Vorigen. Wentzel, Rudolf, ein junger Graff.  ==> enter NLP
+tg409.2.4: Wentzel, Rudolf, Poto, Sbinko, Landstände auffs Königs Seite. Hinko, des Königes Inspector.  ==> enter NLP
+tg410.2.4: Bäbel, hernach Ludomilla.  ==> enter nltk
+tg411.2.4: Die Vorigen, Heyno, ein Soldate.  ==> enter NLP
+tg412.2.4: Cunigunda, Zabisch.  ==> enter NLP
+tg413.2.4: Cunigunda, Zabisch. Poto, Sbinko, Landstände auffs Königs Seite.  ==> enter NLP
+tg414.2.4: Die Vorigen. Czenko, Woko.  ==> enter NLP
+tg414.2.22: Czenko und Woko gehen grimmig ab.  ==> exit nltk
+tg414.2.26: Poto und Sbinko gehen ab.  ==> exit nltk
+tg415.2.4: Lesko, Heyno, zwey Soldaten. Bäbel, der Gärtner.  ==> enter NLP
+tg416.2.4: Rudolf, Wazek.  ==> enter NLP
+tg416.2.16: Die Bauren præsentiren sich.  ==> other nltk
+tg417.2.4: Die Vorigen. Janku, Nikschi, Bauern.  ==> enter NLP
+tg418.2.4: Hinko, des Königs Inspector. Antschku, Heuscha, der Bauern ihre Weiber.  ==> enter NLP
+tg419.2.4: Wentzel, Rudolf, Girschick, Wazek, Janku, Nikschi, Antschku, Heuscha. Die Bauern bringen sie heraus gejagt.  ==> other nltk
+tg419.2.30: Sie jagen sie hinein.  ==> exit nltk
+tg420.2.4: Rudolf, Wentzel. Hernach Zbisla, ein Böhmischer Semmelkrämer, Jarosla, ein Böhmischer Wursthändler, Bruno, ein Münch von Zittau.  ==> other nltk
+tg420.2.12: Sie gehen auff die Seite.  ==> other nltk
+tg421.2.4: Marinka, eine Leimthändlerin vom jungen Buntzel.  ==> other nltk
+tg422.2.4: Wentzel, Lisel, eines Zittauischen Bürgers Tochter.  ==> enter NLP
+tg423.2.4: Die Vorigen / auff der Seite. Martin, Berthold, Bürger von Zittau. Rosine, dessen Frau.  ==> other nltk
+tg424.2.4: Rudolf, Hinko, Girschick, Wazek.  ==> enter NLP
+tg426.2.4: Berthold, ein Zittauischer Bürger. Rosine, seine Frau.  ==> enter NLP
+tg427.2.4: Berthold, Rosine, Wazek.  ==> enter NLP
+tg428.2.4: Wazek, hernach Hinko, des Königs Inspector.  ==> enter nltk
+tg429.2.4: Lisel, Girschick, der kleine Münch.  ==> enter NLP
+tg430.2.4: Berthold, Martin, Bürger von Zittau. Hinko, des Königs Inspector. Rudolf, ein junger Graff.  ==> other nltk
+tg430.2.10: Er will allezeit reden / aber sie lassen ihn nicht dazu kommen.  ==> other nltk
+tg431.2.4: Bäbel, der lustige Gärtner. Marinka, eine Leimthändlerin von jungen Buntzel.  ==> other nltk
+tg432.2.4: Czenko, Woko Zabischens Brüder. Hernach Bäbel, der Gärtner.  ==> enter NLP
+tg433.2.4: Janku, Nikschi, Bauern.  ==> enter NLP
+tg434.2.4: Die Vorigen, Czenko.  ==> enter NLP
+tg435.2.4: Woko, Bäbel. Antschku, Heuscha, der Bauern ihre Weiber.  ==> enter NLP
+tg436.2.4: Berthold, ein Zittauischer Bürger. Rudolf, Wentzels junger Graff.  ==> enter NLP
+tg437.2.4: Martin, ein Zittauischer Bürger. Hernach Bäbel, der Gärtner.  ==> enter NLP
+tg438.2.4: Czenko, Bäbel.  ==> enter NLP
+tg439.2.4: Die Vorigen, Woko, Bruno, ein Münch.  ==> enter NLP
+tg440.2.4: Bruno, ein Münch. Rosine, eine Bürgers-Frau.  ==> enter NLP
+tg441.2.4: Hinko, des Königs Inspector.  ==> enter NLP
+tg442.2.4: Wentzel, Lisel, Girschick, Wazek. Sie jagen einander herum / Lisel kützelt Wentzeln, daß er abscheulich lachen muß.  ==> other nltk
+tg443.2.4: Die Vorigen, Berthold, Martin, Zittauische Bürger. Hernach Czenko, Woko, Bäbel.  ==> enter NLP
+tg444.2.4: Bäbel, Wazek mit dem geschwärtzten Gesichte hernach.  ==> enter nltk
+tg445.2.4: Die Vorigen, Hinko, der Hofemeister.  ==> enter NLP
+tg446.2.4: Czenko, Woko, Bäbel.  ==> enter NLP
+tg448.2.4: Wentzel, schlaffende. Der Geist Ottocarus. Zabisch, Cunigunda hernach.  ==> enter nltk
+tg448.2.21: Die beyden Verliebten ziehen sich sachte in die mittelste Scene, welche zufällt.  ==> other nltk
+tg450.2.4: Poto, Sbinko, Landstände auff Wentzels Seite. Lesko, Heyno, Soldaten. Hernach Christoffel, der Heldermeister von Zittau.  ==> other nltk
+tg451.2.4: Bäbel, der Gärtner. Janku, Nikschi, Bauern.  ==> enter NLP
+tg452.2.4: Berthold, Martin, zwey Bürger.  ==> enter NLP
+tg453.2.4: Czenko, Woko, Bäbel. Die Bauern. Rosine, die zum Fenster heraus siehet.  ==> other nltk
+tg454.2.4: Die Vorigen. Hinko, des Königs Inspector.  ==> enter NLP
+tg455.2.4: Die mittelste Scene öffnet sich. Martin, Berthold, Bürger. Rosine, dessen Frau. Lisel, dessen Tochter. Wentzel, der junge König. Rudolf, dessen junger Graff. Girschick, dessen kleiner Münch. Wazek, sein lustiger Diener.  ==> other nltk
+tg456.2.4: Die Vorigen. Czenko, Woko, Bäbel, Hinko und die Bauern.  ==> enter NLP
+tg456.2.25: Sie schreyen alle zusammen: Au weh! wir müssen sterben.  ==> other nltk
+tg456.2.46: Sie schreyen alle: O weh der König soll sterben!  ==> other nltk
+tg457.2.4: Die Vorigen. Poto, Sbinko, Landstände auffs Königs Seite. Lesko, Heyno, Soldaten. Christoffel, der Heldermeister von Zittau.  ==> other nltk
+tg457.2.38: Alle fangen an zu schreyen: Vivat König Wentzel, Vivat König Wentzel, und unter solchem Geschrey können die vorigen Schäfer wieder zurücke kommen / und folgenden Glückwundsch anbringen.  ==> other nltk
+tg457.2.69: Sie ruffen dieses nach / unter Paucken und Trompeten / indessen zeucht sich König Wentzel herauß / daß er den Epilogum halten kan.  ==> other nltk

@@ -1,0 +1,6 @@
+tg534.2.4: Strato. Philotas.  ==> enter NLP
+tg535.2.4: König Aridäus. Philotas. Strato.  ==> enter NLP
+tg537.2.4: Parmenio. Philotas.  ==> enter NLP
+tg539.2.4: Aridäus. Philotas.  ==> enter NLP
+tg540.2.4: Strato mit einem Schwerde in der Hand.  ==> other nltk
+tg540.2.5: Aridäus. Philotas.  ==> enter NLP

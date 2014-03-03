@@ -1,0 +1,17 @@
+tg462.2.4: Leander. Staleno.  ==> enter NLP
+tg464.2.4: Philto. Staleno.  ==> enter NLP
+tg464.2.102: Zugleich, nachdem sie einige Augenblicke nachgedacht.  ==> other nltk
+tg465.2.4: Lelio. Maskarill. Philto.  ==> enter NLP
+tg466.2.4: Maskarill. Lelio.  ==> enter NLP
+tg467.2.4: Staleno. Lelio. Maskarill.  ==> enter NLP
+tg468.2.4: Staleno. Maskarill.  ==> enter NLP
+tg470.2.4: Anselmo. Ein Träger. Maskarill.  ==> enter NLP
+tg470.2.78: Er geht und kömmt wieder zurück.  ==> other nltk
+tg472.2.4: Raps, in einer fremden und seltsamen Kleidung. Anselmo.  ==> other nltk
+tg473.2.4: Anselmo. Ein andrer Träger.  ==> enter NLP
+tg474.2.4: Anselmo. Philto.  ==> enter NLP
+tg475.2.4: Lelio. Maskarill.  ==> enter NLP
+tg476.2.4: Anselmo. Philto, welche aus dem Hause kommen.  ==> other nltk
+tg477.2.4: Staleno. Anselmo. Philto.  ==> enter NLP
+tg478.2.4: Maskarill. Anselmo. Philto. Staleno.  ==> enter NLP
+tg479.2.4: Lelio an der Szene. Die Vorigen.  ==> other nltk

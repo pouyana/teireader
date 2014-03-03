@@ -1,0 +1,90 @@
+tg262.2.4: Cyriax. Petronella. Urselchen.  ==> enter NLP
+tg262.2.53: Er ficht ihr vor den Augen.  ==> other nltk
+tg262.2.60: Er ficht wieder.  ==> other nltk
+tg263.2.4: Cyriax. Petronella. Urselchen. Storax.  ==> enter NLP
+tg263.2.14: Sie springt zurücke.  ==> other nltk
+tg264.2.4: Lampert. Blandina. Villenchen.  ==> enter NLP
+tg265.2.4: Lampert. Blandina. Villenchen. Urselchen.  ==> enter NLP
+tg266.2.12: Sie setzen sich / die Männer / die Weiber / die Jungfern zusammen.  ==> other nltk
+tg266.2.24: Sie geht und kömt bald wieder.  ==> other nltk
+tg266.2.36: Geht hinaus.  ==> exit nltk
+tg267.2.4: Die Vorigen. Balduin. Donat.  ==> enter NLP
+tg267.2.18: Sie setzen sich.  ==> other nltk
+tg267.2.67: Sie gehen ab. Donat geht mit Urselchen auch ab.  ==> exit nltk
+tg268.2.4: Balduin. Villenchen.  ==> enter NLP
+tg269.2.4: Balduin. Villenchen. Donat. Urselchen.  ==> enter NLP
+tg270.2.4: Die Vorigen. Blandina.  ==> enter NLP
+tg270.2.11: Villenchen und Urselchen gehn ab.  ==> exit nltk
+tg270.2.25: Er umfasset sie.  ==> other nltk
+tg270.2.29: Sie will sich die Augen wischen / und läst das Schnuptuch fallen: Balduin greifft darnach.  ==> other nltk
+tg270.2.53: Sie gehn ab.  ==> exit nltk
+tg271.2.4: Pomponius. Storax.  ==> enter NLP
+tg271.2.41: Geht ab.  ==> exit nltk
+tg273.2.4: Cyriax. Lampert.  ==> enter NLP
+tg274.2.4: Roland. Cyriax. Lampert.  ==> enter NLP
+tg275.2.4: Roland. Cyriax. Lampert. Storax. Pomponius und andere Beysitzer die nichts zu reden haben.  ==> other nltk
+tg275.2.15: Sie schreyen alle miteinander / ja ja / es ist ihm vergönnet.  ==> other nltk
+tg275.2.20: Sie schreyen alle / nach alten Gebrauch und Herkommen ist ihm vergönnet zu reden.  ==> other nltk
+tg275.2.25: Sie schreyen alle zusammen: Ja / ja mit Gunst etc.  ==> other nltk
+tg275.2.35: Sie fangen alle an zu schreyen: Ja ja es muß jemand gut davor seyn.  ==> other nltk
+tg275.2.48: Sie schreyen alle: Des lieben Lateinischen wegen sollen sie warten biß über acht Tage. Der Herr   ==> other nltk
+tg275.2.49: Kirch-Schreiber wird sie schon berichten.  ==> other nltk
+tg275.2.53: Die Beysitzer werden in der Scene verborgen.  ==> other nltk
+tg276.2.4: Pomponius. Balduin. Donat.  ==> enter NLP
+tg277.2.4: Pomponius. Hernach Storax.  ==> enter NLP
+tg277.2.18: Geht ab.  ==> exit nltk
+tg278.2.4: Storax. Hahnenfuss. Ziegenbein.  ==> enter NLP
+tg279.2.4: Hahnenfuss. Ziegenbein. Pomponius als ein Ziegeuner.  ==> other nltk
+tg280.2.4: Pomponius. Cyriax. Lampert.  ==> enter NLP
+tg280.2.23: Er kriegt ein Blaserohr.  ==> other nltk
+tg280.2.32: Er redet durch das Rohr.  ==> other nltk
+tg280.2.41: Geht ab.  ==> exit nltk
+tg280.2.46: Geht ab.  ==> exit nltk
+tg281.2.4: Ziegenbein. Urselchen.  ==> other nltk
+tg281.2.26: Gehet ab.  ==> exit nltk
+tg282.2.4: Urselchen. Villenchen.  ==> other nltk
+tg283.2.4: Pomponius. Villenchen. Urselchen.  ==> enter NLP
+tg283.2.25: Er siehet ihnen in die Hände / er mist ihnen die Nasen und das Maul mit einem Faden / und macht allerhand Striche auf ein Papier.  ==> other nltk
+tg283.2.29: Sie schreyen zusammen: Ja ja.  ==> other nltk
+tg283.2.60: Geht ab.  ==> exit nltk
+tg283.2.64: Geht ab.  ==> exit nltk
+tg285.2.4: Roland. Balduin.  ==> enter NLP
+tg285.2.8: Die Scene eröffnet sich da der Richter sitzt.  ==> other nltk
+tg285.2.38: Die Scene fält zu wo der Richter ist.  ==> other nltk
+tg286.2.4: Balduin. Donat.  ==> enter NLP
+tg287.2.4: Petronella. Blandina. Balduin. Donat.  ==> enter NLP
+tg288.2.4: Balduin. Donat. Storax.  ==> enter NLP
+tg288.2.9: Sie stehen tieff in Gedancken.  ==> other nltk
+tg288.2.26: Geht ab.  ==> exit nltk
+tg289.2.4: Balduin. Donat. Hahnenfuss. Ziegenbein.  ==> enter NLP
+tg289.2.16: Die Feuermauer-Kehrer kommen.  ==> other nltk
+tg289.2.36: Gehen ab.  ==> exit nltk
+tg291.2.4: Petronella. Blandina.  ==> enter NLP
+tg292.2.4: Petronella. Blandina. Cyriax. Lampert. Hernach Urselchen.  ==> enter NLP
+tg292.2.34: Gehet ab.  ==> exit nltk
+tg293.2.4: Die Vorigen.  ==> other nltk
+tg293.2.5: Villenchen. Urselchen. Hahnenfuss. Ziegenbein in Grafen Habit.  ==> other nltk
+tg293.2.10: Sie schreyen alle: Die Ehrenvesten Hochweisen /Ehr- und Tugendsame Grafen seyn willkommen. Ihre Pestilenz seyn willkommen.  ==> other nltk
+tg293.2.34: Cyriax, Lampert, Petronella, Blandina gehen ab.  ==> exit nltk
+tg294.2.4: Villenchen. Urselchen, Hahnenfuss. Ziegenbein.  ==> other nltk
+tg295.2.4: Die Vorigen.  ==> other nltk
+tg295.2.5: Cyriax. Lampert. Petronella. Blandina. Hernach Roland. Storax. Pomponius.  ==> enter NLP
+tg295.2.14: Der Ort eröfnet sich wo der Richter sitzt. Cyriax und Lampert setzen sich darzu. Die Weiber bringen den Grafen Stüle / daß sie sich auch setzen. Ein iedweder Grafe nimmt seine Jungfer auff die Schoß.  ==> other nltk
+tg295.2.25: Die Grafen stehen auff.  ==> other nltk
+tg296.2.4: Die Vorigen.  ==> other nltk
+tg296.2.5: Balduin. Donat.  ==> enter NLP
+tg296.2.15: Die Weiber schreyen alle mit einander.  ==> other nltk
+tg296.2.20: Er zeucht sich aus.  ==> other nltk
+tg296.2.29: Gehen ab.  ==> exit nltk
+tg296.2.40: Er weiset einem iedweden die Wege hinein.  ==> exit nltk
+tg297.2.4: Roland. Storax. Cyriax. Lampert. Pomponius.  ==> enter NLP
+tg297.2.32: Gehet ab.  ==> exit nltk
+tg297.2.33: Die Scene verbirget den Richter.  ==> other nltk
+tg299.2.4: Balduin. Donat. Hernach Storax.  ==> enter NLP
+tg299.2.26: Giebt ihm den Brieff.  ==> other nltk
+tg299.2.37: Gehen ab.  ==> exit nltk
+tg300.2.4: Hahnenfuss. Ziegenbein.  ==> other nltk
+tg300.2.13: Sie treten auff die Seite.  ==> other nltk
+tg301.2.4: Pomponius.  ==> enter NLP
+tg301.2.8: Er springt herunter und setzt sich vor das Theatrum auff ein Stülchen.  ==> other nltk
+tg302.2.4: Roland. Storax. Cyriax. Petronella. Donat. Urselchen. Hahnenfuss. Lampert. Blandina. Balduin. Villenchen. Ziegenbein. Pomponius.  ==> enter NLP

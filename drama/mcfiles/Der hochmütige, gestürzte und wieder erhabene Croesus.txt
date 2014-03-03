@@ -1,0 +1,83 @@
+tg8.2.4: Der Schauplatz stellet vor einen prächtigen Saal /und herrlichen Thron.  ==> other
+tg8.2.6: Crœsus auf dem Thron / Orsanes, Eliates, Halimacus, Olisius und viele andere Lidische Staats- und Kriegs-Bediente / alle kniend; Solon allein stehend.  ==> other
+tg8.2.8: Aria.  ==> enter
+tg9.2.4: Königlicher Garten.  ==> enter
+tg9.2.6: Elmira, Trigesta.  ==> enter
+tg9.2.8: Aria.  ==> enter
+tg10.2.4: Orsanes, Elmira, Trigesta.  ==> enter
+tg10.2.6: Aria.  ==> enter
+tg11.2.4: Halimacus von ferne / Orsanes, Elmira.  ==> enter
+tg12.2.4: Atis stumm / Halimacus, Elmira, Nerillus.  ==> enter
+tg12.2.6: Atis kömmt von weitem mit holdseligen und freudigen Gebärden.  ==> other
+tg13.2.4: Atis, Elmira, Nerill.  ==> enter
+tg13.2.6: Atis wendet sich zu Elmira, und giebt ihr Liebes-Anzeigungen.  ==> other
+tg14.2.4: Elcius und Vorige.  ==> enter
+tg15.2.4: Orsanes, Eliates.  ==> enter
+tg15.2.6: Aria.  ==> enter
+tg16.2.4: Elmira und Clerida kommen von ferne singend.  ==> other
+tg16.2.6: Orsanes, Eliates.  ==> enter
+tg16.2.8: Aria.  ==> enter
+tg17.2.4: Atis, Elcius, und Vorige.  ==> enter
+tg17.2.6: Atis zeiget sich traurig.  ==> other
+tg17.2.8: Aria.  ==> enter
+tg19.2.4: Königl. Zimmer.  ==> enter
+tg19.2.6: Crœsus, Orsanes, Eliates, Olisius, und viele Kriegs-Bediente.  ==> enter
+tg20.2.4: Halimacus, und Vorige.  ==> enter
+tg21.2.4: Orsanes in tieffen Gedancken; folgends Clerida.  ==> enter
+tg21.2.21: Tritt ab.  ==> exit
+tg23.2.4: Der Schau-Platz zeiget im Vordertheil Cirus, und von weitem Crœsus Lager.  ==> other
+tg23.2.6: Cirus mit seiner Armée forne / Crœsus hinten.  ==> other
+tg23.2.8: Aria.  ==> enter
+tg24.2.4: Crœsus flüchtig ohne Königliche Kleidung / ein Persischer Hauptmann / mit einigen Soldaten /folgends Atis und Halimacus.  ==> enter
+tg25.2.4: Man siehet von weitem der Lidier verheertes Lager /und das Feld von Erschlagenen gantz bedeckt.  ==> other
+tg25.2.6: Cirus zu Pferde / umgeben von seinen Hauptleuten /und gefolgt von Soldaten / und vielen gefangenen Lidiern, triumphirend unter frölichem Trompeten-und Paucken-Schalle.  ==> other
+tg25.2.8: Aria.  ==> enter
+tg27.2.4: Bauren Hütten.  ==> enter
+tg27.2.6: Ein Bauer / eine Bäuerin / zwey Bauren-Kinder /zweene Bauren / die auf Schallmeyen und Sackpfeiffen spielen.  ==> other
+tg27.2.8: Aria.  ==> enter
+tg28.2.4: Atis, Halimacus, Vorige / welche in ihrer Arbeit dieser nicht gewahr werden.  ==> other
+tg29.2.4: Elcius in poßierlicher Persischer Kleidung. Bauren-Kinder.  ==> enter
+tg29.2.19: Wird der Bauren-Kinder gewahr.  ==> other
+tg30.2.4: Königlicher Vorhoff / mit einem Fisch-Teiche.  ==> enter
+tg30.2.6: Clerida, Elmira.  ==> enter
+tg30.2.8: Aria.  ==> enter
+tg31.2.4: Orsanes, Clerida, Elmira die fischet.  ==> enter
+tg32.2.4: Königliche Zimmer.  ==> enter
+tg32.2.6: Eliates, Orsanes.  ==> enter
+tg33.2.4: Halimacus, Olisius, Elmira, Clerida, Trigesta, Eliates, Orsanes.  ==> enter
+tg34.2.4: Halimacus, Elmira, Trigesta.  ==> enter
+tg35.2.4: Halimacus, Atis, in Bauren-Kleidung / Elmira, Trigesta.  ==> enter
+tg36.2.4: Eliates, Olisius, Halimacus, Orsanes, Atis.  ==> enter
+tg37.2.4: Elmira, nachmahls Atis.  ==> other
+tg37.2.6: Aria.  ==> enter
+tg38.2.4: Orsanes, Atis.  ==> enter
+tg39.2.4: Persisches Lager.  ==> enter
+tg39.2.16: Aria.  ==> enter
+tg39.2.76: Gehet ab.  ==> exit
+tg40.2.4: Cirus auf einem Thron in seinem Gezelte / Crœsus gefesselt / und von Soldaten begleitet / ein Hauptmann / und viele andere Kriegs-Bediente.  ==> other
+tg40.2.6: Aria.  ==> enter
+tg41.2.4: Olisius, mit vielen Lidiern / Cirus, und seine Bediente.  ==> enter
+tg41.2.51: Ritornello mit Trompeten und Paucken. Es wird   ==> other
+tg43.2.4: Printz Atis Vor-Gemach.  ==> enter
+tg43.2.8: Aria.  ==> enter
+tg43.2.16: 2.  ==> other
+tg43.2.23: Eliates kömmet mit vielem Gefolge.  ==> other
+tg44.2.4: Atis in Fürstl. Kleidung / Halimacus, Eliates, Orsanes und Hoffleute.  ==> enter
+tg45.2.4: Elmira, Atis, Orsanes.  ==> enter
+tg46.2.4: Halimacus, Olisius, Eliates, Orsanes, Elcius.  ==> enter
+tg48.2.4: Orsanes, Atis.  ==> enter
+tg49.2.4: Königlich Zimmer.  ==> enter
+tg49.2.6: Atis nachmahls Elmira, Trigesta.  ==> enter
+tg50.2.4: Trigesta, folgends Elcius mit seinem Krahm.  ==> enter
+tg50.2.6: Aria.  ==> enter
+tg50.2.15: 2.  ==> other
+tg50.2.24: 3.  ==> other
+tg50.2.120: Ballet von Schorsteinfegern und   ==> enter
+tg51.2.4: Clerida, Elmira.  ==> enter
+tg51.2.6: Aria.  ==> enter
+tg52.2.4: Elmira, Atis in Fürstlicher Kleidung.  ==> enter
+tg53.2.4: Orsanes, Atis.  ==> enter
+tg53.2.55: Atis grüsset Orsanes mit freundlichen Gebärden /  ==> other
+tg54.2.4: Ein von Cirus Leib-Wache umschlossener Platz / in dessen Mitte ein grosses Feuer / Crœsus zu verbrennen / angezündet wird. Crœsus entkleidet /wird zum Feuer geführet / von Persischen Soldaten begleitet / unter grossen Zulauff vielen Volckes.  ==> other
+tg54.2.6: Aria.  ==> enter
+tg55.2.4: Cirus, der sich auff einem dazu auffgerichteten Thron setzet / sein Staats- und Kriegs-Bediente /Soldaten / und grosse Menge Volckes; Crœsus, nachmahls Eliates, Olisius, Halimacus, Atis, Elmira, Clerida, Trigesta, Orsanes, Solon, und Lidische Soldaten.  ==> other

@@ -1,0 +1,173 @@
+tg9.2.4: Das Theater stellet durchaus ein Lager vor, inwendig läst sich unter Trompeten, und Paucken ein Lärm von streitenden Soldaten hören; es lauffen etliche Persische Soldaten über das Theater, alsdann kommet König Eyrus, und sein Feld-herz Sigelvax ganz ängstig nachgeloffen.  ==> other nltk
+tg9.2.9: Lauft geschwind ab.  ==> exit nltk
+tg9.2.14: Lauft auch ab.  ==> exit nltk
+tg9.2.15: Es entstehet abermal ein grosser Lärmen, dann kommen 4. Buben, 2. als Tartarn, und 2. als Perser gekleidet, diese halten ein Combattement; die Tartarn überwinden die Persier, welche als todt auf der Erden ligen bleiben, die Tartarn aber, bey entstandenen Lärmen, lauffen davon.  ==> other nltk
+tg10.2.4: Kulican, und sein Feld-herz Mortong, nebst etlichen Buben, welche tartarische Soldaten vorstellen, alle haben die blosse Säbel in der Hand.  ==> other nltk
+tg10.2.13: Zeigt auf die 2. todte Buben.  ==> other nltk
+tg10.2.20: Er umarmet alle.  ==> other nltk
+tg10.2.26: Zeigt auf die todten Soldaten.  ==> other nltk
+tg10.2.33: Die tartarischen Buben wollen plündern, der Vetzier aber stost sie fort, nimmt denen Todten die Kleider, und läst den Uberrest denen Soldaten, welche sich mit denen Schuhen deren Todten müssen begnügen lassen.  ==> other nltk
+tg10.2.40: Nihmt die Kleider unter seinen Arm.  ==> other nltk
+tg10.2.45: Hat 2. Casquet; küst Kulican die Füsse.  ==> enter NLP
+tg10.2.50: Hebt den Vezier auf.  ==> other nltk
+tg10.2.55: Die Buben haben den Kulican die Hand geküst.  ==> other nltk
+tg10.2.72: Kulican nimmt ein Perspectiv aus dem Sack, und siehet damit in die Mitte der rechten Seiten.  ==> other nltk
+tg10.2.76: Kulican ist ganz frölich, gibt das Perspectiv dem Vetzier.  ==> other nltk
+tg10.2.86: Greift darnach.  ==> other nltk
+tg10.2.94: Will es wieder haben.  ==> other nltk
+tg10.2.104: Wills Perspectiv wieder haben.  ==> other nltk
+tg10.2.110: Kulican greift an den Säbel.  ==> other nltk
+tg10.2.117: Mortong neiget sich, und gehet ab.  ==> exit nltk
+tg10.2.122: Verbirgt sich, doch im Abgehen hat er allezeit auf die rechte Seiten gesehen, als wann Pumphia daher   ==> other nltk
+tg10.2.123: käme.  ==> other nltk
+tg11.2.4: Pumphia, Diese kommet ganz hinten an der linken Seiten heraus.  ==> other nltk
+tg11.2.31: Kulican hat ruckwerts zugehöret, und kommet bey dem letzten Vers hervor.  ==> other nltk
+tg11.2.38: Sie will in Ohnmacht fallen.  ==> other nltk
+tg11.2.48: Will sie umarmen.  ==> other nltk
+tg11.2.53: Zornig ziehet einen grossen Taschen-feidel aus dem Sack, und will Kulican ermorden.  ==> other nltk
+tg11.2.58: Die Soldaten nehmen der Pumphia, welche sich widersetzet, den Taschen-feidel weg.  ==> other nltk
+tg11.2.59: Zärtlich.  ==> other nltk
+tg11.2.70: Sie weinet.  ==> other nltk
+tg11.2.78: Nimmt die Kleider, so er von dem Großvezier bekommen, und indessen einen Soldaten zu halten gegeben, wieder von ihm, und gibt sie der Prinzeßin, diese stellt sich ganz vergnügt, gibt die Kleider dem alten Weib, welche ihr den Schlep nachtraget.  ==> other nltk
+tg11.2.90: Hebt die Hand auf, dem Kulican eine Ohrfeigen zu geben.  ==> other nltk
+tg11.2.94: Halt die Hand vor das Gesicht.  ==> other nltk
+tg11.2.99: Er kniet.  ==> other nltk
+tg12.2.4: Sogleich kommet der Hauptmann Pinxi in gröster Eil.  ==> other nltk
+tg12.2.16: Pinxi lauft ohne daß noch Kulican mit ihm geredet geschwind ab. Kulican aber hat unter des Pinxi Reden ihme den Rücken gewendet, und beständig mit Pumphia heimlich gesprochen, sobald er aber ab ist, gibt Kulican folgenden Befehl.  ==> other nltk
+tg12.2.23: Zu Pumphia zärtlich.  ==> other nltk
+tg12.2.46: Will sie umarmen.  ==> other nltk
+tg12.2.52: Hebt wider ihn die Hand auf.  ==> other nltk
+tg12.2.61: Zwey Stattisten wollen den grösten Knaben wegtragen, dieser aber springt auf, und kniet vor Kulican.  ==> other nltk
+tg12.2.82: Lauft geschwind ab.  ==> exit nltk
+tg12.2.89: Die Soldaten wollen den andern Knaben nehmen, dieser aber springet auch, wie der vorige, ängstig auf.  ==> other nltk
+tg12.2.99: Das Kind lauft auch geschwind ab.  ==> exit nltk
+tg13.2.4: Mortong ganz ausser Athem.  ==> other nltk
+tg13.2.29: Lauft ab.  ==> exit nltk
+tg13.2.35: Weinet.  ==> other nltk
+tg13.2.62: Die Soldaten geben Kulican einen Sessel an die Seiten, dieser setzet sich geschwind, und sagt zu Pumphia.  ==> other nltk
+tg13.2.66: Pumphia, da sie keinen Sitz siehet, setzet sie sich neben Kulican auf die Erde.  ==> other nltk
+tg14.2.4: Türkischer Marsche, alsdann kommen Tartarische Soldaten mit blossen Säbeln, nach ihnen der Feld-herr Sigelvax und andere Persische Gefangene in Ketten; dann allerhand wilde Thiere, als Tyger, Löwen, Bären Camelen, Elephanten und ein Rhinocerus, auch ein Persisches altes Weib mit einem Kind; letztlich Mortong auf einem Triumph-wagen.  ==> other nltk
+tg14.2.5: Dieser ganze Zug wird von lächerlichen Thieren vorgestellet.  ==> other nltk
+tg14.2.31: Grimmig.  ==> other nltk
+tg14.2.38: Stehet auf.  ==> other nltk
+tg14.2.71: Für sich.  ==> other nltk
+tg14.2.79: Zeiget auf Sigelvax.  ==> other nltk
+tg14.2.85: Mortong und der ganze Zug gehen wie vorhero unter den Türkischen Marsche ab. Der Feld-herr Sigelvax aber bleibet ganz betrübt stehen.  ==> other nltk
+tg14.2.90: Grimmig.  ==> other nltk
+tg14.2.96: Schleicht mit langsamen Schritten zu ihm.  ==> other nltk
+tg14.2.145: Kniet nieder.  ==> other nltk
+tg14.2.166: Soldaten lauffen geschwind ab, und bringen eine Festung herausgetragen.  ==> other nltk
+tg14.2.180: Die Soldaten greiffen den Sigelvax an.  ==> other nltk
+tg14.2.186: Die Soldaten schleppen den Sigelvax in die Festung hinein und verschliessen die Thür mit einem grossen Schloß.  ==> exit nltk
+tg14.2.195: Küst ihr die Hand.  ==> other nltk
+tg14.2.208: Nimmt Pumphia kniend bey der Hand.  ==> other nltk
+tg14.2.221: Küst ihr wieder die Hand.  ==> other nltk
+tg14.2.234: Küst ihr die Hand.  ==> other nltk
+tg14.2.238: Geht mit beständigen Umschauen mit Soldaten weinend ab.  ==> exit nltk
+tg14.2.286: Pumphia ab.  ==> exit nltk
+tg16.2.4: Faustibus ganz forchtsam, und da er niemand siehet, nimmt er eine Helden-mässige Stellung an sich.  ==> other nltk
+tg16.2.40: In Gedanken.  ==> other nltk
+tg16.2.45: Heftig.  ==> other nltk
+tg16.2.51: Bleibt in Gedanken stehen.  ==> other nltk
+tg16.2.52: Dazu.  ==> other nltk
+tg17.2.4: Cyrus ganz ängstig.  ==> other nltk
+tg17.2.33: Nimmt ein Papier aus dem Sack.  ==> other nltk
+tg18.2.4: Läst sich Sigelvax mit kläglicher Stimme aus der Festung hören.  ==> other nltk
+tg18.2.20: Es kommen Persische Soldaten, und bringen Hammer, Hacken, und Brech-eisen.  ==> other nltk
+tg18.2.28: Gehet bey der Seiten der Festung ganz langsam heraus, und mit Cyrus hervor.  ==> other nltk
+tg18.2.37: Die Soldaten fangen an das Thor einzusprengen.  ==> other nltk
+tg18.2.50: Zeigt auf die Oefnung, so die Soldaten in das Thor gemachet.  ==> other nltk
+tg18.2.54: Sigelvax gehet zuruck, und in jene Seite der Festung hinein, wo er heraus gekommen, und kriechet bey der Oefnung, so die Soldaten gemachet, ganz mühesam heraus.  ==> other nltk
+tg18.2.59: Umfanget Cyrum, und küst denselben.  ==> other nltk
+tg18.2.72: Zu Faust.  ==> other nltk
+tg18.2.97: Siehet aus der unrechten Scena den Kulican kommen.  ==> other nltk
+tg18.2.107: Und gehet ganz verschlaffen ab.  ==> exit nltk
+tg18.2.127: Deutet auf die Scena, wo Kulican herkommet.  ==> other nltk
+tg18.2.131: Nihmt Cyrum zittrend bey der Hand.  ==> other nltk
+tg18.2.136: Weint.  ==> other nltk
+tg18.2.143: Faustibus führet den Cyrum in eben die Scen, wo Kulican und Mortong herkommen, so, daß sie hart aneinander stossen.  ==> other nltk
+tg19.2.4: Kulican und Mortong mit Soldaten.  ==> other nltk
+tg19.2.14: Zeigt auf die andre Seiten in die unrechte Scena.  ==> other nltk
+tg19.2.37: Will gehen.  ==> other nltk
+tg20.2.4: Faustibus kommet hinten heraus, und schleicht sich auf denen Zähen neben Kulican.  ==> other nltk
+tg20.2.9: Siehet recht stark den kommenden Faustibus an.  ==> other nltk
+tg20.2.32: Stost Kulican, und Mortong auf die Seiten, und lauft ab. Diese aber stellen sich, ihn nicht gesehen zu haben.  ==> other nltk
+tg20.2.39: Siehet auf die Festung.  ==> other nltk
+tg20.2.46: Geht geschwind zu der Festung, kriecht bey dem Loch hinein, und gleich wieder heraus.  ==> other nltk
+tg20.2.65: Lauft ab.  ==> exit nltk
+tg21.2.7: Heimlich.  ==> other nltk
+tg21.2.14: Abseits.  ==> other nltk
+tg21.2.22: Gibt ihr die Hand.  ==> other nltk
+tg21.2.27: Abseits.  ==> other nltk
+tg21.2.42: Abseits.  ==> other nltk
+tg21.2.50: Reden heimlich verliebt mit einander.  ==> other nltk
+tg22.2.4: Cyrus, Faustibus ganz hinten.  ==> other nltk
+tg22.2.13: Abseits.  ==> other nltk
+tg22.2.17: Zu Cyrus.  ==> other nltk
+tg22.2.29: Cyrus, und Faustibus zugleich ziehen die Säbel, bleiben aber von weiten stehen.  ==> other nltk
+tg22.2.34: Dazu.  ==> other nltk
+tg23.2.4: À tempo.  ==> other nltk
+tg23.2.5: Mortong kommt dem Kulican zu Hülf, getraut sich aber nicht in die Nähe.  ==> other nltk
+tg23.2.28: Cyrus, und Faustibus werfen die Säbel auf die Erden, und in dieser Scena hat keiner den anderen angerühret. Mortong hebt die 2. Säbel auf, Kulican aber, welcher beständig in Aengsten gestanden, da er siehet, daß seine Feinde entwafnet, nimmt er wieder seinen tyrannischen Caracteur an sich, und sagt zu Cyrus.  ==> other nltk
+tg23.2.45: Mortong und die Soldaten tragen die Festung geschwind weg, und setzen einen Thron an ihren Platz.  ==> other nltk
+tg23.2.46: Zu Faustibus.  ==> other nltk
+tg23.2.65: Heimlich.  ==> other nltk
+tg23.2.71: Zu Pumphia.  ==> other nltk
+tg23.2.76: Zu Cyrus.  ==> other nltk
+tg23.2.84: Die Soldaten werffen den Cyrum vor den Thron auf die Erden; Kulican will auf ihn steigen. Pumphia aber springt ihm vor, und setzt sich auf Cyrum.  ==> other nltk
+tg23.2.91: Zu Cyrus.  ==> other nltk
+tg23.2.95: Die Soldaten heben den Cyrum auf.  ==> other nltk
+tg23.2.100: Pumphia und Kulican setzen sich auf den Thron.  ==> other nltk
+tg23.2.130: Stöst die Pumphia vom Throne, daß sie nach aller Länge aufs Theater fält. Pumphia steht allein ohne ihr jemand zu helfen auf.  ==> other nltk
+tg24.2.4: Der Hauptmann Pinxi mit Soldaten bringet den Prinzen Miketey, und den Feldherrn Sigelvax gefangen in Ketten.  ==> other nltk
+tg24.2.10: Zeigt auf Miketey.  ==> other nltk
+tg24.2.14: Zeigt auf Sigelvax.  ==> other nltk
+tg24.2.21: Zu Sigelvax, indem er ihn schüttelt  ==> other nltk
+tg24.2.30: Umarmet heimlich dem Prinzen Miketey.  ==> enter NLP
+tg24.2.58: Zu Pumphia.  ==> other nltk
+tg24.2.70: Zornig.  ==> other nltk
+tg24.2.127: Faustibus Steht auf, und umarmet Cyrum.  ==> other nltk
+tg24.2.132: Nihmt den Prinz Miketey bey der Hand.  ==> enter NLP
+tg24.2.161: Auf Miketey und Sigelvax zeigend.  ==> other nltk
+tg24.2.166: Pinxi nihmt Sigelvax und Miketey beym Arm.  ==> other nltk
+tg24.2.174: Beyde werden durch Pinxi und Soldaten abgeführt.  ==> other nltk
+tg24.2.188: Alle 3. umarmen sich, und weinen, hier folget das Quartetto von Kulican, Cyrus, Faustibus, und Pumphia.  ==> other nltk
+tg24.2.193: Von Pumphia, Kulican, Cyrus, und Faustibus.  ==> other nltk
+tg24.2.225: Alle 3. verspotten ihn.  ==> other nltk
+tg24.2.247: Nach dem Quartetto zeiget sich Kulican ganz rasend.  ==> other nltk
+tg24.2.253: Dieses geschiehet von Soldaten, Kulican mit Caricatur hauet dem Cyrus den Kopf auf der Erden ab, so daß man sehen kan, daß er einen falschen Kopf genommen, der abgehauene Kopf siehet lächerlich aus, und des Cyrus seinem gar nicht gleich, Kulican haltet den Kopf in der Hand.  ==> other nltk
+tg24.2.257: Wirft den Kopf der Pumphia vor die Füsse.  ==> other nltk
+tg24.2.270: Zu Kulican.  ==> other nltk
+tg24.2.274: Sie hebt den Kopf auf.  ==> other nltk
+tg24.2.283: Stellt sich, als ob sie in den masquirten Kopf beissen wolte, Faustibus und Kulican aber halten sie ab.  ==> exit nltk
+tg24.2.291: Stellt sich, als ob sie dem Kulican den Kopf wolte ins Gesicht schlagen.  ==> other nltk
+tg24.2.297: Steckt den Kopf in Sack.  ==> other nltk
+tg24.2.311: Ein Soldat lauffet ab, und bringt gleich auf einer Tatzen ein Maß-zimment mit Bier.  ==> other nltk
+tg24.2.316: Sie nimmt das Zimment oder die Kanne, und trinket.  ==> other nltk
+tg24.2.325: Sie trinket wieder.  ==> other nltk
+tg24.2.338: Sie trinkt wieder.  ==> other nltk
+tg24.2.343: Sie nimmt allen Schmuck von Kopf, und gibt ihn an die Seiten.  ==> other nltk
+tg24.2.350: Pumphia täumlet zurück auf einen Sitz, Faustibus und Mortong lauffen ihr zu helfen.  ==> other nltk
+tg24.2.363: Cyrus wird mit Lazo abgetragen, und Faustibus von denen Soldaten abgeführet. Mortong, und Soldaten kommen gleich wieder zurück.  ==> other nltk
+tg24.2.364: Zu Pumphia.  ==> other nltk
+tg24.2.370: Zu Mortong.  ==> other nltk
+tg24.2.374: Mortong, und die Soldaten wollen sie fortführen.  ==> other nltk
+tg24.2.385: Pumphia reist sich bey denen Haaren.  ==> other nltk
+tg25.2.4: Soffocles tritt à tempo ein.  ==> other nltk
+tg25.2.36: Soffocles wird durch Mortong abgestossen.  ==> other nltk
+tg25.2.44: Zu Mortong.  ==> other nltk
+tg26.2.4: A tempo erscheinet der Tempel, der Opfertisch, und der Krieges-gott Crocovita wird heraus getragen, viele weisse Knaben mit Wind-lichtern gehen voraus, alsdann folget Pumphia in einem weissen Kleid, und wird von sechs Götzen-pfaffen begleitet, welche allerhand Mord-instrumenten, als Hacken, Säge, Schwerdter, vergoldte Töpfe, grosse Schüsseln, und dergleichen in Händen haben. Voraus lasset sich eine angenehme Music hören.  ==> other nltk
+tg26.2.31: Sie giebt denen Götzen-pfaffen ein kostbares Jubel.  ==> other nltk
+tg26.2.32: Zu Kulican.  ==> other nltk
+tg27.2.4: Entstehet inwendig ein grosser Lärmen, Cyrus, Miketey, Faustibus, Sigelvax, und Soffocles, der Leztere aber bleibt zurück.  ==> other nltk
+tg27.2.9: Sie reissen Kulican vom Thron auf die Erde.  ==> other nltk
+tg27.2.19: Alle 4. schlagen auf Kulican beständig zu.  ==> other nltk
+tg27.2.41: Soffocles kommt a tempo hervor.  ==> enter nltk
+tg27.2.48: Zeigt auf Cyrum, Miketey, Faustibus, und Siegelvax.  ==> other nltk
+tg27.2.52: Zu Cyrus.  ==> other nltk
+tg27.2.56: Und gehet ab.  ==> exit nltk
+tg27.2.63: Zu Faustibus.  ==> other nltk
+tg27.2.74: Zu Faustibus.  ==> other nltk
+tg27.2.84: Sie gibt den Kulican, welcher sich verwundert, die Hand.  ==> other nltk
+tg27.2.92: Componirt von Joseph Kurz.  ==> other nltk
+tg27.2.93: Hierauf folget die Pantomim.  ==> other nltk

@@ -1,19 +1,21 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 from drama import Drama
-import os
+from ner import Ner
 from tools import Tools
+import os
+import re
 #the_drama =  Drama('files/LessiDer_MisogynDrame.xml')
 tools = Tools()
+ner = Ner()
 files_dir = "files"
-dirprefix = "corpa/"
+dirprefix = "corpora/"
 file_prefix = "cv"
 file_list = os.listdir(files_dir)
 cn = 0
 for f in file_list:
-    print f
     the_drama = Drama('files/'+f)
-    print the_drama.get_title()
+#    print the_drama.get_title()
 #print the_drama.get_bibl_title()
 #print the_drama.get_bibl_author()
 #print the_drama.get_publish_data()["license"]
@@ -25,8 +27,12 @@ for f in file_list:
             os.makedirs(dirprefix+x)
         for directive in stages[x]:
             if(directive):
-                file_handle = open(dirprefix+x+"/"+file_prefix+str(cn),"w")
-                file_handle.write(tools.unicode_safe(directive))
-                file_handle.close()
-                cn = cn + 1
+                #if the directive actually contains words.
+                if(re.match("\w+",directive)):
+                    if(not ner.only_names(tools.unicode_safe(directive))):
+                        print x+"==>"+tools.unicode_safe(directive)
+                        file_handle = open(dirprefix+x+"/"+file_prefix+str(cn),"w")
+                        file_handle.write(tools.unicode_safe(directive))
+                        file_handle.close()
+                        cn = cn + 1
     print "finished"

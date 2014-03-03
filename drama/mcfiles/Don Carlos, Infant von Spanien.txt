@@ -1,0 +1,361 @@
+tg1132.2.4: Carlos, Domingo.  ==> enter NLP
+tg1132.2.16: Carlos sieht zur Erde und schweigt.  ==> other nltk
+tg1132.2.32: Carlos wendet sich weg.  ==> other nltk
+tg1132.2.93: Nach einigem Stillschweigen.  ==> other nltk
+tg1132.2.101: Ernsthaft und finster.  ==> other nltk
+tg1132.2.184: Domingo geht ab. Nach einem Stillschweigen.  ==> exit nltk
+tg1133.2.4: Carlos. Marquis von Posa.  ==> other nltk
+tg1133.2.89: Marquis neigt sich über ihn in sprachloser Rührung.  ==> other nltk
+tg1133.2.335: Beide gehen ab zu verschiedenen Seiten.  ==> exit nltk
+tg1134.2.4: Die Königin. Die Herzogin von Olivarez. Die Prinzessin von Eboli und die Marquisin von Mondekar, welche die Allee heraufkommen.  ==> other nltk
+tg1134.2.82: Zur Prinzessin.  ==> other nltk
+tg1134.2.125: Zu den andern Damen.  ==> other nltk
+tg1134.2.138: Ein Page tritt auf und spricht leise mit der Oberhofmeisterin, welche sich darauf zur Königin wendet.  ==> other nltk
+tg1134.2.169: Die Oberhofmeisterin geht ab, und die Königin gibt dem Pagen einen Wink, welcher sogleich hinausgeht.  ==> other nltk
+tg1135.2.4: Königin. Prinzessin von Eboli. Marquisin von Mondekar und Marquis von Posa.  ==> other nltk
+tg1135.2.21: Zum Marquis sich wendend.  ==> other nltk
+tg1135.2.73: Zur Prinzessin von Eboli.  ==> other nltk
+tg1135.2.79: Die Prinzessin geht nach dem Platze. Die Königin etwas leiser zum Marquis.  ==> exit nltk
+tg1135.2.90: Die Prinzessin kommt mit der Blume zurück.  ==> other nltk
+tg1135.2.149: Die Königin wird aufmerksamer. Der Marquis fährt nach einem kurzen Stillschweigen fort, die Erzählung, soweit es die Gegenwart der Königin erlaubt, mehr an die Prinzessin von Eboli gerichtet.  ==> other nltk
+tg1135.2.198: Ein allgemeines Stillschweigen.  ==> other nltk
+tg1135.2.205: Diese entfernt sich. Der Marquis winkt einem Pagen, der sich im Hintergrunde zeigt und sogleich verschwindet. Die Königin erbricht die Briefe, die der Marquis ihr gegeben, und scheint überrascht zu werden. In dieser Zeit spricht der Marquis geheim und sehr angelegentlich mit der Marquisin von Mondekar. – Die Königin hat die Briefe gelesen und wendet sich mit einem ausforschenden Blicke zum Marquis.  ==> other nltk
+tg1136.2.4: Die Königin. Carlos.  ==> enter NLP
+tg1136.2.5: Marquis von Posa und die Marquisin von Mondekar treten nach dem Hintergrunde zurück.  ==> other nltk
+tg1136.2.178: Sie sieht ihn lange und durchdringend an – dann mit Würde und Ernst.  ==> other nltk
+tg1136.2.196: Er steht einen Augenblick starr und sprachlos.  ==> other nltk
+tg1136.2.258: Er steht auf.  ==> other nltk
+tg1136.2.286: Er geht und kommt noch einmal zurück.  ==> other nltk
+tg1136.2.296: Sie gibt ihm einige Briefe. Karl und der Marquis gehen ab. Die Königin sieht sich unruhig nach ihren Damen um, welche sich nirgends erblicken lassen. Wie sie nach dem Hintergrunde zurückgehen will, erscheint der König.  ==> other nltk
+tg1137.2.4: König. Königin. Herzog Alba. Graf Lerma. Domingo. Einige Damen und Granden, welche in der Entfernung zurückbleiben.  ==> other nltk
+tg1137.2.15: Zum Gefolge.  ==> other nltk
+tg1137.2.42: Die Marquisin tritt mit weinenden Augen zurück. Allgemeines Stillschweigen. Alle Umstehenden sehen bestürzt auf die Königin.  ==> other nltk
+tg1137.2.47: Zum König.  ==> other nltk
+tg1137.2.62: Sie nimmt ihren Gürtel ab und überreicht ihn der Marquisin.  ==> exit nltk
+tg1137.2.71: Sie lehnt sich an die Oberhofmeisterin und bedeckt das Gesicht.  ==> other nltk
+tg1137.2.80: Er wendet sich gegen die Grandezza.  ==> other nltk
+tg1137.2.109: Zu den Granden.  ==> other nltk
+tg1137.2.115: Niemand antwortet.  ==> other nltk
+tg1137.2.144: Er wendet sich gegen sein Gefolge.  ==> other nltk
+tg1137.2.157: Er führt die Königin hinweg, die übrigen folgen.  ==> other nltk
+tg1138.2.4: Don Carlos mit Briefen in der Hand, Marquis von Posa kommen von der entgegengesetzten Seite.  ==> other nltk
+tg1139.2.4: Vorige. Graf Lerma.  ==> enter NLP
+tg1139.2.21: Zu Lerma, welcher noch wartet.  ==> other nltk
+tg1139.2.25: Graf Lerma geht ab.  ==> exit nltk
+tg1140.2.4: Don Carlos. Der Marquis.  ==> enter NLP
+tg1140.2.121: Sie gehen ab.  ==> exit nltk
+tg1142.2.4: König Philipp unter einem Thronhimmel. Herzog von Alba in einiger Entfernung von dem König, mit bedecktem Haupt. Carlos.  ==> other nltk
+tg1142.2.11: Er tritt mit einer Verbeugung zurück.  ==> other nltk
+tg1142.2.44: Dieser geht nach der Haupttüre, durch welche Carlos gekommen war; der König winkt ihm nach einer andern.  ==> exit nltk
+tg1143.2.4: König Philipp. Don Carlos.  ==> enter NLP
+tg1143.2.44: Er fällt ihm zu Füßen.  ==> other nltk
+tg1143.2.221: Nach einigem Nachdenken, mit gemildertem Ernst.  ==> other nltk
+tg1143.2.279: Geht ab in heftiger Bewegung.  ==> exit nltk
+tg1144.2.4: Philipp bleibt eine Zeitlang in düstres Nachdenken versunken stehen – endlich geht er einige Schritte im Saale auf und nieder. Alba nähert sich verlegen.  ==> other nltk
+tg1144.2.27: Der König bleibt mit dem Aug auf ihm haften, finster.  ==> other nltk
+tg1144.2.46: Der König begibt sich in das Kabinett. Der Herzog entfernt sich durch eine andere Türe.  ==> other nltk
+tg1145.2.4: Don Carlos kommt im Gespräche mit einem Pagen durch die Mitteltüre. Die Hofleute, welche sich im Vorsaal befinden, zerstreuen sich bei seiner Ankunft in den angrenzenden Zimmern.  ==> other nltk
+tg1145.2.17: Indem er den Pagen genauer betrachtet.  ==> other nltk
+tg1145.2.26: Er reißt hastig das Siegel auf und triff an das äußerste Ende des Saals, den Brief zu lesen. Unterdessen kommt der Herzog von Alba und geht, ohne von dem Prinzen bemerkt zu werden, an ihm vorbei in der Königin Zimmer. Carlos fängt an, heftig zu zittern und wechselsweise zu erblassen und zu erröten. Nachdem er gelesen hat, steht er lange sprachlos, die Augen starr auf den Brief geheftet. – Endlich wendet er sich zu dem Pagen.  ==> other nltk
+tg1145.2.63: Wie aus einer Betäubung erwachend.  ==> other nltk
+tg1145.2.71: Außer Fassung durchs Zimmer stürzend und die Arme zum Himmel emporgeworfen.  ==> other nltk
+tg1145.2.89: Er läßt die Arme sinken, blickt scheu umher und fängt an, sich zu sammeln.  ==> other nltk
+tg1145.2.97: Den Pagen bei der Hand fassend und beiseite führend.  ==> other nltk
+tg1145.2.108: Der Page kommt zurück. Carlos legt ihm eine Hand auf die Schulter und sieht ihm ernst und feierlich ins Gesicht.  ==> other nltk
+tg1145.2.145: Das Zimmer der Königin öffnet sich, und der Herzog von Alba tritt heraus.  ==> other nltk
+tg1145.2.152: Ab.  ==> other nltk
+tg1146.2.4: Don Carlos. Herzog von Alba.  ==> other nltk
+tg1146.2.11: Er will gehen.  ==> other nltk
+tg1146.2.191: Sie fechten.  ==> other nltk
+tg1147.2.4: Die Königin. Don Carlos. Herzog von Alba.  ==> other nltk
+tg1147.2.9: Zum Prinzen, unwillig und mit gebietender Stimme.  ==> other nltk
+tg1147.2.15: Er wirft sich stumm zu der Königin Füßen, steht dann rasch auf und eilt außer Fassung fort.  ==> other nltk
+tg1147.2.22: Der Herzog folgt ihr in das Zimmer.  ==> other nltk
+tg1148.2.4: Die Prinzessin, in einem idealischen Geschmack, schön, aber einfach gekleidet, spielt die Laute und singt. Darauf der Page der Königin.  ==> other nltk
+tg1148.2.112: Page eilt hinaus.  ==> exit nltk
+tg1149.2.4: Die Prinzessin und bald nachher Don Carlos.  ==> other nltk
+tg1149.2.5: Prinzessin hat sich in eine Ottomane geworfen und spielt.  ==> other nltk
+tg1149.2.34: Indem er sich zweifelhaft umsieht.  ==> other nltk
+tg1149.2.47: Nach einigem Stillschweigen mit Bedeutung.  ==> other nltk
+tg1149.2.65: Er will gehen.  ==> other nltk
+tg1149.2.86: Sie führt ihn zum Sofa und nimmt ihre Laute wieder.  ==> other nltk
+tg1149.2.112: Die Prinzessin stutzt; er bemerkt es und fährt mit einer leichten Galanterie fort.  ==> other nltk
+tg1149.2.125: Ihn bei der Hand fassend, mit einschmeichelndem Interesse.  ==> other nltk
+tg1149.2.173: Carlos bleibt stehen und wird nachdenkend. Sie ergreift diesen Augenblick, ihn zu sich auf den Sofa zu ziehen.  ==> other nltk
+tg1149.2.218: Indem sie mit einer leichten Fingerbewegung seine Hemdkrause wegschnellt und eine Bandschleife, die da verborgen war, wegnimmt.  ==> other nltk
+tg1149.2.287: Carlos springt bestürzt auf.  ==> other nltk
+tg1149.2.309: Sie schweigt einige Augenblicke.  ==> other nltk
+tg1149.2.315: Sie nähert sich dem Prinzen wieder und betrachtet ihn zweifelhaft.  ==> other nltk
+tg1149.2.331: Der Prinz rückt näher, mit erwartungsvollem, teilnehmendem Erstaunen.  ==> other nltk
+tg1149.2.347: Carlos nimmt das Papier und hängt voll Ungeduld an ihrer Erzählung, ohne sich Zeit zu nehmen, es zu lesen.  ==> other nltk
+tg1149.2.435: Sie nimmt seine Hand und will sie küssen.  ==> other nltk
+tg1149.2.478: Nach einem dumpfen Besinnen.  ==> other nltk
+tg1149.2.482: Seine Knie wanken, er hält sich an einen Stuhl und verhüllt das Gesicht.  ==> other nltk
+tg1149.2.507: Carlos will gehen.  ==> other nltk
+tg1149.2.545: Den Brief frohlockend emporhaltend.  ==> other nltk
+tg1149.2.552: Er geht.  ==> exit nltk
+tg1150.2.4: Die Prinzessin allein.  ==> aside nltk
+tg1150.2.5: Sie steht noch betäubt, außer Fassung; nachdem er hinaus ist, eilt sie ihm nach und will ihn zurückrufen.  ==> other nltk
+tg1150.2.13: Sie sinkt auf einen Sessel. Nach einer Pause.  ==> other nltk
+tg1150.2.32: Sie hält plötzlich ein, von einem Gedanken überrascht. – Zu gleicher Zeit reißt sie die Schleife, die ihr Carlos gegeben hat, von dem Busen, betrachtet sie schnell und erkennt sie.  ==> other nltk
+tg1150.2.44: Stillschweigen.  ==> other nltk
+tg1150.2.81: Nach einigem Besinnen.  ==> other nltk
+tg1150.2.85: Sie geht ab.  ==> exit nltk
+tg1151.2.4: Herzog von Alba. Pater Domingo.  ==> other nltk
+tg1151.2.170: Der Herzog von Alba geht ab.  ==> exit nltk
+tg1152.2.4: Die Prinzessin. Domingo.  ==> enter NLP
+tg1152.2.33: Pause, worin er ihre Antwort erwartet.  ==> other nltk
+tg1152.2.116: Er geht hinaus.  ==> exit nltk
+tg1153.2.4: Die Prinzessin. Herzog Alba. Domingo.  ==> enter NLP
+tg1153.2.102: Zum Herzog.  ==> other nltk
+tg1153.2.130: Sie eilt ab.  ==> exit nltk
+tg1154.2.4: Alba. Domingo.  ==> enter NLP
+tg1154.2.13: Sie gehen ab.  ==> exit nltk
+tg1155.2.4: Don Carlos. Der Prior.  ==> enter NLP
+tg1155.2.75: Der Prior geht ab.  ==> exit nltk
+tg1156.2.4: Don Carlos. Der Marquis von Posa tritt herein.  ==> enter nltk
+tg1156.2.58: Den Brief des Königs an die Fürstin Eboli hervorziehend.  ==> other nltk
+tg1156.2.68: Nachdem er ihn gelesen.  ==> other nltk
+tg1156.2.165: Nachdem er heftig auf und nieder gegangen.  ==> other nltk
+tg1156.2.212: Carlos sieht zur Erde und schweigt.  ==> other nltk
+tg1156.2.221: Carlos gibt ihm den Brief. Der Marquis zerreißt ihn.  ==> other nltk
+tg1156.2.226: Mit gemäßigter Empfindlichkeit.  ==> other nltk
+tg1156.2.234: Der Marquis ruht mit einem durchdringenden Blick auf dem Prinzen, der ihn zweifelhaft ansieht. Langes Stillschweigen.  ==> other nltk
+tg1156.2.314: Sie umarmen sich.  ==> other nltk
+tg1156.2.339: Sie gehen ab zu verschiedenen Türen.  ==> exit nltk
+tg1158.2.4: Auf dem Nachttische zwei brennende Lichter. Im Hintergrunde des Zimmers einige Pagen auf den Knien, eingeschlafen. Der König, von oben herab halb ausgekleidet, steht vor dem Tische, einen Arm über den Sessel gebeugt, in einer nachdenkenden Stellung. Vor ihm liegt ein Medaillon und Papiere.  ==> other nltk
+tg1158.2.12: Hier macht er eine Bewegung, die ihn zu sich selbst bringt. Er sieht mit Befremdung auf.  ==> other nltk
+tg1158.2.22: Er löscht die Lichter aus und öffnet eine Fenstergardine. – Indem er auf und nieder geht, bemerkt er die schlafenden Knaben und bleibt eine Zeitlang schweigend vor ihnen stehen; darauf zieht er die Glocke.  ==> other nltk
+tg1159.2.4: Der König. Graf Lerma.  ==> enter NLP
+tg1159.2.47: Zu den Pagen, welche sich unterdessen ermuntert haben.  ==> other nltk
+tg1159.2.51: Pagen gehen.  ==> other nltk
+tg1159.2.56: Er bleibt forschend vor dem Grafen stehen.  ==> other nltk
+tg1159.2.76: Der Graf will sich entfernen, er ruft ihn noch einmal zurück.  ==> other nltk
+tg1159.2.111: Im Begriff zu gehen.  ==> other nltk
+tg1159.2.120: Er reicht ihm die Hand zum Kusse. Lerma geht und öffnet dem Herzog von Alba die Türe.  ==> other nltk
+tg1160.2.4: Der König und Herzog von Alba.  ==> other nltk
+tg1160.2.10: Er stutzt, wie er den König genauer betrachtet.  ==> other nltk
+tg1160.2.140: Eine lange und tiefe Stille. Er setzt sich nieder und verhüllt das Gesicht.  ==> other nltk
+tg1160.2.184: Aufstehend, kalt und stolz.  ==> other nltk
+tg1160.2.194: Er zieht die Glocke.  ==> other nltk
+tg1160.2.207: Der Page geht ab.  ==> exit nltk
+tg1160.2.214: Alba entfernt sich.  ==> other nltk
+tg1161.2.4: Der König. Domingo.  ==> enter NLP
+tg1161.2.5: König geht einigemal auf und ab, sich zusammeln.  ==> other nltk
+tg1161.2.86: Er ruht mit ungewissem Blick auf Domingo. Nach einigem Stillschweigen.  ==> other nltk
+tg1161.2.202: Beide gehen ab.  ==> exit nltk
+tg1162.2.4: Der König allein.  ==> aside nltk
+tg1162.2.28: Er öffnet eine Schatulle und nimmt eine Schreibtafel   ==> other nltk
+tg1162.2.29: heraus. Nachdem er eine Zeitlang darin geblättert.  ==> other nltk
+tg1162.2.41: Liest weiter.  ==> other nltk
+tg1162.2.47: Er löscht diesen Namen aus und schreibt ihn auf die andre Tafel. Nachdem er weitergelesen.  ==> other nltk
+tg1162.2.63: Er geht ab.  ==> exit nltk
+tg1163.2.4: Don Carlos im Gespräch mit dem Prinzen von Parma. Die Herzoge von Alba, Feria und Medina Sidonia. Graf von Lerma und noch andere Granden mit Schriften in der Hand. Alle den König erwartend.  ==> other nltk
+tg1163.2.17: Carlos, der mit stiller Teilnahme auf ihn geblickt hat, nähert sich ihm jetzt und drückt ihm die Hand.  ==> other nltk
+tg1164.2.4: Der König kommt angekleidet heraus. Die Vorigen.  ==> enter nltk
+tg1164.2.5: Alle nehmen die Hüte ab und weichen zu beiden Seiten aus, indem sie einen halben Kreis um ihn bilden. Stillschweigen.  ==> other nltk
+tg1164.2.10: Don Carlos und der Prinz von Parma nähern sich zuerst und küssen dem König die Hand. Er wendet sich mit einiger Freundlichkeit zu dem letztern, ohne seinen Sohn bemerken zu wollen.  ==> other nltk
+tg1164.2.23: Zum Herzog von Feria.  ==> other nltk
+tg1164.2.34: Er winkt Alba zu sich, welcher sich vor ihm auf ein Knie niederläßt, und hängt ihm den Orden um.  ==> other nltk
+tg1164.2.40: Er wird den Herzog von Medina Sidonia gewahr.  ==> other nltk
+tg1164.2.53: Er reicht ihm die Hand zum Kusse.  ==> other nltk
+tg1164.2.60: Er gibt ihm einen Wink, aufzustehen und sich zu bedecken – dann wendet er sich gegen die andern.  ==> other nltk
+tg1164.2.64: Zu Don Carlos und dem Prinzen von Parma.  ==> other nltk
+tg1164.2.68: Diese treten ab. Die noch übrigen Granden nähern sich und überreichen dem König kniend ihre Papiere. Er durchsieht sie flüchtig und reicht sie dem Herzog von Alba.  ==> other nltk
+tg1164.2.123: Zum Herzog Alba.  ==> other nltk
+tg1164.2.128: Der Herzog geht ab. Der König ruft Feria.  ==> exit nltk
+tg1164.2.133: Er geht ab.  ==> exit nltk
+tg1164.2.156: Alle gehen ab.  ==> exit nltk
+tg1165.2.4: Marquis von Posa und Herzog von Alba.  ==> other nltk
+tg1165.2.24: Er entfernt sich.  ==> other nltk
+tg1166.2.4: Der Marquis allein.  ==> aside nltk
+tg1166.2.12: Nach einigem Auf- und Niedergehen.  ==> other nltk
+tg1166.2.34: Er macht einige Gänge durch das Zimmer und bleibt endlich in ruhiger Betrachtung vor einem Gemälde stehen. Der König erscheint in dem angrenzenden Zimmer, wo er einige Befehle gibt. Alsdann tritt er herein, steht an der Türe still und sieht dem Marquis eine Zeitlang zu, ohne von ihm bemerkt zu werden.  ==> other nltk
+tg1167.2.4: Der König und Marquis von Posa.  ==> other nltk
+tg1167.2.5: Dieser geht dem König, sobald er ihn gewahr wird, entgegen und läßt sich vor ihm auf ein Knie nieder, steht auf und bleibt ohne Zeichen der Verwirrung vor ihm stehen.  ==> other nltk
+tg1167.2.59: Er hält inne.  ==> other nltk
+tg1167.2.90: Der König sieht ihn mit Erstaunen an.  ==> other nltk
+tg1167.2.150: Nach einer Pause.  ==> other nltk
+tg1167.2.162: Die Hand auf die Brust gelegt.  ==> other nltk
+tg1167.2.241: Der Graf von Lerma tritt herein und spricht einige Worte leise mit dem König. Dieser gibt ihm einen Wink, sich zu entfernen, und bleibt in seiner vorigen Stellung sitzen.  ==> enter nltk
+tg1167.2.260: Hier schweigt er still; seine Augen ruhen auf dem König, der es versucht, diesen Blick zu erwidern, aber betroffen und verwirrt zur Erde sieht.  ==> other nltk
+tg1167.2.303: Der König ist bewegt; der Marquis bemerkt es und tritt einige Schritte näher.  ==> other nltk
+tg1167.2.349: Sich ihm zu Fußen werfend.  ==> other nltk
+tg1167.2.461: Nach einer Pause.  ==> other nltk
+tg1167.2.469: Da sich der Marquis zu bedenken scheint.  ==> other nltk
+tg1167.2.486: Mit einem Blicke der Wehmut auf dem Marquis verweilend.  ==> other nltk
+tg1167.2.540: Er zieht eine Glocke.  ==> other nltk
+tg1167.2.551: Der Marquis steht auf und geht. Graf Lerma tritt herein.  ==> enter nltk
+tg1169.2.4: Die Königin. Die Herzogin Olivarez. Die Prinzessin von Eboli. Die Gräfin Fuentes und noch andere Damen.  ==> other nltk
+tg1169.2.11: Da sie die Prinzessin von Eboli gewahr wird, welche sich ihr nähert und ihr die Hand küßt.  ==> other nltk
+tg1169.2.42: Sie geht ab.  ==> exit nltk
+tg1169.2.48: Ein Page tritt herein und spricht mit der Herzogin, welche sich alsdann zur Königin wendet.  ==> enter nltk
+tg1169.2.58: Der Page geht ab und öffnet dem Marquis die Türe.  ==> exit nltk
+tg1170.2.4: Marquis von Posa. Die Vorigen.  ==> other nltk
+tg1170.2.5: Der Marquis läßt sich auf ein Knie vor der Königin nieder, welche ihm einen Wink gibt aufzustehen.  ==> other nltk
+tg1170.2.14: Die Damen entfernen sich auf einen Wink der Königin.  ==> other nltk
+tg1171.2.4: Die Königin. Marquis von Posa.  ==> other nltk
+tg1171.2.119: Er gibt der Königin einen Brief.  ==> other nltk
+tg1171.2.221: Seine Schreibtafel der Königin reichend.  ==> other nltk
+tg1171.2.254: Sie gibt ihm einen Wink. Der Marquis, geht ab.  ==> exit nltk
+tg1172.2.4: Don Carlos und Graf Lerma.  ==> enter NLP
+tg1172.2.116: Er will gehen.  ==> other nltk
+tg1172.2.124: Lerma geht ab.  ==> exit nltk
+tg1173.2.4: Marquis von Posa kommt durch die Galerie. Carlos.  ==> enter nltk
+tg1173.2.12: Er will fort.  ==> other nltk
+tg1173.2.57: Er zieht sein Souvenir heraus und gibt es dem Prinzen.  ==> other nltk
+tg1173.2.146: Er will gehen.  ==> other nltk
+tg1173.2.158: Er nimmt ihn heraus und gibt ihm die Brieftasche zurück.  ==> other nltk
+tg1173.2.166: Er geht langsam und still weg, an der Türe bleibt er einen Augenblick stehen, kehrt wieder um und bringt ihm den Brief.  ==> other nltk
+tg1173.2.170: Seine Hand zittert. Tränen stürzen aus seinen Augen, er fällt dem Marquis um den Hals und drückt sein Gesicht wider dessen Brust.  ==> other nltk
+tg1173.2.175: Er geht schnell fort.  ==> exit nltk
+tg1174.2.4: Marquis sieht ihm erstaunt nach.  ==> other nltk
+tg1174.2.29: Er geht ab.  ==> exit nltk
+tg1175.2.4: Der König in einem Sessel – neben ihm die Infantin Klara Eugenia.  ==> other nltk
+tg1175.2.14: Er stutzt und hält inne.  ==> other nltk
+tg1175.2.20: Er hat das Medaillon in die Hand genommen und sieht wechselsweise auf das Bild und in einen gegenüberstehenden Spiegel – endlich wirft er es zur Erde, steht schnell auf und drückt die Infantin von sich.  ==> other nltk
+tg1176.2.4: Graf Lerma. Der König.  ==> enter NLP
+tg1176.2.23: Er geht ab.  ==> exit nltk
+tg1177.2.4: Der König. Die Königin tritt herein. Die Infantin.  ==> other nltk
+tg1177.2.5: Die letztere fliegt ihr entgegen und schmiegt sich an sie an. Sie fällt vor dem König nieder, welcher stumm und verwirrt steht.  ==> other nltk
+tg1177.2.84: Sieht die Bewegung des Königs.  ==> other nltk
+tg1177.2.94: Sie erkennt das Medaillon und bleibt in sprachloser Erstarrung stehen. Beide sehen einander mit unverwandten Augen an. Nach einem langen Stillschweigen.  ==> other nltk
+tg1177.2.207: Er läßt ihre Hand los.  ==> other nltk
+tg1177.2.235: König stößt das Kind unsanft von der Königin.  ==> other nltk
+tg1177.2.242: Sie nimmt sie auf den Arm.  ==> other nltk
+tg1177.2.249: Sie will gehen.  ==> other nltk
+tg1177.2.263: Sie eilt hinaus.  ==> exit nltk
+tg1177.2.273: Sie richtet sich auf, von dem König unterstützt.  ==> other nltk
+tg1178.2.4: Die Vorigen. Alba, Domingo treten erschrocken herein. Damen folgen.  ==> other nltk
+tg1178.2.10: Die Königin geht ab, begleitet von den Damen. Alba und Domingo treten näher.  ==> other nltk
+tg1179.2.4: Marquis von Posa. Die Vorigen.  ==> other nltk
+tg1179.2.11: Alba und Domingo sehen einander mit stummer Verwunderung an und gehen.  ==> other nltk
+tg1180.2.4: Der König und Marquis von Posa.  ==> other nltk
+tg1180.2.50: Er gibt Carlos' Brieftasche dem König.  ==> other nltk
+tg1180.2.57: Er liest es durch, legt es beiseite und eilt zu den andern Papieren.  ==> other nltk
+tg1180.2.64: Er liest aufmerksam, bald laut, bald leise.  ==> other nltk
+tg1180.2.143: Zu Lerma, der bei den letzten Worten hereintritt.  ==> other nltk
+tg1180.2.150: Er sieht den Marquis mit zweideutigen Blicken an und geht.  ==> other nltk
+tg1180.2.170: Wie sich der König zu bedenken scheint.  ==> other nltk
+tg1180.2.187: Beide gehen ab zu verschiedenen Seiten.  ==> exit nltk
+tg1181.2.4: Carlos kommt in der größten Beängstigung. Graf Lerma ihm entgegen.  ==> enter nltk
+tg1181.2.117: Er geht seitwärts und verhüllt das Gesicht.  ==> other nltk
+tg1181.2.142: Er geht, heftig die Hände ringend, auf und nieder.  ==> other nltk
+tg1181.2.148: Rasch entschlossen.  ==> other nltk
+tg1181.2.156: Schnell ab.  ==> exit nltk
+tg1181.2.161: Geht ab.  ==> exit nltk
+tg1182.2.4: Die Königin. Alba. Domingo.  ==> enter NLP
+tg1182.2.78: Indem sie einen durchdringenden Blick auf beide heftet.  ==> other nltk
+tg1182.2.107: Mit Stolz und Ernst.  ==> other nltk
+tg1182.2.124: Sie macht ihnen eine Verbeugung und geht ab; jene entfernen, sich nach einer andern Seite.  ==> other nltk
+tg1183.2.4: Prinzessin von Eboli. Gleich darauf Carlos.  ==> other nltk
+tg1183.2.77: Er wirft sich vor ihr nieder.  ==> other nltk
+tg1184.2.4: Die Vorigen. Marquis von Posa stürzt herein, hinter ihm zwei Offiziere der königlichen Leibwache.  ==> other nltk
+tg1184.2.22: Zu einem von den Offizieren.  ==> other nltk
+tg1184.2.27: Er zeigt den Verhaftsbefehl.  ==> other nltk
+tg1184.2.31: Carlos steht erstarrt, wie vom Donner gerührt. Die Prinzessin stößt einen Laut des Schreckens aus und will fliehen, die Offiziere erstaunen. Eine lange und tiefe Pause. Man sieht den Marquis sehr heftig zittern und mit Mühe seine Fassung behalten. Zum Prinzen.  ==> other nltk
+tg1184.2.37: Zu dem Offizier.  ==> other nltk
+tg1184.2.43: Er spricht noch einiges leise mit dem Offizier, darauf wendet er sich zum andern.  ==> other nltk
+tg1184.2.54: Carlos läßt sich ohne Zeichen des Bewußtseins hinwegführen. – Nur im Vorübergehen läßt er einen matten, sterbenden Blick auf den Marquis fallen, der sein Gesicht verhüllt. Die Prinzessin versucht es noch einmal zu entfliehen; der Marquis führt sie beim Arme zurück.  ==> other nltk
+tg1185.2.4: Prinzessin von Eboli. Marquis von Posa.  ==> other nltk
+tg1185.2.36: Er bleibt in dieser Stellung zweifelhaft ruhen.  ==> other nltk
+tg1185.2.47: Er läßt den Dolch fallen und eilt hinaus. Die Prinzessin stürzt fort durch eine andere Türe.  ==> other nltk
+tg1186.2.4: Die Königin zur Gräfin Fuentes.  ==> other nltk
+tg1186.2.11: Die Gräfin Fuentes geht ab, und hereinstürzt die Prinzessin von Eboli.  ==> other nltk
+tg1187.2.4: Königin. Prinzessin von Eboli.  ==> other nltk
+tg1187.2.111: Sie reicht ihr den Arm.  ==> other nltk
+tg1187.2.127: Sie drückt ihr glühendes Gesicht aus den Boden. Die Königin geht ab. Große Pause. Die Herzogin von Olivarez kommt nach einigen Minuten aus dem Kabinett, in welches die Königin gegangen war, und findet die Fürstin noch in der vorigen Stellung liegen. Sie nähert sich ihr still schweigend; auf das Geräusch richtet sich die letztere auf und fährt wie eine Rasende in die Höhe, da sie die Königin nicht mehr gewahr wird.  ==> other nltk
+tg1188.2.4: Prinzessin von Eboli. Herzogin von Olivarez.  ==> other nltk
+tg1188.2.33: Sie geht schnell fort. Die Prinzessin folgt ihr bis an die Türe des Kabinetts, welche sogleich hinter der Herzogin verschlossen wird. Einige Minuten bleibt sie stumm und unbeweglich auf den Knien davor liegen, dann rafft sie sich auf und eilt hinweg mit verhülltem Gesicht.  ==> other nltk
+tg1189.2.4: Die Königin. Marquis von Posa.  ==> other nltk
+tg1189.2.14: Indem sie ihn genauer ansieht und erschrocken zurücktritt.  ==> other nltk
+tg1189.2.114: Er wendet sich ab, Tränen ersticken seine Stimme.  ==> other nltk
+tg1189.2.166: Er hält inne und sieht einige Augenblicke stillschweigend auf die Königin.  ==> other nltk
+tg1189.2.194: Nach einigem Stillschweigen.  ==> other nltk
+tg1189.2.255: Er neigt sich gegen die Königin und will gehen.  ==> other nltk
+tg1189.2.309: Er springt auf und geht schnell fort. Die Königin in ihr Kabinett.  ==> other nltk
+tg1190.2.4: Herzog von Alba und Domingo gehen stillschweigend und abgesondert auf und nieder. Graf Lerma kommt aus dem Kabinett des Königs, alsdann Don Raimond von Taxis, der Oberpostmeister.  ==> other nltk
+tg1190.2.11: Lerma will wieder hineingehen.  ==> other nltk
+tg1190.2.23: Lerma geht ins Kabinett.  ==> exit nltk
+tg1190.2.81: Taxis geht hinein.  ==> exit nltk
+tg1190.2.100: Geräusch im Kabinett.  ==> other nltk
+tg1190.2.107: Beide hinein.  ==> exit nltk
+tg1191.2.4: Der Prinz von Parma, die Herzoge von Feria und Medina Sidonia mit noch einigen andern Granden treten auf. Die Vorigen.  ==> other nltk
+tg1191.2.58: Alba eilt hinein.  ==> exit nltk
+tg1191.2.85: Man hört eine Glocke im Kabinett. Graf Lerma eilt hinein.  ==> exit nltk
+tg1192.2.4: Prinzessin von Eboli. Feria. Medina Sidonia. Parma. Domingo und übrige Granden.  ==> other nltk
+tg1192.2.9: Zu Feria.  ==> other nltk
+tg1192.2.28: Sie ergreift seine Hand und will ihn ins Kabinett mit   ==> other nltk
+tg1192.2.29: fortreißen.  ==> other nltk
+tg1192.2.48: Wie sie ins Kabinett will, stürzt heraus.  ==> other nltk
+tg1194.2.4: Carlos an einem Tische sitzend, den Kopf vorwärts auf die Arme gelegt, als wenn er schlummerte. Im Hintergrunde des Zimmers einige Offiziere, die mit ihm eingeschlossen sind. Marquis von Posa tritt herein, ohne von ihm bemerkt zu werden, und spricht leise mit den Offizieren, welche sich sogleich entfernen. Er selbst tritt ganz nahe vor Carlos und betrachtet ihn einige Augenblicke schweigend und traurig. Endlich macht er eine Bewegung, welche diesen aus seiner Betäubung erweckt.  ==> other nltk
+tg1194.2.5: Carlos steht auf, wird den Marquis gewahr und fährt erschrocken zusammen. Dann sieht er ihn eine Weile mit großen, starren Augen an und streicht mit der Hand über die Stirne, als ob er sich auf etwas besinnen wollte.  ==> other nltk
+tg1194.2.79: Er nimmt sein Portefeuille heraus.  ==> other nltk
+tg1195.2.4: Herzog Alba. Die Vorigen.  ==> enter NLP
+tg1195.2.10: Carlos sieht den Marquis verwundernd an. Alle schweigen still.  ==> other nltk
+tg1195.2.36: Er sucht die Augen des Marquis und beobachtet eine stolze Herabsetzung gegen den Herzog.  ==> other nltk
+tg1195.2.57: Alba entfernt sich. Man sieht ihn noch eine Zeitlang im Vorhofe verweilen und Befehle austeilen.  ==> other nltk
+tg1196.2.4: Carlos und Marquis von Posa.  ==> other nltk
+tg1196.2.12: Auf ihn zugehend, mit großer Bewegung.  ==> other nltk
+tg1196.2.25: Er hält inne.  ==> other nltk
+tg1196.2.51: Carlos zieht seine Hand zurück, sieht ihn starr an und antwortet nichts.  ==> other nltk
+tg1196.2.61: Er rückt nahe an Carlos, der noch immer in einer toten Erstarrung ist und sich unwillkürlich von ihm niederziehen läßt.  ==> other nltk
+tg1196.2.75: Er hält inne, Carlos' Antwort zu erfahren; dieser verharrt in seinem Stillschweigen.  ==> other nltk
+tg1196.2.102: Hier schweigt er. Carlos geht aus seiner Versteinerung in lebhafte Bewegungen über.  ==> exit nltk
+tg1196.2.121: Carlos steht auf.  ==> other nltk
+tg1196.2.190: Er will fort.  ==> other nltk
+tg1196.2.207: Er will wieder fort. Der Marquis nimmt ihn beim Arme und sieht ihn bedeutend an.  ==> other nltk
+tg1196.2.232: Es geschieht ein Schuß durch die Gittertüre. Carlos springt auf.  ==> other nltk
+tg1196.2.238: Er sinkt nieder.  ==> other nltk
+tg1197.2.4: Der König. Carlos. Die Herzoge von Alba, Feria und Medina Sidonia. Der Prinz von Parma. Graf Lerma. Domingo und viele Granden.  ==> other nltk
+tg1197.2.12: Carlos blickt auf und sieht um sich her, wie einer, der aus dem Traum erwacht. Seine Augen heften sich bald auf den König, bald auf den Toten. Er antwortet nicht.  ==> other nltk
+tg1197.2.17: Er nähert sich ihm, reicht ihm die Hand und hilft ihm sich aufrichten.  ==> other nltk
+tg1197.2.25: Er stößt ihn zurück, alle Granden kommen in Bewegung.  ==> other nltk
+tg1197.2.39: Er hält ihn gewaltsam mit beiden Händen und bekommt mit der einen das Schwert zu fassen, das der König mitgebracht hat.  ==> other nltk
+tg1197.2.40: Es fährt aus der Scheide.  ==> other nltk
+tg1197.2.121: Der König steht ohne Bewegung, den Blick starr auf den Boden geheftet. Alle Granden sehen betreten und furchtsam auf ihn.  ==> other nltk
+tg1197.2.151: Ein tiefes Schweigen. Viele von den Granden sehen weg   ==> other nltk
+tg1197.2.161: Er wendet sich zum König mit mehr Fassung und Gelassenheit.  ==> other nltk
+tg1197.2.175: Er sinkt an dem Leichnam nieder und nimmt an dem Folgenden keinen Anteil mehr. Man hört unterdessen von ferne ein verworrenes Getöse von   ==> other nltk
+tg1197.2.176: Stimmen und ein Gedränge vieler Menschen. Um den König herum ist eine tiefe Stille. Seine Augen durchlaufen den ganzen Kreis, aber niemand begegnet seinen Blicken.  ==> other nltk
+tg1197.2.186: Das vorige Stillschweigen. – Der Tumult kommt näher und wird lauter. Durch die umstehenden Granden läuft ein Gemurmel, sie geben sich untereinander verlegene Winke; Graf Lerma stößt endlich leise den Herzog von Alba an.  ==> other nltk
+tg1198.2.4: Ein Offizier von der Leibwache. Die Vorigen.  ==> other nltk
+tg1198.2.10: Er arbeitet sich durch die Menge und dringt bis zum König.  ==> other nltk
+tg1198.2.46: Alle drängen sich um den König herum und knien mit gezogenen Schwertern vor ihm nieder. Carlos bleibt allein und von allen verlassen bei dem Leichnam.  ==> other nltk
+tg1198.2.53: Er bleibt ohnmächtig in Albas und Lermas Armen.  ==> other nltk
+tg1198.2.66: Er geht ab. Der König wird weggetragen, und alle Granden begleiten ihn.  ==> other nltk
+tg1199.2.4: Carlos bleibt allein bei dem Leichnam zurück. Nach einigen Augenblicken erscheint Ludwig Merkado, sieht sich schüchtern um und steht eine Zeitlang stillschweigend hinter dem Prinzen, der ihn nicht bemerkt.  ==> aside nltk
+tg1199.2.10: Carlos sieht wieder weg und gibt ihm keine Antwort.  ==> other nltk
+tg1199.2.16: Er zeigt dem Prinzen einen Siegelring – dieser verharrt in seinem Stillschweigen.  ==> other nltk
+tg1199.2.32: Er will mit ihm gehen.  ==> other nltk
+tg1199.2.79: Merkado geht ab.  ==> exit nltk
+tg1200.2.4: Carlos. Graf Lerma.  ==> enter NLP
+tg1200.2.28: Er gibt ihm einen Dolch und Terzerolen.  ==> other nltk
+tg1200.2.48: Er läßt sich auf ein Knie vor ihm nieder.  ==> other nltk
+tg1200.2.69: Er geht schnell weg. Carlos ist im Begriff, auf einem andern Wege fort zueilen, kehrt aber plötzlich um und wirft sich vor dem Leichnam des Marquis nieder, den er noch einmal in seine Arme schließt. Dann verläßt er schnell das Zimmer.  ==> other nltk
+tg1201.2.4: Herzog von Alba und Herzog von Feria kommen im Gespräch.  ==> other nltk
+tg1202.2.4: König zu den Vorigen.  ==> other nltk
+tg1202.2.5: Alle erschrecken über seinen Anblick, weichen zurück und lassen ihn ehrerbietig mitten durch. Er kommt in einem wachen Traume, wie eines Nachtwandlers. – Sein Anzug und seine Gestalt zeigen noch die Unordnung, worein ihn die gehabte Ohnmacht versetzt hat. Mit langsamen Schritten geht er an den anwesenden Granden vorbei, sieht jeden starr an, ohne einen einzigen wahrzunehmen. Endlich bleibt er gedankenvoll stehen, die Augen zur Erde gesenkt, bis seine Gemütsbewegung nach und nach laut wird.  ==> other nltk
+tg1202.2.21: Er sieht lange im Kreis herum.  ==> other nltk
+tg1202.2.110: Zum Herzog von Alba.  ==> other nltk
+tg1202.2.125: Einer von den Granden geht hinaus. Der König nimmt die Papiere wieder, liest fort und legt sie abermals weg.  ==> other nltk
+tg1202.2.155: Ein Offizier von der Leibwache tritt herein, zieht den Herzog von Feria auf die Seite und spricht leise mit ihm. Dieser wendet sich betreten zum Herzog von Alba, andre drängen sich hinzu, und es entsteht ein Gemurmel.  ==> other nltk
+tg1202.2.211: Allgemeines Stillschweigen.  ==> other nltk
+tg1202.2.224: Der Offizier geht ab. Gleich darauf ein Page.  ==> exit nltk
+tg1202.2.232: Der Kardinal Großinquisitor, ein Greis von neunzig Jahren und blind, auf einen Stab gestützt und von zwei Dominikanern geführt. Wie er durch ihre Reihen geht, werfen sich alle Granden vor ihm nieder und berühren den Saum seines Kleides. Er erteilt ihnen den Segen. Alle entfernen sich.  ==> other nltk
+tg1203.2.4: Der König und der Großinquisitor.  ==> other nltk
+tg1203.2.5: Ein langes Stillschweigen.  ==> other nltk
+tg1203.2.96: Mit unwilligem Kopfschütteln.  ==> other nltk
+tg1203.2.160: Er hält inne. Der König schweigt.  ==> other nltk
+tg1203.2.242: Er führt ihn hinweg.  ==> other nltk
+tg1204.2.4: Carlos. Die Königin. Zuletzt der König mit Gefolge.  ==> other nltk
+tg1204.2.14: Stillschweigen.  ==> other nltk
+tg1204.2.60: Nach einem Stillschweigen ihre Hand fassend.  ==> other nltk
+tg1204.2.72: Er nähert sich der Königin, welche das Gesicht verhüllt.  ==> other nltk
+tg1204.2.90: Der König, begleitet vom Großinquisitor und seinen Granden, erscheint im Hintergrunde, ohne bemerkt zu werden.  ==> other nltk
+tg1204.2.104: Er küßt sie.  ==> other nltk
+tg1204.2.117: Er verläßt sie.  ==> other nltk
+tg1204.2.123: Eine Uhr schlägt.  ==> other nltk
+tg1204.2.139: Er will nach der Maske greifen. Der König steht zwischen ihnen.  ==> other nltk
+tg1204.2.144: Die Königin fällt ohnmächtig nieder.  ==> other nltk
+tg1204.2.153: Er geht ab.  ==> exit nltk
