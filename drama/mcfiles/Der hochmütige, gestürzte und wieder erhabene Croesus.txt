@@ -1,0 +1,298 @@
+{"id":"tg8.2.4","text":"Der Schauplatz stellet vor einen prächtigen Saal /und herrlichen Thron.","type":"other","source":"nltk"}
+{"id":"tg8.2.6","text":"Crœsus auf dem Thron / Orsanes, Eliates, Halimacus, Olisius und viele andere Lidische Staats- und Kriegs-Bediente / alle kniend; Solon allein stehend.","type":"other","source":"nltk"}
+{"id":"tg8.2.8","text":"Aria.","type":"enter","source":"NLP"}
+{"id":"tg8.2.24.1","text":"Winckt / daß sie sich aufrichten sollen / und wendet sich zu Solon.","type":"other","source":"nltk"}
+{"id":"tg8.2.68.1","text":"Die Thüren der Schatzkammer werden auffgethan.","type":"other","source":"nltk"}
+{"id":"tg8.2.73.1","text":"Solon siehet nur ein wenig hin / und wendet sich alsobald wieder um.","type":"other","source":"nltk"}
+{"id":"tg8.2.89.1","text":"Aria.","type":"enter","source":"NLP"}
+{"id":"tg8.2.98.1","text":"Gehet ab.","type":"exit","source":"nltk"}
+{"id":"tg8.2.100.1","text":"Crœsus vom Thron absteigend.","type":"other","source":"nltk"}
+{"id":"tg8.2.106.1","text":"Aria.","type":"enter","source":"NLP"}
+{"id":"tg9.2.4","text":"Königlicher Garten.","type":"other","source":"nltk"}
+{"id":"tg9.2.6","text":"Elmira, Trigesta.","type":"enter","source":"NLP"}
+{"id":"tg9.2.8","text":"Aria.","type":"enter","source":"NLP"}
+{"id":"tg9.2.35.1","text":"Aria.","type":"enter","source":"NLP"}
+{"id":"tg9.2.45.1","text":"Aria.","type":"enter","source":"NLP"}
+{"id":"tg10.2.4","text":"Orsanes, Elmira, Trigesta.","type":"enter","source":"NLP"}
+{"id":"tg10.2.6","text":"Aria.","type":"enter","source":"NLP"}
+{"id":"tg10.2.32.1","text":"Gehet ab.","type":"exit","source":"nltk"}
+{"id":"tg11.2.4","text":"Halimacus von ferne / Orsanes, Elmira.","type":"other","source":"nltk"}
+{"id":"tg11.2.42.1","text":"Gehet ab.","type":"exit","source":"nltk"}
+{"id":"tg11.2.44.1","text":"Halimacus tritt hervor.","type":"other","source":"nltk"}
+{"id":"tg11.2.56.1","text":"Aria.","type":"enter","source":"NLP"}
+{"id":"tg12.2.4","text":"Atis stumm / Halimacus, Elmira, Nerillus.","type":"enter","source":"NLP"}
+{"id":"tg12.2.6","text":"Atis kömmt von weitem mit holdseligen und freudigen Gebärden.","type":"other","source":"nltk"}
+{"id":"tg12.2.11.1","text":"Aria.","type":"enter","source":"NLP"}
+{"id":"tg12.2.22.1","text":"Atis zeiget durch Gebärden / daß ihm Halimacus beunruhiget für komme.","type":"other","source":"nltk"}
+{"id":"tg12.2.28.1","text":"Atis zeiget / daß er die Ursache wissen wolle.","type":"other","source":"nltk"}
+{"id":"tg12.2.46.1","text":"Atis antwortet mit freundlichen Gebärden / worauff Halimacus abtritt.","type":"other","source":"nltk"}
+{"id":"tg13.2.4","text":"Atis, Elmira, Nerill.","type":"enter","source":"NLP"}
+{"id":"tg13.2.6","text":"Atis wendet sich zu Elmira, und giebt ihr Liebes-Anzeigungen.","type":"other","source":"nltk"}
+{"id":"tg13.2.14.1","text":"Atis giebet Zeichen einer brünstigen Liebe.","type":"other","source":"nltk"}
+{"id":"tg13.2.16.1","text":"Aria.","type":"enter","source":"NLP"}
+{"id":"tg13.2.23.1","text":"Atis wincket: Ja.","type":"other","source":"nltk"}
+{"id":"tg13.2.27.1","text":"Atis wincket: Nein.","type":"other","source":"nltk"}
+{"id":"tg13.2.31.1","text":"2.","type":"other","source":"nltk"}
+{"id":"tg13.2.37.1","text":"Atis wincket: Ja.","type":"other","source":"nltk"}
+{"id":"tg13.2.41.1","text":"Atis wincket: Nein.","type":"other","source":"nltk"}
+{"id":"tg13.2.43.1","text":"Folgends wendet er sich zu Nerill, und deutet auff Elmira.","type":"other","source":"nltk"}
+{"id":"tg13.2.52.1","text":"Atis macht unterschiedliche Bewegungen auf die Masse folgender Aria, welche indessen gespielet wird.","type":"other","source":"nltk"}
+{"id":"tg13.2.59.1","text":"Aria.","type":"enter","source":"NLP"}
+{"id":"tg13.2.70.1","text":"Atis bekräfftiget dieses mit Gebärden.","type":"other","source":"nltk"}
+{"id":"tg14.2.4","text":"Elcius und Vorige.","type":"enter","source":"NLP"}
+{"id":"tg14.2.10.1","text":"Atis zeiget / daß er scheiden müsse.","type":"other","source":"nltk"}
+{"id":"tg14.2.18.1","text":"Atis antwortet mit Gebärden.","type":"other","source":"nltk"}
+{"id":"tg14.2.27.1","text":"Atis antwortet mit Gebärden.","type":"other","source":"nltk"}
+{"id":"tg14.2.32.1","text":"Atis und Elmira gehen ab. Elcius erhascht Nerill, und hält ihn / daß er folgenden Satz mit ihm singe.","type":"other","source":"nltk"}
+{"id":"tg14.2.36.1","text":"2.","type":"other","source":"nltk"}
+{"id":"tg14.2.51.1","text":"Nerill entlaufft.","type":"other","source":"nltk"}
+{"id":"tg15.2.4","text":"Orsanes, Eliates.","type":"enter","source":"NLP"}
+{"id":"tg15.2.6","text":"Aria.","type":"enter","source":"NLP"}
+{"id":"tg16.2.4","text":"Elmira und Clerida kommen von ferne singend.","type":"other","source":"nltk"}
+{"id":"tg16.2.6","text":"Orsanes, Eliates.","type":"enter","source":"NLP"}
+{"id":"tg16.2.8","text":"Aria.","type":"enter","source":"NLP"}
+{"id":"tg16.2.20.1","text":"Aria.","type":"enter","source":"NLP"}
+{"id":"tg16.2.22.1.part1","text":"zu Clerida.","type":"other","source":"nltk"}
+{"id":"tg16.2.32.1","text":"2.","type":"other","source":"nltk"}
+{"id":"tg16.2.34.1.part1","text":"zu Orsanes.","type":"other","source":"nltk"}
+{"id":"tg16.2.44.1","text":"3.","type":"other","source":"nltk"}
+{"id":"tg16.2.46.1","text":"zu Elmira.","type":"other","source":"nltk"}
+{"id":"tg16.2.56.1","text":"4.","type":"other","source":"nltk"}
+{"id":"tg17.2.4","text":"Atis, Elcius, und Vorige.","type":"enter","source":"NLP"}
+{"id":"tg17.2.6","text":"Atis zeiget sich traurig.","type":"other","source":"nltk"}
+{"id":"tg17.2.8","text":"Aria.","type":"enter","source":"NLP"}
+{"id":"tg17.2.21.1","text":"Atis zeiget indessen seine Ungedult' / daß er nicht reden kan.","type":"other","source":"nltk"}
+{"id":"tg17.2.25.1","text":"2.","type":"other","source":"nltk"}
+{"id":"tg17.2.33.1","text":"Elmira wil abtreten / Atis hält sie / und zeiget / daß er sich einiger Unbeständigkeit befürchte.","type":"other","source":"nltk"}
+{"id":"tg17.2.37.1","text":"3.","type":"other","source":"nltk"}
+{"id":"tg17.2.45.1","text":"Atis und Elmira treten ab.","type":"exit","source":"nltk"}
+{"id":"tg18.2.26.1","text":"Aria.","type":"enter","source":"NLP"}
+{"id":"tg18.2.36.1","text":"2.","type":"other","source":"nltk"}
+{"id":"tg18.2.46.1","text":"3.","type":"other","source":"nltk"}
+{"id":"tg19.2.4","text":"Königl. Zimmer.","type":"enter","source":"NLP"}
+{"id":"tg19.2.6","text":"Crœsus, Orsanes, Eliates, Olisius, und viele Kriegs-Bediente.","type":"enter","source":"NLP"}
+{"id":"tg20.2.4","text":"Halimacus, und Vorige.","type":"enter","source":"NLP"}
+{"id":"tg20.2.19.1","text":"Crœsus waffnet sich.","type":"other","source":"nltk"}
+{"id":"tg20.2.36.1","text":"Eliates neiget sich / und empfängt den Regierungs-Stab.","type":"other","source":"nltk"}
+{"id":"tg20.2.38.1","text":"Aria.","type":"enter","source":"NLP"}
+{"id":"tg21.2.4","text":"Orsanes in tieffen Gedancken; folgends Clerida.","type":"other","source":"nltk"}
+{"id":"tg21.2.21","text":"Tritt ab.","type":"exit","source":"nltk"}
+{"id":"tg21.2.27.1","text":"Aria.","type":"enter","source":"NLP"}
+{"id":"tg21.2.37.1","text":"2.","type":"other","source":"nltk"}
+{"id":"tg22.2.2.1.part1","text":"närrisch gewaffnet / von vier Harlequins begleitet / die seiner spotten.","type":"other","source":"nltk"}
+{"id":"tg22.2.20.1","text":"Aria.","type":"enter","source":"NLP"}
+{"id":"tg22.2.37.1","text":"Ballet von Harlequins.","type":"other","source":"nltk"}
+{"id":"tg23.2.4","text":"Der Schau-Platz zeiget im Vordertheil Cirus, und von weitem Crœsus Lager.","type":"other","source":"nltk"}
+{"id":"tg23.2.6","text":"Cirus mit seiner Armée forne / Crœsus hinten.","type":"other","source":"nltk"}
+{"id":"tg23.2.8","text":"Aria.","type":"enter","source":"NLP"}
+{"id":"tg23.2.21.1","text":"Rittornello, von Paucken und Trompeten.","type":"other","source":"nltk"}
+{"id":"tg23.2.25.1","text":"2.","type":"other","source":"nltk"}
+{"id":"tg23.2.37.1","text":"Ritornello.","type":"enter","source":"NLP"}
+{"id":"tg23.2.47.1","text":"Die Trompeten und Trommeln lassen sich von beyden Seiten hören.","type":"other","source":"nltk"}
+{"id":"tg23.2.54.1.part1","text":"bey der Arméen.","type":"other","source":"nltk"}
+{"id":"tg23.2.57.1","text":"Darauff folget die Schlacht / worinnen zuletzt die Perser obsiegen / und die Lidier die Flucht nehmen. Ballet von Persischen Soldaten.","type":"other","source":"nltk"}
+{"id":"tg24.2.4","text":"Crœsus flüchtig ohne Königliche Kleidung / ein Persischer Hauptmann / mit einigen Soldaten /folgends Atis und Halimacus.","type":"other","source":"nltk"}
+{"id":"tg24.2.25.1","text":"Führen ihn gefangen hinweg.","type":"other","source":"nltk"}
+{"id":"tg24.2.30.1","text":"Wirfft häuffig Blut aus.","type":"other","source":"nltk"}
+{"id":"tg25.2.4","text":"Man siehet von weitem der Lidier verheertes Lager /und das Feld von Erschlagenen gantz bedeckt.","type":"other","source":"nltk"}
+{"id":"tg25.2.6","text":"Cirus zu Pferde / umgeben von seinen Hauptleuten /und gefolgt von Soldaten / und vielen gefangenen Lidiern, triumphirend unter frölichem Trompeten-und Paucken-Schalle.","type":"other","source":"nltk"}
+{"id":"tg25.2.8","text":"Aria.","type":"enter","source":"NLP"}
+{"id":"tg25.2.22.1","text":"Rittornello mit Trompeten und Paucken. Crœsus wird in Ketten herzugeführet.","type":"other","source":"nltk"}
+{"id":"tg25.2.72.1","text":"un supr. Aria.","type":"enter","source":"NLP"}
+{"id":"tg27.2.4","text":"Bauren Hütten.","type":"other","source":"nltk"}
+{"id":"tg27.2.6","text":"Ein Bauer / eine Bäuerin / zwey Bauren-Kinder /zweene Bauren / die auf Schallmeyen und Sackpfeiffen spielen.","type":"other","source":"nltk"}
+{"id":"tg27.2.8","text":"Aria.","type":"enter","source":"NLP"}
+{"id":"tg27.2.32.1","text":"2.","type":"other","source":"nltk"}
+{"id":"tg27.2.40.1","text":"Die Kinder wiederholen wie oben.","type":"enter","source":"nltk"}
+{"id":"tg27.2.48.1","text":"Die Kinder wiederholen.","type":"other","source":"nltk"}
+{"id":"tg27.2.52.1","text":"3.","type":"other","source":"nltk"}
+{"id":"tg27.2.60.1","text":"Die Kinder wiederholen.","type":"other","source":"nltk"}
+{"id":"tg27.2.67.1","text":"Die Kinder repetiren.","type":"other","source":"nltk"}
+{"id":"tg28.2.4","text":"Atis, Halimacus, Vorige / welche in ihrer Arbeit dieser nicht gewahr werden.","type":"other","source":"nltk"}
+{"id":"tg28.2.24.2","text":"Rebelliren.","type":"other","source":"nltk"}
+{"id":"tg28.2.66.1","text":"Wenden sich zu den Bauren / die erschrecken.","type":"other","source":"nltk"}
+{"id":"tg28.2.81.1","text":"Gehen mit den Alten in die Bauren-Hütte.","type":"other","source":"nltk"}
+{"id":"tg29.2.4","text":"Elcius in poßierlicher Persischer Kleidung. Bauren-Kinder.","type":"other","source":"nltk"}
+{"id":"tg29.2.19","text":"Wird der Bauren-Kinder gewahr.","type":"other","source":"nltk"}
+{"id":"tg29.2.32.1","text":"Aria.","type":"enter","source":"NLP"}
+{"id":"tg29.2.47.1","text":"2.","type":"other","source":"nltk"}
+{"id":"tg29.2.62.1","text":"3.","type":"other","source":"nltk"}
+{"id":"tg29.2.76.1","text":"Elcius singet zuletzt mit / und tantzet.","type":"other","source":"nltk"}
+{"id":"tg29.2.88.1","text":"Ballet von alten und jungen Bauren und Bäuerinnen.","type":"other","source":"nltk"}
+{"id":"tg30.2.4","text":"Königlicher Vorhoff / mit einem Fisch-Teiche.","type":"other","source":"nltk"}
+{"id":"tg30.2.6","text":"Clerida, Elmira.","type":"enter","source":"NLP"}
+{"id":"tg30.2.8","text":"Aria.","type":"enter","source":"NLP"}
+{"id":"tg30.2.27.1","text":"Elmira setzet sich zu fischen / mit einem Angel.","type":"other","source":"nltk"}
+{"id":"tg31.2.4","text":"Orsanes, Clerida, Elmira die fischet.","type":"enter","source":"NLP"}
+{"id":"tg31.2.13.1","text":"Wendet sich zu Elmira.","type":"other","source":"nltk"}
+{"id":"tg31.2.15.1","text":"Aria.","type":"enter","source":"NLP"}
+{"id":"tg31.2.26.2","text":"Elmir.","type":"enter","source":"NLP"}
+{"id":"tg31.2.30.1","text":"Elmira fähret fort im Fischen / sich stellend / ob höre sie Orsanes nicht.","type":"other","source":"nltk"}
+{"id":"tg31.2.32.1","text":"Aria.","type":"enter","source":"NLP"}
+{"id":"tg31.2.43.1","text":"2.","type":"other","source":"nltk"}
+{"id":"tg31.2.72.1","text":"Orsanes und Elmira treten ab.","type":"exit","source":"nltk"}
+{"id":"tg31.2.74.1","text":"Aria.","type":"enter","source":"NLP"}
+{"id":"tg31.2.85.1","text":"2.","type":"other","source":"nltk"}
+{"id":"tg32.2.4","text":"Königliche Zimmer.","type":"other","source":"nltk"}
+{"id":"tg32.2.6","text":"Eliates, Orsanes.","type":"enter","source":"NLP"}
+{"id":"tg32.2.16.1","text":"Aria.","type":"enter","source":"NLP"}
+{"id":"tg32.2.30.1","text":"2.","type":"other","source":"nltk"}
+{"id":"tg32.2.43.1.part1","text":"von innen.","type":"other","source":"nltk"}
+{"id":"tg32.2.51.1.part1","text":"von innen.","type":"other","source":"nltk"}
+{"id":"tg33.2.4","text":"Halimacus, Olisius, Elmira, Clerida, Trigesta, Eliates, Orsanes.","type":"enter","source":"NLP"}
+{"id":"tg33.2.26.1.part1","text":"von innen.","type":"other","source":"nltk"}
+{"id":"tg34.2.4","text":"Halimacus, Elmira, Trigesta.","type":"enter","source":"NLP"}
+{"id":"tg34.2.23.1","text":"Aria.","type":"enter","source":"NLP"}
+{"id":"tg35.2.4","text":"Halimacus, Atis, in Bauren-Kleidung / Elmira, Trigesta.","type":"other","source":"nltk"}
+{"id":"tg35.2.14.1","text":"Heimlich.","type":"other","source":"nltk"}
+{"id":"tg35.2.30.1","text":"Gehet ab.","type":"exit","source":"nltk"}
+{"id":"tg35.2.90.1","text":"Elmira, Trigesta treten ab.","type":"exit","source":"nltk"}
+{"id":"tg35.2.92.1","text":"Aria.","type":"enter","source":"NLP"}
+{"id":"tg36.2.4","text":"Eliates, Olisius, Halimacus, Orsanes, Atis.","type":"enter","source":"NLP"}
+{"id":"tg36.2.9.1","text":"Atis.","type":"other","source":"nltk"}
+{"id":"tg36.2.22.1","text":"Heimlich.","type":"other","source":"nltk"}
+{"id":"tg36.2.85.1","text":"Treten ab.","type":"exit","source":"nltk"}
+{"id":"tg37.2.4","text":"Elmira, nachmahls Atis.","type":"other","source":"nltk"}
+{"id":"tg37.2.6","text":"Aria.","type":"enter","source":"NLP"}
+{"id":"tg37.2.17.1","text":"2.","type":"other","source":"nltk"}
+{"id":"tg37.2.26.1","text":"Atis kommt.","type":"enter","source":"nltk"}
+{"id":"tg37.2.55.1","text":"Aria.","type":"enter","source":"NLP"}
+{"id":"tg37.2.79.1","text":"Tritt ab.","type":"exit","source":"nltk"}
+{"id":"tg38.2.4","text":"Orsanes, Atis.","type":"enter","source":"NLP"}
+{"id":"tg38.2.16.1","text":"Heimlich.","type":"other","source":"nltk"}
+{"id":"tg38.2.31.1","text":"Heimlich.","type":"other","source":"nltk"}
+{"id":"tg38.2.85.1","text":"Heimlich.","type":"other","source":"nltk"}
+{"id":"tg39.2.4","text":"Persisches Lager.","type":"other","source":"nltk"}
+{"id":"tg39.2.16","text":"Aria.","type":"enter","source":"NLP"}
+{"id":"tg39.2.76","text":"Gehet ab.","type":"exit","source":"nltk"}
+{"id":"tg40.2.4","text":"Cirus auf einem Thron in seinem Gezelte / Crœsus gefesselt / und von Soldaten begleitet / ein Hauptmann / und viele andere Kriegs-Bediente.","type":"other","source":"nltk"}
+{"id":"tg40.2.6","text":"Aria.","type":"enter","source":"NLP"}
+{"id":"tg40.2.16.1","text":"Nahet sich zu Cirus.","type":"other","source":"nltk"}
+{"id":"tg40.2.46.1","text":"Audientz.","type":"other","source":"nltk"}
+{"id":"tg40.2.53.1","text":"Crœsus wird abgeführet.","type":"other","source":"nltk"}
+{"id":"tg41.2.4","text":"Olisius, mit vielen Lidiern / Cirus, und seine Bediente.","type":"other","source":"nltk"}
+{"id":"tg41.2.29.1","text":"Steiget von Thron.","type":"other","source":"nltk"}
+{"id":"tg41.2.37.1","text":"Die Lidier treten ab.","type":"exit","source":"nltk"}
+{"id":"tg41.2.39.1","text":"Aria.","type":"enter","source":"NLP"}
+{"id":"tg41.2.51","text":"Ritornello mit Trompeten und Paucken. Es wird ","type":"other","source":"nltk"}
+{"id":"tg41.2.52.1","text":"Nacht / und præsentiret sich eine Illumination worunter einige Feuerwercker tantzen.","type":"other","source":"nltk"}
+{"id":"tg43.2.4","text":"Printz Atis Vor-Gemach.","type":"enter","source":"NLP"}
+{"id":"tg43.2.8","text":"Aria.","type":"enter","source":"NLP"}
+{"id":"tg43.2.16","text":"2.","type":"other","source":"nltk"}
+{"id":"tg43.2.23","text":"Eliates kömmet mit vielem Gefolge.","type":"other","source":"nltk"}
+{"id":"tg43.2.46.1","text":"Heimlich.","type":"other","source":"nltk"}
+{"id":"tg43.2.53.1","text":"Heimlich.","type":"other","source":"nltk"}
+{"id":"tg43.2.55.1","text":"Es öffnet sich Atis Schlaff Gemach.","type":"other","source":"nltk"}
+{"id":"tg44.2.4","text":"Atis in Fürstl. Kleidung / Halimacus, Eliates, Orsanes und Hoffleute.","type":"other","source":"nltk"}
+{"id":"tg44.2.11.1","text":"Heimlich.","type":"other","source":"nltk"}
+{"id":"tg44.2.18.1","text":"Atis stellet sich freundlich gegen jedweden.","type":"other","source":"nltk"}
+{"id":"tg44.2.20.1","text":"Aria.","type":"enter","source":"NLP"}
+{"id":"tg44.2.36.1","text":"Atis wendet ihm mit spöttischen Gebärden den Rücken zu.","type":"other","source":"nltk"}
+{"id":"tg44.2.41.1","text":"Heimlich.","type":"other","source":"nltk"}
+{"id":"tg44.2.43.1","text":"Atis macht viele Gebärden gegen die andern.","type":"other","source":"nltk"}
+{"id":"tg44.2.52.1","text":"Heimlich.","type":"other","source":"nltk"}
+{"id":"tg44.2.57.1","text":"Atis gibt Zeichen danckbarer Erkäntlichkeit.","type":"other","source":"nltk"}
+{"id":"tg44.2.65.1","text":"Heimlich.","type":"other","source":"nltk"}
+{"id":"tg44.2.73.1","text":"Treten ab / ausser Orsanes und Atis.","type":"exit","source":"nltk"}
+{"id":"tg45.2.4","text":"Elmira, Atis, Orsanes.","type":"enter","source":"NLP"}
+{"id":"tg45.2.11.1","text":"Atis macht ihr freundliche Gebärden.","type":"other","source":"nltk"}
+{"id":"tg45.2.16.1","text":"Aria.","type":"enter","source":"NLP"}
+{"id":"tg45.2.26.1","text":"Atis antwortet mit holdseligen Gebärden.","type":"other","source":"nltk"}
+{"id":"tg45.2.31.1","text":"Atis macht Orsanen eine verächtliche Mine.","type":"other","source":"nltk"}
+{"id":"tg45.2.37.1","text":"2.","type":"other","source":"nltk"}
+{"id":"tg45.2.47.1","text":"Atis zeiget verliebte Zustimmung.","type":"other","source":"nltk"}
+{"id":"tg45.2.52.1","text":"Atis siehet Orsanen hönisch an.","type":"other","source":"nltk"}
+{"id":"tg45.2.57.1","text":"Heimlich.","type":"other","source":"nltk"}
+{"id":"tg45.2.64.1","text":"Atis wincket Nein.","type":"other","source":"nltk"}
+{"id":"tg45.2.70.1","text":"Heimlich.","type":"other","source":"nltk"}
+{"id":"tg45.2.72.1","text":"Atis zeucht einen Ring vom Finger / und gibt ihn Elmiren.","type":"other","source":"nltk"}
+{"id":"tg45.2.79.1","text":"Atis winket Ja.","type":"other","source":"nltk"}
+{"id":"tg45.2.84.1","text":"Heimlich.","type":"other","source":"nltk"}
+{"id":"tg45.2.90.1","text":"Tritt ab.","type":"exit","source":"nltk"}
+{"id":"tg45.2.103.1","text":"Elmir.","type":"enter","source":"NLP"}
+{"id":"tg45.2.109.1","text":"Tritt ab.","type":"exit","source":"nltk"}
+{"id":"tg46.2.4","text":"Halimacus, Olisius, Eliates, Orsanes, Elcius.","type":"enter","source":"NLP"}
+{"id":"tg46.2.34.1","text":"Aria.","type":"enter","source":"NLP"}
+{"id":"tg46.2.45.1","text":"Treten ab.","type":"exit","source":"nltk"}
+{"id":"tg47.2.2.1.part1","text":"in Bauren-Kleidung.","type":"other","source":"nltk"}
+{"id":"tg47.2.4.1","text":"Aria.","type":"enter","source":"NLP"}
+{"id":"tg47.2.16.1","text":"Elmira kömmt.","type":"other","source":"nltk"}
+{"id":"tg47.2.65.1","text":"Tritt ab.","type":"exit","source":"nltk"}
+{"id":"tg47.2.67.1","text":"Aria.","type":"enter","source":"NLP"}
+{"id":"tg48.2.4","text":"Orsanes, Atis.","type":"enter","source":"NLP"}
+{"id":"tg48.2.49.1","text":"Tritt ab.","type":"exit","source":"nltk"}
+{"id":"tg48.2.60.1","text":"Aria.","type":"enter","source":"NLP"}
+{"id":"tg49.2.4","text":"Königlich Zimmer.","type":"other","source":"nltk"}
+{"id":"tg49.2.6","text":"Atis nachmahls Elmira, Trigesta.","type":"enter","source":"NLP"}
+{"id":"tg49.2.8.1.part1","text":"schreibet an einem Tische.","type":"other","source":"nltk"}
+{"id":"tg49.2.10.1","text":"Aria.","type":"enter","source":"NLP"}
+{"id":"tg49.2.31.1","text":"Atis reichet ihr einen Brieff / den sie eröffnet / und lieset / wie folget.","type":"other","source":"nltk"}
+{"id":"tg49.2.41.1","text":"Sie zerreist den Brieff.","type":"other","source":"nltk"}
+{"id":"tg49.2.58.1","text":"Atis tritt ab.","type":"exit","source":"nltk"}
+{"id":"tg49.2.60.1","text":"Aria.","type":"enter","source":"NLP"}
+{"id":"tg50.2.4","text":"Trigesta, folgends Elcius mit seinem Krahm.","type":"other","source":"nltk"}
+{"id":"tg50.2.6","text":"Aria.","type":"enter","source":"NLP"}
+{"id":"tg50.2.15","text":"2.","type":"other","source":"nltk"}
+{"id":"tg50.2.24","text":"3.","type":"other","source":"nltk"}
+{"id":"tg50.2.33.1","text":"Oublis, oublis.","type":"enter","source":"NLP"}
+{"id":"tg50.2.48.1","text":"bespeculiren.","type":"other","source":"nltk"}
+{"id":"tg50.2.50.1","text":"Setzt einen Brill auf.","type":"other","source":"nltk"}
+{"id":"tg50.2.74.1","text":"Aria.","type":"enter","source":"NLP"}
+{"id":"tg50.2.87.1","text":"2.","type":"other","source":"nltk"}
+{"id":"tg50.2.104.1","text":"3.","type":"other","source":"nltk"}
+{"id":"tg50.2.118.1","text":"Treten ab.","type":"exit","source":"nltk"}
+{"id":"tg50.2.120","text":"Ballet von Schorsteinfegern und ","type":"other","source":"nltk"}
+{"id":"tg50.2.121.1","text":"Scheerenschleiffern.","type":"other","source":"nltk"}
+{"id":"tg51.2.4","text":"Clerida, Elmira.","type":"enter","source":"NLP"}
+{"id":"tg51.2.6","text":"Aria.","type":"enter","source":"NLP"}
+{"id":"tg52.2.4","text":"Elmira, Atis in Fürstlicher Kleidung.","type":"other","source":"nltk"}
+{"id":"tg52.2.9.1","text":"Atis lachet.","type":"other","source":"nltk"}
+{"id":"tg52.2.13.1","text":"Atis wincket Nein.","type":"other","source":"nltk"}
+{"id":"tg52.2.17.1","text":"Atis wincket Ja.","type":"other","source":"nltk"}
+{"id":"tg52.2.21.1","text":"Atis wincket Nein.","type":"other","source":"nltk"}
+{"id":"tg52.2.25.1","text":"Atis wincket Ja.","type":"other","source":"nltk"}
+{"id":"tg52.2.29.1","text":"Atis wincket Ja.","type":"other","source":"nltk"}
+{"id":"tg52.2.64.1","text":"Tritt ab.","type":"exit","source":"nltk"}
+{"id":"tg52.2.66.1","text":"Aria.","type":"enter","source":"NLP"}
+{"id":"tg53.2.4","text":"Orsanes, Atis.","type":"enter","source":"NLP"}
+{"id":"tg53.2.26.1","text":"Sie zücken beyde ihr Gewehr. Atis rufft / worauff Halimacus mit vielem Gefolge eintritt.","type":"other","source":"nltk"}
+{"id":"tg53.2.35.1","text":"Atis winckt / daß Orsanes geruffen.","type":"other","source":"nltk"}
+{"id":"tg53.2.40.1","text":"Atis wincket ja / und daß er es ihm befohlen.","type":"other","source":"nltk"}
+{"id":"tg53.2.48.1","text":"Atis zeiget an Halimacus, daß er ins Persische Lager hinaus gehen / und von ihnen allen vergesellschafftet seyn wolle.","type":"other","source":"nltk"}
+{"id":"tg53.2.55","text":"Atis grüsset Orsanes mit freundlichen Gebärden /","type":"other","source":"nltk"}
+{"id":"tg53.2.56.1","text":"der darüber bestürtzt / sich gar demüthig neiget.","type":"other","source":"nltk"}
+{"id":"tg53.2.64.1","text":"Treten ab.","type":"exit","source":"nltk"}
+{"id":"tg53.2.70.1","text":"Aria.","type":"enter","source":"NLP"}
+{"id":"tg54.2.4","text":"Ein von Cirus Leib-Wache umschlossener Platz / in dessen Mitte ein grosses Feuer / Crœsus zu verbrennen / angezündet wird. Crœsus entkleidet /wird zum Feuer geführet / von Persischen Soldaten begleitet / unter grossen Zulauff vielen Volckes.","type":"other","source":"nltk"}
+{"id":"tg54.2.6","text":"Aria.","type":"enter","source":"NLP"}
+{"id":"tg55.2.4","text":"Cirus, der sich auff einem dazu auffgerichteten Thron setzet / sein Staats- und Kriegs-Bediente /Soldaten / und grosse Menge Volckes; Crœsus, nachmahls Eliates, Olisius, Halimacus, Atis, Elmira, Clerida, Trigesta, Orsanes, Solon, und Lidische Soldaten.","type":"other","source":"nltk"}
+{"id":"tg55.2.19.1","text":"Es steigen schwartze Wolcken auf / die plötzlich mit Blitz und Donner in einen starcken Platz-Regen ausbrechen / nacher das Feuer verlöschet.","type":"other","source":"nltk"}
+{"id":"tg55.2.32.1","text":"Das Feuer wird wieder angezündet; Olisius, Halimacus, Atis, Elmira, Clerida, Trigesta und Orsanes gelangen an durch unterschiedliche Wege.","type":"other","source":"nltk"}
+{"id":"tg55.2.67.1","text":"Tritt nebenst Eliates ab / das Heer anzuführen.","type":"exit","source":"nltk"}
+{"id":"tg55.2.83.1","text":"Crœsus wird auf dem Scheiter-Hauffen gebunden.","type":"other","source":"nltk"}
+{"id":"tg55.2.92.1","text":"Ermin.","type":"enter","source":"NLP"}
+{"id":"tg55.2.102.1.part1","text":"zu Orsanes.","type":"other","source":"nltk"}
+{"id":"tg55.2.111.1","text":"Atis wil sich ins Feuer stürtzen.","type":"other","source":"nltk"}
+{"id":"tg55.2.133.1","text":"Atis wil sich mit Gewalt loß reissen.","type":"other","source":"nltk"}
+{"id":"tg55.2.147.1","text":"Die Soldaten entfernen Atis.","type":"other","source":"nltk"}
+{"id":"tg55.2.158.1","text":"Atis wird weggerissen; Solon kommt.","type":"enter","source":"nltk"}
+{"id":"tg55.2.163.1","text":"Das Feuer ist völlig wieder angebrandt.","type":"other","source":"nltk"}
+{"id":"tg55.2.165.1","text":"Aria.","type":"enter","source":"NLP"}
+{"id":"tg55.2.194.1","text":"Cirus sitzet eine Weile in tieffen Gedancken.","type":"other","source":"nltk"}
+{"id":"tg55.2.199.1","text":"Crœsus wird von dem Scheiterhauffen loß gemacht.","type":"other","source":"nltk"}
+{"id":"tg55.2.207.1","text":"Crœsus wird in ein Gezelt geführet.","type":"other","source":"nltk"}
+{"id":"tg55.2.218.1","text":"Von innen.","type":"other","source":"nltk"}
+{"id":"tg55.2.223.1","text":"Eliates, Halimacus, und viele Lidier / brechen / den Degen in der Faust / durch Cirus Leibwache ihren König vom Feuer zu erretten.","type":"other","source":"nltk"}
+{"id":"tg55.2.237.1","text":"Crœsus kömmt in Königlicher Kleidung.","type":"other","source":"nltk"}
+{"id":"tg55.2.244.1","text":"Cirus stehet auf / und umarmet Crœsus.","type":"other","source":"nltk"}
+{"id":"tg55.2.257.1","text":"Crœsus setzet sich bey Cirus auff den Thron.","type":"other","source":"nltk"}
+{"id":"tg55.2.264.1","text":"Alle Lidier neigen sich zur Erden. Atis kniet vor dem Thron.","type":"aside","source":"nltk"}
+{"id":"tg55.2.278.1","text":"Orsan.","type":"enter","source":"NLP"}
+{"id":"tg55.2.304.1","text":"Orsan fällt auf die Knie.","type":"other","source":"nltk"}
+{"id":"tg55.2.315.1","text":"Gibt ihr die Hand.","type":"other","source":"nltk"}
+{"id":"tg55.2.328.1","text":"Clerida.","type":"enter","source":"NLP"}
+{"id":"tg55.2.334.1","text":"Gibt Eliaten die Hand.","type":"other","source":"nltk"}
+{"id":"tg55.2.342.1","text":"Die Könige steigen vom Thron. Elmira und Aria. Clerida und Eliates umarmen sich.","type":"other","source":"nltk"}
+{"id":"tg55.2.344.1","text":"Aria.","type":"enter","source":"NLP"}
+{"id":"tg55.2.360.1","text":"Tantz von Damen und Cavalliere.","type":"other","source":"nltk"}
+{"id":"tg55.2.366.1","text":"Ende.","type":"other","source":"nltk"}

@@ -1,258 +1,287 @@
-tg157.2.4: Roderigo, Leonisse.  ==> other
-tg157.2.20: Leonisse gehet ab.  ==> exit
-tg158.2.4: Roderigo, Anaclerio.  ==> other
-tg158.2.20: Geht ab.  ==> exit
-tg159.2.4: Roderigo.  ==> other
-tg159.2.16: Geht ab.  ==> exit
-tg160.2.4: Allegro, Roccella, Torrecuso.  ==> other
-tg160.2.5: Allegro, hat einen grossen Hopff-Sack über sich genommen / kömt damit heraus / schreyet und zieret sich gar wunderlich / biß die andern heraus kommen.  ==> other
-tg160.2.12: Sie ziehen jhm den Sack über den Kopff weg.  ==> other
-tg160.2.24: Er stellt sich als wolt er jhn schlagen.  ==> other
-tg160.2.35: Er wirfft den Sack hinein / und bleibt auf der Seite stehen.  ==> other
-tg161.2.4: Celinde und die Vorigen.  ==> other
-tg162.2.4: Arcos und die Vorigen.  ==> other
-tg163.2.4: Roderigo, Leonisse und die Vorigen.  ==> other
-tg163.2.24: Sie gehen ab.  ==> exit
-tg164.2.4: Roderigo, Ferrante, Donato. Allegro auff der Seite.  ==> other
-tg165.2.4: Roderigo, Prospero, Ferrante, Donato.  ==> other
-tg165.2.5: Allegro auff der Seite.  ==> other
-tg166.2.4: Anaclerio und die Vorigen.  ==> other
-tg166.2.18: Hier wird hinter der Scene ein sachtes Geräusche gemacht.  ==> other
-tg166.2.27: 
-                                            ==> other
-tg166.2.31: Sie eilen fort.  ==> other
-tg166.2.35: Er holet jhn.  ==> other
-tg167.2.4: Peronne, Formaggio, Bravo, Piccone neben andern Bürgern und Kindern so jhre Stecken mit Brodte oder alten Lumpen bezeichnet haben.  ==> other
-tg167.2.16: Sie lauffen hinein und tumultuiren erschrecklich.  ==> other
-tg168.2.4: Allegro mit dem Sacke / hernach Bravo.  ==> other
-tg168.2.20: Er entblöst den Degen.  ==> other
-tg168.2.28: Er wil stossen / Allegro schreyet und läufft zurücke.  ==> other
-tg168.2.34: Sie treten zusammen und fechten possierlich /endlich stöst Bravo und fehlt / daß jhm der Degen /an der Wand stecken bleibt / Allegro stösst jhn zurücke / daß er den Degen muß im Stiche lassen.  ==> other
-tg168.2.39: Sie überwerffen sich poßierlich / endlich zeucht jhm Allegro den Sack über den Kopff und läst jhn liegen.  ==> other
-tg169.2.4: Formaggio, Piccone, Bravo im Sacke.  ==> other
-tg169.2.17: Sie ziehen den Sack ab.  ==> exit
-tg169.2.21: Läufft davon.  ==> other
-tg169.2.25: Lauffen hernach.  ==> other
-tg170.2.4: Masaniello, Geonino, Matthæo, Vitale samt etlichen Bürgern.  ==> other
-tg171.2.4: Die Vorigen / Roderigo, Arpaja, Furfante. Beyde mit entblösten Degen, hernach Masaniello.  ==> other
-tg171.2.24: Sie fangen alle anzuschreyen.  ==> other
-tg171.2.29: Geht ab.  ==> exit
-tg171.2.35: Er wirfft sein Geld von sich.  ==> other
-tg171.2.40: Die andern wollen darnach greiffen.  ==> other
-tg171.2.44: Sie schlagen sich weidlich um das Geld.  ==> other
-tg171.2.48: Geht ab.  ==> exit
-tg171.2.55: Die Leute welche noch immer Geld aufgelesen richten sich zusammen auf.  ==> other
-tg171.2.59: Sie schreyen alle zusammen.  ==> other
-tg171.2.63: Sie lauffen hinein.  ==> other
-tg172.2.4: Peronne, Formaggio, Caraffa, hernach Ristaldi.  ==> other
-tg172.2.16: Geht ab.  ==> exit
-tg172.2.21: Peronne geht ab.  ==> exit
-tg173.2.4: Bonavita, Xaverio, Francesco, Domenico hernach Roderigo und Philomarini.  ==> other
-tg173.2.5: Die innerste Scene öffnet sich.  ==> other
-tg173.2.28: Philomarini und Roderigo gehen ab.  ==> exit
-tg174.2.4: Die Vorigen. Carolo, Bianca, Rossana, Flavia, Marina.  ==> other
-tg174.2.13: Geht ab.  ==> exit
-tg174.2.17: Die Mönche gehen ab.  ==> exit
-tg175.2.4: Bianca, Rossana, Flavia, Marina.  ==> other
-tg176.2.4: Die Vorigen / Xaverio, und hernach die andern Münche.  ==> enter
-tg176.2.14: Domenico komt. Xaverio und Bianca gehen ab.  ==> exit
-tg176.2.24: Domenico und Rossana gehen ab / Francesco komt.  ==> exit
-tg176.2.39: Er stellt sich als woll Er sie küssen.  ==> other
-tg176.2.44: Francesco schlept Flavia hinein: Bonavita kömt.  ==> other
-tg176.2.60: Er küsset jhr die Hand noch einmahl.  ==> other
-tg176.2.65: Er küsst sie auf den Backen.  ==> other
-tg176.2.70: Er küsst sie auf die Hand und auf das Gesichte.  ==> other
-tg176.2.77: Er umfasst sie.  ==> other
-tg176.2.88: Inwendig wird ein Gepolter.  ==> other
-tg176.2.93: Sie gehen ab.  ==> exit
-tg177.2.4: Allegro.  ==> other
-tg177.2.8: Er säet und singet.  ==> other
-tg177.2.17: Hier kucken allenthalben kleine Narren aus dem Boden herfür / und weil Allegro redet / so   ==> other
-tg177.2.18:  kommen sie allmählig in die Höhe.  ==> other
-tg177.2.22: Er wendet sich um / da fangen die kleinen Narren alle an zulachen / Allegro lacht dazu / und fingt mit jhnen an poßierlich herum zu springen / biß er mit jhnen hinein tantzt.  ==> other
-tg179.2.4: Caraffa, Matelone, Ristaldi.  ==> other
-tg179.2.14: 
-                                            ==> other
-tg180.2.4: Masaniello, Peronne, Arpaja, Vitale, Formaggio, Geonino.  ==> other
-tg180.2.15: Hier geschieht der Auffzug über das Theatrum. 1. Masaniello mit den Seinigen / nebst etlichen Banditen. 2. Die Bürger. 3. Masaniello Frau mit den Weibern. 4. Die Bürgers Kinder. 5. Die Bauern. 6.   ==> other
-tg180.2.16: Allegro mit seinen kleinen Narren / welche mit kleinen Drommeln und Pfeiffen sich hören lassen.  ==> other
-tg181.2.4: Flavio, Roberto, hernach Allegro.  ==> other
-tg181.2.31: Die kleinen Narren werffen jhn zu Boden und schleppen jhn hinein.  ==> other
-tg182.2.4: Geonino, Vitale, Peronne, Caraffa, Matelone.  ==> other
-tg182.2.23: Geonino und Vitale gehen ab.  ==> exit
-tg182.2.41: Geht ab.  ==> exit
-tg182.2.50: Gehen ab.  ==> exit
-tg183.2.4: Pasqvella, Zeppa, Villanella, hernach Allegro: endlich Formaggio.  ==> other
-tg183.2.15: Er komt den Weibern ziemlich nah.  ==> enter
-tg183.2.43: Sie gehen ab.  ==> exit
-tg184.2.4: Philomarini, Ferrante, Carlo.  ==> other
-tg184.2.24: Sie gehen ab.  ==> exit
-tg185.2.4: Philomarini, Rossi, Ghirardini.  ==> other
-tg186.2.4: Die Vorigen und Laudato.  ==> other
-tg187.2.4: Die Vorigen und Angelo.  ==> other
-tg188.2.4: Anaclerio, Afflitto.  ==> other
-tg189.2.4: Bonavita, Domenico und Allegro.  ==> other
-tg189.2.21: Hie fallen etliche bewerthe Personen heraus und schreyen. Visitiret das Kloster.  ==> other
-tg189.2.25: Sie schreyen insgesamt. Wir wollen sehen / obs wahr ist / und lauffen hinein / die Mönche folgen.  ==> exit
-tg190.2.4: Masaniello, Peronne, Geonino, Arpaja, Vitale, Mattheo.  ==> other
-tg190.2.5: Item nach und nach allerhand Banditen.  ==> other
-tg190.2.16: Piccone kömt und bringt Celio geschlept.  ==> enter
-tg190.2.28: Er wird weg geführet. Bravo bringt Titta geschleppt.  ==> other
-tg190.2.38: Sie schleppen jhn hinweg / Furfante und Rubina.  ==> other
-tg190.2.51: Sie wird hinein geschlept / Formaggio bringet Sarpi.  ==> exit
-tg190.2.64: Pasqvella kömt gelauffen / und führet Picolo.  ==> enter
-tg190.2.76: Neri bringt Paolo geschlept.  ==> enter
-tg190.2.89: Er wird hinein geschlept.  ==> exit
-tg190.2.90: Zeppa und Villanella bringen Allegro geschlept.  ==> other
-tg191.2.4: Neri, Bruno, Allegro.  ==> other
-tg191.2.5: Neri und Bruno haben ausgestopffte Würste in den Händen.  ==> other
-tg191.2.18: Sie werffen jhn nieder.  ==> other
-tg191.2.23: Hier schlägt einer nach dem andern auf Allegro loß / und zehlet Eins / Zwey / Drey / Vier.  ==> other
-tg191.2.31: Sie agiren und zehlen poßierlich mit einander; endlich entläufft jhnen Allegro und sie folgen jhm nach.  ==> other
-tg192.2.4: Buffone, Lurcone, Poltrone nebst noch etlichen stummen Bauren.  ==> other
-tg193.2.4: Die Vorigen und Allegro im Reise-Rocke.  ==> other
-tg193.2.21: Sie überfallen jhn / und nach viel lächerlichen Possen ziehen sie jhn gantz aus / biß auff das Hemde.  ==> other
-tg193.2.28: Sie ziehn jhn aus: Er hat ein glat Leibfarbig Kleid an / und hinten einen Fuchs-Schwantz.  ==> other
-tg193.2.36: Er giebt jhm die grosse Papierne Krause.  ==> other
-tg193.2.43: Er agirt poßierlich mit der Krause und geht ab.  ==> exit
-tg195.2.4: Carlo, Donato.  ==> other
-tg196.2.4: Antimo, Corraggio, Bizzarro, Allegro in einer Paruqve und einem stoltzen Kleide.  ==> other
-tg197.2.4: Masaniello, Geonino, Vitale, Philomarini, Ghirardini.  ==> other
-tg198.2.4: Die Vorigen und Peronne.  ==> other
-tg198.2.19: Masaniello mit den andern geht ab.  ==> exit
-tg199.2.4: Peronne, Antimo, Coraggio, Bizarro, Allegro.  ==> other
-tg199.2.19: Sie gehen ab.  ==> exit
-tg200.2.4: Die innerste Scene öffnet sich und præsentiret einen Altar / darbey etliche Pfaffen in jhrem Ornat erscheinen. Philomarini mit seinen Leuten ist zugegen. Masaniello mit seiner gantzen Svite kömt auch aufgezogen.  ==> other
-tg200.2.12: Unter wehrenden Lesen setzet sich Philomarini und Masaniello.  ==> other
-tg200.2.19: Wie dieses gelesen ist / fallen die bestellten Banditen hinein und schiessen ingesamt auf den Masaniello loß. Masaniello schreyt / Ha / Verrätherey! Es wird ein grosser Aufflauff / biß sich alle vom Theatro verliehren / biß auff Philomarini und die Pfaffen.  ==> other
-tg201.2.4: Philomarini, Bizarro, Bravo, Furfante.  ==> other
-tg201.2.23: Er gehet zum Altar.  ==> other
-tg201.2.29: Bizarro steht auf und läufft biß zum Altar.  ==> other
-tg201.2.33: Sie lauffen hin und stechen jhn.  ==> other
-tg201.2.37: Furfante und Bravo gehen ab / die Geistlichen fangen anzuschreyen.  ==> exit
-tg201.2.41: Die innerste Scene fällt zu.  ==> other
-tg202.2.4: Xaverio, Allegro.  ==> other
-tg202.2.15: Geht ab.  ==> exit
-tg202.2.19: Er wirfft die Peruqve nebst dem Kleide weg und steht wiederum als ein leibhafftiger Pickelhering da.  ==> other
-tg203.2.4: Die Vorigen und Salvador.  ==> other
-tg204.2.4: Caraffa, Matelone.  ==> other
-tg205.2.4: Salvador, Laudato, Afflitto.  ==> other
-tg206.2.4: Caraffa, Bonavita.  ==> other
-tg207.2.4: Caraffa, Bonavita, Domenico.  ==> other
-tg207.2.14: Geht ab.  ==> exit
-tg207.2.20: Gehen ab.  ==> exit
-tg208.2.4: Bardassa, hernach Caraffa.  ==> other
-tg208.2.22: Geht ab.  ==> exit
-tg209.2.4: Bardassa, Bravo, Piccone.  ==> other
-tg209.2.32: Geht ab.  ==> exit
-tg210.2.4: Bardassa, Bravo, Piccone, Mattheo, Furfante, Formaggio, Bruno, hernach Caraffa.  ==> other
-tg210.2.10: Alle zusammen / indem Mattheo den Hertzog aus der Kammer hervor zeucht.  ==> other
-tg210.2.28: Er wird von allen mit einem grausamen Geschrey hinein geschlept.  ==> other
-tg211.2.4: Masaniello, Arpaja, Vitale, Geonino nebst den andern.  ==> other
-tg212.2.4: Die Vorigen / item Mattheo mit seinem Anhange /welcher Caraffa geschleppet bringen.  ==> other
-tg212.2.12: Er schneidet jhm mit einen Messer den Kopff ab.  ==> exit
-tg212.2.20: Die Stange wird jhm gegeben.  ==> other
-tg212.2.24: Er wird hinein geschlept.  ==> exit
-tg212.2.30: Es wird dem Masaniello vorgehalten.  ==> other
-tg212.2.36: Geht ab.  ==> exit
-tg213.2.4: Allegro hernach Truffaldino.  ==> other
-tg213.2.37: Truffaldino wil gehen / Allegro zeucht jhn zurücke /und complimentiret so lange mit jhm / biß inwendig ein Zeichen gegeben wird / daß der Kasten unter dem Theatro zu rechte gemacht ist / als denn laufft Truffaldino hinein.  ==> exit
-tg213.2.41: Allegro macht den Kasten auf / und da fängt er überlaut an zu schreyen. Indem kömt ein kleiner Narr heraus / und jagt ihm herum / mit diesen Worten / schaffe mir zu fressen: Hastu mich geworben / so mustu mich erhalten. So offt Allegro zu dem Kasten hinkomt / springt allzeit ein neuer aus   ==> other
-tg213.2.42: jhnen gezwackt.  ==> other
-tg213.2.46: Sie sämtlich schreyen: Nein / nein / daß lassen wir bleiben / schaff uns ein Qvartier / da Brodt / Wein und Fleisch zum besten ist.  ==> other
-tg213.2.50: Er haschet einen nach den andern und packt sie in den Kasten wieder ein / und macht hierauf zu.  ==> other
-tg213.2.54: Er agirt poßierlich / und schlept den Kasten hinein.  ==> exit
-tg215.2.4: Roccella, Ristaldi.  ==> other
-tg216.2.4: Philomarini, Ghirardini, Rossi, hernach Xaverio.  ==> other
-tg216.2.15: Xaverio kömt.  ==> other
-tg217.2.4: Die Vorigen / Arpaja, Bravo.  ==> other
-tg217.2.17: Arpaja und Bravo gehen ab.  ==> exit
-tg218.2.4: Lubrano, Conversano, Allegro in einem grossen Degen.  ==> other
-tg219.2.4: Die Vorigen / Piccone, Neri.  ==> other
-tg219.2.14: Sie nehmen jhnen die Degen.  ==> other
-tg220.2.4: Die Vorigen / Angelo, Laudato.  ==> other
-tg220.2.20: Neri und Bruno gehen ab.  ==> exit
-tg220.2.27: Sie jagen jhn hinein.  ==> exit
-tg221.2.4: Elisa, Laura, Flavio, Roberto.  ==> other
-tg222.2.4: Bonavita, Marina.  ==> other
-tg222.2.5: Er in Hosen und Wamst / sie in aufgeschürtzten Rocke.  ==> other
-tg222.2.27: Sie küsset jhn.  ==> other
-tg222.2.31: Küsset sie.  ==> other
-tg222.2.38: Küsset jhr die Hand und gehet ab.  ==> exit
-tg223.2.4: Buffone, hernach Allegro.  ==> other
-tg223.2.26: Sie treten gegen einander und zittern.  ==> other
-tg223.2.36: Geht ab.  ==> exit
-tg223.2.40: Geht ab.  ==> exit
-tg224.2.4: Philomarini, Ghirardini, Rossi samt den übrigen Geistlichen. Die innerste Scene præsentiret eine Kirche / die sämtlichen Geistlichen sind in Hosen und Wamst.  ==> other
-tg224.2.16: Die sämtlichen Cavalliers begleiten den Vice-Roy und treten auf die rechte Seite.  ==> other
-tg225.2.4: Die Vorigen und Roderigo hernach Masaniello.  ==> other
-tg225.2.10: Er setzt sich oben bey dem Altar / und hiemit wird inwendig mit Violinen gar sachte Musiciret / daß man die Reden wohl verstehen kan / also komt Masaniello, und nach jhm seine Bedienten / welche sich allmählich an der Wand auf der lincken Seiten herum ziehn.  ==> other
-tg225.2.16: Inwendig wird geruffen: Glück zu dem Könige in Spanien. Letzlich rufft einer zur Scene heraus / aber ohne Zoll.  ==> other
-tg225.2.21: Er rufft Ristaldi, der muß jhn zu Ende des Theatri setzen.  ==> other
-tg226.2.4: Alle des Vice-Roy Bedienten / ingleichen die Parthey von Masaniello.  ==> other
-tg226.2.5: Donato trit gegen den Altar und fänget an zulesen.  ==> other
-tg226.2.38: Hier werden die Trompeten und Paucken gehöret /inwendig wird darzu geschrien: Lange lebe der   ==> other
-tg226.2.39: König in Spanien!  ==> other
-tg226.2.43: Er reist an dem Kleide / und kan nicht zu rechte kommen / hiermit kniet er vor dem Vice-Roy.  ==> other
-tg226.2.50: Hier lassen sich Paucken und Trompeten hören /und ziehen alle ab / die mittelste Scene fällt zu.  ==> other
-tg227.2.4: Salvador, Laudato.  ==> other
-tg228.2.4: Villanella, Pasqvella, Zeppa in gläntzender Kleidung.  ==> other
-tg229.2.4: Die vorigen und Mattheo.  ==> enter
-tg229.2.16: Sie schreyen alle beyde zusammen.  ==> other
-tg230.2.4: Pinto, Baldo.  ==> other
-tg232.2.4: Allegro hat sich in Weibes-Kleider verstellet / und verändert die Sprache.  ==> other
-tg233.2.4: Roccella, Celinde.  ==> other
-tg234.2.4: Leonisse, Anaclerio.  ==> other
-tg235.2.4: Die Vorigen und Arcos.  ==> other
-tg236.2.4: Die Vorigen Prospero, Allegro.  ==> other
-tg236.2.23: Er wil jhr die Kleider abziehen.  ==> other
-tg236.2.29: Er zeucht die Kleider ab / daß alle den Allegro kennen.  ==> exit
-tg237.2.4: Arcos, Prospero, Allegro.  ==> other
-tg237.2.25: Geht ab.  ==> exit
-tg238.2.4: Prospero, Lurcone, Allegro.  ==> other
-tg238.2.15: Geht ab.  ==> exit
-tg239.2.4: Lurcone, Allegro, hernach Pazzo, Matto.  ==> other
-tg239.2.8: Er schlägt ihn.  ==> other
-tg239.2.16: Er wil entlauffen.  ==> other
-tg239.2.20: Pazzo und Matto kommen gelauffen.  ==> other
-tg239.2.38: Sie bringen das Holtz.  ==> other
-tg239.2.43: Sie sperren jhn in das Gebauer.  ==> other
-tg239.2.49: Sie gehen ab.  ==> exit
-tg239.2.50: Allegro fängt an zu singen.  ==> other
-tg240.2.4: Arcos, Girolomo, Allegro.  ==> other
-tg240.2.15: Geht ab.  ==> exit
-tg240.2.19: Er versucht an dem Gebauer.  ==> other
-tg240.2.27: Er läst jhn herauß.  ==> other
-tg240.2.31: Sie schirgen es biß an die Scene.  ==> other
-tg240.2.42: Sie schlagen sich / Allegro steckt Girolomo in das Gebauer und schlept jhn hinein.  ==> exit
-tg241.2.4: Roderigo, Torrecuso.  ==> other
-tg241.2.16: Geht ab.  ==> exit
-tg242.2.4: Roderigo, Arpaja, Formaggio.  ==> other
-tg243.2.4: Roderigo, hernach Ferrante, Carlo.  ==> other
-tg243.2.8: Ferrante und Carlo kommen gelauffen.  ==> other
-tg244.2.4: Tambourino, Saldo.  ==> other
-tg245.2.4: Tambourino, Saldo, Masaniello rasend.  ==> other
-tg245.2.15: Geht ab.  ==> exit
-tg245.2.20: Er schläget.  ==> other
-tg245.2.27: Er nimt jhm die Drommel und schläget närrisch darauff.  ==> other
-tg246.2.4: Masaniello, Tambourino, Flavio, Roberto.  ==> other
-tg247.2.4: Francesco, hernach Masaniello.  ==> other
-tg247.2.15: Er fält über jhn und macht possierliche Lectiones mit jhm.  ==> other
-tg248.2.4: Vitale, Bravo, Francesco, Masaniello.  ==> other
-tg248.2.18: Er giebt jhm eine Maulschelle.  ==> other
-tg249.2.4: Elisa, Laura mit jhren Kindern und den andern Weibern.  ==> other
-tg249.2.12: Er kömt mit blossen Degen auf sie loß / sie fallen alle nieder auff die Knie und schreyen.  ==> other
-tg249.2.19: Er jagt sie hinein / und fängt mit den blossen Degen schändlich an zurasen.  ==> other
-tg249.2.23: Er läufft in der Raserey hinein.  ==> other
-tg250.2.4: Xaverio, Arpaja, Furfante.  ==> other
-tg251.2.4: Die Vorigen und Francesco.  ==> other
-tg252.2.4: Masaniello, Tambourino, Saldo, Truffaldino, Bazzo, Matto bringen jhn geschlept.  ==> other
-tg252.2.18: Er wird in die innerste Scene geführet / Sie fällt zu.  ==> other
-tg253.2.4: Salvador, Angelo, Laudato, Afflitto.  ==> other
-tg253.2.21: Die mittelste Scene eröffnet sich.  ==> other
-tg253.2.26: Sie geben alle Vier zu gleich Feuer.  ==> other
-tg253.2.30: Er fällt in die mittelste Scene hinein. Die umstehenden schreyen.  ==> other
-tg253.2.34: Die Scene fällt zu.  ==> other
-tg254.2.4: Allegro trägt ein Stücke von einem Fusse.  ==> other
-tg255.2.4: Matelone, Anaclerio.  ==> other
-tg256.2.4: Roderigo, Leonisse, Celinde, Arcos, Philomarini, Matelone, Ferrante, Carlo, Roccella, Torrecuso, Donato, Anaclerio, Prospero, Allegro.  ==> other
+{"id":"tg157.2.4","text":"Roderigo, Leonisse.","type":"enter","source":"NLP"}
+{"id":"tg157.2.20.1","text":"Leonisse gehet ab.","type":"exit","source":"nltk"}
+{"id":"tg158.2.4","text":"Roderigo, Anaclerio.","type":"enter","source":"NLP"}
+{"id":"tg158.2.20.1","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg159.2.4","text":"Roderigo.","type":"enter","source":"NLP"}
+{"id":"tg159.2.7.1.part1","text":"komt gelauffen.","type":"enter","source":"nltk"}
+{"id":"tg159.2.16.1","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg160.2.4","text":"Allegro, Roccella, Torrecuso.","type":"other","source":"nltk"}
+{"id":"tg160.2.5","text":"Allegro, hat einen grossen Hopff-Sack über sich genommen / kömt damit heraus / schreyet und zieret sich gar wunderlich / biß die andern heraus kommen.","type":"other","source":"nltk"}
+{"id":"tg160.2.12.1","text":"Sie ziehen jhm den Sack über den Kopff weg.","type":"other","source":"nltk"}
+{"id":"tg160.2.24.1","text":"Er stellt sich als wolt er jhn schlagen.","type":"other","source":"nltk"}
+{"id":"tg160.2.26.1.part1","text":"wickelt sich poßierlich in den Sack.","type":"other","source":"nltk"}
+{"id":"tg160.2.35.1","text":"Er wirfft den Sack hinein / und bleibt auf der Seite stehen.","type":"other","source":"nltk"}
+{"id":"tg161.2.4","text":"Celinde und die Vorigen.","type":"other","source":"nltk"}
+{"id":"tg162.2.4","text":"Arcos und die Vorigen.","type":"enter","source":"NLP"}
+{"id":"tg163.2.4","text":"Roderigo, Leonisse und die Vorigen.","type":"enter","source":"NLP"}
+{"id":"tg163.2.17.1.part1","text":"küsset jhm die Hand.","type":"other","source":"nltk"}
+{"id":"tg163.2.19.1.part1","text":"umfasset jhn bey den Knien.","type":"other","source":"nltk"}
+{"id":"tg163.2.24.1","text":"Sie gehen ab.","type":"exit","source":"nltk"}
+{"id":"tg164.2.4","text":"Roderigo, Ferrante, Donato. Allegro auff der Seite.","type":"enter","source":"NLP"}
+{"id":"tg165.2.4","text":"Roderigo, Prospero, Ferrante, Donato.","type":"enter","source":"NLP"}
+{"id":"tg165.2.5","text":"Allegro auff der Seite.","type":"other","source":"nltk"}
+{"id":"tg166.2.4","text":"Anaclerio und die Vorigen.","type":"other","source":"nltk"}
+{"id":"tg166.2.18.1","text":"Hier wird hinter der Scene ein sachtes Geräusche gemacht.","type":"other","source":"nltk"}
+{"id":"tg166.2.31.1","text":"Sie eilen fort.","type":"other","source":"nltk"}
+{"id":"tg166.2.35.1","text":"Er holet jhn.","type":"enter","source":"nltk"}
+{"id":"tg167.2.4","text":"Peronne, Formaggio, Bravo, Piccone neben andern Bürgern und Kindern so jhre Stecken mit Brodte oder alten Lumpen bezeichnet haben.","type":"other","source":"nltk"}
+{"id":"tg167.2.16.1","text":"Sie lauffen hinein und tumultuiren erschrecklich.","type":"exit","source":"nltk"}
+{"id":"tg168.2.4","text":"Allegro mit dem Sacke / hernach Bravo.","type":"enter","source":"nltk"}
+{"id":"tg168.2.7.1.part1","text":"kömt gelauffen.","type":"enter","source":"nltk"}
+{"id":"tg168.2.20.1","text":"Er entblöst den Degen.","type":"other","source":"nltk"}
+{"id":"tg168.2.28.1","text":"Er wil stossen / Allegro schreyet und läufft zurücke.","type":"other","source":"nltk"}
+{"id":"tg168.2.34.1","text":"Sie treten zusammen und fechten possierlich /endlich stöst Bravo und fehlt / daß jhm der Degen /an der Wand stecken bleibt / Allegro stösst jhn zurücke / daß er den Degen muß im Stiche lassen.","type":"other","source":"nltk"}
+{"id":"tg168.2.39.1","text":"Sie überwerffen sich poßierlich / endlich zeucht jhm Allegro den Sack über den Kopff und läst jhn liegen.","type":"other","source":"nltk"}
+{"id":"tg169.2.4","text":"Formaggio, Piccone, Bravo im Sacke.","type":"other","source":"nltk"}
+{"id":"tg169.2.17.1","text":"Sie ziehen den Sack ab.","type":"other","source":"nltk"}
+{"id":"tg169.2.19.1.part1","text":"springt in die Höhe.","type":"other","source":"nltk"}
+{"id":"tg169.2.21.1","text":"Läufft davon.","type":"exit","source":"nltk"}
+{"id":"tg169.2.25.1","text":"Lauffen hernach.","type":"enter","source":"nltk"}
+{"id":"tg170.2.4","text":"Masaniello, Geonino, Matthæo, Vitale samt etlichen Bürgern.","type":"other","source":"nltk"}
+{"id":"tg171.2.4","text":"Die Vorigen / Roderigo, Arpaja, Furfante. Beyde mit entblösten Degen, hernach Masaniello.","type":"enter","source":"nltk"}
+{"id":"tg171.2.24.1","text":"Sie fangen alle anzuschreyen.","type":"other","source":"nltk"}
+{"id":"tg171.2.29.1","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg171.2.35.1","text":"Er wirfft sein Geld von sich.","type":"other","source":"nltk"}
+{"id":"tg171.2.40.1","text":"Die andern wollen darnach greiffen.","type":"other","source":"nltk"}
+{"id":"tg171.2.44.1","text":"Sie schlagen sich weidlich um das Geld.","type":"other","source":"nltk"}
+{"id":"tg171.2.48.1","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg171.2.55.1","text":"Die Leute welche noch immer Geld aufgelesen richten sich zusammen auf.","type":"other","source":"nltk"}
+{"id":"tg171.2.59.1","text":"Sie schreyen alle zusammen.","type":"other","source":"nltk"}
+{"id":"tg171.2.63.1","text":"Sie lauffen hinein.","type":"exit","source":"nltk"}
+{"id":"tg172.2.4","text":"Peronne, Formaggio, Caraffa, hernach Ristaldi.","type":"enter","source":"nltk"}
+{"id":"tg172.2.12.1.part1","text":"kömt gelauffen.","type":"enter","source":"nltk"}
+{"id":"tg172.2.16.1","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg172.2.21.1","text":"Peronne geht ab.","type":"exit","source":"nltk"}
+{"id":"tg173.2.4","text":"Bonavita, Xaverio, Francesco, Domenico hernach Roderigo und Philomarini.","type":"enter","source":"nltk"}
+{"id":"tg173.2.5","text":"Die innerste Scene öffnet sich.","type":"other","source":"nltk"}
+{"id":"tg173.2.15.1.part1","text":"kömt.","type":"other","source":"nltk"}
+{"id":"tg173.2.28.1","text":"Philomarini und Roderigo gehen ab.","type":"exit","source":"nltk"}
+{"id":"tg174.2.4","text":"Die Vorigen. Carolo, Bianca, Rossana, Flavia, Marina.","type":"enter","source":"NLP"}
+{"id":"tg174.2.13.1","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg174.2.17.1","text":"Die Mönche gehen ab.","type":"exit","source":"nltk"}
+{"id":"tg175.2.4","text":"Bianca, Rossana, Flavia, Marina.","type":"enter","source":"NLP"}
+{"id":"tg176.2.4","text":"Die Vorigen / Xaverio, und hernach die andern Münche.","type":"enter","source":"nltk"}
+{"id":"tg176.2.14.1","text":"Domenico komt. Xaverio und Bianca gehen ab.","type":"exit","source":"nltk"}
+{"id":"tg176.2.24.1","text":"Domenico und Rossana gehen ab / Francesco komt.","type":"exit","source":"nltk"}
+{"id":"tg176.2.39.1","text":"Er stellt sich als woll Er sie küssen.","type":"other","source":"nltk"}
+{"id":"tg176.2.44.1","text":"Francesco schlept Flavia hinein: Bonavita kömt.","type":"other","source":"nltk"}
+{"id":"tg176.2.56.1.part1","text":"küsset jhr die Hand.","type":"other","source":"nltk"}
+{"id":"tg176.2.60.1","text":"Er küsset jhr die Hand noch einmahl.","type":"other","source":"nltk"}
+{"id":"tg176.2.65.1","text":"Er küsst sie auf den Backen.","type":"other","source":"nltk"}
+{"id":"tg176.2.70.1","text":"Er küsst sie auf die Hand und auf das Gesichte.","type":"other","source":"nltk"}
+{"id":"tg176.2.77.1","text":"Er umfasst sie.","type":"other","source":"nltk"}
+{"id":"tg176.2.88.1","text":"Inwendig wird ein Gepolter.","type":"other","source":"nltk"}
+{"id":"tg176.2.93.1","text":"Sie gehen ab.","type":"exit","source":"nltk"}
+{"id":"tg177.2.4","text":"Allegro.","type":"other","source":"nltk"}
+{"id":"tg177.2.8","text":"Er säet und singet.","type":"other","source":"nltk"}
+{"id":"tg177.2.17","text":"Hier kucken allenthalben kleine Narren aus dem Boden herfür / und weil Allegro redet / so ","type":"other","source":"nltk"}
+{"id":"tg177.2.22","text":"Er wendet sich um / da fangen die kleinen Narren alle an zulachen / Allegro lacht dazu / und fingt mit jhnen an poßierlich herum zu springen / biß er mit jhnen hinein tantzt.","type":"other","source":"nltk"}
+{"id":"tg179.2.4","text":"Caraffa, Matelone, Ristaldi.","type":"enter","source":"NLP"}
+{"id":"tg180.2.4","text":"Masaniello, Peronne, Arpaja, Vitale, Formaggio, Geonino.","type":"enter","source":"NLP"}
+{"id":"tg180.2.15","text":"Hier geschieht der Auffzug über das Theatrum. 1. Masaniello mit den Seinigen / nebst etlichen Banditen. 2. Die Bürger. 3. Masaniello Frau mit den Weibern. 4. Die Bürgers Kinder. 5. Die Bauern. 6. ","type":"other","source":"nltk"}
+{"id":"tg180.2.16.1","text":"Allegro mit seinen kleinen Narren / welche mit kleinen Drommeln und Pfeiffen sich hören lassen.","type":"other","source":"nltk"}
+{"id":"tg181.2.4","text":"Flavio, Roberto, hernach Allegro.","type":"enter","source":"nltk"}
+{"id":"tg181.2.23.1.part1","text":"komt gelauffen.","type":"enter","source":"nltk"}
+{"id":"tg181.2.31.1","text":"Die kleinen Narren werffen jhn zu Boden und schleppen jhn hinein.","type":"exit","source":"nltk"}
+{"id":"tg182.2.4","text":"Geonino, Vitale, Peronne, Caraffa, Matelone.","type":"enter","source":"NLP"}
+{"id":"tg182.2.23.1","text":"Geonino und Vitale gehen ab.","type":"exit","source":"nltk"}
+{"id":"tg182.2.41.1","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg182.2.50.1","text":"Gehen ab.","type":"exit","source":"nltk"}
+{"id":"tg183.2.4","text":"Pasqvella, Zeppa, Villanella, hernach Allegro: endlich Formaggio.","type":"enter","source":"nltk"}
+{"id":"tg183.2.13.1.part1","text":"kömt mit seinen Burschen / haben alle brennende Späne in Händen.","type":"other","source":"nltk"}
+{"id":"tg183.2.15.1","text":"Er komt den Weibern ziemlich nah.","type":"other","source":"nltk"}
+{"id":"tg183.2.37.1.part1","text":"kömt gelauffen.","type":"enter","source":"nltk"}
+{"id":"tg183.2.43.1","text":"Sie gehen ab.","type":"exit","source":"nltk"}
+{"id":"tg184.2.4","text":"Philomarini, Ferrante, Carlo.","type":"enter","source":"NLP"}
+{"id":"tg184.2.24.1","text":"Sie gehen ab.","type":"exit","source":"nltk"}
+{"id":"tg185.2.4","text":"Philomarini, Rossi, Ghirardini.","type":"enter","source":"NLP"}
+{"id":"tg186.2.4","text":"Die Vorigen und Laudato.","type":"other","source":"nltk"}
+{"id":"tg187.2.4","text":"Die Vorigen und Angelo.","type":"enter","source":"NLP"}
+{"id":"tg188.2.4","text":"Anaclerio, Afflitto.","type":"enter","source":"NLP"}
+{"id":"tg189.2.4","text":"Bonavita, Domenico und Allegro.","type":"enter","source":"NLP"}
+{"id":"tg189.2.10.1.part1","text":"kehret jhn herum.","type":"other","source":"nltk"}
+{"id":"tg189.2.21.1","text":"Hie fallen etliche bewerthe Personen heraus und schreyen. Visitiret das Kloster.","type":"other","source":"nltk"}
+{"id":"tg189.2.25.1","text":"Sie schreyen insgesamt. Wir wollen sehen / obs wahr ist / und lauffen hinein / die Mönche folgen.","type":"exit","source":"nltk"}
+{"id":"tg190.2.4","text":"Masaniello, Peronne, Geonino, Arpaja, Vitale, Mattheo.","type":"enter","source":"NLP"}
+{"id":"tg190.2.5","text":"Item nach und nach allerhand Banditen.","type":"other","source":"nltk"}
+{"id":"tg190.2.16.1","text":"Piccone kömt und bringt Celio geschlept.","type":"enter","source":"nltk"}
+{"id":"tg190.2.28.1","text":"Er wird weg geführet. Bravo bringt Titta geschleppt.","type":"other","source":"nltk"}
+{"id":"tg190.2.38.1","text":"Sie schleppen jhn hinweg / Furfante und Rubina.","type":"other","source":"nltk"}
+{"id":"tg190.2.51.1","text":"Sie wird hinein geschlept / Formaggio bringet Sarpi.","type":"exit","source":"nltk"}
+{"id":"tg190.2.64.1","text":"Pasqvella kömt gelauffen / und führet Picolo.","type":"enter","source":"nltk"}
+{"id":"tg190.2.76.1","text":"Neri bringt Paolo geschlept.","type":"enter","source":"nltk"}
+{"id":"tg190.2.89.1","text":"Er wird hinein geschlept.","type":"exit","source":"nltk"}
+{"id":"tg190.2.90.1","text":"Zeppa und Villanella bringen Allegro geschlept.","type":"enter","source":"nltk"}
+{"id":"tg191.2.4","text":"Neri, Bruno, Allegro.","type":"enter","source":"NLP"}
+{"id":"tg191.2.5","text":"Neri und Bruno haben ausgestopffte Würste in den Händen.","type":"other","source":"nltk"}
+{"id":"tg191.2.18.1","text":"Sie werffen jhn nieder.","type":"other","source":"nltk"}
+{"id":"tg191.2.23.1","text":"Hier schlägt einer nach dem andern auf Allegro loß / und zehlet Eins / Zwey / Drey / Vier.","type":"other","source":"nltk"}
+{"id":"tg191.2.31.1","text":"Sie agiren und zehlen poßierlich mit einander; endlich entläufft jhnen Allegro und sie folgen jhm nach.","type":"other","source":"nltk"}
+{"id":"tg192.2.4","text":"Buffone, Lurcone, Poltrone nebst noch etlichen stummen Bauren.","type":"other","source":"nltk"}
+{"id":"tg193.2.4","text":"Die Vorigen und Allegro im Reise-Rocke.","type":"other","source":"nltk"}
+{"id":"tg193.2.12.1.part1","text":"greifft an.","type":"other","source":"nltk"}
+{"id":"tg193.2.21.1","text":"Sie überfallen jhn / und nach viel lächerlichen Possen ziehen sie jhn gantz aus / biß auff das Hemde.","type":"other","source":"nltk"}
+{"id":"tg193.2.28.1","text":"Sie ziehn jhn aus: Er hat ein glat Leibfarbig Kleid an / und hinten einen Fuchs-Schwantz.","type":"other","source":"nltk"}
+{"id":"tg193.2.36.1","text":"Er giebt jhm die grosse Papierne Krause.","type":"other","source":"nltk"}
+{"id":"tg193.2.43.1","text":"Er agirt poßierlich mit der Krause und geht ab.","type":"exit","source":"nltk"}
+{"id":"tg195.2.4","text":"Carlo, Donato.","type":"enter","source":"NLP"}
+{"id":"tg196.2.4","text":"Antimo, Corraggio, Bizzarro, Allegro in einer Paruqve und einem stoltzen Kleide.","type":"other","source":"nltk"}
+{"id":"tg197.2.4","text":"Masaniello, Geonino, Vitale, Philomarini, Ghirardini.","type":"enter","source":"NLP"}
+{"id":"tg197.2.20.1.part2","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg198.2.4","text":"Die Vorigen und Peronne.","type":"other","source":"nltk"}
+{"id":"tg198.2.19.1","text":"Masaniello mit den andern geht ab.","type":"exit","source":"nltk"}
+{"id":"tg199.2.4","text":"Peronne, Antimo, Coraggio, Bizarro, Allegro.","type":"other","source":"nltk"}
+{"id":"tg199.2.19.1","text":"Sie gehen ab.","type":"exit","source":"nltk"}
+{"id":"tg200.2.4","text":"Die innerste Scene öffnet sich und præsentiret einen Altar / darbey etliche Pfaffen in jhrem Ornat erscheinen. Philomarini mit seinen Leuten ist zugegen. Masaniello mit seiner gantzen Svite kömt auch aufgezogen.","type":"other","source":"nltk"}
+{"id":"tg200.2.10.1.part1","text":"fängt an zu lesen.","type":"other","source":"nltk"}
+{"id":"tg200.2.12.1","text":"Unter wehrenden Lesen setzet sich Philomarini und Masaniello.","type":"other","source":"nltk"}
+{"id":"tg200.2.15.1.part1","text":"lieset weiter.","type":"other","source":"nltk"}
+{"id":"tg200.2.19.1","text":"Wie dieses gelesen ist / fallen die bestellten Banditen hinein und schiessen ingesamt auf den Masaniello loß. Masaniello schreyt / Ha / Verrätherey! Es wird ein grosser Aufflauff / biß sich alle vom Theatro verliehren / biß auff Philomarini und die Pfaffen.","type":"other","source":"nltk"}
+{"id":"tg201.2.4","text":"Philomarini, Bizarro, Bravo, Furfante.","type":"enter","source":"NLP"}
+{"id":"tg201.2.6.1.part1","text":"komt gelauffen.","type":"enter","source":"nltk"}
+{"id":"tg201.2.23.1","text":"Er gehet zum Altar.","type":"other","source":"nltk"}
+{"id":"tg201.2.29.1","text":"Bizarro steht auf und läufft biß zum Altar.","type":"other","source":"nltk"}
+{"id":"tg201.2.33.1","text":"Sie lauffen hin und stechen jhn.","type":"other","source":"nltk"}
+{"id":"tg201.2.37.1","text":"Furfante und Bravo gehen ab / die Geistlichen fangen anzuschreyen.","type":"exit","source":"nltk"}
+{"id":"tg201.2.41.1","text":"Die innerste Scene fällt zu.","type":"other","source":"nltk"}
+{"id":"tg202.2.4","text":"Xaverio, Allegro.","type":"enter","source":"NLP"}
+{"id":"tg202.2.15.1","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg202.2.19.1","text":"Er wirfft die Peruqve nebst dem Kleide weg und steht wiederum als ein leibhafftiger Pickelhering da.","type":"other","source":"nltk"}
+{"id":"tg202.2.22.1.part1","text":"komt wieder.","type":"enter","source":"nltk"}
+{"id":"tg203.2.4","text":"Die Vorigen und Salvador.","type":"enter","source":"NLP"}
+{"id":"tg203.2.26.1.part1","text":"ad Spectatores.","type":"aside","source":"nltk"}
+{"id":"tg204.2.4","text":"Caraffa, Matelone.","type":"enter","source":"NLP"}
+{"id":"tg205.2.4","text":"Salvador, Laudato, Afflitto.","type":"enter","source":"NLP"}
+{"id":"tg206.2.4","text":"Caraffa, Bonavita.","type":"enter","source":"NLP"}
+{"id":"tg207.2.4","text":"Caraffa, Bonavita, Domenico.","type":"enter","source":"NLP"}
+{"id":"tg207.2.14.1","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg207.2.20.1","text":"Gehen ab.","type":"exit","source":"nltk"}
+{"id":"tg208.2.4","text":"Bardassa, hernach Caraffa.","type":"enter","source":"nltk"}
+{"id":"tg208.2.22.1","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg209.2.4","text":"Bardassa, Bravo, Piccone.","type":"enter","source":"NLP"}
+{"id":"tg209.2.32.1","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg210.2.4","text":"Bardassa, Bravo, Piccone, Mattheo, Furfante, Formaggio, Bruno, hernach Caraffa.","type":"enter","source":"nltk"}
+{"id":"tg210.2.10.1","text":"Alle zusammen / indem Mattheo den Hertzog aus der Kammer hervor zeucht.","type":"other","source":"nltk"}
+{"id":"tg210.2.28.1","text":"Er wird von allen mit einem grausamen Geschrey hinein geschlept.","type":"other","source":"nltk"}
+{"id":"tg211.2.4","text":"Masaniello, Arpaja, Vitale, Geonino nebst den andern.","type":"other","source":"nltk"}
+{"id":"tg212.2.4","text":"Die Vorigen / item Mattheo mit seinem Anhange /welcher Caraffa geschleppet bringen.","type":"other","source":"nltk"}
+{"id":"tg212.2.12.1","text":"Er schneidet jhm mit einen Messer den Kopff ab.","type":"exit","source":"nltk"}
+{"id":"tg212.2.20.1","text":"Die Stange wird jhm gegeben.","type":"other","source":"nltk"}
+{"id":"tg212.2.24.1","text":"Er wird hinein geschlept.","type":"exit","source":"nltk"}
+{"id":"tg212.2.30.1","text":"Es wird dem Masaniello vorgehalten.","type":"other","source":"nltk"}
+{"id":"tg212.2.36.1","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg213.2.4","text":"Allegro hernach Truffaldino.","type":"enter","source":"nltk"}
+{"id":"tg213.2.7.1.part1","text":"kömt und bringet einen mäßigen Kasten getragen.","type":"other","source":"nltk"}
+{"id":"tg213.2.13.1.part1","text":"ad Spectatores.","type":"aside","source":"nltk"}
+{"id":"tg213.2.17.1.part1","text":"ad Spectatores.","type":"aside","source":"nltk"}
+{"id":"tg213.2.37.1","text":"Truffaldino wil gehen / Allegro zeucht jhn zurücke /und complimentiret so lange mit jhm / biß inwendig ein Zeichen gegeben wird / daß der Kasten unter dem Theatro zu rechte gemacht ist / als denn laufft Truffaldino hinein.","type":"other","source":"nltk"}
+{"id":"tg213.2.41","text":"Allegro macht den Kasten auf / und da fängt er überlaut an zu schreyen. Indem kömt ein kleiner Narr heraus / und jagt ihm herum / mit diesen Worten / schaffe mir zu fressen: Hastu mich geworben / so mustu mich erhalten. So offt Allegro zu dem Kasten hinkomt / springt allzeit ein neuer aus ","type":"other","source":"nltk"}
+{"id":"tg213.2.42.1","text":"jhnen gezwackt.","type":"other","source":"nltk"}
+{"id":"tg213.2.46.1","text":"Sie sämtlich schreyen: Nein / nein / daß lassen wir bleiben / schaff uns ein Qvartier / da Brodt / Wein und Fleisch zum besten ist.","type":"other","source":"nltk"}
+{"id":"tg213.2.50.1","text":"Er haschet einen nach den andern und packt sie in den Kasten wieder ein / und macht hierauf zu.","type":"other","source":"nltk"}
+{"id":"tg213.2.54.1","text":"Er agirt poßierlich / und schlept den Kasten hinein.","type":"other","source":"nltk"}
+{"id":"tg215.2.4","text":"Roccella, Ristaldi.","type":"enter","source":"NLP"}
+{"id":"tg216.2.4","text":"Philomarini, Ghirardini, Rossi, hernach Xaverio.","type":"enter","source":"nltk"}
+{"id":"tg216.2.15.1","text":"Xaverio kömt.","type":"other","source":"nltk"}
+{"id":"tg217.2.4","text":"Die Vorigen / Arpaja, Bravo.","type":"enter","source":"NLP"}
+{"id":"tg217.2.17.1","text":"Arpaja und Bravo gehen ab.","type":"exit","source":"nltk"}
+{"id":"tg218.2.4","text":"Lubrano, Conversano, Allegro in einem grossen Degen.","type":"other","source":"nltk"}
+{"id":"tg218.2.27.2.part2","text":"Ad Spectatores.","type":"enter","source":"NLP"}
+{"id":"tg218.2.27.3.part2","text":"Ad Spectatores.","type":"enter","source":"NLP"}
+{"id":"tg219.2.4","text":"Die Vorigen / Piccone, Neri.","type":"enter","source":"NLP"}
+{"id":"tg219.2.14.1","text":"Sie nehmen jhnen die Degen.","type":"other","source":"nltk"}
+{"id":"tg220.2.4","text":"Die Vorigen / Angelo, Laudato.","type":"enter","source":"NLP"}
+{"id":"tg220.2.20.1","text":"Neri und Bruno gehen ab.","type":"exit","source":"nltk"}
+{"id":"tg220.2.27.1","text":"Sie jagen jhn hinein.","type":"exit","source":"nltk"}
+{"id":"tg221.2.4","text":"Elisa, Laura, Flavio, Roberto.","type":"enter","source":"NLP"}
+{"id":"tg222.2.4","text":"Bonavita, Marina.","type":"enter","source":"NLP"}
+{"id":"tg222.2.5","text":"Er in Hosen und Wamst / sie in aufgeschürtzten Rocke.","type":"other","source":"nltk"}
+{"id":"tg222.2.27.1","text":"Sie küsset jhn.","type":"other","source":"nltk"}
+{"id":"tg222.2.31.1","text":"Küsset sie.","type":"other","source":"nltk"}
+{"id":"tg222.2.38.1","text":"Küsset jhr die Hand und gehet ab.","type":"exit","source":"nltk"}
+{"id":"tg223.2.4","text":"Buffone, hernach Allegro.","type":"enter","source":"nltk"}
+{"id":"tg223.2.6.1.part1","text":"in einem langen Fuhrmanns-Kittel.","type":"other","source":"nltk"}
+{"id":"tg223.2.7.1.part1","text":"auff der andern Seite.","type":"other","source":"nltk"}
+{"id":"tg223.2.26.1","text":"Sie treten gegen einander und zittern.","type":"other","source":"nltk"}
+{"id":"tg223.2.36.1","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg223.2.40.1","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg224.2.4","text":"Philomarini, Ghirardini, Rossi samt den übrigen Geistlichen. Die innerste Scene præsentiret eine Kirche / die sämtlichen Geistlichen sind in Hosen und Wamst.","type":"other","source":"nltk"}
+{"id":"tg224.2.16.1","text":"Die sämtlichen Cavalliers begleiten den Vice-Roy und treten auf die rechte Seite.","type":"other","source":"nltk"}
+{"id":"tg225.2.4","text":"Die Vorigen und Roderigo hernach Masaniello.","type":"enter","source":"nltk"}
+{"id":"tg225.2.10.1","text":"Er setzt sich oben bey dem Altar / und hiemit wird inwendig mit Violinen gar sachte Musiciret / daß man die Reden wohl verstehen kan / also komt Masaniello, und nach jhm seine Bedienten / welche sich allmählich an der Wand auf der lincken Seiten herum ziehn.","type":"other","source":"nltk"}
+{"id":"tg225.2.16.1","text":"Inwendig wird geruffen: Glück zu dem Könige in Spanien. Letzlich rufft einer zur Scene heraus / aber ohne Zoll.","type":"other","source":"nltk"}
+{"id":"tg225.2.21.1","text":"Er rufft Ristaldi, der muß jhn zu Ende des Theatri setzen.","type":"other","source":"nltk"}
+{"id":"tg225.2.23.1.part1","text":"ad Spectatores.","type":"aside","source":"nltk"}
+{"id":"tg226.2.4","text":"Alle des Vice-Roy Bedienten / ingleichen die Parthey von Masaniello.","type":"other","source":"nltk"}
+{"id":"tg226.2.5","text":"Donato trit gegen den Altar und fänget an zulesen.","type":"other","source":"nltk"}
+{"id":"tg226.2.35.1.part1","text":"bringt das Evangelien Buch.","type":"other","source":"nltk"}
+{"id":"tg226.2.38","text":"Hier werden die Trompeten und Paucken gehöret /inwendig wird darzu geschrien: Lange lebe der ","type":"other","source":"nltk"}
+{"id":"tg226.2.39","text":"König in Spanien!","type":"other","source":"nltk"}
+{"id":"tg226.2.41.1.part1","text":"steht im Silbernen Stücke mit einem blossen Schwerdte.","type":"other","source":"nltk"}
+{"id":"tg226.2.43.1","text":"Er reist an dem Kleide / und kan nicht zu rechte kommen / hiermit kniet er vor dem Vice-Roy.","type":"other","source":"nltk"}
+{"id":"tg226.2.50.1","text":"Hier lassen sich Paucken und Trompeten hören /und ziehen alle ab / die mittelste Scene fällt zu.","type":"other","source":"nltk"}
+{"id":"tg227.2.4","text":"Salvador, Laudato.","type":"enter","source":"NLP"}
+{"id":"tg228.2.4","text":"Villanella, Pasqvella, Zeppa in gläntzender Kleidung.","type":"other","source":"nltk"}
+{"id":"tg229.2.4","text":"Die vorigen und Mattheo.","type":"enter","source":"NLP"}
+{"id":"tg229.2.16.1","text":"Sie schreyen alle beyde zusammen.","type":"other","source":"nltk"}
+{"id":"tg229.2.23.1.part1","text":"weinet.","type":"other","source":"nltk"}
+{"id":"tg230.2.4","text":"Pinto, Baldo.","type":"enter","source":"NLP"}
+{"id":"tg232.2.4","text":"Allegro hat sich in Weibes-Kleider verstellet / und verändert die Sprache.","type":"other","source":"nltk"}
+{"id":"tg233.2.4","text":"Roccella, Celinde.","type":"enter","source":"NLP"}
+{"id":"tg234.2.4","text":"Leonisse, Anaclerio.","type":"other","source":"nltk"}
+{"id":"tg235.2.4","text":"Die Vorigen und Arcos.","type":"other","source":"nltk"}
+{"id":"tg235.2.6.1.part1","text":"kömt gelauffen.","type":"enter","source":"nltk"}
+{"id":"tg236.2.4","text":"Die Vorigen Prospero, Allegro.","type":"enter","source":"NLP"}
+{"id":"tg236.2.23.1","text":"Er wil jhr die Kleider abziehen.","type":"other","source":"nltk"}
+{"id":"tg236.2.29.1","text":"Er zeucht die Kleider ab / daß alle den Allegro kennen.","type":"other","source":"nltk"}
+{"id":"tg237.2.4","text":"Arcos, Prospero, Allegro.","type":"enter","source":"NLP"}
+{"id":"tg237.2.25.1","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg238.2.4","text":"Prospero, Lurcone, Allegro.","type":"enter","source":"NLP"}
+{"id":"tg238.2.15.1","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg239.2.4","text":"Lurcone, Allegro, hernach Pazzo, Matto.","type":"enter","source":"nltk"}
+{"id":"tg239.2.8.1","text":"Er schlägt ihn.","type":"other","source":"nltk"}
+{"id":"tg239.2.16.1","text":"Er wil entlauffen.","type":"other","source":"nltk"}
+{"id":"tg239.2.20.1","text":"Pazzo und Matto kommen gelauffen.","type":"enter","source":"nltk"}
+{"id":"tg239.2.38.1","text":"Sie bringen das Holtz.","type":"other","source":"nltk"}
+{"id":"tg239.2.43.1","text":"Sie sperren jhn in das Gebauer.","type":"other","source":"nltk"}
+{"id":"tg239.2.49.1","text":"Sie gehen ab.","type":"exit","source":"nltk"}
+{"id":"tg239.2.50.1","text":"Allegro fängt an zu singen.","type":"other","source":"nltk"}
+{"id":"tg240.2.4","text":"Arcos, Girolomo, Allegro.","type":"enter","source":"NLP"}
+{"id":"tg240.2.15.1","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg240.2.19.1","text":"Er versucht an dem Gebauer.","type":"other","source":"nltk"}
+{"id":"tg240.2.27.1","text":"Er läst jhn herauß.","type":"other","source":"nltk"}
+{"id":"tg240.2.31.1","text":"Sie schirgen es biß an die Scene.","type":"other","source":"nltk"}
+{"id":"tg240.2.42.1","text":"Sie schlagen sich / Allegro steckt Girolomo in das Gebauer und schlept jhn hinein.","type":"other","source":"nltk"}
+{"id":"tg241.2.4","text":"Roderigo, Torrecuso.","type":"enter","source":"NLP"}
+{"id":"tg241.2.16.1","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg242.2.4","text":"Roderigo, Arpaja, Formaggio.","type":"enter","source":"NLP"}
+{"id":"tg243.2.4","text":"Roderigo, hernach Ferrante, Carlo.","type":"enter","source":"nltk"}
+{"id":"tg243.2.8.1","text":"Ferrante und Carlo kommen gelauffen.","type":"enter","source":"nltk"}
+{"id":"tg244.2.4","text":"Tambourino, Saldo.","type":"other","source":"nltk"}
+{"id":"tg245.2.4","text":"Tambourino, Saldo, Masaniello rasend.","type":"other","source":"nltk"}
+{"id":"tg245.2.15.1","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg245.2.20.1","text":"Er schläget.","type":"other","source":"nltk"}
+{"id":"tg245.2.27.1","text":"Er nimt jhm die Drommel und schläget närrisch darauff.","type":"other","source":"nltk"}
+{"id":"tg246.2.4","text":"Masaniello, Tambourino, Flavio, Roberto.","type":"enter","source":"NLP"}
+{"id":"tg247.2.4","text":"Francesco, hernach Masaniello.","type":"enter","source":"nltk"}
+{"id":"tg247.2.7.1.part1","text":"kömt gelauffen.","type":"enter","source":"nltk"}
+{"id":"tg247.2.15.1","text":"Er fält über jhn und macht possierliche Lectiones mit jhm.","type":"other","source":"nltk"}
+{"id":"tg248.2.4","text":"Vitale, Bravo, Francesco, Masaniello.","type":"enter","source":"NLP"}
+{"id":"tg248.2.18.1","text":"Er giebt jhm eine Maulschelle.","type":"other","source":"nltk"}
+{"id":"tg249.2.4","text":"Elisa, Laura mit jhren Kindern und den andern Weibern.","type":"other","source":"nltk"}
+{"id":"tg249.2.12.1","text":"Er kömt mit blossen Degen auf sie loß / sie fallen alle nieder auff die Knie und schreyen.","type":"other","source":"nltk"}
+{"id":"tg249.2.19.1","text":"Er jagt sie hinein / und fängt mit den blossen Degen schändlich an zurasen.","type":"other","source":"nltk"}
+{"id":"tg249.2.23.1","text":"Er läufft in der Raserey hinein.","type":"exit","source":"nltk"}
+{"id":"tg250.2.4","text":"Xaverio, Arpaja, Furfante.","type":"enter","source":"NLP"}
+{"id":"tg251.2.4","text":"Die Vorigen und Francesco.","type":"other","source":"nltk"}
+{"id":"tg252.2.4","text":"Masaniello, Tambourino, Saldo, Truffaldino, Bazzo, Matto bringen jhn geschlept.","type":"enter","source":"nltk"}
+{"id":"tg252.2.18.1","text":"Er wird in die innerste Scene geführet / Sie fällt zu.","type":"other","source":"nltk"}
+{"id":"tg253.2.4","text":"Salvador, Angelo, Laudato, Afflitto.","type":"enter","source":"NLP"}
+{"id":"tg253.2.21.1","text":"Die mittelste Scene eröffnet sich.","type":"other","source":"nltk"}
+{"id":"tg253.2.26.1","text":"Sie geben alle Vier zu gleich Feuer.","type":"other","source":"nltk"}
+{"id":"tg253.2.28.1.part1","text":"in dem er fällt.","type":"other","source":"nltk"}
+{"id":"tg253.2.30.1","text":"Er fällt in die mittelste Scene hinein. Die umstehenden schreyen.","type":"dead","source":"nltk"}
+{"id":"tg253.2.34.1","text":"Die Scene fällt zu.","type":"other","source":"nltk"}
+{"id":"tg254.2.4","text":"Allegro trägt ein Stücke von einem Fusse.","type":"other","source":"nltk"}
+{"id":"tg255.2.4","text":"Matelone, Anaclerio.","type":"other","source":"nltk"}
+{"id":"tg256.2.4","text":"Roderigo, Leonisse, Celinde, Arcos, Philomarini, Matelone, Ferrante, Carlo, Roccella, Torrecuso, Donato, Anaclerio, Prospero, Allegro.","type":"enter","source":"NLP"}

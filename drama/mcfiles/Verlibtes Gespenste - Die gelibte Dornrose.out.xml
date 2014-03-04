@@ -354,8 +354,8 @@ Scena II.</ns0:head>
                                     <ns0:speaker xml:id="tg816.2.40">SULPICIUS.</ns0:speaker>
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg816.2.41">O Briff! der meinen Geist bi&#223; auff den Tod betr&#252;bet!</ns0:l>
                                     <ns0:lb xml:id="tg816.2.42" />
-                                    <ns0:stage rend="zenoPC" type="other" xml:id="tg816.2.43">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg816.2.43.1">Cornelien Brieff.</ns0:stage>
+                                    <ns0:stage rend="zenoPC" xml:id="tg816.2.43">
+                                       <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg816.2.43.1">Cornelien Brieff.</ns0:stage>
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg816.2.44" />
                                     <ns0:lg>
@@ -513,8 +513,8 @@ Scena II.</ns0:head>
                                     <ns0:speaker xml:id="tg816.2.125">FLAVIA.</ns0:speaker>
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg816.2.126">Ja noch vor diser Nacht / wo ich nur sicher kan.</ns0:l>
                                     <ns0:lb xml:id="tg816.2.127" />
-                                    <ns0:stage rend="zenoPC" type="other" xml:id="tg816.2.128">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg816.2.128.1">Sulpicius. Fabricius.</ns0:stage>
+                                    <ns0:stage rend="zenoPC" xml:id="tg816.2.128">
+                                       <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg816.2.128.1">Sulpicius. Fabricius.</ns0:stage>
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg816.2.129" />
                                     <ns0:lg>
@@ -593,7 +593,7 @@ Scena II.</ns0:head>
                                     <ns0:speaker xml:id="tg816.2.169">SULPICIUS.</ns0:speaker>
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg816.2.170">Jst di&#223; was Flavie mich zu erquicken gibet?</ns0:l>
                                     <ns0:lb xml:id="tg816.2.171" />
-                                    <ns0:stage rend="zenoPC" type="other" xml:id="tg816.2.172">
+                                    <ns0:stage rend="zenoPC" xml:id="tg816.2.172">
                                        <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg816.2.172.1">
                                           <ns0:pb n="13" xml:id="tg816.2.172.1.1" />
 Der Chloris Brieff.</ns0:stage>
@@ -623,8 +623,8 @@ Der Chloris Brieff.</ns0:stage>
                                        <ns0:l rend="zenoPLm4n4" xml:id="tg816.2.186">Vnd Hertzen stets verpflicht ihm seine Trew erweist.</ns0:l>
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg816.2.187" />
-                                    <ns0:stage rend="zenoPC" type="other" xml:id="tg816.2.188">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg816.2.188.1">Levin. Sulpicius. Fabricius.</ns0:stage>
+                                    <ns0:stage rend="zenoPC" xml:id="tg816.2.188">
+                                       <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg816.2.188.1">Levin. Sulpicius. Fabricius.</ns0:stage>
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg816.2.189" />
                                  </ns0:sp>
@@ -804,7 +804,7 @@ Befallen. Wo sein ach ihr zartes Hertz betr&#252;bet:</ns0:l>
 
                               
                               
-                              <ns0:stage rend="zenoPC" type="other" xml:id="tg817.2.4">
+                              <ns0:stage rend="zenoPC" type="enter" xml:id="tg817.2.4">
                                  <ns0:hi rend="italic" xml:id="tg817.2.4.1">Gregor Kornblume.</ns0:hi>
                               </ns0:stage>
                               <ns0:stage rend="zenoPC" type="other" xml:id="tg817.2.5">
@@ -833,8 +833,8 @@ meimn Vetter erben / dr&#252;m darf ich in nicht derz&#252;rnen / unde nischte t
                                  <ns0:speaker xml:id="tg817.2.17.part1">BARTEL.</ns0:speaker>
                                  <ns0:p xml:id="tg817.2.17.part2"> O Mey Haan! O mey Haan! O du armer Haan si&#223; key Haan in dam gantze F&#252;rstenthum dar dam Hahne die woge helt.</ns0:p>
                                  <ns0:lb xml:id="tg817.2.18" />
-                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg817.2.19">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg817.2.19.1">Jockeldreyecke kommet von der andern Seiten und tr&#228;get einen mit sidendem Wasser verbrandten Hund.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg817.2.19">
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg817.2.19.1">Jockeldreyecke kommet von der andern Seiten und tr&#228;get einen mit sidendem Wasser verbrandten Hund.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg817.2.20" />
                               </ns0:sp>
@@ -1144,8 +1144,8 @@ gahn / und jhr Nuckber / seed ze fride der Hund wird ju wider heelen. Jch soih i
                                  <ns0:speaker xml:id="tg817.2.100.part1">JOCKEL.</ns0:speaker>
                                  <ns0:p xml:id="tg817.2.100.part2"> W&#228;g / w&#228;g / si&#223; wider gehohn noch gestochen ... Schlag der ock de Grillen ossem Heete / und i&#223; enne Mehre in der gl&#252;ende Asche gebroten / se wird dich der Schwingel wul vergihn.</ns0:p>
                                  <ns0:lb xml:id="tg817.2.101" />
-                                 <ns0:stage rend="zenoPC" type="exit" xml:id="tg817.2.102">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg817.2.102.1">Jockel Dreyecke gehet ab.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg817.2.102">
+                                    <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg817.2.102.1">Jockel Dreyecke gehet ab.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg817.2.103" />
                               </ns0:sp>
@@ -1155,8 +1155,8 @@ gahn / und jhr Nuckber / seed ze fride der Hund wird ju wider heelen. Jch soih i
 holb e bisseln zugesoyt. Ober wo&#223; i&#223; / si&#223; der Teuffel Jche ho kin Zeugen / Jche ho och kinn guden Frind .....</ns0:p>
                                  <ns0:p xml:id="tg817.2.105">O mey Laben / is su vul vull Elendes a&#223; e beladen Mistwahn voll Vnrenikeet.</ns0:p>
                                  <ns0:lb xml:id="tg817.2.106" />
-                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg817.2.107">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg817.2.107.1">Bartel in deme er wiederkommet zu Kornblumen.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg817.2.107">
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg817.2.107.1">Bartel in deme er wiederkommet zu Kornblumen.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg817.2.108" />
                                  <ns0:p xml:id="tg817.2.109">H&#252;rst du&#223; / du junger Rotzleffel. War hi&#223; dich vorkummen und deine Nose in &#252;nsern Dr&#228;ck stecken / Sis schande und s&#252;nde vor dan Jhrlichen Leuten / do&#223; sittene junge Schlingel den alden olle Ogenblick w&#228;ln &#252;bers Maul sch&#228;ren.</ns0:p>
@@ -1202,11 +1202,11 @@ Dings &#252;m de Libe i&#223;. Denckt og wie euch war / do er noch ze nachte imm
                                  <ns0:speaker xml:id="tg817.2.119.part1">BARTEL.</ns0:speaker>
                                  <ns0:p xml:id="tg817.2.119.part2"> Je du lechtfertiger trotziger Vogel / salst du mir mit sittenen Pussen uffgezeun kummen? gih mer aussen Ogen / reume mers Haus kumm mer dey lattige nicht wider ney. Dos dich bots geyr / bots raabe. Warde ich dich noch emoll hie antraffen / se mu&#223; ich zum arme S&#252;nder an der warden.</ns0:p>
                                  <ns0:lb xml:id="tg817.2.120" />
-                                 <ns0:stage rend="zenoPC" type="exit" xml:id="tg817.2.121">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg817.2.121.1">Gehet ab.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg817.2.121">
+                                    <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg817.2.121.1">Gehet ab.</ns0:stage>
                                  </ns0:stage>
-                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg817.2.122">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg817.2.122.1">Greger Kornblume.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg817.2.122">
+                                    <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg817.2.122.1">Greger Kornblume.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg817.2.123" />
                                  <ns0:p xml:id="tg817.2.124">Je wos d&#252;nckt ich ihr libe Freunde / wie eime sein mus wen e sich mu&#223; a su zehudeln lussen? Jch mus schune vu meime Vetter stertzen / wen ich ok w&#252;st wu ich erne de Kiuh eibr&#228;chte die e mir unterhalten hott. Nu si&#223; ja zu allen dingen roht / asse ok wider da tudt / s wird ju och ern e Mittel sein.</ns0:p>
@@ -1228,7 +1228,7 @@ Dings &#252;m de Libe i&#223;. Denckt og wie euch war / do er noch ze nachte imm
 
                               
                               
-                              <ns0:stage rend="zenoPC" type="other" xml:id="tg818.2.4">
+                              <ns0:stage rend="zenoPC" type="enter" xml:id="tg818.2.4">
                                  <ns0:hi rend="italic" xml:id="tg818.2.4.1">Cassander. Fabricius.</ns0:hi>
                               </ns0:stage>
                               <ns0:lb xml:id="tg818.2.5" />
@@ -1357,8 +1357,8 @@ Dings &#252;m de Libe i&#223;. Denckt og wie euch war / do er noch ze nachte imm
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg818.2.68">Vnd di&#223; dint zu dem Werck das wir uns vorgenommen.</ns0:l>
                                  </ns0:lg>
                                  <ns0:lb xml:id="tg818.2.69" />
-                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg818.2.70">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg818.2.70.1">Flavia. Cassander.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg818.2.70">
+                                    <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg818.2.70.1">Flavia. Cassander.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg818.2.71" />
                               </ns0:sp>
@@ -1465,11 +1465,11 @@ Dings &#252;m de Libe i&#223;. Denckt og wie euch war / do er noch ze nachte imm
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg818.2.122">Ell' ayme plus que moy Fabricius.</ns0:l>
                                  </ns0:lg>
                                  <ns0:lb xml:id="tg818.2.123" />
-                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg818.2.124">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg818.2.124.1">Cornelia. Chloris.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg818.2.124">
+                                    <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg818.2.124.1">Cornelia. Chloris.</ns0:stage>
                                  </ns0:stage>
-                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg818.2.125">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg818.2.125.1">Jn dem Lust-Garten.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg818.2.125">
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg818.2.125.1">Jn dem Lust-Garten.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg818.2.126" />
                                  <ns0:p rend="zenoPC" xml:id="tg818.2.127">1.</ns0:p>
@@ -1565,8 +1565,8 @@ Dings &#252;m de Libe i&#223;. Denckt og wie euch war / do er noch ze nachte imm
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg818.2.192">Nicht einmal habt beklaget.</ns0:l>
                                  </ns0:lg>
                                  <ns0:lb xml:id="tg818.2.193" />
-                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg818.2.194">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg818.2.194.1">Sie setzet sich nider / liset und entschl&#228;ft.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg818.2.194">
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg818.2.194.1">Sie setzet sich nider / liset und entschl&#228;ft.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg818.2.195" />
                                  <ns0:p rend="zenoPC" xml:id="tg818.2.196">1.</ns0:p>
@@ -1647,7 +1647,7 @@ Die alles / ja ihr Blutt auffsetzen</ns0:l>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg818.2.252.part1">CHLORIS</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg818.2.252.1.part1">schlaffend.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg818.2.252.1.part1">schlaffend.</ns0:stage>
                                  </ns0:stage>
 
                                  <ns0:lg>
@@ -1671,7 +1671,7 @@ Die alles / ja ihr Blutt auffsetzen</ns0:l>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg818.2.264.part1">CHLORIS</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg818.2.264.1.part1">schlafend.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg818.2.264.1.part1">schlafend.</ns0:stage>
                                  </ns0:stage>
 
                                  <ns0:lg>
@@ -1688,7 +1688,7 @@ Die alles / ja ihr Blutt auffsetzen</ns0:l>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg818.2.271.part1">CHLORIS</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg818.2.271.1.part1">erwachend.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg818.2.271.1.part1">erwachend.</ns0:stage>
                                  </ns0:stage>
 
                                  <ns0:l rend="zenoPLm4n4" xml:id="tg818.2.272">Mein s&#252;sser Schatz / mein Hertz / gib dich nicht auff den Lauff /</ns0:l>
@@ -1733,7 +1733,7 @@ Die alles / ja ihr Blutt auffsetzen</ns0:l>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg818.2.292.part1">CHLORIS</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg818.2.292.1.part1">seit abwerts.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg818.2.292.1.part1">seit abwerts.</ns0:stage>
                                  </ns0:stage>
 
                                  <ns0:l rend="zenoPLm4n4" xml:id="tg818.2.293">Vnd leider nach dem Gutt / auff das ich hoffe / geht.</ns0:l>
@@ -1745,7 +1745,7 @@ Die alles / ja ihr Blutt auffsetzen</ns0:l>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg818.2.296.part1">CHLORIS</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg818.2.296.1.part1">seit abwerts.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg818.2.296.1.part1">seit abwerts.</ns0:stage>
                                  </ns0:stage>
 
                                  <ns0:l rend="zenoPLm4n4" xml:id="tg818.2.297">Ja Docken / die beqvem vors Kindes Mutter sind.</ns0:l>
@@ -1765,7 +1765,7 @@ Die alles / ja ihr Blutt auffsetzen</ns0:l>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg818.2.304.part1">CHLORIS</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg818.2.304.1.part1">seit abwerts.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg818.2.304.1.part1">seit abwerts.</ns0:stage>
                                  </ns0:stage>
 
                                  <ns0:l rend="zenoPLm4n4" xml:id="tg818.2.305">Vnd ich in Leid und Angst und Thr&#228;nen gantz verteufft.</ns0:l>
@@ -1817,7 +1817,7 @@ Die alles / ja ihr Blutt auffsetzen</ns0:l>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg818.2.328.part1">CHLORIS</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg818.2.328.1.part1">seit abwerts.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg818.2.328.1.part1">seit abwerts.</ns0:stage>
                                  </ns0:stage>
 
                                  <ns0:l rend="zenoPLm4n4" xml:id="tg818.2.329">Sie sorge wol f&#252;r mich: Doch vor sich nicht zu vil.</ns0:l>
@@ -1831,8 +1831,8 @@ Die alles / ja ihr Blutt auffsetzen</ns0:l>
                                  <ns0:speaker xml:id="tg818.2.333">CHLORIS.</ns0:speaker>
                                  <ns0:l rend="zenoPLm4n4" xml:id="tg818.2.334">Fraw Mutter sie verzeih der / die in Thr&#228;nen schwi it.</ns0:l>
                                  <ns0:lb xml:id="tg818.2.335" />
-                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg818.2.336">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg818.2.336.1">Flavia. Chloris. Cornelia.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg818.2.336">
+                                    <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg818.2.336.1">Flavia. Chloris. Cornelia.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg818.2.337" />
                               </ns0:sp>
@@ -1887,15 +1887,15 @@ Die alles / ja ihr Blutt auffsetzen</ns0:l>
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg818.2.364">Jn rasend-th&#246;richtem beginnen.</ns0:l>
                                  </ns0:lg>
                                  <ns0:lb xml:id="tg818.2.365" />
-                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg818.2.366">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg818.2.366.1">Beyde sehn einander als erstarret eine zeitlang an.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg818.2.366">
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg818.2.366.1">Beyde sehn einander als erstarret eine zeitlang an.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg818.2.367" />
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg818.2.368.part1">CORNELIA</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg818.2.368.1.part1">seit abwerts.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg818.2.368.1.part1">seit abwerts.</ns0:stage>
                                  </ns0:stage>
 
                                  <ns0:l rend="zenoPLm4n4" xml:id="tg818.2.369">O falsch gemischte Frucht! O unbedachter Schlu&#223;!</ns0:l>
@@ -1903,7 +1903,7 @@ Die alles / ja ihr Blutt auffsetzen</ns0:l>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg818.2.370.part1">CHLORIS</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg818.2.370.1.part1">seit abwerts.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg818.2.370.1.part1">seit abwerts.</ns0:stage>
                                  </ns0:stage>
 
                                  <ns0:l rend="zenoPLm4n4" xml:id="tg818.2.371">Darzu die Tochter Faust und Nahmen leihen mu&#223;!</ns0:l>
@@ -1911,7 +1911,7 @@ Die alles / ja ihr Blutt auffsetzen</ns0:l>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg818.2.372.part1">FLAVIA</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg818.2.372.1.part1">abgewendet.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg818.2.372.1.part1">abgewendet.</ns0:stage>
                                  </ns0:stage>
 
                                  <ns0:lg>
@@ -1928,7 +1928,7 @@ Die alles / ja ihr Blutt auffsetzen</ns0:l>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg818.2.379.part1">CHLORIS</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg818.2.379.1.part1">seit abwerts.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg818.2.379.1.part1">seit abwerts.</ns0:stage>
                                  </ns0:stage>
 
                                  <ns0:l rend="zenoPLm4n4" xml:id="tg818.2.380">O Bottschafft l&#228;ngst gef&#252;rcht und leider mir zu schwer.</ns0:l>
@@ -1958,13 +1958,13 @@ Die alles / ja ihr Blutt auffsetzen</ns0:l>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg818.2.393.part1">CORNELIA</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg818.2.393.1.part1">seit abwerts.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg818.2.393.1.part1">seit abwerts.</ns0:stage>
                                  </ns0:stage>
 
                                  <ns0:l rend="zenoPLm4n4" xml:id="tg818.2.394">Vernehm / wor&#252;ber ich mich ewig gr&#228;m und sch&#228;m.</ns0:l>
                                  <ns0:lb xml:id="tg818.2.395" />
-                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg818.2.396">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg818.2.396.1">Levin. Cornelia. Chloris. Flavia. Cassander.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg818.2.396">
+                                    <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg818.2.396.1">Levin. Cornelia. Chloris. Flavia. Cassander.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg818.2.397" />
                               </ns0:sp>
@@ -2019,7 +2019,7 @@ Die alles / ja ihr Blutt auffsetzen</ns0:l>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg818.2.424.part1">CORNELIA</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg818.2.424.1.part1">seit abwerts.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg818.2.424.1.part1">seit abwerts.</ns0:stage>
                                  </ns0:stage>
 
                                  <ns0:l rend="zenoPLm4n4" xml:id="tg818.2.425">Er gr&#252;nde nicht zu sehr nach wolgemeynter S&#252;nd</ns0:l>
@@ -2044,7 +2044,7 @@ Die alles / ja ihr Blutt auffsetzen</ns0:l>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg818.2.435.part1">CORNELIA</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg818.2.435.1.part1">seit abwerts.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg818.2.435.1.part1">seit abwerts.</ns0:stage>
                                  </ns0:stage>
 
                                  <ns0:lg>
@@ -2067,7 +2067,7 @@ Die alles / ja ihr Blutt auffsetzen</ns0:l>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg818.2.444.part1">CORNELIA</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg818.2.444.1.part1">seit abwerts.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg818.2.444.1.part1">seit abwerts.</ns0:stage>
                                  </ns0:stage>
 
                                  <ns0:l rend="zenoPLm4n4" xml:id="tg818.2.445">O neue Seelen-Angst! O inner HertzensStreit.</ns0:l>
@@ -2081,8 +2081,8 @@ Die alles / ja ihr Blutt auffsetzen</ns0:l>
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg818.2.450">Jst der un innocent der sich nicht selber libt.</ns0:l>
                                  </ns0:lg>
                                  <ns0:lb xml:id="tg818.2.451" />
-                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg818.2.452">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg818.2.452.1">Sulpicius. Fabricius. Cornelia. Chloris. Levin. Flavia. Cassander.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg818.2.452">
+                                    <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg818.2.452.1">Sulpicius. Fabricius. Cornelia. Chloris. Levin. Flavia. Cassander.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg818.2.453" />
                               </ns0:sp>
@@ -2143,8 +2143,8 @@ Die alles / ja ihr Blutt auffsetzen</ns0:l>
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg818.2.482">Nur leider / leider / mir ist alle Macht benommen /</ns0:l>
                                  </ns0:lg>
                                  <ns0:lb xml:id="tg818.2.483" />
-                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg818.2.484">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg818.2.484.1">Die Personen kommen alle in Sulpicen Gemach.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg818.2.484">
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg818.2.484.1">Die Personen kommen alle in Sulpicen Gemach.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg818.2.485" />
                                  <ns0:lg>
@@ -2211,7 +2211,7 @@ O Sonnen eurer Zeit seid tausendmal gegr&#252;sset /</ns0:l>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg818.2.520.part1">CHLORIS</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg818.2.520.1.part1">seit abwerts.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg818.2.520.1.part1">seit abwerts.</ns0:stage>
                                  </ns0:stage>
 
                                  <ns0:l rend="zenoPLm4n4" xml:id="tg818.2.521">O Himmel / was schaw ich in der so werthen Hand!</ns0:l>
@@ -2219,7 +2219,7 @@ O Sonnen eurer Zeit seid tausendmal gegr&#252;sset /</ns0:l>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg818.2.522.part1">CORNELIA</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg818.2.522.1.part1">seit abwerts.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg818.2.522.1.part1">seit abwerts.</ns0:stage>
                                  </ns0:stage>
 
                                  <ns0:l rend="zenoPLm4n4" xml:id="tg818.2.523">Nun sp&#252;r ich / er vergeht durch meiner Libe pfand.</ns0:l>
@@ -2227,7 +2227,7 @@ O Sonnen eurer Zeit seid tausendmal gegr&#252;sset /</ns0:l>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg818.2.524.part1">LEVINUS</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg818.2.524.1.part1">seit abwerts.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg818.2.524.1.part1">seit abwerts.</ns0:stage>
                                  </ns0:stage>
 
                                  <ns0:l rend="zenoPLm4n4" xml:id="tg818.2.525">Laufft falscher Anschlag aus auff ein so herbes End?</ns0:l>
@@ -2235,7 +2235,7 @@ O Sonnen eurer Zeit seid tausendmal gegr&#252;sset /</ns0:l>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg818.2.526.part1">CORNELIA</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg818.2.526.1.part1">seit abwerts.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg818.2.526.1.part1">seit abwerts.</ns0:stage>
                                  </ns0:stage>
 
                                  <ns0:l rend="zenoPLm4n4" xml:id="tg818.2.527">Wie? Wer entdeckt ihm mein verbrechen so behend?</ns0:l>
@@ -2258,8 +2258,8 @@ Jch schaw die Geister schon die in der andern Welt /</ns0:l>
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg818.2.539">Nim Charon dein Geb&#252;hr / wie / irr ich / ists ein Traum?</ns0:l>
                                  </ns0:lg>
                                  <ns0:lb xml:id="tg818.2.540" />
-                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg818.2.541">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg818.2.541.1">Er schmeist die Citronat hinweg.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg818.2.541">
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg818.2.541.1">Er schmeist die Citronat hinweg.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg818.2.542" />
                               </ns0:sp>
@@ -2344,7 +2344,7 @@ Des Todes Pfeil abkehren.</ns0:l>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg818.2.591.part1">CHLORIS</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg818.2.591.1.part1">seit abwerts.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg818.2.591.1.part1">seit abwerts.</ns0:stage>
                                  </ns0:stage>
 
                                  <ns0:l rend="zenoPLm4n4" xml:id="tg818.2.592">Ach! wer wird meinen Geist / nach deiner Seelen zihn!</ns0:l>
@@ -2356,7 +2356,7 @@ Des Todes Pfeil abkehren.</ns0:l>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg818.2.595.part1">CORNELIA</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg818.2.595.1.part1">seit abwerts.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg818.2.595.1.part1">seit abwerts.</ns0:stage>
                                  </ns0:stage>
 
                                  <ns0:l rend="zenoPLm4n4" xml:id="tg818.2.596">O Hi iel! mich verklagt die bleiche Traurgestalt.</ns0:l>
@@ -2460,7 +2460,7 @@ Ach / wie mu&#223; unser Thun und Sinnen!</ns0:l>
                               <ns0:head type="h4" xml:id="tg819.2.1">[Die gelibte Dornrose: 2. Akt]</ns0:head>
 
 
-                              <ns0:stage rend="zenoPC" type="other" xml:id="tg819.2.2">
+                              <ns0:stage rend="zenoPC" type="enter" xml:id="tg819.2.2">
                                  <ns0:hi rend="italic" xml:id="tg819.2.2.1">Matz Aschenwedel / Lise Dornrose / Gregor Kornblume.</ns0:hi>
                               </ns0:stage>
                               <ns0:lb xml:id="tg819.2.3" />
@@ -2616,8 +2616,8 @@ mit anander bekand wurden. Jhr wisst wi lib ich euch gehot ho. Wi ufte ich euch 
                                  <ns0:speaker xml:id="tg819.2.43.part1">ASCHEWEDEL.</ns0:speaker>
                                  <ns0:p xml:id="tg819.2.43.part2"> Ja / kloit inde hie wen er glech itzund a wing b&#252;se seed: ihr ward wul wider gut waren. Si&#223; och eur Arnst nicht / ihr must ech ju a bisseln stellen / a&#223; wens ech ze nohnde wehr.</ns0:p>
                                  <ns0:lb xml:id="tg819.2.44" />
-                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg819.2.45">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg819.2.45.1">Aschewedel fasset Dornrosen mit Gewalt und wil mit ihr nach dem Pusche lauffen / sie wehret sich mit reissen und schlagen und ruffet &#252;berlaut.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg819.2.45">
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg819.2.45.1">Aschewedel fasset Dornrosen mit Gewalt und wil mit ihr nach dem Pusche lauffen / sie wehret sich mit reissen und schlagen und ruffet &#252;berlaut.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg819.2.46" />
                               </ns0:sp>
@@ -2653,8 +2653,8 @@ mit anander bekand wurden. Jhr wisst wi lib ich euch gehot ho. Wi ufte ich euch 
                                  <ns0:speaker xml:id="tg819.2.54.part1">KORNBLUME.</ns0:speaker>
                                  <ns0:p xml:id="tg819.2.54.part2"> Je wos gichtsch&#228;nde i&#223; durte vur a gerammel / Ney saht / schleet sich nicht Aschewedel mit Durnrusen.</ns0:p>
                                  <ns0:lb xml:id="tg819.2.55" />
-                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg819.2.56">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg819.2.56.1">Kornblume laufft hinzu und schl&#228;gt auff Aschewedeln.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg819.2.56">
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg819.2.56.1">Kornblume laufft hinzu und schl&#228;gt auff Aschewedeln.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg819.2.57" />
                               </ns0:sp>
@@ -2674,7 +2674,7 @@ mit anander bekand wurden. Jhr wisst wi lib ich euch gehot ho. Wi ufte ich euch 
                                  <ns0:speaker xml:id="tg819.2.61.part1">DORNROSE.</ns0:speaker>
                                  <ns0:l xml:id="tg819.2.61.part2"> Kommet Vater / kommet Freunde / kommet Nachbarn und scheidet.</ns0:l>
                                  <ns0:lb xml:id="tg819.2.62" />
-                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg819.2.63">
+                                 <ns0:stage rend="zenoPC" xml:id="tg819.2.63">
                                     <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg819.2.63.1">
                                        <ns0:pb n="41" xml:id="tg819.2.63.1.1" />
 Dornrose entlauft / Kornblume und Aschewedel dringen schlagend von dem Schaw-platz hinein.</ns0:stage>
@@ -2702,7 +2702,7 @@ Dornrose entlauft / Kornblume und Aschewedel dringen schlagend von dem Schaw-pla
 
                               
                               
-                              <ns0:stage rend="zenoPC" type="other" xml:id="tg820.2.4">
+                              <ns0:stage rend="zenoPC" type="enter" xml:id="tg820.2.4">
                                  <ns0:hi rend="italic" xml:id="tg820.2.4.1">Sulpicius. Fabricius.</ns0:hi>
                               </ns0:stage>
                               <ns0:lb xml:id="tg820.2.5" />
@@ -2809,8 +2809,8 @@ Dornrose entlauft / Kornblume und Aschewedel dringen schlagend von dem Schaw-pla
                                  <ns0:speaker xml:id="tg820.2.71">SULPICIUS.</ns0:speaker>
                                  <ns0:l rend="zenoPLm4n4" xml:id="tg820.2.72">Wohl / geh / wenn Libe w&#252;rckt / kan auch der Todt nicht zwingen.</ns0:l>
                                  <ns0:lb xml:id="tg820.2.73" />
-                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg820.2.74">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg820.2.74.1">Cassander. Fabricius.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg820.2.74">
+                                    <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg820.2.74.1">Cassander. Fabricius.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg820.2.75" />
                               </ns0:sp>
@@ -2899,11 +2899,11 @@ Dornrose entlauft / Kornblume und Aschewedel dringen schlagend von dem Schaw-pla
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg820.2.118">Da&#223; er mich vor den Geist im dunckeln angesehn.</ns0:l>
                                  </ns0:lg>
                                  <ns0:lb xml:id="tg820.2.119" />
-                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg820.2.120">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg820.2.120.1">Levin. Cornelia. Chloris. Cassander.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg820.2.120">
+                                    <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg820.2.120.1">Levin. Cornelia. Chloris. Cassander.</ns0:stage>
                                  </ns0:stage>
-                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg820.2.121">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg820.2.121.1">Vor der Cornelie Behausung.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg820.2.121">
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg820.2.121.1">Vor der Cornelie Behausung.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg820.2.122" />
                               </ns0:sp>
@@ -2967,7 +2967,7 @@ Dornrose entlauft / Kornblume und Aschewedel dringen schlagend von dem Schaw-pla
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg820.2.152.part1">CORNELIA</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg820.2.152.1.part1">seit abwerts.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg820.2.152.1.part1">seit abwerts.</ns0:stage>
                                  </ns0:stage>
 
                                  <ns0:l rend="zenoPLm4n4" xml:id="tg820.2.153">Wenn es ohn meine Schuld / Er lebte noch mit ihr.</ns0:l>
@@ -3077,7 +3077,7 @@ Dornrose entlauft / Kornblume und Aschewedel dringen schlagend von dem Schaw-pla
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg820.2.204.part1">CHLORIS</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg820.2.204.1.part1">seit abwerts.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg820.2.204.1.part1">seit abwerts.</ns0:stage>
                                  </ns0:stage>
 
                                  <ns0:l rend="zenoPLm4n4" xml:id="tg820.2.205">Wenn das Gewissen nicht zu ernster Rach erwacht.</ns0:l>
@@ -3097,11 +3097,11 @@ Dornrose entlauft / Kornblume und Aschewedel dringen schlagend von dem Schaw-pla
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg820.2.212">Ja mich in jhrem Dinst unendlich zu bem&#252;hn.</ns0:l>
                                  </ns0:lg>
                                  <ns0:lb xml:id="tg820.2.213" />
-                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg820.2.214">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg820.2.214.1">Sulpicius. Fabricius.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg820.2.214">
+                                    <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg820.2.214.1">Sulpicius. Fabricius.</ns0:stage>
                                  </ns0:stage>
-                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg820.2.215">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg820.2.215.1">Jn Sulpiciuss Behausung.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg820.2.215">
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg820.2.215.1">Jn Sulpiciuss Behausung.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg820.2.216" />
                               </ns0:sp>
@@ -3131,11 +3131,11 @@ Dornrose entlauft / Kornblume und Aschewedel dringen schlagend von dem Schaw-pla
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg820.2.232">La&#223; traute Libe / mich / gew&#252;ntschten Ausgang finden.</ns0:l>
                                  </ns0:lg>
                                  <ns0:lb xml:id="tg820.2.233" />
-                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg820.2.234">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg820.2.234.1">Cornelia. Chloris. Flavia.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg820.2.234">
+                                    <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg820.2.234.1">Cornelia. Chloris. Flavia.</ns0:stage>
                                  </ns0:stage>
-                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg820.2.235">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg820.2.235.1">Jn dem Lust-Garten.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg820.2.235">
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg820.2.235.1">Jn dem Lust-Garten.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg820.2.236" />
                                  <ns0:p rend="zenoPC" xml:id="tg820.2.237">1.</ns0:p>
@@ -3143,7 +3143,7 @@ Dornrose entlauft / Kornblume und Aschewedel dringen schlagend von dem Schaw-pla
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg820.2.238.part1">CORNELIA</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg820.2.238.1.part1">allein.</ns0:stage>
+                                    <ns0:stage rend="italic" type="aside" ns1:fixed-stage="true" xml:id="tg820.2.238.1.part1">allein.</ns0:stage>
                                  </ns0:stage>
 
                                  <ns0:lg>
@@ -3187,8 +3187,8 @@ Dornrose entlauft / Kornblume und Aschewedel dringen schlagend von dem Schaw-pla
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg820.2.268">Vmb was er mich ersucht / als er verscheiden solte.</ns0:l>
                                  </ns0:lg>
                                  <ns0:lb xml:id="tg820.2.269" />
-                                 <ns0:stage rend="zenoPC" type="aside" xml:id="tg820.2.270">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg820.2.270.1">Chloris allein.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg820.2.270">
+                                    <ns0:stage rend="italic" type="aside" ns1:fixed-stage="true" xml:id="tg820.2.270.1">Chloris allein.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg820.2.271" />
                                  <ns0:p rend="zenoPC" xml:id="tg820.2.272">1.</ns0:p>
@@ -3244,8 +3244,8 @@ Dornrose entlauft / Kornblume und Aschewedel dringen schlagend von dem Schaw-pla
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg820.2.307">Mein Vnschuld doch entdecket.</ns0:l>
                                  </ns0:lg>
                                  <ns0:lb xml:id="tg820.2.308" />
-                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg820.2.309">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg820.2.309.1">Sulpicius in Gestalt des Geistes.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg820.2.309">
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg820.2.309.1">Sulpicius in Gestalt des Geistes.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg820.2.310" />
                                  <ns0:lg>
@@ -3300,7 +3300,7 @@ Dornrose entlauft / Kornblume und Aschewedel dringen schlagend von dem Schaw-pla
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg820.2.345">Ein s&#252;sser Tod verkn&#252;pfen.</ns0:l>
                                  </ns0:lg>
                                  <ns0:lb xml:id="tg820.2.346" />
-                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg820.2.347">
+                                 <ns0:stage rend="zenoPC" xml:id="tg820.2.347">
                                     <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg820.2.347.1">
                                        <ns0:pb n="48" xml:id="tg820.2.347.1.1" />
 Cornelia. Sulpicius.</ns0:stage>
@@ -3371,8 +3371,8 @@ Cornelia. Sulpicius.</ns0:stage>
                                  <ns0:speaker xml:id="tg820.2.379">SULPICIUS.</ns0:speaker>
                                  <ns0:l rend="zenoPLm4n4" xml:id="tg820.2.380">Sie la&#223; uns an Levin kein ferner Traur-Spill sehn.</ns0:l>
                                  <ns0:lb xml:id="tg820.2.381" />
-                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg820.2.382">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg820.2.382.1">Sulpicius verschwindet.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg820.2.382">
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg820.2.382.1">Sulpicius verschwindet.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg820.2.383" />
                               </ns0:sp>
@@ -3389,11 +3389,11 @@ Cornelia. Sulpicius.</ns0:stage>
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg820.2.392">Es lehre sein Geleit / ob etwas hir erticht.</ns0:l>
                                  </ns0:lg>
                                  <ns0:lb xml:id="tg820.2.393" />
-                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg820.2.394">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg820.2.394.1">Flavia. Sulpicius.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg820.2.394">
+                                    <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg820.2.394.1">Flavia. Sulpicius.</ns0:stage>
                                  </ns0:stage>
-                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg820.2.395">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg820.2.395.1">Vor Cornelie Behausung.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg820.2.395">
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg820.2.395.1">Vor Cornelie Behausung.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg820.2.396" />
                               </ns0:sp>
@@ -3493,14 +3493,14 @@ Jch bin ja leider nicht Vrsach an seinem Tod</ns0:l>
                                  <ns0:stage rend="zenoPC" type="other" xml:id="tg820.2.445">
                                     <ns0:hi rend="italic" xml:id="tg820.2.445.1">Fabricius. Sulpicii Bild auff dem Bette /</ns0:hi>
                                  </ns0:stage>
-                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg820.2.446">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg820.2.446.1">die andern alle.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg820.2.446">
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg820.2.446.1">die andern alle.</ns0:stage>
                                  </ns0:stage>
-                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg820.2.447">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg820.2.447.1">Jn Sulpicii Behausung.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg820.2.447">
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg820.2.447.1">Jn Sulpicii Behausung.</ns0:stage>
                                  </ns0:stage>
-                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg820.2.448">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg820.2.448.1">Fabricius allein vor der falschen Leiche.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg820.2.448">
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg820.2.448.1">Fabricius allein vor der falschen Leiche.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg820.2.449" />
                               </ns0:sp>
@@ -3513,7 +3513,7 @@ Jch bin ja leider nicht Vrsach an seinem Tod</ns0:l>
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg820.2.454">Da&#223; man so unversehns mich aus dem Schlaf erwecket.</ns0:l>
                                  </ns0:lg>
                                  <ns0:lb xml:id="tg820.2.455" />
-                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg820.2.456">
+                                 <ns0:stage rend="zenoPC" xml:id="tg820.2.456">
                                     <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg820.2.456.1">
                                        <ns0:pb n="50" xml:id="tg820.2.456.1.1" />
 Cornelia indem sie hinein ko it.</ns0:stage>
@@ -3550,8 +3550,8 @@ Cornelia indem sie hinein ko it.</ns0:stage>
                                  <ns0:speaker xml:id="tg820.2.470">CASSANDER.</ns0:speaker>
                                  <ns0:l rend="zenoPLm4n4" xml:id="tg820.2.471">Allez donc, il est temps da&#223; man von hinnen eile.</ns0:l>
                                  <ns0:lb xml:id="tg820.2.472" />
-                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg820.2.473">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg820.2.473.1">Sie gehen wieder weg.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg820.2.473">
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg820.2.473.1">Sie gehen wieder weg.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg820.2.474" />
                               </ns0:sp>
@@ -3574,11 +3574,11 @@ Cornelia indem sie hinein ko it.</ns0:stage>
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg820.2.485">Jn dem der s&#252;sse Schlaff bef&#228;llt meine Augenlider.</ns0:l>
                                  </ns0:lg>
                                  <ns0:lb xml:id="tg820.2.486" />
-                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg820.2.487">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg820.2.487.1">Chloris. Cornelia. Cassander. Flavia. Levin.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg820.2.487">
+                                    <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg820.2.487.1">Chloris. Cornelia. Cassander. Flavia. Levin.</ns0:stage>
                                  </ns0:stage>
-                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg820.2.488">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg820.2.488.1">Vor der Cornelia Behausung.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg820.2.488">
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg820.2.488.1">Vor der Cornelia Behausung.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg820.2.489" />
                               </ns0:sp>
@@ -3629,7 +3629,7 @@ Cornelia indem sie hinein ko it.</ns0:stage>
                               <ns0:head type="h4" xml:id="tg821.2.1">[Die gelibte Dornrose: 3. Akt]</ns0:head>
 
 
-                              <ns0:stage rend="zenoPC" type="other" xml:id="tg821.2.2">
+                              <ns0:stage rend="zenoPC" type="enter" xml:id="tg821.2.2">
                                  <ns0:hi rend="italic" xml:id="tg821.2.2.1">Greger Kornblume / und Fraw Salome.</ns0:hi>
                               </ns0:stage>
                               <ns0:lb xml:id="tg821.2.3" />
@@ -3649,7 +3649,7 @@ Cornelia indem sie hinein ko it.</ns0:stage>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg821.2.8.part1">SALOME</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg821.2.8.1.part1">stelt sich als ob sie betete.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg821.2.8.1.part1">stelt sich als ob sie betete.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:p xml:id="tg821.2.8.part2"> Gott gr&#252;sse dich du sch&#252;ne libe Sunne! Och / du bist mee&#223; Hartzen wunne! Och / beschere uns a gutt W&#228;tter: dos der Flachs nicht vertiubt / se fren sich de St&#228;dter.</ns0:p>
                               </ns0:sp>
@@ -3705,7 +3705,7 @@ mers / do ging mers / S ging mer wi&#223; ollen Fridemachern pflaet. Jch ha die 
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg821.2.21.part1">KORNBLUME</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg821.2.21.1.part1">schreyet sehr laut.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg821.2.21.1.part1">schreyet sehr laut.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:l xml:id="tg821.2.21.part2"> Wos Roth ze Durnrusen unde zer Kiuh?</ns0:l>
                               </ns0:sp>
@@ -3716,7 +3716,7 @@ mers / do ging mers / S ging mer wi&#223; ollen Fridemachern pflaet. Jch ha die 
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg821.2.23.part1">KORNBLUME</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg821.2.23.1.part1">noch lauter.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg821.2.23.1.part1">noch lauter.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:l xml:id="tg821.2.23.part2"> Wos Roth zer Durnrusen und zer Kuh.</ns0:l>
                               </ns0:sp>
@@ -3727,12 +3727,12 @@ mers / do ging mers / S ging mer wi&#223; ollen Fridemachern pflaet. Jch ha die 
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg821.2.25.part1">KORNBLUME</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg821.2.25.1.part1">abwerts.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg821.2.25.1.part1">abwerts.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:l xml:id="tg821.2.25.part2"> Ja ich verstih dich wul du altde Vettel.</ns0:l>
                                  <ns0:lb xml:id="tg821.2.26" />
-                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg821.2.27">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg821.2.27.1">Zu der Salome.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg821.2.27">
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg821.2.27.1">Zu der Salome.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg821.2.28" />
                                  <ns0:p xml:id="tg821.2.29">Si&#223; mir leed Mutter Salome / do&#223; er he&#252;tte nischte h&#252;ren k&#252;nt. Jch wars ech weesen m&#252;ssen / saht hie hat er en alden Tholer mit em K&#252;tschelpeltze. Do&#223; i&#223; Silber unde een Vngrischen G&#252;lden dan de Raben gefressen hotten / do&#223; i&#223; Gold saht ers wull? Setzt de Prillen uff de Nose.</ns0:p>
@@ -3826,7 +3826,7 @@ mers / do ging mers / S ging mer wi&#223; ollen Fridemachern pflaet. Jch ha die 
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg821.2.53.part1">KORNBLUME</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg821.2.53.1.part1">abwerts.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg821.2.53.1.part1">abwerts.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:l xml:id="tg821.2.53.part2"> H&#252;rt ok / wie wul wi&#223;' s' es.</ns0:l>
                               </ns0:sp>
@@ -3928,10 +3928,10 @@ mers / do ging mers / S ging mer wi&#223; ollen Fridemachern pflaet. Jch ha die 
 
                               
                               
-                              <ns0:stage rend="zenoPC" type="other" xml:id="tg822.2.4">
+                              <ns0:stage rend="zenoPC" type="enter" xml:id="tg822.2.4">
                                  <ns0:hi rend="italic" xml:id="tg822.2.4.1">Cornelia. Levin. Chloris. Sulpicius.</ns0:hi>
                               </ns0:stage>
-                              <ns0:stage rend="zenoPC" type="other" xml:id="tg822.2.5">
+                              <ns0:stage rend="zenoPC" type="enter" xml:id="tg822.2.5">
                                  <ns0:hi rend="italic" xml:id="tg822.2.5.1">Fabricius. Flavia. Cassander.</ns0:hi>
                               </ns0:stage>
                               <ns0:stage rend="zenoPC" type="other" xml:id="tg822.2.6">
@@ -4231,7 +4231,7 @@ Kan auch dein Geist nicht sanffte schlaffen /</ns0:l>
                               <ns0:stage rend="zenoPC" type="other" xml:id="tg823.2.2">
                                  <ns0:hi rend="italic" xml:id="tg823.2.2.1">Wilhelm von hohen Sinnen Arendator</ns0:hi>
                               </ns0:stage>
-                              <ns0:stage rend="zenoPC" type="other" xml:id="tg823.2.3">
+                              <ns0:stage rend="zenoPC" type="enter" xml:id="tg823.2.3">
                                  <ns0:hi rend="italic" xml:id="tg823.2.3.1">des Gutts Vild&#252;nckel.</ns0:hi>
                               </ns0:stage>
                               <ns0:stage rend="zenoPC" type="other" xml:id="tg823.2.4">
@@ -4271,8 +4271,8 @@ Rath gewesen were / ni iermehr hette man ihn absetzen k&#246;nnen. Gleubet ihr w
                                  <ns0:speaker xml:id="tg823.2.14.part1">WILHELM.</ns0:speaker>
                                  <ns0:p xml:id="tg823.2.14.part2"> Das war recht. Nun werde ich Verh&#246;re geben / Vor dises muste iedesmal ein gantzer Tisch voll Sessoren allhier sein / wenn die geringesten H&#228;ndelichen vorgingen: Nun aber empeschire ich alles allein / und halffe allen causibus, sonder Sch&#246;ppen / Procurator, Affocaten und wie die Kerlen alle heissen auff einmahl ab. Sihe du wer vor der Th&#252;ren und erinnere die Leute da&#223; sie bescheiden / und mit repetentz herein treten und mir meinen geb&#252;hrenden Titel geben.</ns0:p>
                                  <ns0:lb xml:id="tg823.2.15" />
-                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg823.2.16">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg823.2.16.1">Wilhelm. Ciliax Dorffschreiber. Cuntz und Lorentz.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg823.2.16">
+                                    <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg823.2.16.1">Wilhelm. Ciliax Dorffschreiber. Cuntz und Lorentz.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg823.2.17" />
                               </ns0:sp>
@@ -4378,11 +4378,11 @@ Rath gewesen were / ni iermehr hette man ihn absetzen k&#246;nnen. Gleubet ihr w
                                  <ns0:speaker xml:id="tg823.2.44.part1">WILHELM.</ns0:speaker>
                                  <ns0:l xml:id="tg823.2.44.part2"> Wer sind sie? la&#223; sie nur alle zu gleiche herein.</ns0:l>
                                  <ns0:lb xml:id="tg823.2.45" />
-                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg823.2.46">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg823.2.46.1">Wilhelm. Cuntz. Lorentz. Jockel. Bartel. Kornblume.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg823.2.46">
+                                    <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg823.2.46.1">Wilhelm. Cuntz. Lorentz. Jockel. Bartel. Kornblume.</ns0:stage>
                                  </ns0:stage>
-                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg823.2.47">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg823.2.47.1">Aschewedel. Dornrose. Fraw Salome.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg823.2.47">
+                                    <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg823.2.47.1">Aschewedel. Dornrose. Fraw Salome.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg823.2.48" />
                               </ns0:sp>
@@ -4647,8 +4647,8 @@ Rath gewesen were / ni iermehr hette man ihn absetzen k&#246;nnen. Gleubet ihr w
                                  <ns0:speaker xml:id="tg823.2.117.part1">WILHELM.</ns0:speaker>
                                  <ns0:p xml:id="tg823.2.117.part2"> Jch glaube nicht / da&#223; so viel H&#228;ndel auf einem Tage in dem K&#246;niglichen Parlament zu Paris vorkommen. Doch ich wil euch nicht lange auffzihen. Tretet dort in jenen Winckel bi&#223; ich mich etwas bedencke.</ns0:p>
                                  <ns0:lb xml:id="tg823.2.118" />
-                                 <ns0:stage rend="zenoPC" type="exit" xml:id="tg823.2.119">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg823.2.119.1">Er stehet auff und gehet etliche mahl auff und nider.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg823.2.119">
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg823.2.119.1">Er stehet auff und gehet etliche mahl auff und nider.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg823.2.120" />
                               </ns0:sp>
@@ -4667,12 +4667,12 @@ Rath gewesen were / ni iermehr hette man ihn absetzen k&#246;nnen. Gleubet ihr w
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg823.2.124.part1">WILHELM</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg823.2.124.1.part1">auff und nider gehend.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg823.2.124.1.part1">auff und nider gehend.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:p xml:id="tg823.2.124.part2"> Jch sehe wohl / wo ich mir nicht ein Ansehen mit ernst mache / wird man k&#252;nfftig nicht vil auff mich geben gutt / gutt!</ns0:p>
                                  <ns0:lb xml:id="tg823.2.125" />
-                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg823.2.126">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg823.2.126.1">Er setzet sich wider und f&#228;hret fort.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg823.2.126">
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg823.2.126.1">Er setzet sich wider und f&#228;hret fort.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg823.2.127" />
                                  <ns0:p xml:id="tg823.2.128">Heran ihr Leute / du Bartel Klotzman und du Jokel Dreyecke. Jhr seid zwey alte grein- und zancksichtige Haderkatzen und Tumultuanten / die ihr euch nicht sch&#228;met / Jahr aus Jahr ein / so einander zu schmehen und zu schimpffen / da&#223; ihr dem gantzen Durffe Schande und Spott anthut / traget auch kein Bedencken umb eines in &#228;&#252;gigen Hannes ...</ns0:p>
@@ -4689,7 +4689,7 @@ Rath gewesen were / ni iermehr hette man ihn absetzen k&#246;nnen. Gleubet ihr w
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg823.2.132.part1">BARTEL</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg823.2.132.1.part1">krimmet sich in dem Haubte.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg823.2.132.1.part1">krimmet sich in dem Haubte.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:l xml:id="tg823.2.132.part2"> Ey / ey Gestrenger Herr / je do&#223; i&#223; ju gor ze scharff ...</ns0:l>
                               </ns0:sp>
@@ -4709,8 +4709,8 @@ Rath gewesen were / ni iermehr hette man ihn absetzen k&#246;nnen. Gleubet ihr w
                                  <ns0:speaker xml:id="tg823.2.136.part1">JOKEL.</ns0:speaker>
                                  <ns0:l xml:id="tg823.2.136.part2"> Ey jey / jey / jey / jey / da&#223; i&#223; a teur Haan.</ns0:l>
                                  <ns0:lb xml:id="tg823.2.137" />
-                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg823.2.138">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg823.2.138.1">Beide stehen und sehen einander eine ziemliche weile betr&#252;bet an.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg823.2.138">
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg823.2.138.1">Beide stehen und sehen einander eine ziemliche weile betr&#252;bet an.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg823.2.139" />
                               </ns0:sp>
@@ -4750,7 +4750,7 @@ Rath gewesen were / ni iermehr hette man ihn absetzen k&#246;nnen. Gleubet ihr w
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg823.2.149.part1">SALOME</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg823.2.149.1.part1">weinet &#252;berlaut.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg823.2.149.1.part1">weinet &#252;berlaut.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:l xml:id="tg823.2.149.part2"> Ja Durnruse kriget Kornblumen / ha / ha / a / a / a / ha!</ns0:l>
                               </ns0:sp>
@@ -4788,7 +4788,7 @@ Rath gewesen were / ni iermehr hette man ihn absetzen k&#246;nnen. Gleubet ihr w
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg823.2.158.part1">WILHELM.</ns0:speaker>
-                                 <ns0:p xml:id="tg823.2.158.part2"> Stracks gebet einander die H&#228;nde / und lebet hinf&#252;ro eintr&#228;chtig und Schw&#228;gerlich. <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg823.2.158.1.part2">Abwerts.</ns0:stage> Was gilts ich wil Fride unter meinen Vnterthanen stifften. Du Matz Aschewedel! du bringest dein Vrtheil schon selbst mit / und weil ich die Vnterthanen mit Wachen und Vnkosten / <ns0:pb n="71" xml:id="tg823.2.158.2.part2" />
+                                 <ns0:p xml:id="tg823.2.158.part2"> Stracks gebet einander die H&#228;nde / und lebet hinf&#252;ro eintr&#228;chtig und Schw&#228;gerlich. <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg823.2.158.1.part2">Abwerts.</ns0:stage> Was gilts ich wil Fride unter meinen Vnterthanen stifften. Du Matz Aschewedel! du bringest dein Vrtheil schon selbst mit / und weil ich die Vnterthanen mit Wachen und Vnkosten / <ns0:pb n="71" xml:id="tg823.2.158.2.part2" />
 nicht gerne beschwere / du auch dem Bader nicht viel heil Geld zu geben hast / so schicke heute nach dem Pfarren / morgen umb achte / solst du einen Turm auffsteigen / der voll Fenster ist / und folgends in der Lufft marestiret werden.</ns0:p>
                               </ns0:sp>
                               <ns0:sp>
@@ -4806,14 +4806,14 @@ nicht gerne beschwere / du auch dem Bader nicht viel heil Geld zu geben hast / s
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg823.2.162.part1">SALOME</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg823.2.162.1.part1">f&#228;llet auf die Knie und schreyet.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg823.2.162.1.part1">f&#228;llet auf die Knie und schreyet.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:l xml:id="tg823.2.162.part2"> O Genode / Genode / Genode! O Herr ich ho&#223; nich su b&#252;se gemeenet.</ns0:l>
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg823.2.163.part1">ASCHEWEDEL</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg823.2.163.1.part1">auff den Knien.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg823.2.163.1.part1">auff den Knien.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:l xml:id="tg823.2.163.part2"> O Herr / ich ho&#223; nicht verstanden: Jch bi noch ze jung.</ns0:l>
                               </ns0:sp>
@@ -4881,7 +4881,7 @@ nicht gerne beschwere / du auch dem Bader nicht viel heil Geld zu geben hast / s
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg823.2.180.part1">KORNBLUME</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg823.2.180.1.part1">redet mit seinem Vetter in geheim hernach fanget er an.</ns0:stage>
+                                    <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg823.2.180.1.part1">redet mit seinem Vetter in geheim hernach fanget er an.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:p xml:id="tg823.2.180.part2"> Gestrenger Herr Arengarius. th&#252;t uns die grusse Genode unde kummet hinte zu uns ze gaste / unde Moren oder wenne wer w&#228;rn k&#252;nnfertig warden / zer Hochzig.</ns0:p>
                               </ns0:sp>
@@ -4897,24 +4897,24 @@ nicht gerne beschwere / du auch dem Bader nicht viel heil Geld zu geben hast / s
                                  <ns0:speaker xml:id="tg823.2.183.part1">WILHELM.</ns0:speaker>
                                  <ns0:p xml:id="tg823.2.183.part2"> Jhr beyde sollet indessen in den gehorsam gehen / doch sols euch an essen und trincken nicht mangeln.</ns0:p>
                                  <ns0:lb xml:id="tg823.2.184" />
-                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg823.2.185">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg823.2.185.1">Stehet auff und spricht in dem hingehen.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg823.2.185">
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg823.2.185.1">Stehet auff und spricht in dem hingehen.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg823.2.186" />
                                  <ns0:l xml:id="tg823.2.187">Also mu&#223; man den Bauren den Pflug keilen.</ns0:l>
                                  <ns0:lb xml:id="tg823.2.188" />
-                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg823.2.189">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg823.2.189.1">Die andern treten alle hinter ihm hinein / bi&#223; auff Kornblumen / welcher die Zuseher folgends anredet.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg823.2.189">
+                                    <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg823.2.189.1">Die andern treten alle hinter ihm hinein / bi&#223; auff Kornblumen / welcher die Zuseher folgends anredet.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg823.2.190" />
                                  <ns0:p xml:id="tg823.2.191">Do saht ers / welch e tumb Ding &#223;' &#252;m die Libe i&#223;. Es giht wull enne weile krum unde seltzam: doch wen mes ok recht unde redlich meenet / se leuffts noch wull uff e gew&#252;ndscht Ende naus hin. Nu <ns0:pb n="73" xml:id="tg823.2.191.1" />
 ihr lieben Frauen / Jungfern und Herren: Jch bete ich garne ze Goste. Jhr h&#252;rt aber da&#223; ich salber soll ze gaste gihn. Wellt er aber a su wul thun / unde wellt &#252;ber Moren z&#252;m mer zur Huchzig kummen / se selt er mer olle wilkummen sein / ok kummet h&#252;bsch zeetlich do&#223; me de Kirche nicht verseumet / und giht och hibsch zeetlich wider ze Bette / do&#223; er mer de Braut nicht unfn irste Obett ze tude tantzet / den ich war se m&#252;h han m&#252;ssen. Vnd himit giude Nacht.</ns0:p>
                                  <ns0:lb xml:id="tg823.2.192" />
-                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg823.2.193">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg823.2.193.1">Tantz der Geister.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg823.2.193">
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg823.2.193.1">Tantz der Geister.</ns0:stage>
                                  </ns0:stage>
-                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg823.2.194">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg823.2.194.1">Tantz der Liben.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg823.2.194">
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg823.2.194.1">Tantz der Liben.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg823.2.195" />
                               </ns0:sp>
@@ -4997,7 +4997,7 @@ ihr lieben Frauen / Jungfern und Herren: Jch bete ich garne ze Goste. Jhr h&#252
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg824.2.55.part1">HYMEN</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg824.2.55.1.part1">vmbgeben mit vier liben.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg824.2.55.1.part1">vmbgeben mit vier liben.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:lg>
                                     <ns0:l xml:id="tg824.2.55.part2">

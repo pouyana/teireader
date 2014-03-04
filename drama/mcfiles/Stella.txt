@@ -1,38 +1,156 @@
-tg1145.2.4: Im Posthause.  ==> other
-tg1145.2.5: Man hört einen Postillion blasen. Postmeisterin.  ==> other
-tg1145.2.9: Der Junge kommt.  ==> enter
-tg1145.2.14: Madame Sommer, Lucie, in Reisekleidern. Karl.  ==> other
-tg1145.2.30: Postillion tritt herein.  ==> enter
-tg1145.2.57: Annchen, mit der Suppe. Die Postmeisterin. Karl.  ==> other
-tg1145.2.95: Annchen kommt.  ==> enter
-tg1145.2.111: Beide ab.  ==> exit
-tg1145.2.112: Man hört einen Postillion.  ==> other
-tg1145.2.113: Fernando, in Offizierstracht. Ein Bedienter.  ==> other
-tg1145.2.121: Postmeisterin kommt.  ==> enter
-tg1145.2.139: Lucie, Annchen kommen.  ==> other
-tg1145.2.149: Fernando kommt.  ==> enter
-tg1145.2.158: Lucie kommt.  ==> enter
-tg1146.2.4: Stella. Ein Bedienter.  ==> other
-tg1146.2.12: Madame Sommer, Lucie kommen.  ==> other
-tg1146.2.62: Bedienter kommt.  ==> enter
-tg1146.2.81: Fernando, Bedienter kommen.  ==> other
-tg1146.2.85: Fernando vorbei, über sie hinsehend.  ==> other
-tg1147.2.4: Stella in aller Freude hineintretend mit Fernando.  ==> other
-tg1147.2.39: Bedienter kommt.  ==> enter
-tg1147.2.56: Der Verwalter kommt.  ==> enter
-tg1147.2.87: Bedienter kommt.  ==> enter
-tg1147.2.93: Madame Sommer tritt auf.  ==> enter
-tg1147.2.105: Fernando kommt zurück.  ==> enter
-tg1147.2.138: Lucie tritt auf.  ==> enter
-tg1148.2.4: Einsiedelei in Stellas Garten.  ==> other
-tg1148.2.5: Stella allein.  ==> aside
-tg1148.2.30: Annchen kommt.  ==> enter
-tg1148.2.57: Cäcilie, Lucie kommen.  ==> other
-tg1148.2.61: Sie bemühen sich um sie.  ==> other
-tg1149.2.4: Stellas Kabinett. Im Mondenschein.  ==> other
-tg1149.2.5: Stella. Sie hat Fernandos Porträt und ist im Begriff, es von dem Blendrahmen loszumachen.  ==> other
-tg1149.2.9: Bedienter kommt.  ==> enter
-tg1149.2.16: Saal.  ==> other
-tg1149.2.17: Fernando.  ==> other
-tg1149.2.21: Cäcilie kommt.  ==> enter
-tg1149.2.56: Er fällt wieder zusammen.  ==> other
+{"id":"tg1145.2.4","text":"Im Posthause.","type":"other","source":"nltk"}
+{"id":"tg1145.2.5","text":"Man hört einen Postillion blasen. Postmeisterin.","type":"other","source":"nltk"}
+{"id":"tg1145.2.9.1","text":"Der Junge kommt.","type":"enter","source":"nltk"}
+{"id":"tg1145.2.12.1.part2","text":"Der Junge ab. Ihm nachrufend.","type":"other","source":"nltk"}
+{"id":"tg1145.2.14.1","text":"Madame Sommer, Lucie, in Reisekleidern. Karl.","type":"other","source":"nltk"}
+{"id":"tg1145.2.16.1.part1","text":"einen Mantelsack tragend, zu Karl.","type":"other","source":"nltk"}
+{"id":"tg1145.2.25.1.part2","text":"Ab.","type":"other","source":"nltk"}
+{"id":"tg1145.2.30.1","text":"Postillion tritt herein.","type":"enter","source":"nltk"}
+{"id":"tg1145.2.39.1.part2","text":"Ab.","type":"other","source":"nltk"}
+{"id":"tg1145.2.57.1","text":"Annchen, mit der Suppe. Die Postmeisterin. Karl.","type":"other","source":"nltk"}
+{"id":"tg1145.2.78.1.part2","text":"Annchen ab.","type":"exit","source":"nltk"}
+{"id":"tg1145.2.92.1.part1","text":"vor sich.","type":"aside","source":"nltk"}
+{"id":"tg1145.2.95.1","text":"Annchen kommt.","type":"enter","source":"nltk"}
+{"id":"tg1145.2.103.1.part2","text":"Die Postmeisterin entfernt sich.","type":"other","source":"nltk"}
+{"id":"tg1145.2.104.1.part2","text":"Laut.","type":"other","source":"nltk"}
+{"id":"tg1145.2.105.1.part2","text":"Zu Lucien.","type":"other","source":"nltk"}
+{"id":"tg1145.2.111.1","text":"Beide ab.","type":"exit","source":"nltk"}
+{"id":"tg1145.2.112.1","text":"Man hört einen Postillion.","type":"other","source":"nltk"}
+{"id":"tg1145.2.113.1","text":"Fernando, in Offizierstracht. Ein Bedienter.","type":"other","source":"nltk"}
+{"id":"tg1145.2.118.1.part2","text":"Bedienter ab.","type":"exit","source":"nltk"}
+{"id":"tg1145.2.119.1.part1","text":"ans Fenster tretend.","type":"other","source":"nltk"}
+{"id":"tg1145.2.121.1","text":"Postmeisterin kommt.","type":"enter","source":"nltk"}
+{"id":"tg1145.2.136.1.part1","text":"vor sich.","type":"aside","source":"nltk"}
+{"id":"tg1145.2.136.2.part2","text":"Laut.","type":"other","source":"nltk"}
+{"id":"tg1145.2.137.1.part2","text":"Fernando mit dem Jungen ab.","type":"exit","source":"nltk"}
+{"id":"tg1145.2.139.1","text":"Lucie, Annchen kommen.","type":"other","source":"nltk"}
+{"id":"tg1145.2.146.1.part2","text":"Ab.","type":"other","source":"nltk"}
+{"id":"tg1145.2.149.1","text":"Fernando kommt.","type":"enter","source":"nltk"}
+{"id":"tg1145.2.158.1","text":"Lucie kommt.","type":"enter","source":"nltk"}
+{"id":"tg1145.2.161.1.part2","text":"Lucie neigt sich.","type":"other","source":"nltk"}
+{"id":"tg1145.2.164.1.part2","text":"Ab.","type":"other","source":"nltk"}
+{"id":"tg1145.2.185.1.part2","text":"Aufstehend.","type":"other","source":"nltk"}
+{"id":"tg1145.2.185.2.part2","text":"Er nimmt ihre Hand.","type":"other","source":"nltk"}
+{"id":"tg1145.2.187.1.part2","text":"Ab.","type":"other","source":"nltk"}
+{"id":"tg1146.2.4","text":"Stella. Ein Bedienter.","type":"enter","source":"NLP"}
+{"id":"tg1146.2.9.1.part2","text":"Bedienter ab.","type":"exit","source":"nltk"}
+{"id":"tg1146.2.10.1.part2","text":"Sie fällt einen Augenblick in Nachdenken, fährt dann schnell auf und druckt ihre Hände ans Herz.","type":"other","source":"nltk"}
+{"id":"tg1146.2.12.1","text":"Madame Sommer, Lucie kommen.","type":"other","source":"nltk"}
+{"id":"tg1146.2.16.1.part1","text":"nach einer Pause, in der sie Madame Sommer angesehen hat.","type":"other","source":"nltk"}
+{"id":"tg1146.2.21.1.part1","text":"ihre Hände fassend.","type":"other","source":"nltk"}
+{"id":"tg1146.2.46.1.part1","text":"lächelt und klopft ihr die Achseln.","type":"other","source":"nltk"}
+{"id":"tg1146.2.46.2.part2","text":"Sie wirft sich in einen Sessel.","type":"other","source":"nltk"}
+{"id":"tg1146.2.50.1.part1","text":"eröffnet ihr Kabinett und führt sie hinein.","type":"exit","source":"nltk"}
+{"id":"tg1146.2.58.1.part1","text":"zieht die Schelle.","type":"other","source":"nltk"}
+{"id":"tg1146.2.62.1","text":"Bedienter kommt.","type":"enter","source":"nltk"}
+{"id":"tg1146.2.68.1.part2","text":"Sie schließt das Kabinett hinter sich.","type":"other","source":"nltk"}
+{"id":"tg1146.2.81.1","text":"Fernando, Bedienter kommen.","type":"other","source":"nltk"}
+{"id":"tg1146.2.85.1","text":"Fernando vorbei, über sie hinsehend.","type":"other","source":"nltk"}
+{"id":"tg1147.2.4","text":"Stella in aller Freude hineintretend mit Fernando.","type":"other","source":"nltk"}
+{"id":"tg1147.2.6.1.part1","text":"zu den Wänden.","type":"other","source":"nltk"}
+{"id":"tg1147.2.6.2.part2","text":"Vor das Gemälde einer Venus tretend.","type":"other","source":"nltk"}
+{"id":"tg1147.2.6.3.part2","text":"Ihm um den Hals fallend.","type":"other","source":"nltk"}
+{"id":"tg1147.2.7.1.part2","text":"An ihrem Halse.","type":"other","source":"nltk"}
+{"id":"tg1147.2.11.1.part2","text":"Er hängt an ihrem Munde.","type":"other","source":"nltk"}
+{"id":"tg1147.2.18.1.part1","text":"zu ihren Füßen.","type":"other","source":"nltk"}
+{"id":"tg1147.2.35.1.part1","text":"ihre Locken streichelnd.","type":"other","source":"nltk"}
+{"id":"tg1147.2.35.2.part2","text":"Er zieht ihr den Kamm aus den Haaren, und sie rollen tief herunter.","type":"other","source":"nltk"}
+{"id":"tg1147.2.37.1.part1","text":"seine Arme drein wickelnd.","type":"other","source":"nltk"}
+{"id":"tg1147.2.39.1","text":"Bedienter kommt.","type":"enter","source":"nltk"}
+{"id":"tg1147.2.50.1.part2","text":"Der Bediente geht ab.","type":"exit","source":"nltk"}
+{"id":"tg1147.2.52.1.part1","text":"an ihm hangend.","type":"other","source":"nltk"}
+{"id":"tg1147.2.53.1.part2","text":"Stella ab.","type":"exit","source":"nltk"}
+{"id":"tg1147.2.54.1.part1","text":"allein.","type":"aside","source":"nltk"}
+{"id":"tg1147.2.56.1","text":"Der Verwalter kommt.","type":"enter","source":"nltk"}
+{"id":"tg1147.2.58.1.part1","text":"ihm die Hände küssend.","type":"other","source":"nltk"}
+{"id":"tg1147.2.59.1.part1","text":"die Hand wegziehend.","type":"other","source":"nltk"}
+{"id":"tg1147.2.87.1","text":"Bedienter kommt.","type":"enter","source":"nltk"}
+{"id":"tg1147.2.90.1.part2","text":"Bedienter ab.","type":"exit","source":"nltk"}
+{"id":"tg1147.2.91.1.part1","text":"allein.","type":"aside","source":"nltk"}
+{"id":"tg1147.2.93.1","text":"Madame Sommer tritt auf.","type":"enter","source":"nltk"}
+{"id":"tg1147.2.95.1.part1","text":"vor sich.","type":"aside","source":"nltk"}
+{"id":"tg1147.2.95.2.part2","text":"Laut.","type":"other","source":"nltk"}
+{"id":"tg1147.2.102.1.part1","text":"vor sich.","type":"aside","source":"nltk"}
+{"id":"tg1147.2.102.2.part2","text":"Laut.","type":"other","source":"nltk"}
+{"id":"tg1147.2.102.3.part2","text":"Er wendet sich ab.","type":"exit","source":"nltk"}
+{"id":"tg1147.2.102.4.part2","text":"Laut.","type":"other","source":"nltk"}
+{"id":"tg1147.2.102.5.part2","text":"Eilend ab.","type":"exit","source":"nltk"}
+{"id":"tg1147.2.103.1.part1","text":"allein.","type":"aside","source":"nltk"}
+{"id":"tg1147.2.105.1","text":"Fernando kommt zurück.","type":"enter","source":"nltk"}
+{"id":"tg1147.2.107.1.part1","text":"vor sich.","type":"aside","source":"nltk"}
+{"id":"tg1147.2.117.1.part1","text":"immer verwirrter.","type":"other","source":"nltk"}
+{"id":"tg1147.2.122.1.part1","text":"mit zurückgehaltener Wehmut.","type":"other","source":"nltk"}
+{"id":"tg1147.2.124.1.part1","text":"gelinde spottend, ihre Rührung zu verbergen.","type":"other","source":"nltk"}
+{"id":"tg1147.2.125.1.part1","text":"zu ihren Füßen.","type":"other","source":"nltk"}
+{"id":"tg1147.2.126.1.part1","text":"mit einem Strom von Tränen an seinem Hals.","type":"other","source":"nltk"}
+{"id":"tg1147.2.128.1.part1","text":"von ihm sich abwendend.","type":"other","source":"nltk"}
+{"id":"tg1147.2.128.2.part2","text":"Wieder an seinem Hals.","type":"other","source":"nltk"}
+{"id":"tg1147.2.134.1.part1","text":"sie bei der Hand fassend, ansehend, sie umarmend.","type":"other","source":"nltk"}
+{"id":"tg1147.2.138.1","text":"Lucie tritt auf.","type":"enter","source":"nltk"}
+{"id":"tg1147.2.147.1.part2","text":"Cäcilie und Lucie ab.","type":"exit","source":"nltk"}
+{"id":"tg1147.2.148.1.part1","text":"allein.","type":"aside","source":"nltk"}
+{"id":"tg1148.2.4","text":"Einsiedelei in Stellas Garten.","type":"other","source":"nltk"}
+{"id":"tg1148.2.5","text":"Stella allein.","type":"aside","source":"nltk"}
+{"id":"tg1148.2.8.1.part1","text":"kommt.","type":"enter","source":"nltk"}
+{"id":"tg1148.2.11.1.part2","text":"An seinem Hals.","type":"other","source":"nltk"}
+{"id":"tg1148.2.15.1.part1","text":"vor sich.","type":"aside","source":"nltk"}
+{"id":"tg1148.2.19.1.part1","text":"vor sich.","type":"aside","source":"nltk"}
+{"id":"tg1148.2.19.2.part2","text":"Laut.","type":"other","source":"nltk"}
+{"id":"tg1148.2.22.1.part2","text":"Vor sich.","type":"other","source":"nltk"}
+{"id":"tg1148.2.30.1","text":"Annchen kommt.","type":"enter","source":"nltk"}
+{"id":"tg1148.2.38.1.part1","text":"verlegen.","type":"other","source":"nltk"}
+{"id":"tg1148.2.42.1.part2","text":"Annchen ab.","type":"exit","source":"nltk"}
+{"id":"tg1148.2.43.1.part1","text":"sich umwendend und sie bei der Hand fassend.","type":"other","source":"nltk"}
+{"id":"tg1148.2.47.1.part1","text":"mit Wut und Zittern.","type":"other","source":"nltk"}
+{"id":"tg1148.2.48.1.part2","text":"Sie will sinken und hält sich an ihn.","type":"other","source":"nltk"}
+{"id":"tg1148.2.50.1.part1","text":"verwirrt lächelnd.","type":"other","source":"nltk"}
+{"id":"tg1148.2.51.1.part1","text":"mit Zähneknirschen.","type":"other","source":"nltk"}
+{"id":"tg1148.2.54.1.part1","text":"sieht ihn starr an und läßt die Arme sinken.","type":"other","source":"nltk"}
+{"id":"tg1148.2.55.1.part2","text":"Er bemerkt erst, daß sie in Ohnmacht gefallen ist.","type":"other","source":"nltk"}
+{"id":"tg1148.2.55.2.part2","text":"Er bringt sie auf seinen Sitz.","type":"other","source":"nltk"}
+{"id":"tg1148.2.57.1","text":"Cäcilie, Lucie kommen.","type":"other","source":"nltk"}
+{"id":"tg1148.2.61.1","text":"Sie bemühen sich um sie.","type":"other","source":"nltk"}
+{"id":"tg1148.2.64.1.part1","text":"stumm sie ansehend.","type":"other","source":"nltk"}
+{"id":"tg1148.2.64.2.part2","text":"Ab.","type":"other","source":"nltk"}
+{"id":"tg1148.2.65.1.part2","text":"Aufstehend.","type":"other","source":"nltk"}
+{"id":"tg1148.2.65.2.part2","text":"Sie sinkt zurück, sieht die an, die sich um sie bemühen.","type":"other","source":"nltk"}
+{"id":"tg1148.2.71.1.part1","text":"aufspringend, sich die Augen zuhaltend.","type":"other","source":"nltk"}
+{"id":"tg1148.2.71.2.part2","text":"Sie geht verwirrt auf und ab.","type":"other","source":"nltk"}
+{"id":"tg1148.2.81.1.part2","text":"Sie bemühen sich, sie aufzuheben.","type":"other","source":"nltk"}
+{"id":"tg1148.2.84.1.part1","text":"an ihrem Halse.","type":"other","source":"nltk"}
+{"id":"tg1148.2.88.1.part1","text":"nach einer Pause, wild wegfahrend.","type":"other","source":"nltk"}
+{"id":"tg1148.2.88.3.part2","text":"Sie steht eine Weile niedersehend still, in sich gekehrt, sieht dann auf, erblickt die beiden, fährt mit einem Schrei zusammen und entflieht.","type":"other","source":"nltk"}
+{"id":"tg1148.2.89.1.part2","text":"Lucie ab.","type":"exit","source":"nltk"}
+{"id":"tg1149.2.4","text":"Stellas Kabinett. Im Mondenschein.","type":"other","source":"nltk"}
+{"id":"tg1149.2.5","text":"Stella. Sie hat Fernandos Porträt und ist im Begriff, es von dem Blendrahmen loszumachen.","type":"other","source":"nltk"}
+{"id":"tg1149.2.7.1.part2","text":"Sie nimmt ein Messer und fängt an, die Nägel loszubrechen.","type":"other","source":"nltk"}
+{"id":"tg1149.2.7.3.part2","text":"Das Gemälde nach dem Monde wendend.","type":"other","source":"nltk"}
+{"id":"tg1149.2.7.4.part2","text":"Sie zuckt mit dem Messer nach dem Gemälde. Fernando! – Sie wendet sich ab, das Messer fällt, sie stürzt mit einem Ausbruch von Tränen vor den Stuhl nieder.","type":"other","source":"nltk"}
+{"id":"tg1149.2.9.1","text":"Bedienter kommt.","type":"enter","source":"nltk"}
+{"id":"tg1149.2.12.1.part2","text":"Bedienter nimmt das Messer auf und schneidet das Gemälde von dem Rahmen und rollt's.","type":"other","source":"nltk"}
+{"id":"tg1149.2.14.1.part1","text":"einen Moment stillstehend, auf- und umherblickend.","type":"other","source":"nltk"}
+{"id":"tg1149.2.14.2.part2","text":"Ab.","type":"other","source":"nltk"}
+{"id":"tg1149.2.16.1","text":"Saal.","type":"other","source":"nltk"}
+{"id":"tg1149.2.17.1","text":"Fernando.","type":"enter","source":"NLP"}
+{"id":"tg1149.2.19.2.part2","text":"Sich die Stirn haltend.","type":"other","source":"nltk"}
+{"id":"tg1149.2.19.3.part2","text":"Er nimmt eine Pistole vom Tisch.","type":"other","source":"nltk"}
+{"id":"tg1149.2.19.4.part2","text":"Er ladet.","type":"other","source":"nltk"}
+{"id":"tg1149.2.21.1","text":"Cäcilie kommt.","type":"enter","source":"nltk"}
+{"id":"tg1149.2.24.1.part1","text":"legt sie nieder.","type":"other","source":"nltk"}
+{"id":"tg1149.2.31.1.part1","text":"spottend.","type":"other","source":"nltk"}
+{"id":"tg1149.2.41.1.part1","text":"fährt auf und geht wild auf und ab.","type":"other","source":"nltk"}
+{"id":"tg1149.2.47.1.part2","text":"Er wirft sich in einen Sessel.","type":"other","source":"nltk"}
+{"id":"tg1149.2.48.1.part1","text":"tritt zu ihm und nimmt ihn bei der Hand.","type":"other","source":"nltk"}
+{"id":"tg1149.2.49.1.part1","text":"will aufspringen, sie hält ihn.","type":"other","source":"nltk"}
+{"id":"tg1149.2.53.1.part2","text":"Fernando liegt schluchzend mit den Armen übern Tisch gebreitet.","type":"other","source":"nltk"}
+{"id":"tg1149.2.56.1","text":"Er fällt wieder zusammen.","type":"other","source":"nltk"}
+{"id":"tg1149.2.58.1.part1","text":"eröffnet die Türe des Kabinetts und ruft.","type":"other","source":"nltk"}
+{"id":"tg1149.2.59.1.part1","text":"ihr um den Hals fallend.","type":"other","source":"nltk"}
+{"id":"tg1149.2.60.1.part1","text":"springt auf in der Bewegung zu fliehen.","type":"other","source":"nltk"}
+{"id":"tg1149.2.61.1.part1","text":"faßt ihn.","type":"other","source":"nltk"}
+{"id":"tg1149.2.62.1.part2","text":"Er neigt sich zu ihr.","type":"other","source":"nltk"}
+{"id":"tg1149.2.65.1.part1","text":"an seinem Hals.","type":"other","source":"nltk"}
+{"id":"tg1149.2.67.1.part1","text":"an ihrem Hals.","type":"other","source":"nltk"}
+{"id":"tg1149.2.68.1.part1","text":"beide umarmend.","type":"other","source":"nltk"}
+{"id":"tg1149.2.69.1.part1","text":"seine Hand fassend, an ihm hangend.","type":"other","source":"nltk"}
+{"id":"tg1149.2.70.1.part1","text":"seine Hand fassend, an seinem Hals.","type":"other","source":"nltk"}

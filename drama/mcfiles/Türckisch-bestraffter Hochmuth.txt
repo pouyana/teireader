@@ -1,0 +1,179 @@
+{"id":"tg47.2.77.1.part1","text":"NB.","type":"other","source":"nltk"}
+{"id":"tg47.2.77.1.part2","text":": die übrige Türckische Stumme sind im 1st. Actus im 8 Scen. zu ersehen.","type":"other","source":"nltk"}
+{"id":"tg49.2.4","text":"Stahrenberg, Aloisia.","type":"enter","source":"NLP"}
+{"id":"tg49.2.18.1.part2","text":"Weynet.","type":"enter","source":"NLP"}
+{"id":"tg49.2.30.1","text":"Euphrosina komt dazu.","type":"enter","source":"nltk"}
+{"id":"tg49.2.44.1","text":"Beyde gehen ab.","type":"exit","source":"nltk"}
+{"id":"tg50.2.4","text":"Marggraff von Baaden, Liebenberg und etliche Stumme anstatt des Raths.","type":"other","source":"nltk"}
+{"id":"tg50.2.12.1","text":"Alle gehen ab.","type":"exit","source":"nltk"}
+{"id":"tg51.2.4","text":"Stahrenberg, Daun.","type":"enter","source":"NLP"}
+{"id":"tg51.2.13.1","text":"Alle beyde ab.","type":"exit","source":"nltk"}
+{"id":"tg52.2.4","text":"Hertzog von Lotthringen, Hertzog von Würtenberg.","type":"other","source":"nltk"}
+{"id":"tg52.2.12.1","text":"Alhie kommen die Gräntz-Völcker anmarchirt, gehend Fuß vor Fuß, wo die ersteren, nach dem Sie das Theater pahsiret [sich hinter dem Prospect] an die leztere anschließen und also eine ansehnliche Parade formiren.","type":"other","source":"nltk"}
+{"id":"tg52.2.19.1","text":"Alle ab.","type":"exit","source":"nltk"}
+{"id":"tg53.2.4","text":"Wird aufgezogen und praesentiret den außern Theil der Stadt, alwo der Stephans-Thurn mit Sonn und Mond zu sehen, alhie salviren die Leuthe ihre Sachen und Hauß-Geräth zum Stadt-Thor hinein. Hans Wurst komt dazu, sein Weib bedeckt auf der Scheib-Truhen führend, und mit Hauß-Geräth überall behangen.","type":"other","source":"nltk"}
+{"id":"tg53.2.6.1.part2","text":"Lieset die Specification No. 1.","type":"other","source":"nltk"}
+{"id":"tg53.2.8.1","text":"Burgermeister Liebenberg komt dazu, samt der Burgerschafft mit Fahnen und klingendem Spiel, Hans Wurst vor Schröcken wirfft den Karren umb und begibt sich in etwas auf die Seite.","type":"other","source":"nltk"}
+{"id":"tg53.2.12.1","text":"Alle schreyen überlaut ja. Hie wird die Trummel gerühret und das Edict No. 2 denen Burgern vorgelesen.","type":"other","source":"nltk"}
+{"id":"tg53.2.16.1","text":"Entdecket alhie sein Weib welche nichts redet, als ah, ah ah uh uh uh.","type":"other","source":"nltk"}
+{"id":"tg53.2.20.1","text":"Die Burger theilen sich halb recht, halb linck und gehen alle ab.","type":"exit","source":"nltk"}
+{"id":"tg53.2.24.1","text":"Hebt Sie auf und führt Sie neben dem Burgermeister weg.","type":"other","source":"nltk"}
+{"id":"tg53.2.50.1","text":"Stahrenberg komt dazu.","type":"enter","source":"nltk"}
+{"id":"tg53.2.67.1.part1","text":"kratzt die Ohren.","type":"other","source":"nltk"}
+{"id":"tg53.2.74.1","text":"H.W. nimt die Scheib-Truhen und führet sie weg, alle ab und in die Stadt hinein. Das forderste Scena wird zugemacht und stellet vor die Colline.","type":"exit","source":"nltk"}
+{"id":"tg54.2.4","text":"Colline Serini, Cappliers.","type":"enter","source":"NLP"}
+{"id":"tg54.2.15.1","text":"Beyde ab.","type":"exit","source":"nltk"}
+{"id":"tg55.2.4","text":"Wird aufgezogen und praesentiret den außern Theil der Stadt wie zuvor nebst vielen Arbeitsleuthen, mit Hacken, Hauen, Grabschauffeln und Scheib-Truhen, welche in Setzung derer Pallisaden beschäfftiget sind.","type":"other","source":"nltk"}
+{"id":"tg55.2.5","text":"Liebenberg.","type":"enter","source":"NLP"}
+{"id":"tg55.2.9.1","text":"Extemporiret und ordonniret hin und wieder nach Belieben; Hie komt ein Tambour dazu, lieset das Edict No. 3 mit vor und nach gerührter Trummel, und gehet hernach ab; hie müßen etliche Männer, Weiber und Kinder seyn, welche dem Edict zuhören, die hinterste Scene wird nachmals zugemacht, die Stadt weggethan, und die Türckische Cavallerie dahinter verfertiget.","type":"other","source":"nltk"}
+{"id":"tg56.2.4","text":"Wald.","type":"other","source":"nltk"}
+{"id":"tg56.2.5","text":"Hie geschiehet der Türckische March mit einer Türckischen Music auf nachfolgende Weise langsam über das Theatr.","type":"other","source":"nltk"}
+{"id":"tg56.2.6","text":"1. Ein Cadi oder Türckischer Gesetz-Lehrer führend die Standarte des Mahomets worauf dieser falsche Prophet gemahlet zu sehen.","type":"other","source":"nltk"}
+{"id":"tg56.2.8","text":"3. Wiederumb ein Cadi so den Alcoran oder Türckisches Gesetz-Buch tragt.","type":"other","source":"nltk"}
+{"id":"tg56.2.9","text":"4. Zwey Türcken mit einer langen Stangen, ein jeder an seiner Stange zu oberst ein Roß-Schweiff gebunden.","type":"other","source":"nltk"}
+{"id":"tg56.2.10","text":"5. Tekely und Sechs Tartarn, deren ein jeder eine Flinte über die Achsel hangen hat.","type":"other","source":"nltk"}
+{"id":"tg56.2.11","text":"6. Zwey Türckische Kebs-Weiber auf einem Wagen, so von Mohren gezogen wird.","type":"other","source":"nltk"}
+{"id":"tg56.2.12","text":"7. Zwey Türcken, jeder mit einer Fahne, worauf der halbe Mond oder das Türckische Wappen zu sehen.","type":"other","source":"nltk"}
+{"id":"tg56.2.13","text":"8. Wieder obige 6 Türcken [No. 2], jeder mit einem Rantzen, aber ohne den vorigen Führer.","type":"enter","source":"nltk"}
+{"id":"tg56.2.14","text":"9. Wiederumb die 6 Tartarn [No. 5] aber ohne den Tekely.","type":"other","source":"nltk"}
+{"id":"tg56.2.16","text":"10. Die Tiirckische Stuck, und hinter denenselben die Bagage. NB.: Wann es seyn kan und sich schicket.","type":"other","source":"nltk"}
+{"id":"tg56.2.17","text":"11. Wiederumb die Zwey Türcken [No. 4] mit ihren Roß-Schweiffen.","type":"other","source":"nltk"}
+{"id":"tg56.2.18","text":"12. Zwey Türckische Bahsen mit bloßen Säbeln.","type":"other","source":"nltk"}
+{"id":"tg56.2.19","text":"13. Vier Türckische Printzen, biß daher pahsiret der Zug über das Theatr:","type":"other","source":"nltk"}
+{"id":"tg56.2.20","text":"14. Der Großvezier Kara Mustapha auf den Wagen [No. 6].","type":"other","source":"nltk"}
+{"id":"tg56.2.21","text":"15. Selim und Ibrahim.","type":"enter","source":"NLP"}
+{"id":"tg56.2.22","text":"16. Sechs Türcken, welche sich auf der einen Seiten des Theatri rangiren.","type":"other","source":"nltk"}
+{"id":"tg56.2.23","text":"17. Sechs Tartarn [aber ohne Flinten] auf der andern Seiten.","type":"other","source":"nltk"}
+{"id":"tg56.2.24","text":"Kara Mustapha, Selim und Ibrahim, und ihre Soldaten No. 16 und 17 verbleiben, die übrigen ab.","type":"exit","source":"nltk"}
+{"id":"tg56.2.28.1","text":"Hie blitzet, donnert und regnet es.","type":"other","source":"nltk"}
+{"id":"tg56.2.32.1","text":"Hie steiget der Groß-Vezier herunter, und wird der Wagen hinweg geführet.","type":"other","source":"nltk"}
+{"id":"tg56.2.43.1","text":"Alle ab.","type":"exit","source":"nltk"}
+{"id":"tg57.2.4","text":"Wird hinten aufgezogen, und praesentiret die Türckische Reuterey auf folgende Art, NB.: Eine dazu verfertigte Banck mit vielen Roß-füßen von Holtz gemacht, forne aber zwey gegeneinander schauende Pferde, so gemahlen, und vermittelst eines von unten herfür gehenden Pfahls befestiget, worauf forne einer und also nach die Länge sitzen, wie angeheffteter Abriß mit mehreren zeiget.","type":"other","source":"nltk"}
+{"id":"tg57.2.5","text":"Ibrahim komt dazu.","type":"enter","source":"nltk"}
+{"id":"tg57.2.9.1","text":"Extemporiret ad libitum, biß die forderste Scena zugemacht wird.","type":"aside","source":"nltk"}
+{"id":"tg58.2.4","text":"Zimmer. Aloisia allein.","type":"aside","source":"nltk"}
+{"id":"tg58.2.8.1","text":"Sophia komt dazu.","type":"enter","source":"nltk"}
+{"id":"tg58.2.17.1","text":"Gehet ab.","type":"exit","source":"nltk"}
+{"id":"tg58.2.21.1","text":"Sophia und Hans mit dem Brieff No. 4 dazu.","type":"other","source":"nltk"}
+{"id":"tg58.2.30.1.part2","text":"Übergibt den Brieff.","type":"other","source":"nltk"}
+{"id":"tg58.2.31.1.part1","text":"lieset den Brieff laut.","type":"other","source":"nltk"}
+{"id":"tg58.2.38.1.part2","text":"Gehet ab.","type":"exit","source":"nltk"}
+{"id":"tg58.2.56.1.part2","text":"Gehet ab.","type":"exit","source":"nltk"}
+{"id":"tg58.2.57.1.part2","text":"Gehet ab.","type":"exit","source":"nltk"}
+{"id":"tg59.2.4","text":"Wird aufgezogen und praesentiret die Stadt, und mit durgebrochenen und illuminirten Scenen die angezündete Vorstadt, ein Hauffen derer Leuthe so ihr Elend beklagen, und nach Gutbefinden extemporiren können, da ihrer etliche noch etwas erretten, und in die Stadt hineinbringen, biß der Commendant dazu komt.","type":"other","source":"nltk"}
+{"id":"tg59.2.8.1","text":"Liebenberg komt dazu.","type":"enter","source":"nltk"}
+{"id":"tg59.2.15.1","text":"Abeunt.","type":"other","source":"nltk"}
+{"id":"tg61.2.4","text":"Stellet vor mit durchgehenden Scenen das gantze Türckische Lager, und die Stad wie oben bleibt stehen.","type":"other","source":"nltk"}
+{"id":"tg61.2.5","text":"Kara Mustapha, Tekely.","type":"enter","source":"NLP"}
+{"id":"tg61.2.10.1","text":"Ibrahim komt dazu.","type":"enter","source":"nltk"}
+{"id":"tg61.2.20.1","text":"Alle ab, forderstes Scena wird zugemacht.","type":"other","source":"nltk"}
+{"id":"tg62.2.4","text":"Zimmer. Serini, Daun.","type":"enter","source":"NLP"}
+{"id":"tg62.2.11.1.part2","text":"Gehet ab.","type":"exit","source":"nltk"}
+{"id":"tg62.2.12.1.part2","text":"Abit.","type":"other","source":"nltk"}
+{"id":"tg63.2.4","text":"Wird aufgezogen und praesentiret den Geheimen Kriegs-Rath an einem Tische sitzend, worauf Schreib-Zeug, Papier und eine Glocke, 1. Marggraff von Baaden, 2. Hertzog von Würtenberg, 3. Stahrenberg, 4. Cappliers und 5. Liebenberg unten an, und 6. ein stummer Secretarius.","type":"other","source":"nltk"}
+{"id":"tg63.2.14.1","text":"Hie schellet der Praesident mit dem Glöckl: ein Page komt dazu.","type":"other","source":"nltk"}
+{"id":"tg63.2.20.1","text":"Page ab Koltschützky komt dazu.","type":"exit","source":"nltk"}
+{"id":"tg63.2.31.1.part2","text":"Abit.","type":"other","source":"nltk"}
+{"id":"tg63.2.44.1","text":"Serini komt dazu.","type":"enter","source":"nltk"}
+{"id":"tg63.2.48.1","text":"Alle stehen auf und treten fürwerts.","type":"other","source":"nltk"}
+{"id":"tg63.2.52.1","text":"Tisch und Stühle weg.","type":"other","source":"nltk"}
+{"id":"tg63.2.58.1","text":"Alle ab, wird forne zugemacht.","type":"other","source":"nltk"}
+{"id":"tg64.2.4","text":"Zimmer. Aloisia, Euphrosina.","type":"enter","source":"NLP"}
+{"id":"tg64.2.13.1","text":"Hans Wurst im Thorsteher-Habit komt dazu.","type":"other","source":"nltk"}
+{"id":"tg64.2.21.1.part2","text":"Gehet ab.","type":"exit","source":"nltk"}
+{"id":"tg64.2.24.1","text":"Adelgunda und Hans Wurst kommen dazu, drey Stühle werden gebracht.","type":"other","source":"nltk"}
+{"id":"tg64.2.28.1","text":"Hie empfanget das Frauen-Zimmer einander auf frantzösische Manier.","type":"other","source":"nltk"}
+{"id":"tg64.2.33.1","text":"Alle setzen sich.","type":"other","source":"nltk"}
+{"id":"tg64.2.44.1.part2","text":"Setzt sich nieder.","type":"other","source":"nltk"}
+{"id":"tg64.2.46.1.part2","text":"Stehet auf.","type":"other","source":"nltk"}
+{"id":"tg64.2.53.1.part2","text":"Gibt ihm den Brief No. 5.","type":"other","source":"nltk"}
+{"id":"tg64.2.54.1.part2","text":"Gehet ab.","type":"exit","source":"nltk"}
+{"id":"tg64.2.56.1.part2","text":"Sophia dazu.","type":"enter","source":"NLP"}
+{"id":"tg64.2.63.1","text":"Alle stehen auf, die Stühle werden weggetragen.","type":"other","source":"nltk"}
+{"id":"tg64.2.69.1","text":"Alle gehen ab.","type":"exit","source":"nltk"}
+{"id":"tg65.2.4","text":"Wird aufgezogen und stellet vor die Cortine [die Gaßen und Häußer] ein Hauffen des Pöbels, welche den mit Blut übelzugerichteten Thanon, oder Baron Zwieffel, mit großem Geschrey daher schleppen, einer unter dem Volck muß reden.","type":"other","source":"nltk"}
+{"id":"tg65.2.6.1.part1","text":"schreyet.","type":"other","source":"nltk"}
+{"id":"tg65.2.8.1","text":"Schlagen und tractiren ihn übel, und extemporiren so lange, biß Stahrenberg mit etlichen von der Stadt-Guarde dazu komt.","type":"other","source":"nltk"}
+{"id":"tg65.2.12.1.part1","text":"wincket mit der Hand dem Volck stille zu seyn.","type":"other","source":"nltk"}
+{"id":"tg65.2.16.1","text":"Alle nacheinander ab.","type":"exit","source":"nltk"}
+{"id":"tg66.2.4","text":"Wird aufgezogen und praesentiret die Donau Brucken, hinterwerts die angezündete Leopold Stadt, die Scenen stellen vor auf einer Seiten den Wienner Wald, auf der andern das Türckische Lager.","type":"other","source":"nltk"}
+{"id":"tg66.2.5","text":"Ibrahim, Selim mit denen Türcken.","type":"other","source":"nltk"}
+{"id":"tg66.2.12.1","text":"Hie komt ein officier mit einer Parthey Christen dazu, und schlagen die Türcken in die Flucht, und gehen alle ab, wird forne zugemacht.","type":"other","source":"nltk"}
+{"id":"tg67.2.4","text":"Würtenberg, Daun.","type":"enter","source":"NLP"}
+{"id":"tg67.2.13.1","text":"Alhie kommen die Kauffleute und Niederläger mit Fahnen und klingendem Spiel dazu NB.: in ihrer Fahnen muß das Österreichische Wappen, zu unterst deßen ein Postillion zu sehen seyn, werden von ihrem führer rangiret und auf nach folgende Weise exerciret [welche zu dem Ende vorher abgerichtet werden müßen]. Würtenberg und Daun gelten ab. Hie werden die Kauffleute durch ihren führer exerciret, wie folget.","type":"other","source":"nltk"}
+{"id":"tg67.2.17.1","text":"Der Führer führet Sie in guter Ordnung alle ab.","type":"exit","source":"nltk"}
+{"id":"tg68.2.4","text":"Wird aufgezogen und praesentiret den geheimen Kriegs-Rath wie oben im Act. sec. scen. 3. Baaden, Stahrenberg, Cappliers und einen Secretarium.","type":"other","source":"nltk"}
+{"id":"tg68.2.8.1.part2","text":"Übergibt den Brief No. 6.","type":"other","source":"nltk"}
+{"id":"tg68.2.9.1.part1","text":"lieset den Brieff.","type":"other","source":"nltk"}
+{"id":"tg68.2.11.1","text":"Hans Wurst mit dem Brieff No. 5 dazu.","type":"other","source":"nltk"}
+{"id":"tg68.2.13.1.part2","text":"Übergibt den Brieff.","type":"other","source":"nltk"}
+{"id":"tg68.2.23.1","text":"Hans Wurst schauet an die Thür und Koltschützky komt dazu.","type":"other","source":"nltk"}
+{"id":"tg68.2.33.1.part2","text":"Gibt ihm die Brieffe No. 7 et 8.","type":"other","source":"nltk"}
+{"id":"tg68.2.39.1","text":"Koltschützky und H.W. ab.","type":"exit","source":"nltk"}
+{"id":"tg68.2.43.1","text":"Alle stehen auf.","type":"other","source":"nltk"}
+{"id":"tg68.2.47.1","text":"Tisch und Stühle werden weggetragen.","type":"other","source":"nltk"}
+{"id":"tg68.2.51.1","text":"Alle gehen ab.","type":"exit","source":"nltk"}
+{"id":"tg69.2.4","text":"Wird aufgezogen und praesentiret die Stadt wie zuvor, und durch und durch das Türckische Lager. Hie müßen die Auffzüge zu ebner Erden eröffnet seyn anstatt derer Minen und Approchen aus welchen die Türcken auf der Leiter aus und einsteigen.","type":"other","source":"nltk"}
+{"id":"tg69.2.5","text":"Kara Mustapha, Tekely und alle Türcken.","type":"enter","source":"NLP"}
+{"id":"tg69.2.16.1","text":"Hie kan nach gutbefinden eine Mine von Pulver, Calvonium, Papier, Hanff und anderer leichten Materie verfertiget [gesprenget], auch in die Stadt geschoßen und Granaten hineingeworffen werden.","type":"other","source":"nltk"}
+{"id":"tg69.2.22.1","text":"Alle ab. Wird hinten zugemacht und praesentiret einen Wald.","type":"other","source":"nltk"}
+{"id":"tg70.2.4","text":"Hertzog von Lotthringen mit seinen Soldaten.","type":"other","source":"nltk"}
+{"id":"tg70.2.8.1","text":"Koltschützky und Hans Wurst zu Pferd in Türckischer Kleydung mit denen Brieffen 7 et 8 dazu.","type":"other","source":"nltk"}
+{"id":"tg70.2.10.1.part2","text":"Übergibt die Brieffe.","type":"other","source":"nltk"}
+{"id":"tg70.2.23.1","text":"Alle ab.","type":"exit","source":"nltk"}
+{"id":"tg71.2.4","text":"Portachill, Valide und zwey stumme Sclaven.","type":"other","source":"nltk"}
+{"id":"tg71.2.9.1","text":"Kara Mustapha allein dazu.","type":"aside","source":"nltk"}
+{"id":"tg71.2.18.1","text":"Hie läst sich ein Geschrey hören: Man greiffe zum Waffen, Vezier, Bahsa, Beglerbeg, die Christen fallen überall an, die Janitscharen wollen den Mustapha tödten.","type":"other","source":"nltk"}
+{"id":"tg71.2.23.1","text":"Alle ab.","type":"exit","source":"nltk"}
+{"id":"tg72.2.4","text":"Hie wird aufgezogen und stellet vor die Stadt mit ihren Mauern und Pasteyen worauf etliche Stuck zu sehen und die Stadt-Guarde von ferne.","type":"other","source":"nltk"}
+{"id":"tg72.2.5","text":"Selim, Ibrahim und sechs Türcken mit Schilde.","type":"other","source":"nltk"}
+{"id":"tg72.2.12.1","text":"Kara Mustapha, Tekely und sechs Tartarn mit Schilde und einem Roß-Schweiff dazu.","type":"other","source":"nltk"}
+{"id":"tg72.2.18.1.part2","text":"Gehet ab.","type":"exit","source":"nltk"}
+{"id":"tg72.2.21.1","text":"Hans Wurst in Türckischer Kleydung, gefeßelt, und zu fuße nebst Selim und der Wacht kommen dazu.","type":"other","source":"nltk"}
+{"id":"tg72.2.46.1","text":"Die Türcken visitiren ihn.","type":"other","source":"nltk"}
+{"id":"tg72.2.48.1.part2","text":"Zeigt ihnen den Hintern.","type":"other","source":"nltk"}
+{"id":"tg72.2.54.1.part2","text":"Selim, Hans Wurst mit der Wacht ab.","type":"exit","source":"nltk"}
+{"id":"tg72.2.58.1","text":"Alhie läßet die Stadt-Guarde auf der Pastey sich sehen und schießet heraus, auch die Türcken richten sich zum Sturm.","type":"other","source":"nltk"}
+{"id":"tg72.2.62.1","text":"Hie wird auf beyden Seiten die Trummel gerühret, wie auch Granaten geworffen und gehet der Sturm an, die Türcken werden abgeschlagen, und etliche bleiben als todt liegen so die andern hernach wegtragen.","type":"other","source":"nltk"}
+{"id":"tg72.2.69.1","text":"Alle gehen ab, forderstes Scena wird zugemacht.","type":"other","source":"nltk"}
+{"id":"tg74.2.4","text":"Colline. Liebenberg, Koltschützky.","type":"enter","source":"NLP"}
+{"id":"tg74.2.7.1.part2","text":"Übergibt die Brieffe No. 7 et 8.","type":"other","source":"nltk"}
+{"id":"tg74.2.15.1","text":"Hie kommet das gemeine Volck dazu nebst ihrem Führer mit Scheibtruhen, Hacken, Hauen und Schauffeln.","type":"other","source":"nltk"}
+{"id":"tg74.2.21.1","text":"Alle gehen ab.","type":"exit","source":"nltk"}
+{"id":"tg75.2.4","text":"Wird aufgezogen und praesentiret den Geheimen Kriegs-Rath wie zuvor Baaden, Würtenberg, Serini, Daun und einen stummen Secretarium.","type":"other","source":"nltk"}
+{"id":"tg75.2.16.1","text":"Alle stehen auf.","type":"other","source":"nltk"}
+{"id":"tg75.2.20.1","text":"Tisch und Stühle werden hineingetragen.","type":"other","source":"nltk"}
+{"id":"tg75.2.25.1","text":"Alle gehen ab.","type":"exit","source":"nltk"}
+{"id":"tg76.2.4","text":"Wird hinten aufgezogen und praesentiret den Galgen oder Hochgericht, mit zweyen daran hangenden Soldaten und einem Buben, welchem der Kopff abgeschlagen wird. Stahrenberg und die Stadt-Guarde mit Flinten.","type":"other","source":"nltk"}
+{"id":"tg77.2.4","text":"Stellet vor einen durchgehenden Wald, Churfürst von Sachsen und seine Soldaten mit Flinten, NB.: die Soldaten bleiben alle auf einer Seiten.","type":"other","source":"nltk"}
+{"id":"tg77.2.8.1","text":"Churfürst von Bayern mit seinen Völckern auf der andern Seiten dazu, NB.: seine Völcker rangiren sich gegen die andern über.","type":"other","source":"nltk"}
+{"id":"tg77.2.13.1","text":"Umbarmen einander.","type":"other","source":"nltk"}
+{"id":"tg77.2.19.1","text":"König in Pohlen dazu, NB.: Hie wird bei seiner Ankunfft die Trummel gerühret und die Churfürstl. Soldaten praesentiren [auf Befehl] das Gewehr.","type":"other","source":"nltk"}
+{"id":"tg77.2.24.1.part2","text":"Umarmet die Churfürsten.","type":"other","source":"nltk"}
+{"id":"tg77.2.29.1","text":"Hie schultern die Churfürstliche Soldaten das Gewehr und gehen in guter Ordnung alle ab.","type":"exit","source":"nltk"}
+{"id":"tg78.2.4","text":"Wird aufgezogen und praesentiret die Stadt und Thor, und durchaus das Türckische Lager, Ibrahim und die Janitscharen mit dem gefangenen H. Wurst.","type":"other","source":"nltk"}
+{"id":"tg78.2.8.1","text":"Die Türcken legen den Hans Wurst nieder und wollen ihn spießen.","type":"other","source":"nltk"}
+{"id":"tg78.2.12.1","text":"Hie werden etliche Ragete vom Stephans-Thurn gelaßen.","type":"other","source":"nltk"}
+{"id":"tg78.2.21.1.part2","text":"Besinnet sich.","type":"other","source":"nltk"}
+{"id":"tg78.2.28.1","text":"Die Türcken ziehen von Leder und wollen den Hans Wurst niederhauen. Hie thun Daun und Serini einen Außfall, schlagen mit ihren Soldaten die Türcken in die Flucht und erlösen den H.W.","type":"other","source":"nltk"}
+{"id":"tg78.2.36.1","text":"Alle ab und in die Stadt hinein.","type":"exit","source":"nltk"}
+{"id":"tg79.2.4","text":"Selim mit denen Tartarn und vorigen Türcken [doch nicht von der Seiten, wo Ibrahim mit denen Seinigen hineingetrieben worden].","type":"enter","source":"nltk"}
+{"id":"tg79.2.8.1","text":"Die Soldaten lagern sich, Sauffen, Spielen und machen sich lustig; Hie muß ein Türckischer Tantz seyn und ihre Music: wan der vorbey thun die Burger einen Ausfall, verjagen die Türcken nehmen etliche gefangen, rauben ihre Beute und gehen alle ab, und die Bürger zum Stadt-Thor hinein; wird forne zugemacht.","type":"other","source":"nltk"}
+{"id":"tg80.2.4","text":"Zimmer. Stahrenberg, Aloisia, Euphrosina.","type":"enter","source":"NLP"}
+{"id":"tg80.2.24.1","text":"Abeunt.","type":"other","source":"nltk"}
+{"id":"tg81.2.4","text":"Wird aufgezogen und praesentiret der Prospect die Stadt und das Lager wie zuvor.","type":"other","source":"nltk"}
+{"id":"tg81.2.5","text":"Kara Mustapha, Tekely und alle Türcken.","type":"enter","source":"NLP"}
+{"id":"tg81.2.11.1","text":"Selim komt geloffen.","type":"enter","source":"nltk"}
+{"id":"tg81.2.15.1","text":"Ibrahim komt dazu.","type":"enter","source":"nltk"}
+{"id":"tg81.2.23.1","text":"Hie geschehen einige verborgene Schüße und die Türcken retiriren sich alle auf eine Seiten.","type":"other","source":"nltk"}
+{"id":"tg81.2.27.1","text":"Pohlen, Sachsen, Bayern, Lotthringen, mir allen ihren Völckern dazu und gehet die Schlacht an, NB.: Hie muß offt geschoßen und die Trummel stets gerühret werden, die Christen schlagen die Türcken und gehen im Nachsetzen alle ab, außer etliche Türcken, welche als todt auf der Wahlstatt liegen bleiben; Hie muß noch hinter denen Scenen ein Geschrey und Klang derer Waffen gehöret werden.","type":"other","source":"nltk"}
+{"id":"tg82.2.4","text":"Hans Wurst geharnischt und mit zweyen Säbeln aus dem Stadt-Thor heraus.","type":"other","source":"nltk"}
+{"id":"tg82.2.6.1.part2","text":"Wetzet seine Säbel.","type":"enter","source":"NLP"}
+{"id":"tg82.2.6.2.part2","text":"Hie machet Hans Wurst die Positur zum fechten, und indem er die todten Türcken siehet, fält er vor Schrecken zur Erden.","type":"other","source":"nltk"}
+{"id":"tg82.2.6.3.part2","text":"Stehet auf und tritt hinzu.","type":"other","source":"nltk"}
+{"id":"tg82.2.6.4.part2","text":"Extemporiret und vexiret die Todten, gehet endlich ab und schleifet Sie hinweg.","type":"exit","source":"nltk"}
+{"id":"tg83.2.4","text":"Pohlen, Sachsen, Bayern, Lotthringen, Baaden mit allen ihren Völckern, der ... theils gefangene Türcken an Ketten, andere Türcken-Köpff auf Stangen, und etliche die Beute an Kleyder und andern Sachen mit sich bringen. NB.: wie auch die große Standarte des Mahomets.","type":"other","source":"nltk"}
+{"id":"tg83.2.15.1","text":"Würtenberg, Cappliers, Stahrenberg und Daun kommen aus der Stadt dazu, bringen die Schlüßel der Stadt auf einem Polster mit sich.","type":"other","source":"nltk"}
+{"id":"tg83.2.19.1","text":"Stahrenberg, Cappliers und Daun knien vor dem Könige nieder.","type":"other","source":"nltk"}
+{"id":"tg83.2.26.1.part1","text":"zum Stahrenberg.","type":"other","source":"nltk"}
+{"id":"tg83.2.74.1","text":"Alle repetiren.","type":"other","source":"nltk"}

@@ -110,11 +110,16 @@ class Drama:
 		result = []
                 for f in fDs:
                 	if(f.attrib):
-                		tmp_stage={}
-        	        	tmp_stage["id"]=f.attrib["{http://www.w3.org/XML/1998/namespace}id"]
-        	                for c in f:
-        	                    tmp_stage["text"]=tool.unicode_safe(c.text)
-        	                    result.append(tmp_stage)
+                            tmp_stage={}
+                            tmp_stage["id"]=f.attrib["{http://www.w3.org/XML/1998/namespace}id"]
+                            for c in f:
+                                #a fix for stage in stage.
+                                if(not(c.tag=="{http://www.tei-c.org/ns/1.0}stage")):
+                                        tmp_stage["text"]=tool.unicode_safe(c.text)
+                            if(f.text):
+                                if(re.match("\S+",f.text)):
+                                    tmp_stage["text"]=tool.unicode_safe(f.text)
+                            result.append(tmp_stage)
 		return result
 	#find act or scene
 	def get_scene(self):

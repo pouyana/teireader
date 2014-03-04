@@ -1,0 +1,252 @@
+{"id":"tg9.2.4","text":"Das Theater stellet durchaus ein Lager vor, inwendig läst sich unter Trompeten, und Paucken ein Lärm von streitenden Soldaten hören; es lauffen etliche Persische Soldaten über das Theater, alsdann kommet König Eyrus, und sein Feld-herz Sigelvax ganz ängstig nachgeloffen.","type":"other","source":"nltk"}
+{"id":"tg9.2.9.1","text":"Lauft geschwind ab.","type":"exit","source":"nltk"}
+{"id":"tg9.2.14.1","text":"Lauft auch ab.","type":"exit","source":"nltk"}
+{"id":"tg9.2.15.1","text":"Es entstehet abermal ein grosser Lärmen, dann kommen 4. Buben, 2. als Tartarn, und 2. als Perser gekleidet, diese halten ein Combattement; die Tartarn überwinden die Persier, welche als todt auf der Erden ligen bleiben, die Tartarn aber, bey entstandenen Lärmen, lauffen davon.","type":"other","source":"nltk"}
+{"id":"tg10.2.4","text":"Kulican, und sein Feld-herz Mortong, nebst etlichen Buben, welche tartarische Soldaten vorstellen, alle haben die blosse Säbel in der Hand.","type":"other","source":"nltk"}
+{"id":"tg10.2.13.1","text":"Zeigt auf die 2. todte Buben.","type":"other","source":"nltk"}
+{"id":"tg10.2.20.1","text":"Er umarmet alle.","type":"other","source":"nltk"}
+{"id":"tg10.2.26.1","text":"Zeigt auf die todten Soldaten.","type":"other","source":"nltk"}
+{"id":"tg10.2.33.1","text":"Die tartarischen Buben wollen plündern, der Vetzier aber stost sie fort, nimmt denen Todten die Kleider, und läst den Uberrest denen Soldaten, welche sich mit denen Schuhen deren Todten müssen begnügen lassen.","type":"other","source":"nltk"}
+{"id":"tg10.2.40.1","text":"Nihmt die Kleider unter seinen Arm.","type":"other","source":"nltk"}
+{"id":"tg10.2.45.1","text":"Hat 2. Casquet; küst Kulican die Füsse.","type":"other","source":"nltk"}
+{"id":"tg10.2.50.1","text":"Hebt den Vezier auf.","type":"other","source":"nltk"}
+{"id":"tg10.2.55.1","text":"Die Buben haben den Kulican die Hand geküst.","type":"other","source":"nltk"}
+{"id":"tg10.2.72.1","text":"Kulican nimmt ein Perspectiv aus dem Sack, und siehet damit in die Mitte der rechten Seiten.","type":"other","source":"nltk"}
+{"id":"tg10.2.76.1","text":"Kulican ist ganz frölich, gibt das Perspectiv dem Vetzier.","type":"other","source":"nltk"}
+{"id":"tg10.2.79.1.part1","text":"dieser haltet das Perspectiv für das Aug, und schaut ganz vorne an die rechte Seiten, und schreyt.","type":"other","source":"nltk"}
+{"id":"tg10.2.83.1.part1","text":"ernsthaft.","type":"other","source":"nltk"}
+{"id":"tg10.2.86.1","text":"Greift darnach.","type":"other","source":"nltk"}
+{"id":"tg10.2.88.1.part1","text":"gibt es nicht her.","type":"other","source":"nltk"}
+{"id":"tg10.2.94.1","text":"Will es wieder haben.","type":"other","source":"nltk"}
+{"id":"tg10.2.96.1.part1","text":"gibt es wieder nicht her, sondern hat es beständig vor das Aug gehalten.","type":"other","source":"nltk"}
+{"id":"tg10.2.99.1.part1","text":"nimmt das Perspectiv mit Gewalt.","type":"other","source":"nltk"}
+{"id":"tg10.2.104.1","text":"Wills Perspectiv wieder haben.","type":"other","source":"nltk"}
+{"id":"tg10.2.110.1","text":"Kulican greift an den Säbel.","type":"other","source":"nltk"}
+{"id":"tg10.2.117.1","text":"Mortong neiget sich, und gehet ab.","type":"exit","source":"nltk"}
+{"id":"tg10.2.122","text":"Verbirgt sich, doch im Abgehen hat er allezeit auf die rechte Seiten gesehen, als wann Pumphia daher ","type":"other","source":"nltk"}
+{"id":"tg10.2.123.1","text":"käme.","type":"other","source":"nltk"}
+{"id":"tg11.2.4","text":"Pumphia, Diese kommet ganz hinten an der linken Seiten heraus.","type":"other","source":"nltk"}
+{"id":"tg11.2.31.1","text":"Kulican hat ruckwerts zugehöret, und kommet bey dem letzten Vers hervor.","type":"other","source":"nltk"}
+{"id":"tg11.2.35.1.part1","text":"voll Schröcken.","type":"other","source":"nltk"}
+{"id":"tg11.2.38.1","text":"Sie will in Ohnmacht fallen.","type":"other","source":"nltk"}
+{"id":"tg11.2.48.1","text":"Will sie umarmen.","type":"other","source":"nltk"}
+{"id":"tg11.2.53.1","text":"Zornig ziehet einen grossen Taschen-feidel aus dem Sack, und will Kulican ermorden.","type":"other","source":"nltk"}
+{"id":"tg11.2.55.1.part1","text":"aengstig.","type":"other","source":"nltk"}
+{"id":"tg11.2.58.1","text":"Die Soldaten nehmen der Pumphia, welche sich widersetzet, den Taschen-feidel weg.","type":"other","source":"nltk"}
+{"id":"tg11.2.59.1","text":"Zärtlich.","type":"other","source":"nltk"}
+{"id":"tg11.2.62.1.part1","text":"zornig.","type":"other","source":"nltk"}
+{"id":"tg11.2.70.1","text":"Sie weinet.","type":"other","source":"nltk"}
+{"id":"tg11.2.78.1","text":"Nimmt die Kleider, so er von dem Großvezier bekommen, und indessen einen Soldaten zu halten gegeben, wieder von ihm, und gibt sie der Prinzeßin, diese stellt sich ganz vergnügt, gibt die Kleider dem alten Weib, welche ihr den Schlep nachtraget.","type":"other","source":"nltk"}
+{"id":"tg11.2.90.1","text":"Hebt die Hand auf, dem Kulican eine Ohrfeigen zu geben.","type":"other","source":"nltk"}
+{"id":"tg11.2.92.1.part1","text":"vor sich.","type":"aside","source":"nltk"}
+{"id":"tg11.2.94.1","text":"Halt die Hand vor das Gesicht.","type":"other","source":"nltk"}
+{"id":"tg11.2.99.1","text":"Er kniet.","type":"other","source":"nltk"}
+{"id":"tg11.2.101.1.part1","text":"zärtlich.","type":"other","source":"nltk"}
+{"id":"tg11.2.110.1.part1","text":"hebt ihn freundlich auf.","type":"other","source":"nltk"}
+{"id":"tg12.2.4","text":"Sogleich kommet der Hauptmann Pinxi in gröster Eil.","type":"other","source":"nltk"}
+{"id":"tg12.2.16.1","text":"Pinxi lauft ohne daß noch Kulican mit ihm geredet geschwind ab. Kulican aber hat unter des Pinxi Reden ihme den Rücken gewendet, und beständig mit Pumphia heimlich gesprochen, sobald er aber ab ist, gibt Kulican folgenden Befehl.","type":"other","source":"nltk"}
+{"id":"tg12.2.23.1","text":"Zu Pumphia zärtlich.","type":"other","source":"nltk"}
+{"id":"tg12.2.46.1","text":"Will sie umarmen.","type":"other","source":"nltk"}
+{"id":"tg12.2.52.1","text":"Hebt wider ihn die Hand auf.","type":"other","source":"nltk"}
+{"id":"tg12.2.61.1","text":"Zwey Stattisten wollen den grösten Knaben wegtragen, dieser aber springt auf, und kniet vor Kulican.","type":"other","source":"nltk"}
+{"id":"tg12.2.82.1","text":"Lauft geschwind ab.","type":"exit","source":"nltk"}
+{"id":"tg12.2.89.1","text":"Die Soldaten wollen den andern Knaben nehmen, dieser aber springet auch, wie der vorige, ängstig auf.","type":"other","source":"nltk"}
+{"id":"tg12.2.99.1","text":"Das Kind lauft auch geschwind ab.","type":"exit","source":"nltk"}
+{"id":"tg12.2.101.1.part1","text":"zornig.","type":"other","source":"nltk"}
+{"id":"tg13.2.4","text":"Mortong ganz ausser Athem.","type":"other","source":"nltk"}
+{"id":"tg13.2.6.1.part1","text":"aengstig.","type":"other","source":"nltk"}
+{"id":"tg13.2.29.1","text":"Lauft ab.","type":"exit","source":"nltk"}
+{"id":"tg13.2.35.1","text":"Weinet.","type":"other","source":"nltk"}
+{"id":"tg13.2.62.1","text":"Die Soldaten geben Kulican einen Sessel an die Seiten, dieser setzet sich geschwind, und sagt zu Pumphia.","type":"other","source":"nltk"}
+{"id":"tg13.2.66.1","text":"Pumphia, da sie keinen Sitz siehet, setzet sie sich neben Kulican auf die Erde.","type":"other","source":"nltk"}
+{"id":"tg14.2.4","text":"Türkischer Marsche, alsdann kommen Tartarische Soldaten mit blossen Säbeln, nach ihnen der Feld-herr Sigelvax und andere Persische Gefangene in Ketten; dann allerhand wilde Thiere, als Tyger, Löwen, Bären Camelen, Elephanten und ein Rhinocerus, auch ein Persisches altes Weib mit einem Kind; letztlich Mortong auf einem Triumph-wagen.","type":"other","source":"nltk"}
+{"id":"tg14.2.5","text":"Dieser ganze Zug wird von lächerlichen Thieren vorgestellet.","type":"other","source":"nltk"}
+{"id":"tg14.2.7.1.part1","text":"schreyet.","type":"other","source":"nltk"}
+{"id":"tg14.2.12.1.part1","text":"schreyt abermal.","type":"other","source":"nltk"}
+{"id":"tg14.2.17.1.part1","text":"hönisch.","type":"other","source":"nltk"}
+{"id":"tg14.2.31.1","text":"Grimmig.","type":"other","source":"nltk"}
+{"id":"tg14.2.34.1.part1","text":"lacht.","type":"other","source":"nltk"}
+{"id":"tg14.2.38.1","text":"Stehet auf.","type":"other","source":"nltk"}
+{"id":"tg14.2.47.1.part1","text":"fällt ein.","type":"other","source":"nltk"}
+{"id":"tg14.2.62.1.part1","text":"zu Mortong.","type":"other","source":"nltk"}
+{"id":"tg14.2.64.1.part1","text":"fällt ein.","type":"other","source":"nltk"}
+{"id":"tg14.2.67.1.part1","text":"lächlend.","type":"other","source":"nltk"}
+{"id":"tg14.2.71.1","text":"Für sich.","type":"other","source":"nltk"}
+{"id":"tg14.2.79.1","text":"Zeiget auf Sigelvax.","type":"other","source":"nltk"}
+{"id":"tg14.2.85.1","text":"Mortong und der ganze Zug gehen wie vorhero unter den Türkischen Marsche ab. Der Feld-herr Sigelvax aber bleibet ganz betrübt stehen.","type":"other","source":"nltk"}
+{"id":"tg14.2.90.1","text":"Grimmig.","type":"other","source":"nltk"}
+{"id":"tg14.2.93.1.part1","text":"ängstig.","type":"other","source":"nltk"}
+{"id":"tg14.2.96.1","text":"Schleicht mit langsamen Schritten zu ihm.","type":"other","source":"nltk"}
+{"id":"tg14.2.145.1","text":"Kniet nieder.","type":"other","source":"nltk"}
+{"id":"tg14.2.151.1.part1","text":"fällt ein.","type":"other","source":"nltk"}
+{"id":"tg14.2.155.1.part1","text":"ziehet den Säbel.","type":"other","source":"nltk"}
+{"id":"tg14.2.157.1.part1","text":"fällt ihm in Arm.","type":"other","source":"nltk"}
+{"id":"tg14.2.159.1.part1","text":"hält mit allen 2.","type":"other","source":"nltk"}
+{"id":"tg14.2.161.1.part1","text":"zur Pumphia freundlich.","type":"other","source":"nltk"}
+{"id":"tg14.2.166.1","text":"Soldaten lauffen geschwind ab, und bringen eine Festung herausgetragen.","type":"other","source":"nltk"}
+{"id":"tg14.2.180.1","text":"Die Soldaten greiffen den Sigelvax an.","type":"other","source":"nltk"}
+{"id":"tg14.2.182.1.part1","text":"im Abgehen weint.","type":"other","source":"nltk"}
+{"id":"tg14.2.186.1","text":"Die Soldaten schleppen den Sigelvax in die Festung hinein und verschliessen die Thür mit einem grossen Schloß.","type":"exit","source":"nltk"}
+{"id":"tg14.2.188.1.part1","text":"hönisch.","type":"other","source":"nltk"}
+{"id":"tg14.2.195.1","text":"Küst ihr die Hand.","type":"other","source":"nltk"}
+{"id":"tg14.2.202.1.part1","text":"vor sich.","type":"aside","source":"nltk"}
+{"id":"tg14.2.208.1","text":"Nimmt Pumphia kniend bey der Hand.","type":"other","source":"nltk"}
+{"id":"tg14.2.213.1.part1","text":"betrübt.","type":"other","source":"nltk"}
+{"id":"tg14.2.221.1","text":"Küst ihr wieder die Hand.","type":"other","source":"nltk"}
+{"id":"tg14.2.223.1.part1","text":"schamhaftig.","type":"other","source":"nltk"}
+{"id":"tg14.2.225.1.part1","text":"heftig.","type":"other","source":"nltk"}
+{"id":"tg14.2.227.1.part1","text":"entrüstet.","type":"other","source":"nltk"}
+{"id":"tg14.2.231.1.part1","text":"steht auf.","type":"other","source":"nltk"}
+{"id":"tg14.2.234.1","text":"Küst ihr die Hand.","type":"other","source":"nltk"}
+{"id":"tg14.2.238.1","text":"Geht mit beständigen Umschauen mit Soldaten weinend ab.","type":"exit","source":"nltk"}
+{"id":"tg14.2.240.1.part1","text":"wann Kulican ab, fängt Pumphia laut an zu lachen.","type":"other","source":"nltk"}
+{"id":"tg14.2.286.1","text":"Pumphia ab.","type":"exit","source":"nltk"}
+{"id":"tg16.2.4.1","text":"Faustibus ganz forchtsam, und da er niemand siehet, nimmt er eine Helden-mässige Stellung an sich.","type":"other","source":"nltk"}
+{"id":"tg16.2.40.1","text":"In Gedanken.","type":"other","source":"nltk"}
+{"id":"tg16.2.45.1","text":"Heftig.","type":"other","source":"nltk"}
+{"id":"tg16.2.51.1","text":"Bleibt in Gedanken stehen.","type":"other","source":"nltk"}
+{"id":"tg16.2.52.1","text":"Dazu.","type":"other","source":"nltk"}
+{"id":"tg17.2.4","text":"Cyrus ganz ängstig.","type":"other","source":"nltk"}
+{"id":"tg17.2.11.1.part1","text":"fällt ein.","type":"other","source":"nltk"}
+{"id":"tg17.2.33.1","text":"Nimmt ein Papier aus dem Sack.","type":"other","source":"nltk"}
+{"id":"tg17.2.41.1.part1","text":"liset.","type":"other","source":"nltk"}
+{"id":"tg18.2.4","text":"Läst sich Sigelvax mit kläglicher Stimme aus der Festung hören.","type":"other","source":"nltk"}
+{"id":"tg18.2.9.1.part1","text":"erschrickt.","type":"other","source":"nltk"}
+{"id":"tg18.2.20.1","text":"Es kommen Persische Soldaten, und bringen Hammer, Hacken, und Brech-eisen.","type":"other","source":"nltk"}
+{"id":"tg18.2.28.1","text":"Gehet bey der Seiten der Festung ganz langsam heraus, und mit Cyrus hervor.","type":"other","source":"nltk"}
+{"id":"tg18.2.37.1","text":"Die Soldaten fangen an das Thor einzusprengen.","type":"other","source":"nltk"}
+{"id":"tg18.2.47.1.part1","text":"fällt ein.","type":"other","source":"nltk"}
+{"id":"tg18.2.50.1","text":"Zeigt auf die Oefnung, so die Soldaten in das Thor gemachet.","type":"other","source":"nltk"}
+{"id":"tg18.2.54.1","text":"Sigelvax gehet zuruck, und in jene Seite der Festung hinein, wo er heraus gekommen, und kriechet bey der Oefnung, so die Soldaten gemachet, ganz mühesam heraus.","type":"other","source":"nltk"}
+{"id":"tg18.2.59.1","text":"Umfanget Cyrum, und küst denselben.","type":"other","source":"nltk"}
+{"id":"tg18.2.62.1.part1","text":"stellt sich, ihn aufzuheben.","type":"other","source":"nltk"}
+{"id":"tg18.2.67.1.part1","text":"furchtsam.","type":"other","source":"nltk"}
+{"id":"tg18.2.72.1","text":"Zu Faust.","type":"other","source":"nltk"}
+{"id":"tg18.2.97.1","text":"Siehet aus der unrechten Scena den Kulican kommen.","type":"other","source":"nltk"}
+{"id":"tg18.2.107.1","text":"Und gehet ganz verschlaffen ab.","type":"exit","source":"nltk"}
+{"id":"tg18.2.127.1","text":"Deutet auf die Scena, wo Kulican herkommet.","type":"other","source":"nltk"}
+{"id":"tg18.2.131.1","text":"Nihmt Cyrum zittrend bey der Hand.","type":"other","source":"nltk"}
+{"id":"tg18.2.136.1","text":"Weint.","type":"other","source":"nltk"}
+{"id":"tg18.2.143.1","text":"Faustibus führet den Cyrum in eben die Scen, wo Kulican und Mortong herkommen, so, daß sie hart aneinander stossen.","type":"other","source":"nltk"}
+{"id":"tg19.2.4","text":"Kulican und Mortong mit Soldaten.","type":"other","source":"nltk"}
+{"id":"tg19.2.14.1","text":"Zeigt auf die andre Seiten in die unrechte Scena.","type":"other","source":"nltk"}
+{"id":"tg19.2.37.1","text":"Will gehen.","type":"other","source":"nltk"}
+{"id":"tg20.2.4","text":"Faustibus kommet hinten heraus, und schleicht sich auf denen Zähen neben Kulican.","type":"other","source":"nltk"}
+{"id":"tg20.2.9.1","text":"Siehet recht stark den kommenden Faustibus an.","type":"other","source":"nltk"}
+{"id":"tg20.2.18.1.part1","text":"welcher hart neben Kulican stehet, und ihn beständig in das Gesicht siehet.","type":"other","source":"nltk"}
+{"id":"tg20.2.22.1.part1","text":"zu Kulican.","type":"other","source":"nltk"}
+{"id":"tg20.2.32.1","text":"Stost Kulican, und Mortong auf die Seiten, und lauft ab. Diese aber stellen sich, ihn nicht gesehen zu haben.","type":"other","source":"nltk"}
+{"id":"tg20.2.39.1","text":"Siehet auf die Festung.","type":"other","source":"nltk"}
+{"id":"tg20.2.46.1","text":"Geht geschwind zu der Festung, kriecht bey dem Loch hinein, und gleich wieder heraus.","type":"other","source":"nltk"}
+{"id":"tg20.2.60.1.part1","text":"zieht den Säbel.","type":"other","source":"nltk"}
+{"id":"tg20.2.65.1","text":"Lauft ab.","type":"exit","source":"nltk"}
+{"id":"tg21.2.7.1","text":"Heimlich.","type":"other","source":"nltk"}
+{"id":"tg21.2.14.1","text":"Abseits.","type":"other","source":"nltk"}
+{"id":"tg21.2.22.1","text":"Gibt ihr die Hand.","type":"other","source":"nltk"}
+{"id":"tg21.2.27.1","text":"Abseits.","type":"other","source":"nltk"}
+{"id":"tg21.2.42.1","text":"Abseits.","type":"other","source":"nltk"}
+{"id":"tg21.2.50.1","text":"Reden heimlich verliebt mit einander.","type":"other","source":"nltk"}
+{"id":"tg22.2.4","text":"Cyrus, Faustibus ganz hinten.","type":"other","source":"nltk"}
+{"id":"tg22.2.13.1","text":"Abseits.","type":"other","source":"nltk"}
+{"id":"tg22.2.17.1","text":"Zu Cyrus.","type":"other","source":"nltk"}
+{"id":"tg22.2.29.1","text":"Cyrus, und Faustibus zugleich ziehen die Säbel, bleiben aber von weiten stehen.","type":"other","source":"nltk"}
+{"id":"tg22.2.34.1","text":"Dazu.","type":"other","source":"nltk"}
+{"id":"tg23.2.4","text":"À tempo.","type":"other","source":"nltk"}
+{"id":"tg23.2.5","text":"Mortong kommt dem Kulican zu Hülf, getraut sich aber nicht in die Nähe.","type":"other","source":"nltk"}
+{"id":"tg23.2.9.1.part1","text":"hat sich hinter Pumphia verstecket, zittert an Händ, und Füssen.","type":"other","source":"nltk"}
+{"id":"tg23.2.19.1.part1","text":"zu Cyrus.","type":"other","source":"nltk"}
+{"id":"tg23.2.28.1","text":"Cyrus, und Faustibus werfen die Säbel auf die Erden, und in dieser Scena hat keiner den anderen angerühret. Mortong hebt die 2. Säbel auf, Kulican aber, welcher beständig in Aengsten gestanden, da er siehet, daß seine Feinde entwafnet, nimmt er wieder seinen tyrannischen Caracteur an sich, und sagt zu Cyrus.","type":"other","source":"nltk"}
+{"id":"tg23.2.45.1","text":"Mortong und die Soldaten tragen die Festung geschwind weg, und setzen einen Thron an ihren Platz.","type":"other","source":"nltk"}
+{"id":"tg23.2.46.1","text":"Zu Faustibus.","type":"other","source":"nltk"}
+{"id":"tg23.2.53.1.part1","text":"ich bin vor Angst fast tod.","type":"other","source":"nltk"}
+{"id":"tg23.2.54.1.part1","text":"ich wolt, ich wär zu Haus.","type":"other","source":"nltk"}
+{"id":"tg23.2.55.1.part1","text":"zeigt auf den Säbel.","type":"other","source":"nltk"}
+{"id":"tg23.2.57.1.part1","text":"fällt ein.","type":"other","source":"nltk"}
+{"id":"tg23.2.65.1","text":"Heimlich.","type":"other","source":"nltk"}
+{"id":"tg23.2.71.1","text":"Zu Pumphia.","type":"other","source":"nltk"}
+{"id":"tg23.2.76.1","text":"Zu Cyrus.","type":"other","source":"nltk"}
+{"id":"tg23.2.84.1","text":"Die Soldaten werffen den Cyrum vor den Thron auf die Erden; Kulican will auf ihn steigen. Pumphia aber springt ihm vor, und setzt sich auf Cyrum.","type":"other","source":"nltk"}
+{"id":"tg23.2.88.1.part1","text":"hebt sie auf.","type":"other","source":"nltk"}
+{"id":"tg23.2.91.1","text":"Zu Cyrus.","type":"other","source":"nltk"}
+{"id":"tg23.2.95.1","text":"Die Soldaten heben den Cyrum auf.","type":"other","source":"nltk"}
+{"id":"tg23.2.100.1","text":"Pumphia und Kulican setzen sich auf den Thron.","type":"other","source":"nltk"}
+{"id":"tg23.2.126.1.part1","text":"fält ein.","type":"other","source":"nltk"}
+{"id":"tg23.2.130.1","text":"Stöst die Pumphia vom Throne, daß sie nach aller Länge aufs Theater fält. Pumphia steht allein ohne ihr jemand zu helfen auf.","type":"other","source":"nltk"}
+{"id":"tg23.2.134.1.part1","text":"welcher von Throne gestiegen, sagt ganz höflich zu Pumphia.","type":"other","source":"nltk"}
+{"id":"tg23.2.136.1.part1","text":"heimlich.","type":"other","source":"nltk"}
+{"id":"tg24.2.4","text":"Der Hauptmann Pinxi mit Soldaten bringet den Prinzen Miketey, und den Feldherrn Sigelvax gefangen in Ketten.","type":"other","source":"nltk"}
+{"id":"tg24.2.10.1","text":"Zeigt auf Miketey.","type":"other","source":"nltk"}
+{"id":"tg24.2.14.1","text":"Zeigt auf Sigelvax.","type":"other","source":"nltk"}
+{"id":"tg24.2.21","text":"Zu Sigelvax, indem er ihn schüttelt","type":"other","source":"nltk"}
+{"id":"tg24.2.25.1.part1","text":"welcher aus dem Schlaf kommet.","type":"other","source":"nltk"}
+{"id":"tg24.2.30.1","text":"Umarmet heimlich dem Prinzen Miketey.","type":"enter","source":"NLP"}
+{"id":"tg24.2.40.1.part1","text":"zu Miketey.","type":"other","source":"nltk"}
+{"id":"tg24.2.48.1.part1","text":"hönisch.","type":"other","source":"nltk"}
+{"id":"tg24.2.58.1","text":"Zu Pumphia.","type":"other","source":"nltk"}
+{"id":"tg24.2.70.1","text":"Zornig.","type":"other","source":"nltk"}
+{"id":"tg24.2.91.1.part1","text":"in Aengsten.","type":"other","source":"nltk"}
+{"id":"tg24.2.103.1.part1","text":"demütig kniet.","type":"other","source":"nltk"}
+{"id":"tg24.2.127.1","text":"Faustibus Steht auf, und umarmet Cyrum.","type":"other","source":"nltk"}
+{"id":"tg24.2.132.1","text":"Nihmt den Prinz Miketey bey der Hand.","type":"enter","source":"NLP"}
+{"id":"tg24.2.146.1.part1","text":"küst Cyrus die Hand.","type":"enter","source":"NLP"}
+{"id":"tg24.2.150.1.part1","text":"springt vor zorn in die Höhe.","type":"other","source":"nltk"}
+{"id":"tg24.2.161.1","text":"Auf Miketey und Sigelvax zeigend.","type":"other","source":"nltk"}
+{"id":"tg24.2.166.1","text":"Pinxi nihmt Sigelvax und Miketey beym Arm.","type":"other","source":"nltk"}
+{"id":"tg24.2.169.1.part1","text":"in Abgehen.","type":"other","source":"nltk"}
+{"id":"tg24.2.171.1.part1","text":"schläffrig.","type":"other","source":"nltk"}
+{"id":"tg24.2.174.1","text":"Beyde werden durch Pinxi und Soldaten abgeführt.","type":"other","source":"nltk"}
+{"id":"tg24.2.188.1","text":"Alle 3. umarmen sich, und weinen, hier folget das Quartetto von Kulican, Cyrus, Faustibus, und Pumphia.","type":"other","source":"nltk"}
+{"id":"tg24.2.193.1","text":"Von Pumphia, Kulican, Cyrus, und Faustibus.","type":"other","source":"nltk"}
+{"id":"tg24.2.225.1","text":"Alle 3. verspotten ihn.","type":"other","source":"nltk"}
+{"id":"tg24.2.247.1","text":"Nach dem Quartetto zeiget sich Kulican ganz rasend.","type":"other","source":"nltk"}
+{"id":"tg24.2.253.1","text":"Dieses geschiehet von Soldaten, Kulican mit Caricatur hauet dem Cyrus den Kopf auf der Erden ab, so daß man sehen kan, daß er einen falschen Kopf genommen, der abgehauene Kopf siehet lächerlich aus, und des Cyrus seinem gar nicht gleich, Kulican haltet den Kopf in der Hand.","type":"other","source":"nltk"}
+{"id":"tg24.2.257.1","text":"Wirft den Kopf der Pumphia vor die Füsse.","type":"other","source":"nltk"}
+{"id":"tg24.2.261.1.part1","text":"ganz erstaunt.","type":"other","source":"nltk"}
+{"id":"tg24.2.270.1","text":"Zu Kulican.","type":"other","source":"nltk"}
+{"id":"tg24.2.274.1","text":"Sie hebt den Kopf auf.","type":"other","source":"nltk"}
+{"id":"tg24.2.283.1","text":"Stellt sich, als ob sie in den masquirten Kopf beissen wolte, Faustibus und Kulican aber halten sie ab.","type":"exit","source":"nltk"}
+{"id":"tg24.2.291.1","text":"Stellt sich, als ob sie dem Kulican den Kopf wolte ins Gesicht schlagen.","type":"other","source":"nltk"}
+{"id":"tg24.2.297.1","text":"Steckt den Kopf in Sack.","type":"other","source":"nltk"}
+{"id":"tg24.2.299.1.part1","text":"steigt auf den Thron.","type":"other","source":"nltk"}
+{"id":"tg24.2.311.1","text":"Ein Soldat lauffet ab, und bringt gleich auf einer Tatzen ein Maß-zimment mit Bier.","type":"other","source":"nltk"}
+{"id":"tg24.2.316.1","text":"Sie nimmt das Zimment oder die Kanne, und trinket.","type":"other","source":"nltk"}
+{"id":"tg24.2.325.1","text":"Sie trinket wieder.","type":"other","source":"nltk"}
+{"id":"tg24.2.338.1","text":"Sie trinkt wieder.","type":"other","source":"nltk"}
+{"id":"tg24.2.343.1","text":"Sie nimmt allen Schmuck von Kopf, und gibt ihn an die Seiten.","type":"other","source":"nltk"}
+{"id":"tg24.2.350.1","text":"Pumphia täumlet zurück auf einen Sitz, Faustibus und Mortong lauffen ihr zu helfen.","type":"other","source":"nltk"}
+{"id":"tg24.2.360.1.part1","text":"zeiget auf Faustibus.","type":"other","source":"nltk"}
+{"id":"tg24.2.363.1","text":"Cyrus wird mit Lazo abgetragen, und Faustibus von denen Soldaten abgeführet. Mortong, und Soldaten kommen gleich wieder zurück.","type":"other","source":"nltk"}
+{"id":"tg24.2.364.1","text":"Zu Pumphia.","type":"other","source":"nltk"}
+{"id":"tg24.2.370.1","text":"Zu Mortong.","type":"other","source":"nltk"}
+{"id":"tg24.2.374.1","text":"Mortong, und die Soldaten wollen sie fortführen.","type":"other","source":"nltk"}
+{"id":"tg24.2.376.1.part1","text":"erholt sich.","type":"other","source":"nltk"}
+{"id":"tg24.2.385.1","text":"Pumphia reist sich bey denen Haaren.","type":"other","source":"nltk"}
+{"id":"tg24.2.388.1.part1","text":"abseits.","type":"other","source":"nltk"}
+{"id":"tg24.2.390.1.part1","text":"zu Kulican.","type":"other","source":"nltk"}
+{"id":"tg24.2.392.1.part1","text":"so in Gedanken war.","type":"other","source":"nltk"}
+{"id":"tg24.2.398.1.part1","text":"NB.","type":"other","source":"nltk"}
+{"id":"tg25.2.4","text":"Soffocles tritt à tempo ein.","type":"other","source":"nltk"}
+{"id":"tg25.2.31.1.part1","text":"zu Mortong.","type":"other","source":"nltk"}
+{"id":"tg25.2.36.1","text":"Soffocles wird durch Mortong abgestossen.","type":"other","source":"nltk"}
+{"id":"tg25.2.44.1","text":"Zu Mortong.","type":"other","source":"nltk"}
+{"id":"tg26.2.4","text":"A tempo erscheinet der Tempel, der Opfertisch, und der Krieges-gott Crocovita wird heraus getragen, viele weisse Knaben mit Wind-lichtern gehen voraus, alsdann folget Pumphia in einem weissen Kleid, und wird von sechs Götzen-pfaffen begleitet, welche allerhand Mord-instrumenten, als Hacken, Säge, Schwerdter, vergoldte Töpfe, grosse Schüsseln, und dergleichen in Händen haben. Voraus lasset sich eine angenehme Music hören.","type":"other","source":"nltk"}
+{"id":"tg26.2.31.1","text":"Sie giebt denen Götzen-pfaffen ein kostbares Jubel.","type":"other","source":"nltk"}
+{"id":"tg26.2.32.1","text":"Zu Kulican.","type":"other","source":"nltk"}
+{"id":"tg27.2.4","text":"Entstehet inwendig ein grosser Lärmen, Cyrus, Miketey, Faustibus, Sigelvax, und Soffocles, der Leztere aber bleibt zurück.","type":"other","source":"nltk"}
+{"id":"tg27.2.9","text":"Sie reissen Kulican vom Thron auf die Erde.","type":"other","source":"nltk"}
+{"id":"tg27.2.19.1","text":"Alle 4. schlagen auf Kulican beständig zu.","type":"other","source":"nltk"}
+{"id":"tg27.2.21.1.part1","text":"schreit.","type":"other","source":"nltk"}
+{"id":"tg27.2.37.1.part1","text":"zu Cyrus.","type":"other","source":"nltk"}
+{"id":"tg27.2.41.1","text":"Soffocles kommt a tempo hervor.","type":"enter","source":"nltk"}
+{"id":"tg27.2.48.1","text":"Zeigt auf Cyrum, Miketey, Faustibus, und Siegelvax.","type":"other","source":"nltk"}
+{"id":"tg27.2.52.1","text":"Zu Cyrus.","type":"other","source":"nltk"}
+{"id":"tg27.2.56.1","text":"Und gehet ab.","type":"exit","source":"nltk"}
+{"id":"tg27.2.63.1","text":"Zu Faustibus.","type":"other","source":"nltk"}
+{"id":"tg27.2.74.1","text":"Zu Faustibus.","type":"other","source":"nltk"}
+{"id":"tg27.2.84.1","text":"Sie gibt den Kulican, welcher sich verwundert, die Hand.","type":"other","source":"nltk"}
+{"id":"tg27.2.89.1.part1","text":"fällt ein.","type":"other","source":"nltk"}
+{"id":"tg27.2.92.1","text":"Componirt von Joseph Kurz.","type":"other","source":"nltk"}
+{"id":"tg27.2.93.1","text":"Hierauf folget die Pantomim.","type":"other","source":"nltk"}
+{"id":"tg29.2.18.1.part1","text":"NB.","type":"other","source":"nltk"}
+{"id":"tg42.2.71.1","text":"Que l'aurore naissante.","type":"other","source":"nltk"}
+{"id":"tg42.2.78.1","text":"Sous les loix.","type":"enter","source":"NLP"}

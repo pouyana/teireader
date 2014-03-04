@@ -1,0 +1,7 @@
+{"id":"tg279.2.4","text":"Die Witwe. Lisette.","type":"enter","source":"NLP"}
+{"id":"tg280.2.4","text":"Lisette. Damon.","type":"enter","source":"NLP"}
+{"id":"tg282.2.4","text":"Lisette. Leander.","type":"enter","source":"NLP"}
+{"id":"tg283.2.4","text":"Leander. Damon.","type":"enter","source":"NLP"}
+{"id":"tg285.2.4","text":"Oronte. Damon.","type":"enter","source":"NLP"}
+{"id":"tg287.2.4","text":"Lisette. Damon.","type":"enter","source":"NLP"}
+{"id":"tg288.2.4","text":"Oronte. Die Witwe. Leander. Damon. Lisette.","type":"enter","source":"NLP"}

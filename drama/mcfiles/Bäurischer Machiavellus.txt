@@ -1,0 +1,198 @@
+{"id":"tg142.2.4","text":"Eusebius, Uranius.","type":"enter","source":"NLP"}
+{"id":"tg142.2.15.1","text":"Politicus und Civilis treten auff.","type":"other","source":"nltk"}
+{"id":"tg142.2.28.1","text":"Legt Civili die Hand auf den Kopff.","type":"other","source":"nltk"}
+{"id":"tg142.2.54.1","text":"Gehen ab.","type":"exit","source":"nltk"}
+{"id":"tg142.2.55.1","text":"Simplex, Candidus, Fidelis.","type":"enter","source":"NLP"}
+{"id":"tg142.2.93.1","text":"Gehen ab.","type":"exit","source":"nltk"}
+{"id":"tg142.2.94.1","text":"Der innere Schauplatz eröffnet sich / darinn Apollo in einem hellen Throne præsentiret wird.","type":"other","source":"nltk"}
+{"id":"tg142.2.98.1","text":"Die Scene fält wieder zu und verbirgt den Thron.","type":"other","source":"nltk"}
+{"id":"tg142.2.99.1","text":"Innocens, Infucatus, Immutabilis.","type":"enter","source":"NLP"}
+{"id":"tg142.2.106.1","text":"Es wird eine Trompete geblasen / Fama kommt heraus.","type":"enter","source":"nltk"}
+{"id":"tg142.2.117.1","text":"Fama schwinget sich davon / die Trompete wird wieder geblasen.","type":"other","source":"nltk"}
+{"id":"tg142.2.121.1","text":"Die Scene eröffnet sich wieder / da Apollo auf dem Throne sitzt.","type":"other","source":"nltk"}
+{"id":"tg142.2.125.1","text":"Gentiletus, Simplex, Candidus, Fidelis, Innocens, Infucatus, Immutabilis.","type":"enter","source":"NLP"}
+{"id":"tg142.2.134.1","text":"Sie treten zusammen biß Machiavellus kömmt.","type":"other","source":"nltk"}
+{"id":"tg142.2.157.1","text":"Die Scene fällt zu.","type":"other","source":"nltk"}
+{"id":"tg142.2.162.1","text":"Curiosus, Eusebius, Uranius, Politicus, Civilis.","type":"enter","source":"NLP"}
+{"id":"tg142.2.166.1","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg142.2.171","text":"Geht ab","type":"exit","source":"nltk"}
+{"id":"tg142.2.179.1","text":"Sie gehen ab.","type":"exit","source":"nltk"}
+{"id":"tg142.2.188.1","text":"Gehet ab.","type":"exit","source":"nltk"}
+{"id":"tg142.2.199.1","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg142.2.205.1","text":"Gehen ab.","type":"exit","source":"nltk"}
+{"id":"tg143.2.4.1","text":"Ciaconi kömmt.","type":"other","source":"nltk"}
+{"id":"tg143.2.18.1","text":"Er fänget an den Fingern zu zählen.","type":"other","source":"nltk"}
+{"id":"tg143.2.32.1","text":"Durandus kömmt.","type":"other","source":"nltk"}
+{"id":"tg143.2.38.1.part1","text":"Führt ihn auff die Seite.","type":"other","source":"nltk"}
+{"id":"tg143.2.53.1","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg143.2.58.1","text":"Gehet ab.","type":"exit","source":"nltk"}
+{"id":"tg143.2.62.1","text":"Pacifontius steht an des Materialisten Thür.","type":"other","source":"nltk"}
+{"id":"tg143.2.80.1","text":"Substantia kömmt auf der andern Seite heraus.","type":"other","source":"nltk"}
+{"id":"tg143.2.91.1","text":"Er führt sie auff die Seite.","type":"other","source":"nltk"}
+{"id":"tg143.2.108.1.part1","text":"hinter der Scene.","type":"other","source":"nltk"}
+{"id":"tg143.2.111.1","text":"Quantitas kömmt.","type":"other","source":"nltk"}
+{"id":"tg143.2.130.1","text":"Pacifontius und Quantitas gehen ab.","type":"exit","source":"nltk"}
+{"id":"tg143.2.138.1","text":"Scibilis geht ab.","type":"exit","source":"nltk"}
+{"id":"tg143.2.142.1","text":"Purus Putus kömt.","type":"enter","source":"NLP"}
+{"id":"tg143.2.159.1","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg143.2.163.1","text":"Ziribiziribo kömt heraus / und singt ein Frantzösisches Liedgen.","type":"other","source":"nltk"}
+{"id":"tg143.2.172.1","text":"Gehet ab.","type":"exit","source":"nltk"}
+{"id":"tg143.2.176.1","text":"Er singet.","type":"other","source":"nltk"}
+{"id":"tg143.2.178.1.part1","text":"kömmt.","type":"other","source":"nltk"}
+{"id":"tg143.2.202.1","text":"Gehen ab.","type":"exit","source":"nltk"}
+{"id":"tg143.2.203.1","text":"Der Schau-Platz præsentiret die Schubäncke.","type":"other","source":"nltk"}
+{"id":"tg143.2.204.1","text":"Purus Putus, Durandus, Scibilis, Excipe, Vademecus, Extra, Intra, Adjectivus, Nescio treten auff / und setzen sich / Quoniam bleibet an der Thüre stehen.","type":"other","source":"nltk"}
+{"id":"tg143.2.206.2.part2","text":"Er buchstabiret fort.","type":"other","source":"nltk"}
+{"id":"tg143.2.221.1.part1","text":"trit auff.","type":"other","source":"nltk"}
+{"id":"tg143.2.223.1.part2","text":"Läufft in die Versammlung.","type":"other","source":"nltk"}
+{"id":"tg143.2.230.1.part1","text":"kömt gelauffen.","type":"enter","source":"nltk"}
+{"id":"tg143.2.239.1.part1","text":"kommt.","type":"enter","source":"nltk"}
+{"id":"tg143.2.242.1.part2","text":"Er besinnet sich.","type":"other","source":"nltk"}
+{"id":"tg143.2.244.1","text":"Er geht wieder in seine Session.","type":"exit","source":"nltk"}
+{"id":"tg143.2.253.1","text":"Geht ab mit ihren Purus Putus.","type":"exit","source":"nltk"}
+{"id":"tg143.2.257.1","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg143.2.261.1","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg143.2.273.1","text":"Gehen ab.","type":"exit","source":"nltk"}
+{"id":"tg143.2.277.1","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg143.2.281.1","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg143.2.290.1","text":"Gehen ab.","type":"exit","source":"nltk"}
+{"id":"tg143.2.291.1","text":"Vocativus, Scibilis.","type":"enter","source":"NLP"}
+{"id":"tg143.2.298.1","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg143.2.299.1","text":"Ziribiziribo bringt des Schulmeisters Tochter Risibilis an der Hand / und singt ein lustig Lied.","type":"other","source":"nltk"}
+{"id":"tg143.2.323.1","text":"Gehen ab.","type":"exit","source":"nltk"}
+{"id":"tg144.2.4","text":"Purus Putus, Durandus, Excipe.","type":"enter","source":"NLP"}
+{"id":"tg144.2.25.1","text":"Durandus und Excipe gehen ab.","type":"exit","source":"nltk"}
+{"id":"tg144.2.26.1","text":"Pacifontius, Quantitas.","type":"other","source":"nltk"}
+{"id":"tg144.2.39.1","text":"Sie wil sich loß reissen / der Vater springt hervor.","type":"other","source":"nltk"}
+{"id":"tg144.2.45","text":"[Quantitas geht ab.]","type":"exit","source":"nltk"}
+{"id":"tg144.2.62.1","text":"Nescio kömmt mit einem Strohseile heraus.","type":"other","source":"nltk"}
+{"id":"tg144.2.77.1","text":"Gehen ab.","type":"exit","source":"nltk"}
+{"id":"tg144.2.78.1","text":"Scibilis, Excipe.","type":"enter","source":"NLP"}
+{"id":"tg144.2.90.1","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg144.2.94.1","text":"Zodiacus kömmt.","type":"other","source":"nltk"}
+{"id":"tg144.2.110.1","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg144.2.113.1.part1","text":"kömmt gelauffen.","type":"enter","source":"nltk"}
+{"id":"tg144.2.126.1","text":"Gehet ab.","type":"exit","source":"nltk"}
+{"id":"tg144.2.130.1","text":"Ziribiziribo kömmt singende heraus.","type":"other","source":"nltk"}
+{"id":"tg144.2.146.1","text":"Gehen ab.","type":"exit","source":"nltk"}
+{"id":"tg144.2.150.1","text":"Ziribiziribo kömmt und hat an statt der Bratwürste zwey grosse ausgestopffte Würste / wie die Moriones tragen / in die Schüssel gelegt.","type":"other","source":"nltk"}
+{"id":"tg144.2.164.1","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg144.2.168.1","text":"Gehet ab.","type":"exit","source":"nltk"}
+{"id":"tg144.2.179.1.part1","text":"[kömmt.","type":"other","source":"nltk"}
+{"id":"tg144.2.189.1","text":"Substantia kömmt rasende heraus gelauffen.","type":"enter","source":"nltk"}
+{"id":"tg144.2.197.1","text":"Gehet ab.","type":"exit","source":"nltk"}
+{"id":"tg144.2.201.1","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg144.2.202.1","text":"Scibilis und Ziribiziribo auf der andern Seite.","type":"other","source":"nltk"}
+{"id":"tg144.2.208.1","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg144.2.217.1","text":"Durandus und Purus Putus gehen ab.","type":"exit","source":"nltk"}
+{"id":"tg144.2.222.1","text":"Ascanius tritt an des Herrn Paters Thüre heraus.","type":"other","source":"nltk"}
+{"id":"tg144.2.226.1.part1","text":"ad spectatores.","type":"aside","source":"nltk"}
+{"id":"tg144.2.226.2.part2","text":"Ad Ascanium.","type":"enter","source":"NLP"}
+{"id":"tg144.2.231.1","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg144.2.234.1.part1","text":"kömmt.","type":"other","source":"nltk"}
+{"id":"tg144.2.245.1","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg144.2.246.1","text":"Ascanius kömmt.","type":"other","source":"nltk"}
+{"id":"tg144.2.258.1","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg144.2.262.1","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg144.2.263.1","text":"Durandus. Purus Putus, Pacifontius, Intra.","type":"enter","source":"NLP"}
+{"id":"tg144.2.278.1","text":"Durandus und Intra gehen ab.","type":"exit","source":"nltk"}
+{"id":"tg144.2.281.1.part1","text":"kömmt.","type":"other","source":"nltk"}
+{"id":"tg144.2.290.1","text":"Gehen ab.","type":"exit","source":"nltk"}
+{"id":"tg144.2.291.1","text":"Scibilis, Ziribiziribo.","type":"enter","source":"NLP"}
+{"id":"tg144.2.297.1","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg144.2.301.1","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg144.2.302.1","text":"Zodiacus, Durandus.","type":"enter","source":"NLP"}
+{"id":"tg144.2.309.1","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg144.2.314.1","text":"Scibilis, Ziribiziribo.","type":"enter","source":"NLP"}
+{"id":"tg144.2.340.1","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg144.2.349.1","text":"Er singet ein Frantzösisch Liedgen und gehet hinein.","type":"exit","source":"nltk"}
+{"id":"tg145.2.4","text":"Eusebius, Politicus.","type":"enter","source":"NLP"}
+{"id":"tg145.2.15.1","text":"Rationalis kömmt.","type":"other","source":"nltk"}
+{"id":"tg145.2.26.1","text":"Appetitus, Stultitia, Calliditas.","type":"enter","source":"NLP"}
+{"id":"tg145.2.40.1","text":"Antiquus kömmt.","type":"other","source":"nltk"}
+{"id":"tg145.2.48.1","text":"Eusebius, Politicus [kommen].","type":"other","source":"nltk"}
+{"id":"tg145.2.55.1","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg146.2.4","text":"Zodiacus kömmt heraus und hat sein Horn.","type":"other","source":"nltk"}
+{"id":"tg146.2.8","text":"Er bläset ins Horn / hernach singet er:","type":"enter","source":"nltk"}
+{"id":"tg146.2.14","text":"Nescio kömmt.","type":"other","source":"nltk"}
+{"id":"tg146.2.27.1","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg146.2.31.1","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg146.2.33.1.part1","text":"kömmt.","type":"other","source":"nltk"}
+{"id":"tg146.2.35.1","text":"Quoniam kömmt mit dem Korbe und mit dem Glöckgen.","type":"other","source":"nltk"}
+{"id":"tg146.2.45.1","text":"Quoniam klingelt.","type":"other","source":"nltk"}
+{"id":"tg146.2.65.1","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg146.2.69.1","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg146.2.70.1","text":"Pacifontius, Quantitas.","type":"other","source":"nltk"}
+{"id":"tg146.2.91.1","text":"Ziribiziribo bringt Risibilis an der Hand geführt und singt ein Liedgen.","type":"other","source":"nltk"}
+{"id":"tg146.2.117.1","text":"Sie fallen über einander her / und schlagen einander.","type":"other","source":"nltk"}
+{"id":"tg146.2.118.1","text":"Purus Putus und Scibilis kommen heraus gelauffen und bringen sie von einander.","type":"other","source":"nltk"}
+{"id":"tg146.2.131.1","text":"Gehet ab.","type":"exit","source":"nltk"}
+{"id":"tg146.2.140.1","text":"Accusativus, Vocativus, Ciaconi.","type":"enter","source":"NLP"}
+{"id":"tg146.2.153.1","text":"Vocativus und Ciaconi gehen ab.","type":"exit","source":"nltk"}
+{"id":"tg146.2.157.1","text":"Purus Putus, Durandus, Scibilis.","type":"enter","source":"NLP"}
+{"id":"tg146.2.193.1","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg146.2.203.1","text":"Purus Putus und Scibilis gehen ab.","type":"exit","source":"nltk"}
+{"id":"tg146.2.207.1","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg146.2.208.1","text":"Purus Putus, Substantia, Pacifontius.","type":"enter","source":"NLP"}
+{"id":"tg146.2.219.1","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg146.2.226.1","text":"Gehen ab.","type":"exit","source":"nltk"}
+{"id":"tg146.2.227.1","text":"Ziribiziribo, Scibilis.","type":"other","source":"nltk"}
+{"id":"tg146.2.240.1","text":"Gehen ab.","type":"exit","source":"nltk"}
+{"id":"tg146.2.241.1","text":"Accusativus, Substantia.","type":"enter","source":"NLP"}
+{"id":"tg146.2.248.1.part1","text":"schlägt sie auff den Backen.","type":"other","source":"nltk"}
+{"id":"tg146.2.252.1","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg146.2.257.1","text":"Pacifontius und Quantitas kommen.","type":"other","source":"nltk"}
+{"id":"tg146.2.267.1","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg146.2.275.1","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg146.2.279.1","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg146.2.280.1","text":"Purus Putus, Durandus, Scibilis, Excipe.","type":"enter","source":"NLP"}
+{"id":"tg146.2.320.1","text":"Gehen ab.","type":"exit","source":"nltk"}
+{"id":"tg146.2.324.1","text":"Extra kömmt.","type":"other","source":"nltk"}
+{"id":"tg146.2.335.1","text":"Gehet ab.","type":"exit","source":"nltk"}
+{"id":"tg146.2.339.1.part1","text":"kömmt.","type":"other","source":"nltk"}
+{"id":"tg146.2.347.1","text":"Gehen ab.","type":"exit","source":"nltk"}
+{"id":"tg146.2.371.1","text":"Gehet ab.","type":"exit","source":"nltk"}
+{"id":"tg146.2.375.1.part1","text":"kömmt.","type":"other","source":"nltk"}
+{"id":"tg146.2.389.1","text":"Er kriegt seine Zitter / Risibilis wirfft ihm allerhand häßliche Namen an den Hals / jemehr sie aber schreyet / desto schärffer schlägt er die Zitter und singet was lächerliches mit ein.","type":"other","source":"nltk"}
+{"id":"tg146.2.393.1","text":"Gehet ab.","type":"exit","source":"nltk"}
+{"id":"tg146.2.394.1","text":"Ciaconi singet in die Zitter.","type":"other","source":"nltk"}
+{"id":"tg146.2.410.1","text":"Gehet ab.","type":"exit","source":"nltk"}
+{"id":"tg146.2.411.1","text":"Frececerax und Aciculus.","type":"other","source":"nltk"}
+{"id":"tg146.2.422.1","text":"Ziribiziribo in Pickelherings Habite, mit einer Kanne Brantewein / Quoniam mit der hölzernen Bierkanne.","type":"other","source":"nltk"}
+{"id":"tg146.2.426.1","text":"Er schweigt still und besinnt sich.","type":"other","source":"nltk"}
+{"id":"tg146.2.432.1","text":"Scibilis kömmt.","type":"other","source":"nltk"}
+{"id":"tg146.2.440.1","text":"Gehen ab.","type":"exit","source":"nltk"}
+{"id":"tg146.2.441.1","text":"Purus Putus, Durandus, Ciaconi.","type":"enter","source":"NLP"}
+{"id":"tg146.2.451.1","text":"Gehen ab.","type":"exit","source":"nltk"}
+{"id":"tg146.2.455.1","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg146.2.461.1","text":"Geht hinein.","type":"exit","source":"nltk"}
+{"id":"tg146.2.472.1.part1","text":"kömmt heraus.","type":"other","source":"nltk"}
+{"id":"tg146.2.479.1","text":"Er ergreifft Nescio beym Ermel.","type":"other","source":"nltk"}
+{"id":"tg146.2.499.1","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg146.2.514.1","text":"Er klingelt und geht ab.","type":"exit","source":"nltk"}
+{"id":"tg146.2.520.1.part1","text":"kömmt.","type":"other","source":"nltk"}
+{"id":"tg146.2.524.1","text":"Sie gehen ab.","type":"exit","source":"nltk"}
+{"id":"tg146.2.526.1.part1","text":"kömmt.","type":"other","source":"nltk"}
+{"id":"tg146.2.527.1.part1","text":"kömmt.","type":"other","source":"nltk"}
+{"id":"tg146.2.543.1","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg146.2.547.1","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg146.2.548.1","text":"Purus Putus mit allen seinen Collegen kömmt auf die Schuhbäncke und nimmt Session. Juniperus folgt hernach.","type":"enter","source":"nltk"}
+{"id":"tg146.2.551.1.part1","text":"setzt sich.","type":"other","source":"nltk"}
+{"id":"tg146.2.553.1","text":"Scibilis und Ziribiziribo kömmen.","type":"other","source":"nltk"}
+{"id":"tg146.2.557.1","text":"Er setzt sich.","type":"other","source":"nltk"}
+{"id":"tg146.2.562.1","text":"Vocativus und Ciaconi kommen / Pacifontius bleibt auf der Seite stehn.","type":"other","source":"nltk"}
+{"id":"tg146.2.625","text":"Hier tritt Quoniam auf und verlieset die Personen folgender Gestalt:","type":"other","source":"nltk"}
+{"id":"tg146.2.633.1","text":"Sie gehen in der Ordnung etliche mahl herumb und lassen den Hirten als Stadt- oder Marckfleckens Pfeiffer mit dem Horne vorher blasen.","type":"other","source":"nltk"}
+{"id":"tg147.2.4","text":"Machiavellus, Antiquus.","type":"enter","source":"NLP"}
+{"id":"tg147.2.10.1","text":"Fama läst blasen und kömmt heraus.","type":"other","source":"nltk"}
+{"id":"tg147.2.15.1","text":"Schwinget sich davon.","type":"other","source":"nltk"}
+{"id":"tg147.2.19.1","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg147.2.23.1","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg147.2.24.1","text":"Apollo praesentirt sich auff seinem Throne / umb ihn herumb Eusebius, Uranius, Politicus, Civilis, Simplex, Innocens, Candidus, Infucatus, Fidelis, Immutabilis, Rationalis.","type":"other","source":"nltk"}
+{"id":"tg147.2.33.1","text":"Machiavellus, Antiquus, Appetitus erscheinen.","type":"other","source":"nltk"}
+{"id":"tg147.2.40","text":"[Geht ab.]","type":"other","source":"nltk"}
+{"id":"tg147.2.48.1","text":"Er bindet den Appetitus an die Kette.","type":"other","source":"nltk"}
+{"id":"tg147.2.62.1","text":"Sie kommen hervor.","type":"other","source":"nltk"}
+{"id":"tg147.2.99.1","text":"Gehen ab.","type":"exit","source":"nltk"}
+{"id":"tg147.2.117.1","text":"Gehet zurück.","type":"other","source":"nltk"}
+{"id":"tg147.2.128.1","text":"Sie fallen sämptlichen auf die Knie / so lange als folgende Arie gesungen wird / Und wird zwischen jeglicher Strophe die Melodey mit Trompeten und Paucken nachgespielet.","type":"other","source":"nltk"}

@@ -144,8 +144,8 @@
                                  <ns0:speaker xml:id="tg1145.2.7.part1">POSTMEISTERIN.</ns0:speaker>
                                  <ns0:l xml:id="tg1145.2.7.part2"> Karl! Karl!</ns0:l>
                                  <ns0:lb xml:id="tg1145.2.8" />
-                                 <ns0:stage rend="zenoPC" type="enter" xml:id="tg1145.2.9">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1145.2.9.1">Der Junge kommt.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg1145.2.9">
+                                    <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg1145.2.9.1">Der Junge kommt.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg1145.2.10" />
                               </ns0:sp>
@@ -155,17 +155,17 @@
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1145.2.12.part1">POSTMEISTERIN.</ns0:speaker>
-                                 <ns0:p xml:id="tg1145.2.12.part2"> Wo hat dich der Henker wieder? Geh hinaus; der Postwagen kommt. F&#252;hr die Passagiers herein, trag ihnen das Gep&#228;ck; r&#252;hr dich! Machst du wieder ein Gesicht? <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1145.2.12.1.part2">Der Junge ab. Ihm nachrufend.</ns0:stage> Wart, ich will dir dein muffig Wesen vertreiben. Ein Wirtsbursche mu&#223; immer munter, immer alert sein. Hernach, wenn so ein Schurke Herr wird, so verdirbt er. Wenn ich wieder heiraten m&#246;chte, so w&#228;r's nur darum; einer Frau allein f&#228;llt's gar zu schwer, das Pack in Ordnung zu halten!</ns0:p>
+                                 <ns0:p xml:id="tg1145.2.12.part2"> Wo hat dich der Henker wieder? Geh hinaus; der Postwagen kommt. F&#252;hr die Passagiers herein, trag ihnen das Gep&#228;ck; r&#252;hr dich! Machst du wieder ein Gesicht? <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1145.2.12.1.part2">Der Junge ab. Ihm nachrufend.</ns0:stage> Wart, ich will dir dein muffig Wesen vertreiben. Ein Wirtsbursche mu&#223; immer munter, immer alert sein. Hernach, wenn so ein Schurke Herr wird, so verdirbt er. Wenn ich wieder heiraten m&#246;chte, so w&#228;r's nur darum; einer Frau allein f&#228;llt's gar zu schwer, das Pack in Ordnung zu halten!</ns0:p>
                                  <ns0:lb xml:id="tg1145.2.13" />
-                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg1145.2.14">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1145.2.14.1">Madame Sommer, Lucie, in Reisekleidern. Karl.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg1145.2.14">
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1145.2.14.1">Madame Sommer, Lucie, in Reisekleidern. Karl.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg1145.2.15" />
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1145.2.16.part1">LUCIE</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1145.2.16.1.part1">einen Mantelsack tragend, zu Karl.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1145.2.16.1.part1">einen Mantelsack tragend, zu Karl.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:l xml:id="tg1145.2.16.part2"> La&#223; Er's nur, es ist nicht schwer; aber nehm Er meiner Mutter die Schachtel ab.</ns0:l>
                               </ns0:sp>
@@ -200,7 +200,7 @@
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1145.2.25.part1">POSTMEISTERIN.</ns0:speaker>
-                                 <ns0:l xml:id="tg1145.2.25.part2"> So gut sie da ist. <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1145.2.25.1.part2">Ab.</ns0:stage>
+                                 <ns0:l xml:id="tg1145.2.25.part2"> So gut sie da ist. <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1145.2.25.1.part2">Ab.</ns0:stage>
                                  </ns0:l>
                               </ns0:sp>
                               <ns0:sp>
@@ -215,8 +215,8 @@
                                  <ns0:speaker xml:id="tg1145.2.28.part1">MADAME SOMMER.</ns0:speaker>
                                  <ns0:l xml:id="tg1145.2.28.part2"> Aber wir waren dran.</ns0:l>
                                  <ns0:lb xml:id="tg1145.2.29" />
-                                 <ns0:stage rend="zenoPC" type="enter" xml:id="tg1145.2.30">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1145.2.30.1">Postillion tritt herein.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg1145.2.30">
+                                    <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg1145.2.30.1">Postillion tritt herein.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg1145.2.31" />
                               </ns0:sp>
@@ -250,7 +250,7 @@
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1145.2.39.part1">POSTILLION.</ns0:speaker>
-                                 <ns0:l xml:id="tg1145.2.39.part2"> Adies! <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1145.2.39.1.part2">Ab.</ns0:stage>
+                                 <ns0:l xml:id="tg1145.2.39.part2"> Adies! <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1145.2.39.1.part2">Ab.</ns0:stage>
                                  </ns0:l>
                               </ns0:sp>
                               <ns0:sp>
@@ -315,8 +315,8 @@ Bette sa&#223; und weinte, weil Sie weinten. Es war in der gr&#252;nen Stube, au
                                  <ns0:speaker xml:id="tg1145.2.55.part1">MADAME SOMMER.</ns0:speaker>
                                  <ns0:l xml:id="tg1145.2.55.part2"> Du warst sieben Jahre alt, und konntest nicht f&#252;hlen, was du verlorst.</ns0:l>
                                  <ns0:lb xml:id="tg1145.2.56" />
-                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg1145.2.57">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1145.2.57.1">Annchen, mit der Suppe. Die Postmeisterin. Karl.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg1145.2.57">
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1145.2.57.1">Annchen, mit der Suppe. Die Postmeisterin. Karl.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg1145.2.58" />
                               </ns0:sp>
@@ -399,7 +399,7 @@ Tochter ein wenig gr&#246;&#223;er, so soll sie ihr wenigstens einige Jahre dien
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1145.2.78.part1">MADAME SOMMER.</ns0:speaker>
-                                 <ns0:l xml:id="tg1145.2.78.part2"> Und sag ihr, Kleine, wir wollten gleich nach Tisch aufwarten. <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1145.2.78.1.part2">Annchen ab.</ns0:stage>
+                                 <ns0:l xml:id="tg1145.2.78.part2"> Und sag ihr, Kleine, wir wollten gleich nach Tisch aufwarten. <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg1145.2.78.1.part2">Annchen ab.</ns0:stage>
                                  </ns0:l>
                               </ns0:sp>
                               <ns0:sp>
@@ -458,7 +458,7 @@ kannte sie; man hie&#223; sie den gn&#228;digen Herrn und die gn&#228;dige Frau,
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1145.2.92.part1">MADAME SOMMER</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1145.2.92.1.part1">vor sich.</ns0:stage>
+                                    <ns0:stage rend="italic" type="aside" ns1:fixed-stage="true" xml:id="tg1145.2.92.1.part1">vor sich.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:l xml:id="tg1145.2.92.part2"> Ein Bild meines ganzen Schicksals!</ns0:l>
                               </ns0:sp>
@@ -466,8 +466,8 @@ kannte sie; man hie&#223; sie den gn&#228;digen Herrn und die gn&#228;dige Frau,
                                  <ns0:speaker xml:id="tg1145.2.93.part1">POSTMEISTERIN.</ns0:speaker>
                                  <ns0:p xml:id="tg1145.2.93.part2"> Da waren alle M&#228;uler davon voll. Eben zur Zeit, da ich als eine junge Frau hierher zog, auf Michael sind's eben drei Jahre. Und da wu&#223;t jedes was anders, sogar zischelte man einander in die Ohren, sie seien niemals getraut gewesen; aber verraten Sie mich nicht. Er soll wohl ein vornehmer Herr sein, soll sie entf&#252;hrt haben, und was man alles sagt. Ja, wenn ein junges M&#228;dchen so einen Schritt tut, sie hat ihr Leben lang dran abzub&#252;&#223;en.</ns0:p>
                                  <ns0:lb xml:id="tg1145.2.94" />
-                                 <ns0:stage rend="zenoPC" type="enter" xml:id="tg1145.2.95">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1145.2.95.1">Annchen kommt.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg1145.2.95">
+                                    <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg1145.2.95.1">Annchen kommt.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg1145.2.96" />
                               </ns0:sp>
@@ -494,15 +494,15 @@ kannte sie; man hie&#223; sie den gn&#228;digen Herrn und die gn&#228;dige Frau,
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1145.2.103.part1">MADAME SOMMER.</ns0:speaker>
-                                 <ns0:p xml:id="tg1145.2.103.part2"> Lucie, ein Wort! <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1145.2.103.1.part2">Die Postmeisterin entfernt sich.</ns0:stage> Da&#223; du nichts verr&#228;tst! nicht unsern Stand, nicht unser Schicksal. Begegne ihr ehrerbietig.</ns0:p>
+                                 <ns0:p xml:id="tg1145.2.103.part2"> Lucie, ein Wort! <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1145.2.103.1.part2">Die Postmeisterin entfernt sich.</ns0:stage> Da&#223; du nichts verr&#228;tst! nicht unsern Stand, nicht unser Schicksal. Begegne ihr ehrerbietig.</ns0:p>
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1145.2.104.part1">LUCIE.</ns0:speaker>
-                                 <ns0:p xml:id="tg1145.2.104.part2"> Lassen Sie mich nur! Mein Vater war ein Kaufmann, ist nach Amerika, ist tot; und dadurch sind unsere Umst&#228;nde &#8211; Lassen Sie mich nur; ich hab das M&#228;rchen ja schon oft genug erz&#228;hlt. <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1145.2.104.1.part2">Laut.</ns0:stage> Wollten Sie nicht ein bi&#223;chen ruhen? Sie haben's not. Die Frau Wirtin weist Ihnen wohl ein Zimmerchen mit einem Bett an.</ns0:p>
+                                 <ns0:p xml:id="tg1145.2.104.part2"> Lassen Sie mich nur! Mein Vater war ein Kaufmann, ist nach Amerika, ist tot; und dadurch sind unsere Umst&#228;nde &#8211; Lassen Sie mich nur; ich hab das M&#228;rchen ja schon oft genug erz&#228;hlt. <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1145.2.104.1.part2">Laut.</ns0:stage> Wollten Sie nicht ein bi&#223;chen ruhen? Sie haben's not. Die Frau Wirtin weist Ihnen wohl ein Zimmerchen mit einem Bett an.</ns0:p>
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1145.2.105.part1">POSTMEISTERIN.</ns0:speaker>
-                                 <ns0:p xml:id="tg1145.2.105.part2"> Ich hab eben ein h&#252;bsches, stilles Zimmerchen im Garten. <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1145.2.105.1.part2">Zu Lucien.</ns0:stage> Ich w&#252;nsche, da&#223; Ihnen die gn&#228;dige Frau gefallen m&#246;ge.<ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1145.2.105.2.part2"> Lucie mit Annchen ab.</ns0:stage>
+                                 <ns0:p xml:id="tg1145.2.105.part2"> Ich hab eben ein h&#252;bsches, stilles Zimmerchen im Garten. <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1145.2.105.1.part2">Zu Lucien.</ns0:stage> Ich w&#252;nsche, da&#223; Ihnen die gn&#228;dige Frau gefallen m&#246;ge.<ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1145.2.105.2.part2"> Lucie mit Annchen ab.</ns0:stage>
                                  </ns0:p>
                               </ns0:sp>
                               <ns0:sp>
@@ -521,14 +521,14 @@ kannte sie; man hie&#223; sie den gn&#228;digen Herrn und die gn&#228;dige Frau,
                                  <ns0:speaker xml:id="tg1145.2.109.part1">POSTMEISTERIN.</ns0:speaker>
                                  <ns0:l xml:id="tg1145.2.109.part2"> Kommen Sie, Madame, wenn's gef&#228;llig ist.</ns0:l>
                                  <ns0:lb xml:id="tg1145.2.110" />
-                                 <ns0:stage rend="zenoPC" type="exit" xml:id="tg1145.2.111">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1145.2.111.1">Beide ab.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg1145.2.111">
+                                    <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg1145.2.111.1">Beide ab.</ns0:stage>
                                  </ns0:stage>
-                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg1145.2.112">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1145.2.112.1">Man h&#246;rt einen Postillion.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg1145.2.112">
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1145.2.112.1">Man h&#246;rt einen Postillion.</ns0:stage>
                                  </ns0:stage>
-                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg1145.2.113">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1145.2.113.1">Fernando, in Offizierstracht. Ein Bedienter.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg1145.2.113">
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1145.2.113.1">Fernando, in Offizierstracht. Ein Bedienter.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg1145.2.114" />
                               </ns0:sp>
@@ -546,19 +546,19 @@ kannte sie; man hie&#223; sie den gn&#228;digen Herrn und die gn&#228;dige Frau,
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1145.2.118.part1">FERNANDO.</ns0:speaker>
-                                 <ns0:l xml:id="tg1145.2.118.part2"> Ich sage, la&#223; dir ein Zimmer anweisen und bring meine Sachen dorthin. <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1145.2.118.1.part2">Bedienter ab.</ns0:stage>
+                                 <ns0:l xml:id="tg1145.2.118.part2"> Ich sage, la&#223; dir ein Zimmer anweisen und bring meine Sachen dorthin. <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg1145.2.118.1.part2">Bedienter ab.</ns0:stage>
                                  </ns0:l>
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1145.2.119.part1">FERNANDO</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1145.2.119.1.part1">ans Fenster tretend.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1145.2.119.1.part1">ans Fenster tretend.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:p xml:id="tg1145.2.119.part2"> So seh ich dich wieder? Himmlischer Anblick! So seh ich dich wieder? Den Schauplatz all meiner Gl&#252;ckseligkeit! Wie still das ganze Haus ist! Kein Fenster offen! Die Galerie wie &#246;de, auf der wir so oft zusammen sa&#223;en! Merk dir's, Fernando, das kl&#246;sterliche An sehn ihrer Wohnung, wie schmeichelt es deinen Hoffnungen! Und sollte, in ihrer Einsamkeit, Fernando ihr Gedanke, ihre Besch&#228;ftigung sein? Und hat er's um sie verdient? O! mir ist, als wenn ich nach einem langen, <ns0:pb n="313" xml:id="tg1145.2.119.2.part2" />
 kalten, freudelosen Todesschlaf ins Leben wieder erwachte; so neu, so bedeutend ist mir alles. Die B&#228;ume, der Brunnen, noch alles, alles! So lief das Wasser aus eben den R&#246;hren, wenn ich, ach, wie tausendmal! mit ihr gedankenvoll aus unserm Fenster schaute, und jedes, in sich gekehrt, still dem Rinnen des Wassers zusah! Sein Ger&#228;usch ist mir Melodie, r&#252;ckerinnernde Melodie. Und sie? Sie wird sein, wie sie war. Ja, Stella, du hast dich nicht ver&#228;ndert; das sagt mir mein Herz. Wie's dir entgegenschl&#228;gt! Aber ich will nicht, ich darf nicht! Ich mu&#223; mich erst erholen, mu&#223; mich erst &#252;berzeugen, da&#223; ich wirklich hier bin, da&#223; mich kein Traum t&#228;uscht, der mich so oft schlafend und wachend aus den fernsten Gegenden hierher gef&#252;hrt hat. Stella! Stella! Ich komme! f&#252;hlst du nicht meine N&#228;herung? in deinen Armen alles zu vergessen! &#8211; Und wenn du um mich schwebst, teurer Schatten meines ungl&#252;cklichen Weibes, vergib mir, verla&#223; mich! Du bist dahin; so la&#223; mich dich vergessen, in den Armen des Engels alles vergessen, meine Schicksale, allen Verlust, meine Schmerzen, und meine Reue &#8211; Ich bin ihr so nah und so ferne &#8211; Und in einem Augenblick &#8211; Ich kann nicht, ich kann nicht! Ich mu&#223; mich erholen, oder ich ersticke zu ihren F&#252;&#223;en.</ns0:p>
                                  <ns0:lb xml:id="tg1145.2.120" />
-                                 <ns0:stage rend="zenoPC" type="enter" xml:id="tg1145.2.121">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1145.2.121.1">Postmeisterin kommt.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg1145.2.121">
+                                    <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg1145.2.121.1">Postmeisterin kommt.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg1145.2.122" />
                               </ns0:sp>
@@ -618,17 +618,17 @@ kommt zu ihr. Sie lebt mit ihren Leuten, hat die Kinder des Orts alle an sich un
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1145.2.136.part1">FERNANDO</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1145.2.136.1.part1">vor sich.</ns0:stage>
+                                    <ns0:stage rend="italic" type="aside" ns1:fixed-stage="true" xml:id="tg1145.2.136.1.part1">vor sich.</ns0:stage>
                                  </ns0:stage>
-                                 <ns0:l xml:id="tg1145.2.136.part2"> Das hast du um sie verdient! &#8211; <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1145.2.136.2.part2">Laut.</ns0:stage> Ist meinem Bedienten ein Zimmer angewiesen?</ns0:l>
+                                 <ns0:l xml:id="tg1145.2.136.part2"> Das hast du um sie verdient! &#8211; <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1145.2.136.2.part2">Laut.</ns0:stage> Ist meinem Bedienten ein Zimmer angewiesen?</ns0:l>
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1145.2.137.part1">POSTMEISTERIN.</ns0:speaker>
-                                 <ns0:l xml:id="tg1145.2.137.part2"> Eine Treppe hoch. Karl, zeig dem gn&#228;digen Herrn das Zimmer! <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1145.2.137.1.part2">Fernando mit dem Jungen ab.</ns0:stage>
+                                 <ns0:l xml:id="tg1145.2.137.part2"> Eine Treppe hoch. Karl, zeig dem gn&#228;digen Herrn das Zimmer! <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg1145.2.137.1.part2">Fernando mit dem Jungen ab.</ns0:stage>
                                  </ns0:l>
                                  <ns0:lb xml:id="tg1145.2.138" />
-                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg1145.2.139">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1145.2.139.1">Lucie, Annchen kommen.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg1145.2.139">
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1145.2.139.1">Lucie, Annchen kommen.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg1145.2.140" />
                               </ns0:sp>
@@ -654,15 +654,15 @@ kommt zu ihr. Sie lebt mit ihren Leuten, hat die Kinder des Orts alle an sich un
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1145.2.146.part1">LUCIE.</ns0:speaker>
-                                 <ns0:l xml:id="tg1145.2.146.part2"> Ich mu&#223; doch nach ihr sehn. <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1145.2.146.1.part2">Ab.</ns0:stage>
+                                 <ns0:l xml:id="tg1145.2.146.part2"> Ich mu&#223; doch nach ihr sehn. <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1145.2.146.1.part2">Ab.</ns0:stage>
                                  </ns0:l>
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1145.2.147.part1">POSTMEISTERIN.</ns0:speaker>
                                  <ns0:p xml:id="tg1145.2.147.part2"> Karl! Da ist wieder das Salzfa&#223; vergessen. Hei&#223;t das geschwenkt? Sieh nur die Gl&#228;ser! Ich sollt dir sie am Kopf entzwei schmei&#223;en, wenn du so viel wert w&#228;rst, als sie kosten!</ns0:p>
                                  <ns0:lb xml:id="tg1145.2.148" />
-                                 <ns0:stage rend="zenoPC" type="enter" xml:id="tg1145.2.149">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1145.2.149.1">Fernando kommt.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg1145.2.149">
+                                    <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg1145.2.149.1">Fernando kommt.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg1145.2.150" />
                               </ns0:sp>
@@ -687,8 +687,8 @@ kommt zu ihr. Sie lebt mit ihren Leuten, hat die Kinder des Orts alle an sich un
                                  <ns0:speaker xml:id="tg1145.2.156.part1">POSTMEISTERIN.</ns0:speaker>
                                  <ns0:l xml:id="tg1145.2.156.part2"> Sehr jung; und schnippisch. Ihre Mutter ist auch droben.</ns0:l>
                                  <ns0:lb xml:id="tg1145.2.157" />
-                                 <ns0:stage rend="zenoPC" type="enter" xml:id="tg1145.2.158">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1145.2.158.1">Lucie kommt.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg1145.2.158">
+                                    <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg1145.2.158.1">Lucie kommt.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg1145.2.159" />
                               </ns0:sp>
@@ -698,7 +698,7 @@ kommt zu ihr. Sie lebt mit ihren Leuten, hat die Kinder des Orts alle an sich un
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1145.2.161.part1">FERNANDO.</ns0:speaker>
-                                 <ns0:l xml:id="tg1145.2.161.part2"> Ich bin gl&#252;cklich, eine so sch&#246;ne Tischgesellschaft zu finden. <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1145.2.161.1.part2">Lucie neigt sich.</ns0:stage>
+                                 <ns0:l xml:id="tg1145.2.161.part2"> Ich bin gl&#252;cklich, eine so sch&#246;ne Tischgesellschaft zu finden. <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1145.2.161.1.part2">Lucie neigt sich.</ns0:stage>
                                  </ns0:l>
                               </ns0:sp>
                               <ns0:sp>
@@ -711,7 +711,7 @@ kommt zu ihr. Sie lebt mit ihren Leuten, hat die Kinder des Orts alle an sich un
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1145.2.164.part1">POSTMEISTERIN.</ns0:speaker>
-                                 <ns0:l xml:id="tg1145.2.164.part2"> Wenn ich einmal ruhe, ruht alles. <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1145.2.164.1.part2">Ab.</ns0:stage>
+                                 <ns0:l xml:id="tg1145.2.164.part2"> Wenn ich einmal ruhe, ruht alles. <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1145.2.164.1.part2">Ab.</ns0:stage>
                                  </ns0:l>
                               </ns0:sp>
                               <ns0:sp>
@@ -797,7 +797,7 @@ kommt zu ihr. Sie lebt mit ihren Leuten, hat die Kinder des Orts alle an sich un
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1145.2.185.part1">FERNANDO.</ns0:speaker>
-                                 <ns0:p xml:id="tg1145.2.185.part2"> Ja, meine Liebe, wer lebt, verliert; <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1145.2.185.1.part2">Aufstehend.</ns0:stage> aber er gewinnt auch. Und so erhalt Ihnen Gott Ihren Mut! <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1145.2.185.2.part2">Er nimmt ihre Hand.</ns0:stage> Sie haben mich erstaunen machen. O, mein Kind, wie gl&#252;cklich! &#8211; &#8211; Ich bin auch in der Welt gar viel, gar oft von meinen Hoffnungen &#8211; Freuden &#8211; Es ist doch immer &#8211; Und &#8211;</ns0:p>
+                                 <ns0:p xml:id="tg1145.2.185.part2"> Ja, meine Liebe, wer lebt, verliert; <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1145.2.185.1.part2">Aufstehend.</ns0:stage> aber er gewinnt auch. Und so erhalt Ihnen Gott Ihren Mut! <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1145.2.185.2.part2">Er nimmt ihre Hand.</ns0:stage> Sie haben mich erstaunen machen. O, mein Kind, wie gl&#252;cklich! &#8211; &#8211; Ich bin auch in der Welt gar viel, gar oft von meinen Hoffnungen &#8211; Freuden &#8211; Es ist doch immer &#8211; Und &#8211;</ns0:p>
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1145.2.186.part1">LUCIE.</ns0:speaker>
@@ -805,7 +805,7 @@ kommt zu ihr. Sie lebt mit ihren Leuten, hat die Kinder des Orts alle an sich un
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1145.2.187.part1">FERNANDO.</ns0:speaker>
-                                 <ns0:l xml:id="tg1145.2.187.part2"> Alles Gute! die besten, w&#228;rmsten W&#252;nsche f&#252;r Ihr Gl&#252;ck! <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1145.2.187.1.part2">Ab.</ns0:stage>
+                                 <ns0:l xml:id="tg1145.2.187.part2"> Alles Gute! die besten, w&#228;rmsten W&#252;nsche f&#252;r Ihr Gl&#252;ck! <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1145.2.187.1.part2">Ab.</ns0:stage>
                                  </ns0:l>
                               </ns0:sp>
                               <ns0:sp>
@@ -827,7 +827,7 @@ kommt zu ihr. Sie lebt mit ihren Leuten, hat die Kinder des Orts alle an sich un
                               <ns0:head type="h4" xml:id="tg1146.2.1">Zweiter Akt</ns0:head>
                               
                               
-                              <ns0:stage rend="zenoPC" type="other" xml:id="tg1146.2.4">
+                              <ns0:stage rend="zenoPC" type="enter" xml:id="tg1146.2.4">
                                  <ns0:hi rend="italic" xml:id="tg1146.2.4.1">Stella. Ein Bedienter.</ns0:hi>
                               </ns0:stage>
                               <ns0:lb xml:id="tg1146.2.5" />
@@ -842,15 +842,15 @@ kommt zu ihr. Sie lebt mit ihren Leuten, hat die Kinder des Orts alle an sich un
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1146.2.9.part1">STELLA.</ns0:speaker>
-                                 <ns0:p xml:id="tg1146.2.9.part2"> Du siehst ja, sie kommt nicht. Ich hab das M&#228;dchen recht lieb. Geh! &#8211; Und ihre Mutter soll ja mitkommen! <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1146.2.9.1.part2">Bedienter ab.</ns0:stage>
+                                 <ns0:p xml:id="tg1146.2.9.part2"> Du siehst ja, sie kommt nicht. Ich hab das M&#228;dchen recht lieb. Geh! &#8211; Und ihre Mutter soll ja mitkommen! <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg1146.2.9.1.part2">Bedienter ab.</ns0:stage>
                                  </ns0:p>
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1146.2.10.part1">STELLA.</ns0:speaker>
-                                 <ns0:p xml:id="tg1146.2.10.part2"> Ich kann sie kaum erwarten. Was das f&#252;r ein W&#252;nschen, ein Hoffen ist, bis so ein neues Kleid ankommt! Stella! du bist ein Kind. Und warum soll ich nicht lieben? &#8211; Ich brauche viel, viel, um dies Herz auszuf&#252;llen! &#8211; Viel? Arme Stella? Viel? &#8211; Sonst, da er dich noch liebte, noch in deinem Scho&#223;e lag, f&#252;llte sein Blick deine ganze Seele; und &#8211; o Gott im Himmel! dein Ratschlu&#223; ist unerforschlich. Wenn ich von seinen K&#252;ssen meine Augen zu dir hinauf wendete, mein Herz an dem seinen gl&#252;hte, und ich mit bebenden Lippen seine gro&#223;e Seele in mich trank, und ich dann mit Wonnetr&#228;nen zu dir hinaufsah, und aus vollem Herzen zu dir sprach: La&#223; uns gl&#252;cklich, Vater! du hast uns so gl&#252;cklich gemacht! &#8211; Es war dein Wille nicht &#8211; <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1146.2.10.1.part2">Sie f&#228;llt einen Augenblick in Nachdenken, f&#228;hrt dann schnell auf und druckt ihre H&#228;nde ans Herz.</ns0:stage> Nein, Fernando, nein, das war kein Vorwurf!</ns0:p>
+                                 <ns0:p xml:id="tg1146.2.10.part2"> Ich kann sie kaum erwarten. Was das f&#252;r ein W&#252;nschen, ein Hoffen ist, bis so ein neues Kleid ankommt! Stella! du bist ein Kind. Und warum soll ich nicht lieben? &#8211; Ich brauche viel, viel, um dies Herz auszuf&#252;llen! &#8211; Viel? Arme Stella? Viel? &#8211; Sonst, da er dich noch liebte, noch in deinem Scho&#223;e lag, f&#252;llte sein Blick deine ganze Seele; und &#8211; o Gott im Himmel! dein Ratschlu&#223; ist unerforschlich. Wenn ich von seinen K&#252;ssen meine Augen zu dir hinauf wendete, mein Herz an dem seinen gl&#252;hte, und ich mit bebenden Lippen seine gro&#223;e Seele in mich trank, und ich dann mit Wonnetr&#228;nen zu dir hinaufsah, und aus vollem Herzen zu dir sprach: La&#223; uns gl&#252;cklich, Vater! du hast uns so gl&#252;cklich gemacht! &#8211; Es war dein Wille nicht &#8211; <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1146.2.10.1.part2">Sie f&#228;llt einen Augenblick in Nachdenken, f&#228;hrt dann schnell auf und druckt ihre H&#228;nde ans Herz.</ns0:stage> Nein, Fernando, nein, das war kein Vorwurf!</ns0:p>
                                  <ns0:lb xml:id="tg1146.2.11" />
-                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg1146.2.12">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1146.2.12.1">Madame Sommer, Lucie kommen.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg1146.2.12">
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1146.2.12.1">Madame Sommer, Lucie kommen.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg1146.2.13" />
                               </ns0:sp>
@@ -865,7 +865,7 @@ kommt zu ihr. Sie lebt mit ihren Leuten, hat die Kinder des Orts alle an sich un
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1146.2.16.part1">STELLA</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1146.2.16.1.part1">nach einer Pause, in der sie Madame Sommer angesehen hat.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1146.2.16.1.part1">nach einer Pause, in der sie Madame Sommer angesehen hat.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:p xml:id="tg1146.2.16.part2"> Verzeihen Sie! Man hat mir Ihre Geschichte berichtet, ich wei&#223;, da&#223; ich Personen von guter Familie vor mir habe; aber Ihre Gegenwart &#252;berrascht mich. Ich f&#252;hle im ersten Anblick Vertrauen und Ehrfurcht gegen Sie.</ns0:p>
                               </ns0:sp>
@@ -889,7 +889,7 @@ mit neuer Erquickung gef&#252;llt hat, das wirkte alles auf mich so gut, so freu
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1146.2.21.part1">MADAME SOMMER</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1146.2.21.1.part1">ihre H&#228;nde fassend.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1146.2.21.1.part1">ihre H&#228;nde fassend.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:l xml:id="tg1146.2.21.part2"> Wie gro&#223;! Wie lieb!</ns0:l>
                               </ns0:sp>
@@ -987,9 +987,9 @@ werden sollen! Wir wollen zusammen bleiben! &#8211; Ihre Hand! &#8211; Von diese
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1146.2.46.part1">STELLA</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1146.2.46.1.part1">l&#228;chelt und klopft ihr die Achseln.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1146.2.46.1.part1">l&#228;chelt und klopft ihr die Achseln.</ns0:stage>
                                  </ns0:stage>
-                                 <ns0:p xml:id="tg1146.2.46.part2"> Wie ich nur noch empfinden kann! wie die schrecklichen Augenblicke mich nicht get&#246;tet haben! &#8211; Es lag vor mir! abgepfl&#252;ckt die Knospe! und ich stand &#8211; versteinert im innersten Busen &#8211; ohne Schmerz &#8211; ohne Bewu&#223;tsein &#8211; &#8211; ich stand! &#8211; Da nahm die W&#228;rterin das Kind auf, dr&#252;ckte es an ihr Herz, und rief auf einmal: Es lebt! &#8211; Ich fiel auf sie, ihr um den Hals, mit tausend Tr&#228;nen auf das Kind &#8211; ihr zu F&#252;&#223;en &#8211; &#8211; Ach, und sie hatte sich betrogen! Tot lag es da, und ich neben ihm in w&#252;tender, gr&#228;&#223;licher Verzweiflung. <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1146.2.46.2.part2">Sie wirft sich in einen Sessel.</ns0:stage>
+                                 <ns0:p xml:id="tg1146.2.46.part2"> Wie ich nur noch empfinden kann! wie die schrecklichen Augenblicke mich nicht get&#246;tet haben! &#8211; Es lag vor mir! abgepfl&#252;ckt die Knospe! und ich stand &#8211; versteinert im innersten Busen &#8211; ohne Schmerz &#8211; ohne Bewu&#223;tsein &#8211; &#8211; ich stand! &#8211; Da nahm die W&#228;rterin das Kind auf, dr&#252;ckte es an ihr Herz, und rief auf einmal: Es lebt! &#8211; Ich fiel auf sie, ihr um den Hals, mit tausend Tr&#228;nen auf das Kind &#8211; ihr zu F&#252;&#223;en &#8211; &#8211; Ach, und sie hatte sich betrogen! Tot lag es da, und ich neben ihm in w&#252;tender, gr&#228;&#223;licher Verzweiflung. <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1146.2.46.2.part2">Sie wirft sich in einen Sessel.</ns0:stage>
                                  </ns0:p>
                               </ns0:sp>
                               <ns0:sp>
@@ -1007,7 +1007,7 @@ werden sollen! Wir wollen zusammen bleiben! &#8211; Ihre Hand! &#8211; Von diese
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1146.2.50.part1">STELLA</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1146.2.50.1.part1">er&#246;ffnet ihr Kabinett und f&#252;hrt sie hinein.</ns0:stage>
+                                    <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg1146.2.50.1.part1">er&#246;ffnet ihr Kabinett und f&#252;hrt sie hinein.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:l xml:id="tg1146.2.50.part2"> Hier, meine Lieben, hier!</ns0:l>
                               </ns0:sp>
@@ -1043,7 +1043,7 @@ k&#246;nnen die Liebe, die Freundlichkeit, wenn seine Seele sich ergo&#223;! O m
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1146.2.58.part1">STELLA</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1146.2.58.1.part1">zieht die Schelle.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1146.2.58.1.part1">zieht die Schelle.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:l xml:id="tg1146.2.58.part2"> Lucie, mein Herz zerspringt! Ich will hin&#252;ber!</ns0:l>
                               </ns0:sp>
@@ -1055,8 +1055,8 @@ k&#246;nnen die Liebe, die Freundlichkeit, wenn seine Seele sich ergo&#223;! O m
                                  <ns0:speaker xml:id="tg1146.2.60.part1">STELLA.</ns0:speaker>
                                  <ns0:l xml:id="tg1146.2.60.part2"> Schicken? O mein Herz! &#8211;</ns0:l>
                                  <ns0:lb xml:id="tg1146.2.61" />
-                                 <ns0:stage rend="zenoPC" type="enter" xml:id="tg1146.2.62">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1146.2.62.1">Bedienter kommt.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg1146.2.62">
+                                    <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg1146.2.62.1">Bedienter kommt.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg1146.2.63" />
                               </ns0:sp>
@@ -1078,7 +1078,7 @@ k&#246;nnen die Liebe, die Freundlichkeit, wenn seine Seele sich ergo&#223;! O m
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1146.2.68.part1">STELLA.</ns0:speaker>
-                                 <ns0:p xml:id="tg1146.2.68.part2"> Sag ihm, er soll kommen, kommen! geschwind! geschwind! &#8211; W&#228;r das &#252;berstanden! &#8211; H&#228;tt ich ihn in diesen, in &#8211; Du betr&#252;gst dich! Es ist unm&#246;glich. &#8211; La&#223;t mich, ihr Lieben, la&#223;t mich allein! &#8211; <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1146.2.68.1.part2">Sie schlie&#223;t das Kabinett hinter sich.</ns0:stage>
+                                 <ns0:p xml:id="tg1146.2.68.part2"> Sag ihm, er soll kommen, kommen! geschwind! geschwind! &#8211; W&#228;r das &#252;berstanden! &#8211; H&#228;tt ich ihn in diesen, in &#8211; Du betr&#252;gst dich! Es ist unm&#246;glich. &#8211; La&#223;t mich, ihr Lieben, la&#223;t mich allein! &#8211; <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1146.2.68.1.part2">Sie schlie&#223;t das Kabinett hinter sich.</ns0:stage>
                                  </ns0:p>
                               </ns0:sp>
                               <ns0:sp>
@@ -1122,8 +1122,8 @@ k&#246;nnen die Liebe, die Freundlichkeit, wenn seine Seele sich ergo&#223;! O m
                                  <ns0:speaker xml:id="tg1146.2.79.part1">MADAME SOMMER.</ns0:speaker>
                                  <ns0:p xml:id="tg1146.2.79.part2"> In aller Wonne des Wiedersehens ihn umfassend &#8211; Ihn! Und ich in dem Augenblick, da ich ihn wieder finde &#8211; auf ewig! auf ewig!</ns0:p>
                                  <ns0:lb xml:id="tg1146.2.80" />
-                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg1146.2.81">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1146.2.81.1">Fernando, Bedienter kommen.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg1146.2.81">
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1146.2.81.1">Fernando, Bedienter kommen.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg1146.2.82" />
                               </ns0:sp>
@@ -1131,8 +1131,8 @@ k&#246;nnen die Liebe, die Freundlichkeit, wenn seine Seele sich ergo&#223;! O m
                                  <ns0:speaker xml:id="tg1146.2.83.part1">BEDIENTER.</ns0:speaker>
                                  <ns0:l xml:id="tg1146.2.83.part2"> Hierher! Kennen Sie ihr Kabinett nicht mehr? Sie ist au&#223;er sich! Ach! da&#223; Sie wieder da sind!</ns0:l>
                                  <ns0:lb xml:id="tg1146.2.84" />
-                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg1146.2.85">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1146.2.85.1">Fernando vorbei, &#252;ber sie hinsehend.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg1146.2.85">
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1146.2.85.1">Fernando vorbei, &#252;ber sie hinsehend.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg1146.2.86" />
                               </ns0:sp>
@@ -1162,13 +1162,13 @@ k&#246;nnen die Liebe, die Freundlichkeit, wenn seine Seele sich ergo&#223;! O m
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1147.2.6.part1">STELLA</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1147.2.6.1.part1">zu den W&#228;nden.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1147.2.6.1.part1">zu den W&#228;nden.</ns0:stage>
                                  </ns0:stage>
-                                 <ns0:p xml:id="tg1147.2.6.part2"> Er ist wieder da! Seht ihr ihn? Er ist wieder da! <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1147.2.6.2.part2">Vor das Gem&#228;lde einer Venus tretend.</ns0:stage> Siehst du ihn, G&#246;ttin? Er ist wieder da! Wie oft bin ich T&#246;rin auf und ab gelaufen, hier, und habe geweint, geklagt vor dir. Er ist wieder da! Ich traue meinen Sinnen nicht. G&#246;ttin! ich habe dich so oft gesehen, und er war nicht da &#8211; Nun bist du da, und er ist da! &#8211; Lieber! Lieber! Du warst lange weg! &#8211; Aber du bist da! <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1147.2.6.3.part2">Ihm um den Hals fallend.</ns0:stage> Du bist da! Ich will nichts f&#252;hlen, nichts h&#246;ren, nichts wissen, als da&#223; du da bist!</ns0:p>
+                                 <ns0:p xml:id="tg1147.2.6.part2"> Er ist wieder da! Seht ihr ihn? Er ist wieder da! <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1147.2.6.2.part2">Vor das Gem&#228;lde einer Venus tretend.</ns0:stage> Siehst du ihn, G&#246;ttin? Er ist wieder da! Wie oft bin ich T&#246;rin auf und ab gelaufen, hier, und habe geweint, geklagt vor dir. Er ist wieder da! Ich traue meinen Sinnen nicht. G&#246;ttin! ich habe dich so oft gesehen, und er war nicht da &#8211; Nun bist du da, und er ist da! &#8211; Lieber! Lieber! Du warst lange weg! &#8211; Aber du bist da! <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1147.2.6.3.part2">Ihm um den Hals fallend.</ns0:stage> Du bist da! Ich will nichts f&#252;hlen, nichts h&#246;ren, nichts wissen, als da&#223; du da bist!</ns0:p>
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1147.2.7.part1">FERNANDO.</ns0:speaker>
-                                 <ns0:l xml:id="tg1147.2.7.part2"> Stella! meine Stella! <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1147.2.7.1.part2">An ihrem Halse.</ns0:stage> Gott im Himmel, du gibst mir meine Tr&#228;nen wieder!</ns0:l>
+                                 <ns0:l xml:id="tg1147.2.7.part2"> Stella! meine Stella! <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1147.2.7.1.part2">An ihrem Halse.</ns0:stage> Gott im Himmel, du gibst mir meine Tr&#228;nen wieder!</ns0:l>
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1147.2.8.part1">STELLA.</ns0:speaker>
@@ -1184,7 +1184,7 @@ k&#246;nnen die Liebe, die Freundlichkeit, wenn seine Seele sich ergo&#223;! O m
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1147.2.11.part1">FERNANDO.</ns0:speaker>
-                                 <ns0:p xml:id="tg1147.2.11.part2"> Hauche in diesen ausgetrockneten, verst&#252;rmten, zerst&#246;rten Busen wieder neue Liebe, neue Lebenswonne, aus der F&#252;lle deines Herzens! <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1147.2.11.1.part2">Er h&#228;ngt an ihrem Munde.</ns0:stage>
+                                 <ns0:p xml:id="tg1147.2.11.part2"> Hauche in diesen ausgetrockneten, verst&#252;rmten, zerst&#246;rten Busen wieder neue Liebe, neue Lebenswonne, aus der F&#252;lle deines Herzens! <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1147.2.11.1.part2">Er h&#228;ngt an ihrem Munde.</ns0:stage>
                                  </ns0:p>
                                  <ns0:pb n="324" xml:id="tg1147.2.12" />
                               </ns0:sp>
@@ -1211,7 +1211,7 @@ k&#246;nnen die Liebe, die Freundlichkeit, wenn seine Seele sich ergo&#223;! O m
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1147.2.18.part1">FERNANDO</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1147.2.18.1.part1">zu ihren F&#252;&#223;en.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1147.2.18.1.part1">zu ihren F&#252;&#223;en.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:l xml:id="tg1147.2.18.part2"> Meine Stella!</ns0:l>
                               </ns0:sp>
@@ -1279,9 +1279,9 @@ k&#246;nnen die Liebe, die Freundlichkeit, wenn seine Seele sich ergo&#223;! O m
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1147.2.35.part1">FERNANDO</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1147.2.35.1.part1">ihre Locken streichelnd.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1147.2.35.1.part1">ihre Locken streichelnd.</ns0:stage>
                                  </ns0:stage>
-                                 <ns0:p xml:id="tg1147.2.35.part2"> Ob du wohl graue Haare davon gekriegt hast? &#8211; Es ist dein Gl&#252;ck, da&#223; sie so blond ohne das sind &#8211; Zwar ausgefallen scheinen dir keine zu sein. <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1147.2.35.2.part2">Er zieht ihr den Kamm aus den Haaren, und sie rollen tief herunter.</ns0:stage>
+                                 <ns0:p xml:id="tg1147.2.35.part2"> Ob du wohl graue Haare davon gekriegt hast? &#8211; Es ist dein Gl&#252;ck, da&#223; sie so blond ohne das sind &#8211; Zwar ausgefallen scheinen dir keine zu sein. <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1147.2.35.2.part2">Er zieht ihr den Kamm aus den Haaren, und sie rollen tief herunter.</ns0:stage>
                                  </ns0:p>
                               </ns0:sp>
                               <ns0:sp>
@@ -1291,12 +1291,12 @@ k&#246;nnen die Liebe, die Freundlichkeit, wenn seine Seele sich ergo&#223;! O m
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1147.2.37.part1">FERNANDO</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1147.2.37.1.part1">seine Arme drein wickelnd.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1147.2.37.1.part1">seine Arme drein wickelnd.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:l xml:id="tg1147.2.37.part2"> Rinaldo wieder in den alten Ketten!</ns0:l>
                                  <ns0:lb xml:id="tg1147.2.38" />
-                                 <ns0:stage rend="zenoPC" type="enter" xml:id="tg1147.2.39">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1147.2.39.1">Bedienter kommt.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg1147.2.39">
+                                    <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg1147.2.39.1">Bedienter kommt.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg1147.2.40" />
                               </ns0:sp>
@@ -1335,7 +1335,7 @@ k&#246;nnen die Liebe, die Freundlichkeit, wenn seine Seele sich ergo&#223;! O m
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1147.2.50.part1">STELLA.</ns0:speaker>
-                                 <ns0:p xml:id="tg1147.2.50.part2"> Gott wei&#223;! Ich kann, ich mag nichts wissen. Verlieren m&#246;cht ich sie nicht gern &#8211; Hab ich doch dich, Fernando! Ich w&#252;rde zugrunde gehn in diesen Augenblicken! Rede mit ihnen, Fernando. &#8211; Eben jetzt! jetzt! &#8211; Mache, da&#223; die Mutter her&#252;ber kommt, Heinrich! <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1147.2.50.1.part2">Der Bediente geht ab.</ns0:stage> Sprich mit ihr: sie soll Freiheit haben. &#8211; Fernando, ich will ins Boskett! Komm nach! Komm nach! &#8211; Ihr Nachtigallen, ihr empfangt ihn noch!</ns0:p>
+                                 <ns0:p xml:id="tg1147.2.50.part2"> Gott wei&#223;! Ich kann, ich mag nichts wissen. Verlieren m&#246;cht ich sie nicht gern &#8211; Hab ich doch dich, Fernando! Ich w&#252;rde zugrunde gehn in diesen Augenblicken! Rede mit ihnen, Fernando. &#8211; Eben jetzt! jetzt! &#8211; Mache, da&#223; die Mutter her&#252;ber kommt, Heinrich! <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg1147.2.50.1.part2">Der Bediente geht ab.</ns0:stage> Sprich mit ihr: sie soll Freiheit haben. &#8211; Fernando, ich will ins Boskett! Komm nach! Komm nach! &#8211; Ihr Nachtigallen, ihr empfangt ihn noch!</ns0:p>
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1147.2.51.part1">FERNANDO.</ns0:speaker>
@@ -1344,38 +1344,38 @@ k&#246;nnen die Liebe, die Freundlichkeit, wenn seine Seele sich ergo&#223;! O m
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1147.2.52.part1">STELLA</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1147.2.52.1.part1">an ihm hangend.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1147.2.52.1.part1">an ihm hangend.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:l xml:id="tg1147.2.52.part2"> Und du kommst doch bald?</ns0:l>
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1147.2.53.part1">FERNANDO.</ns0:speaker>
-                                 <ns0:l xml:id="tg1147.2.53.part2"> Gleich! Gleich! <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1147.2.53.1.part2">Stella ab.</ns0:stage>
+                                 <ns0:l xml:id="tg1147.2.53.part2"> Gleich! Gleich! <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg1147.2.53.1.part2">Stella ab.</ns0:stage>
                                  </ns0:l>
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1147.2.54.part1">FERNANDO</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1147.2.54.1.part1">allein.</ns0:stage>
+                                    <ns0:stage rend="italic" type="aside" ns1:fixed-stage="true" xml:id="tg1147.2.54.1.part1">allein.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:p xml:id="tg1147.2.54.part2"> Engel des Himmels! Wie vor ihrer Gegenwart alles heiter wird, alles frei! &#8211; Fernando, kennst du dich noch selbst? Alles, was diesen Busen bedr&#228;ngt, es ist weg; jede Sorge, jedes &#228;ngstliche Zur&#252;ckerinnern, was war &#8211; und was sein wird! &#8211; Kommt ihr schon wieder? &#8211; und doch, wenn ich dich ansehe, deine Hand halte, Stella! flieht alles, verlischt jedes andre Bild in meiner Seele!</ns0:p>
                                  <ns0:lb xml:id="tg1147.2.55" />
-                                 <ns0:stage rend="zenoPC" type="enter" xml:id="tg1147.2.56">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1147.2.56.1">Der Verwalter kommt.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg1147.2.56">
+                                    <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg1147.2.56.1">Der Verwalter kommt.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg1147.2.57" />
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1147.2.58.part1">VERWALTER</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1147.2.58.1.part1">ihm die H&#228;nde k&#252;ssend.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1147.2.58.1.part1">ihm die H&#228;nde k&#252;ssend.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:l xml:id="tg1147.2.58.part2"> Sie sind wieder da?</ns0:l>
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1147.2.59.part1">FERNANDO</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1147.2.59.1.part1">die Hand wegziehend.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1147.2.59.1.part1">die Hand wegziehend.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:l xml:id="tg1147.2.59.part2"> Ich bin's.</ns0:l>
                               </ns0:sp>
@@ -1482,8 +1482,8 @@ fanden, da&#223; sich eben eine Gelegenheit zeigte, die G&#252;ter zu verkaufen,
                                  <ns0:l xml:id="tg1147.2.85.part2"> Bleiben Sie nur, dann ist alles gut.<ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1147.2.85.1.part2"> Ab.</ns0:stage>
                                  </ns0:l>
                                  <ns0:lb xml:id="tg1147.2.86" />
-                                 <ns0:stage rend="zenoPC" type="enter" xml:id="tg1147.2.87">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1147.2.87.1">Bedienter kommt.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg1147.2.87">
+                                    <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg1147.2.87.1">Bedienter kommt.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg1147.2.88" />
                               </ns0:sp>
@@ -1493,27 +1493,27 @@ fanden, da&#223; sich eben eine Gelegenheit zeigte, die G&#252;ter zu verkaufen,
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1147.2.90.part1">FERNANDO.</ns0:speaker>
-                                 <ns0:l xml:id="tg1147.2.90.part2"> Bring sie herein. <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1147.2.90.1.part2">Bedienter ab.</ns0:stage>
+                                 <ns0:l xml:id="tg1147.2.90.part2"> Bring sie herein. <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg1147.2.90.1.part2">Bedienter ab.</ns0:stage>
                                  </ns0:l>
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1147.2.91.part1">FERNANDO</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1147.2.91.1.part1">allein.</ns0:stage>
+                                    <ns0:stage rend="italic" type="aside" ns1:fixed-stage="true" xml:id="tg1147.2.91.1.part1">allein.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:p xml:id="tg1147.2.91.part2"> Dies Weib macht mich schwerm&#252;tig. Da&#223; nichts ganz, nichts rein in der Welt ist! Diese Frau! &#8211; Ihrer Tochter Mut hat mich zerst&#246;rt; was wird ihr Schmerz tun?</ns0:p>
                                  <ns0:lb xml:id="tg1147.2.92" />
-                                 <ns0:stage rend="zenoPC" type="enter" xml:id="tg1147.2.93">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1147.2.93.1">Madame Sommer tritt auf.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg1147.2.93">
+                                    <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg1147.2.93.1">Madame Sommer tritt auf.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg1147.2.94" />
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1147.2.95.part1">FERNANDO</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1147.2.95.1.part1">vor sich.</ns0:stage>
+                                    <ns0:stage rend="italic" type="aside" ns1:fixed-stage="true" xml:id="tg1147.2.95.1.part1">vor sich.</ns0:stage>
                                  </ns0:stage>
-                                 <ns0:p xml:id="tg1147.2.95.part2"> O Gott! und auch ihre Gestalt mu&#223; mich an mein Vergehen erinnern! Herz! Unser Herz! o, wenn's in dir liegt, so zu f&#252;hlen und so zu handeln, warum hast du nicht auch Kraft, dir das Geschehene zu verzeihen? &#8211; Ein Schatten der Gestalt meiner Frau! &#8211; O wo seh ich den nicht! <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1147.2.95.2.part2">Laut.</ns0:stage> Madame!</ns0:p>
+                                 <ns0:p xml:id="tg1147.2.95.part2"> O Gott! und auch ihre Gestalt mu&#223; mich an mein Vergehen erinnern! Herz! Unser Herz! o, wenn's in dir liegt, so zu f&#252;hlen und so zu handeln, warum hast du nicht auch Kraft, dir das Geschehene zu verzeihen? &#8211; Ein Schatten der Gestalt meiner Frau! &#8211; O wo seh ich den nicht! <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1147.2.95.2.part2">Laut.</ns0:stage> Madame!</ns0:p>
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1147.2.96.part1">MADAME SOMMER.</ns0:speaker>
@@ -1539,27 +1539,27 @@ fanden, da&#223; sich eben eine Gelegenheit zeigte, die G&#252;ter zu verkaufen,
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1147.2.102.part1">FERNANDO</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1147.2.102.1.part1">vor sich.</ns0:stage>
+                                    <ns0:stage rend="italic" type="aside" ns1:fixed-stage="true" xml:id="tg1147.2.102.1.part1">vor sich.</ns0:stage>
                                  </ns0:stage>
-                                 <ns0:p xml:id="tg1147.2.102.part2"> Welche Stimme! Welche Gestalt! <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1147.2.102.2.part2">Laut.</ns0:stage> Madame! <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1147.2.102.3.part2">Er wendet sich ab.</ns0:stage> &#8211; Gott, es ist meine Frau! &#8211; <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1147.2.102.4.part2">Laut.</ns0:stage> Verzeihen Sie! <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1147.2.102.5.part2">Eilend ab.</ns0:stage>
+                                 <ns0:p xml:id="tg1147.2.102.part2"> Welche Stimme! Welche Gestalt! <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1147.2.102.2.part2">Laut.</ns0:stage> Madame! <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg1147.2.102.3.part2">Er wendet sich ab.</ns0:stage> &#8211; Gott, es ist meine Frau! &#8211; <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1147.2.102.4.part2">Laut.</ns0:stage> Verzeihen Sie! <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg1147.2.102.5.part2">Eilend ab.</ns0:stage>
                                  </ns0:p>
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1147.2.103.part1">MADAME SOMMER</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1147.2.103.1.part1">allein.</ns0:stage>
+                                    <ns0:stage rend="italic" type="aside" ns1:fixed-stage="true" xml:id="tg1147.2.103.1.part1">allein.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:p xml:id="tg1147.2.103.part2"> Er erkennt mich! &#8211; Ich danke dir, Gott, da&#223; du in diesen Augenblicken meinem Herzen so viel St&#228;rke gegeben hast! &#8211; Bin ich's? die Zerschlagene! die Zerrissene! die in der bedeutenden Stunde so ruhig, so mutig ist? Guter, ewiger Vorsorger, du nimmst unserm Herzen doch nichts, was du ihm nicht aufbewahrtest, bis zur Stunde, wo es dessen am meisten bedarf.</ns0:p>
                                  <ns0:lb xml:id="tg1147.2.104" />
-                                 <ns0:stage rend="zenoPC" type="enter" xml:id="tg1147.2.105">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1147.2.105.1">Fernando kommt zur&#252;ck.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg1147.2.105">
+                                    <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg1147.2.105.1">Fernando kommt zur&#252;ck.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg1147.2.106" />
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1147.2.107.part1">FERNANDO</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1147.2.107.1.part1">vor sich.</ns0:stage>
+                                    <ns0:stage rend="italic" type="aside" ns1:fixed-stage="true" xml:id="tg1147.2.107.1.part1">vor sich.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:l xml:id="tg1147.2.107.part2"> Sollte sie mich kennen? &#8211;<ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1147.2.107.2.part2"> Laut.</ns0:stage> Ich bitte Sie, Madame, ich beschw&#246;re Sie, er&#246;ffnen Sie mir Ihr Herz!</ns0:l>
                               </ns0:sp>
@@ -1603,7 +1603,7 @@ mir statt meiner Eltern geworden w&#228;re, die ich um seinetwillen verlie&#223;
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1147.2.117.part1">FERNANDO</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1147.2.117.1.part1">immer verwirrter.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1147.2.117.1.part1">immer verwirrter.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:l xml:id="tg1147.2.117.part2"> Und wie? Seine Gesinnungen, sein Herz?</ns0:l>
                               </ns0:sp>
@@ -1627,7 +1627,7 @@ Fr&#252;chte der aufgeopferten Bl&#252;te einzuernten gedachte &#8211; verlassen
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1147.2.122.part1">MADAME SOMMER</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1147.2.122.1.part1">mit zur&#252;ckgehaltener Wehmut.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1147.2.122.1.part1">mit zur&#252;ckgehaltener Wehmut.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:l xml:id="tg1147.2.122.part2"> Er ist's nicht! &#8211; Ich bedaure den Mann, der sich an ein M&#228;dchen h&#228;ngt.</ns0:l>
                               </ns0:sp>
@@ -1638,21 +1638,21 @@ Fr&#252;chte der aufgeopferten Bl&#252;te einzuernten gedachte &#8211; verlassen
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1147.2.124.part1">MADAME SOMMER</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1147.2.124.1.part1">gelinde spottend, ihre R&#252;hrung zu verbergen.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1147.2.124.1.part1">gelinde spottend, ihre R&#252;hrung zu verbergen.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:p xml:id="tg1147.2.124.part2"> Nein, gewi&#223;! Ich seh ihn als einen Gefangenen an. Sie sagen ja auch immer, es sei so. Er wird aus seiner Welt in die unsere her&#252;bergezogen, mit der er im Grunde nichts gemein hat. Er betr&#252;g sich eine Zeitlang, und weh uns, wenn ihm die Augen aufgehn! &#8211; Ich nun gar konnte ihm zuletzt nichts sein als eine redliche Hausfrau, die zwar mit dem festesten Bestreben an ihm hing, ihm gef&#228;llig, f&#252;r ihn sorgsam zu sein; die dem Wohl ihres Hauses, ihres Kindes all ihre Tage widmete, und freilich sich mit so viel Kleinigkeiten abgeben mu&#223;te, da&#223; ihr Herz und Kopf oft w&#252;ste ward, da&#223; sie keine unterhaltende Gesellschafterin war, da&#223; er mit der Lebhaftigkeit seines Geistes meinen Umgang notwendig schal finden mu&#223;te. Er ist nicht schuldig!</ns0:p>
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1147.2.125.part1">FERNANDO</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1147.2.125.1.part1">zu ihren F&#252;&#223;en.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1147.2.125.1.part1">zu ihren F&#252;&#223;en.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:l xml:id="tg1147.2.125.part2"> Ich bin's!</ns0:l>
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1147.2.126.part1">MADAME SOMMER</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1147.2.126.1.part1">mit einem Strom von Tr&#228;nen an seinem Hals.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1147.2.126.1.part1">mit einem Strom von Tr&#228;nen an seinem Hals.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:l xml:id="tg1147.2.126.part2"> Mein! &#8211;</ns0:l>
                               </ns0:sp>
@@ -1663,9 +1663,9 @@ Fr&#252;chte der aufgeopferten Bl&#252;te einzuernten gedachte &#8211; verlassen
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1147.2.128.part1">C&#196;CILIE</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1147.2.128.1.part1">von ihm sich abwendend.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1147.2.128.1.part1">von ihm sich abwendend.</ns0:stage>
                                  </ns0:stage>
-                                 <ns0:p xml:id="tg1147.2.128.part2"> Nicht mein &#8211; Du verl&#228;ssest mich, mein Herz! &#8211; <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1147.2.128.2.part2">Wieder an seinem Hals.</ns0:stage> Fernando! &#8211; wer du auch seist &#8211; la&#223; diese Tr&#228;nen einer Elenden an deinem Busen flie&#223;en &#8211; Halte mich diesen Augenblick aufrecht, und dann verla&#223; mich auf ewig! &#8211; Es ist nicht dein Weib! &#8211; Sto&#223;e mich nicht von dir! &#8211;</ns0:p>
+                                 <ns0:p xml:id="tg1147.2.128.part2"> Nicht mein &#8211; Du verl&#228;ssest mich, mein Herz! &#8211; <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1147.2.128.2.part2">Wieder an seinem Hals.</ns0:stage> Fernando! &#8211; wer du auch seist &#8211; la&#223; diese Tr&#228;nen einer Elenden an deinem Busen flie&#223;en &#8211; Halte mich diesen Augenblick aufrecht, und dann verla&#223; mich auf ewig! &#8211; Es ist nicht dein Weib! &#8211; Sto&#223;e mich nicht von dir! &#8211;</ns0:p>
                                  <ns0:pb n="332" xml:id="tg1147.2.129" />
                               </ns0:sp>
                               <ns0:sp>
@@ -1687,7 +1687,7 @@ Fr&#252;chte der aufgeopferten Bl&#252;te einzuernten gedachte &#8211; verlassen
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1147.2.134.part1">FERNANDO</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1147.2.134.1.part1">sie bei der Hand fassend, ansehend, sie umarmend.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1147.2.134.1.part1">sie bei der Hand fassend, ansehend, sie umarmend.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:l xml:id="tg1147.2.134.part2"> Nichts, nichts in der Welt soll mich von dir trennen. Ich habe dich wiedergefunden.</ns0:l>
                               </ns0:sp>
@@ -1699,8 +1699,8 @@ Fr&#252;chte der aufgeopferten Bl&#252;te einzuernten gedachte &#8211; verlassen
                                  <ns0:speaker xml:id="tg1147.2.136.part1">FERNANDO.</ns0:speaker>
                                  <ns0:p xml:id="tg1147.2.136.part2"> La&#223;! la&#223;! &#8211; Ja, ich habe dich gesucht; dich, meine Verlassene, meine Teure! Ich fand sogar in den Armen des Engels hier keine Ruhe, keine Freuden; alles erinnerte mich an dich, an deine Tochter, an meine Lucie. G&#252;tiger Himmel! wieviel Freude! Sollte das liebensw&#252;rdige Gesch&#246;pf meine Tochter sein? &#8211; &#8211; Ich habe dich aufgesucht &#252;berall. Drei Jahre zieh ich herum. An dem Ort unsers Aufenthalts fand ich, ach! unsere Wohnung ver&#228;ndert, in fremden H&#228;nden, und die traurige Geschichte des Verlusts deines Verm&#246;gens. Deine Entweichung zerri&#223; mir das Herz; ich konnte keine Spur von dir finden, und meiner selbst und des Lebens &#252;berdr&#252;ssig, steckt ich mich in diese Kleider, in fremde Dienste, half die sterbende Freiheit der edeln Korsen unterdr&#252;cken; und nun siehst du mich hier, nach einer langen und wunderbaren Verirrung wieder an deinem Busen, mein teuerstes, mein bestes Weib!</ns0:p>
                                  <ns0:lb xml:id="tg1147.2.137" />
-                                 <ns0:stage rend="zenoPC" type="enter" xml:id="tg1147.2.138">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1147.2.138.1">Lucie tritt auf.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg1147.2.138">
+                                    <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg1147.2.138.1">Lucie tritt auf.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg1147.2.139" />
                               </ns0:sp>
@@ -1731,13 +1731,13 @@ Fr&#252;chte der aufgeopferten Bl&#252;te einzuernten gedachte &#8211; verlassen
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1147.2.147.part1">FERNANDO.</ns0:speaker>
-                                 <ns0:l xml:id="tg1147.2.147.part2"> Fort! La&#223; sein! &#8211; Ja, meine Lieben, wir wollen fort! <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1147.2.147.1.part2">C&#228;cilie und Lucie ab.</ns0:stage>
+                                 <ns0:l xml:id="tg1147.2.147.part2"> Fort! La&#223; sein! &#8211; Ja, meine Lieben, wir wollen fort! <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg1147.2.147.1.part2">C&#228;cilie und Lucie ab.</ns0:stage>
                                  </ns0:l>
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1147.2.148.part1">FERNANDO</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1147.2.148.1.part1">allein.</ns0:stage>
+                                    <ns0:stage rend="italic" type="aside" ns1:fixed-stage="true" xml:id="tg1147.2.148.1.part1">allein.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:p xml:id="tg1147.2.148.part2"> Fort? &#8211; &#8211; Wohin? Wohin? &#8211; Ein Dolchstich w&#252;rde allen diesen Schmerzen den Weg &#246;ffnen, und mich in die dumpfe F&#252;hllosigkeit st&#252;rzen, um die ich jetzt alles dahing&#228;be! &#8211; Bist du da, Elender? Erinnere dich der vollgl&#252;cklichen Tage, da du in starker Gen&#252;gsamkeit gegen den Armen standst, der des Lebens B&#252;rde abwerfen wollte; wie du dich f&#252;hltest in jenen gl&#252;cklichen Tagen, und nun! &#8211; Ja, die Gl&#252;cklichen! die Gl&#252;cklichen! &#8211; Eine Stunde fr&#252;her diese Entdeckung, und ich war geborgen; ich h&#228;tte sie nicht wieder gesehn, sie mich nicht; ich h&#228;tte mich &#252;berreden k&#246;nnen: sie hat dich diese vier Jahre her vergessen, verschmerzt ihr Leiden. Aber nun? Wie soll ich vor ihr erscheinen, was ihr sagen? &#8211; O meine Schuld, meine Schuld wird schwer in diesen Augenblicken &#252;ber mir! &#8211; Verlassen, die beiden lieben Gesch&#246;pfe! Und ich, in dem Augenblick, da ich sie wieder finde, verlassen von mir selbst! elend! O meine Brust!</ns0:p>
                               </ns0:sp>
@@ -1772,7 +1772,7 @@ Vierter Akt</ns0:head>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1148.2.8.part1">FERNANDO</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1148.2.8.1.part1">kommt.</ns0:stage>
+                                    <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg1148.2.8.1.part1">kommt.</ns0:stage>
                                  </ns0:stage>
 
                               </ns0:sp>
@@ -1786,7 +1786,7 @@ Vierter Akt</ns0:head>
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1148.2.11.part1">STELLA.</ns0:speaker>
-                                 <ns0:p xml:id="tg1148.2.11.part2"> Wenn sie nicht zu bewegen ist, ich will sie nicht wider Willen &#8211; Und, Fernando, ich brauchte Gesellschaft &#8211; und jetzt &#8211; <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1148.2.11.1.part2">An seinem Hals.</ns0:stage> jetzt, Fernando! Ich habe dich ja!</ns0:p>
+                                 <ns0:p xml:id="tg1148.2.11.part2"> Wenn sie nicht zu bewegen ist, ich will sie nicht wider Willen &#8211; Und, Fernando, ich brauchte Gesellschaft &#8211; und jetzt &#8211; <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1148.2.11.1.part2">An seinem Hals.</ns0:stage> jetzt, Fernando! Ich habe dich ja!</ns0:p>
                                  <ns0:pb n="335" xml:id="tg1148.2.12" />
                               </ns0:sp>
                               <ns0:sp>
@@ -1800,7 +1800,7 @@ Vierter Akt</ns0:head>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1148.2.15.part1">FERNANDO</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1148.2.15.1.part1">vor sich.</ns0:stage>
+                                    <ns0:stage rend="italic" type="aside" ns1:fixed-stage="true" xml:id="tg1148.2.15.1.part1">vor sich.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:l xml:id="tg1148.2.15.part2"> Ich Elender! Sie verlassen?<ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1148.2.15.2.part2"> Laut.</ns0:stage> La&#223; mich, Stella!</ns0:l>
                               </ns0:sp>
@@ -1819,9 +1819,9 @@ Vierter Akt</ns0:head>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1148.2.19.part1">FERNANDO</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1148.2.19.1.part1">vor sich.</ns0:stage>
+                                    <ns0:stage rend="italic" type="aside" ns1:fixed-stage="true" xml:id="tg1148.2.19.1.part1">vor sich.</ns0:stage>
                                  </ns0:stage>
-                                 <ns0:l xml:id="tg1148.2.19.part2"> Sie wird mir das Herz zerrei&#223;en! &#8211; &#8211; <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1148.2.19.2.part2">Laut.</ns0:stage> Ich wei&#223; noch, meine Stella!</ns0:l>
+                                 <ns0:l xml:id="tg1148.2.19.part2"> Sie wird mir das Herz zerrei&#223;en! &#8211; &#8211; <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1148.2.19.2.part2">Laut.</ns0:stage> Ich wei&#223; noch, meine Stella!</ns0:l>
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1148.2.20.part1">STELLA.</ns0:speaker>
@@ -1830,7 +1830,7 @@ Vierter Akt</ns0:head>
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1148.2.22.part1">FERNANDO.</ns0:speaker>
-                                 <ns0:l xml:id="tg1148.2.22.part2"> Bis auf den kleinsten Umstand! &#8211; <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1148.2.22.1.part2">Vor sich.</ns0:stage> Ungl&#252;ckliches Ged&#228;chtnis!</ns0:l>
+                                 <ns0:l xml:id="tg1148.2.22.part2"> Bis auf den kleinsten Umstand! &#8211; <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1148.2.22.1.part2">Vor sich.</ns0:stage> Ungl&#252;ckliches Ged&#228;chtnis!</ns0:l>
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1148.2.23.part1">STELLA.</ns0:speaker>
@@ -1857,8 +1857,8 @@ dich! da hat mir's nie gemangelt! Und wenn's Grille w&#228;re, sagte ich &#8211;
                                  <ns0:speaker xml:id="tg1148.2.28.part1">FERNANDO.</ns0:speaker>
                                  <ns0:l xml:id="tg1148.2.28.part2"> Ich vergehe!</ns0:l>
                                  <ns0:lb xml:id="tg1148.2.29" />
-                                 <ns0:stage rend="zenoPC" type="enter" xml:id="tg1148.2.30">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1148.2.30.1">Annchen kommt.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg1148.2.30">
+                                    <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg1148.2.30.1">Annchen kommt.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg1148.2.31" />
                               </ns0:sp>
@@ -1889,7 +1889,7 @@ dich! da hat mir's nie gemangelt! Und wenn's Grille w&#228;re, sagte ich &#8211;
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1148.2.38.part1">STELLA</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1148.2.38.1.part1">verlegen.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1148.2.38.1.part1">verlegen.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:l xml:id="tg1148.2.38.part2"> Fernando!</ns0:l>
                               </ns0:sp>
@@ -1907,12 +1907,12 @@ dich! da hat mir's nie gemangelt! Und wenn's Grille w&#228;re, sagte ich &#8211;
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1148.2.42.part1">STELLA.</ns0:speaker>
-                                 <ns0:p xml:id="tg1148.2.42.part2"> Verla&#223; uns, Annchen! <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1148.2.42.1.part2">Annchen ab.</ns0:stage> Rei&#223; mich aus der entsetzlichen Verlegenheit! Ich f&#252;rchte nichts, und doch &#228;ngstet mich das Kindergeschw&#228;tz. &#8211; Du bist bewegt! Fernando! &#8211; Ich bin deine Stella!</ns0:p>
+                                 <ns0:p xml:id="tg1148.2.42.part2"> Verla&#223; uns, Annchen! <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg1148.2.42.1.part2">Annchen ab.</ns0:stage> Rei&#223; mich aus der entsetzlichen Verlegenheit! Ich f&#252;rchte nichts, und doch &#228;ngstet mich das Kindergeschw&#228;tz. &#8211; Du bist bewegt! Fernando! &#8211; Ich bin deine Stella!</ns0:p>
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1148.2.43.part1">FERNANDO</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1148.2.43.1.part1">sich umwendend und sie bei der Hand fassend.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1148.2.43.1.part1">sich umwendend und sie bei der Hand fassend.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:l xml:id="tg1148.2.43.part2"> Du bist meine Stella!</ns0:l>
                               </ns0:sp>
@@ -1932,13 +1932,13 @@ vermag vor dir nichts. Fliehen! &#8211; Hab das Herz nicht, dir den Dolch in die
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1148.2.47.part1">FERNANDO</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1148.2.47.1.part1">mit Wut und Zittern.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1148.2.47.1.part1">mit Wut und Zittern.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:l xml:id="tg1148.2.47.part2"> Und nur nicht sehn ihr Elend, nicht h&#246;ren ihre Verzweiflung! Fliehen! &#8211;</ns0:l>
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1148.2.48.part1">STELLA.</ns0:speaker>
-                                 <ns0:l xml:id="tg1148.2.48.part2"> Ich halt's nicht aus! <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1148.2.48.1.part2">Sie will sinken und h&#228;lt sich an ihn.</ns0:stage>
+                                 <ns0:l xml:id="tg1148.2.48.part2"> Ich halt's nicht aus! <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1148.2.48.1.part2">Sie will sinken und h&#228;lt sich an ihn.</ns0:stage>
                                  </ns0:l>
                               </ns0:sp>
                               <ns0:sp>
@@ -1948,14 +1948,14 @@ vermag vor dir nichts. Fliehen! &#8211; Hab das Herz nicht, dir den Dolch in die
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1148.2.50.part1">STELLA</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1148.2.50.1.part1">verwirrt l&#228;chelnd.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1148.2.50.1.part1">verwirrt l&#228;chelnd.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:l xml:id="tg1148.2.50.part2"> Mich!</ns0:l>
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1148.2.51.part1">FERNANDO</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1148.2.51.1.part1">mit Z&#228;hneknirschen.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1148.2.51.1.part1">mit Z&#228;hneknirschen.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:l xml:id="tg1148.2.51.part2"> Dich! mit dem Weibe, das du gesehen hast! mit dem M&#228;dchen! &#8211;</ns0:l>
                               </ns0:sp>
@@ -1970,16 +1970,16 @@ vermag vor dir nichts. Fliehen! &#8211; Hab das Herz nicht, dir den Dolch in die
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1148.2.54.part1">STELLA</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1148.2.54.1.part1">sieht ihn starr an und l&#228;&#223;t die Arme sinken.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1148.2.54.1.part1">sieht ihn starr an und l&#228;&#223;t die Arme sinken.</ns0:stage>
                                  </ns0:stage>
 
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1148.2.55.part1">FERNANDO.</ns0:speaker>
-                                 <ns0:p xml:id="tg1148.2.55.part2"> Und das M&#228;dchen ist meine Tochter! Stella! <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1148.2.55.1.part2">Er bemerkt erst, da&#223; sie in Ohnmacht gefallen ist.</ns0:stage> Stella! <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1148.2.55.2.part2">Er bringt sie auf seinen Sitz.</ns0:stage> Stella! &#8211; H&#252;lfe! H&#252;lfe!</ns0:p>
+                                 <ns0:p xml:id="tg1148.2.55.part2"> Und das M&#228;dchen ist meine Tochter! Stella! <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1148.2.55.1.part2">Er bemerkt erst, da&#223; sie in Ohnmacht gefallen ist.</ns0:stage> Stella! <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1148.2.55.2.part2">Er bringt sie auf seinen Sitz.</ns0:stage> Stella! &#8211; H&#252;lfe! H&#252;lfe!</ns0:p>
                                  <ns0:lb xml:id="tg1148.2.56" />
-                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg1148.2.57">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1148.2.57.1">C&#228;cilie, Lucie kommen.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg1148.2.57">
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1148.2.57.1">C&#228;cilie, Lucie kommen.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg1148.2.58" />
                               </ns0:sp>
@@ -1987,8 +1987,8 @@ vermag vor dir nichts. Fliehen! &#8211; Hab das Herz nicht, dir den Dolch in die
                                  <ns0:speaker xml:id="tg1148.2.59.part1">FERNANDO.</ns0:speaker>
                                  <ns0:l xml:id="tg1148.2.59.part2"> Seht! seht den Engel! Er ist dahin! Seht! &#8211; H&#252;lfe!</ns0:l>
                                  <ns0:lb xml:id="tg1148.2.60" />
-                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg1148.2.61">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1148.2.61.1">Sie bem&#252;hen sich um sie.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg1148.2.61">
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1148.2.61.1">Sie bem&#252;hen sich um sie.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg1148.2.62" />
                               </ns0:sp>
@@ -1999,14 +1999,14 @@ vermag vor dir nichts. Fliehen! &#8211; Hab das Herz nicht, dir den Dolch in die
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1148.2.64.part1">FERNANDO</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1148.2.64.1.part1">stumm sie ansehend.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1148.2.64.1.part1">stumm sie ansehend.</ns0:stage>
                                  </ns0:stage>
-                                 <ns0:l xml:id="tg1148.2.64.part2"> Durch dich! Durch dich! <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1148.2.64.2.part2">Ab.</ns0:stage>
+                                 <ns0:l xml:id="tg1148.2.64.part2"> Durch dich! Durch dich! <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1148.2.64.2.part2">Ab.</ns0:stage>
                                  </ns0:l>
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1148.2.65.part1">STELLA.</ns0:speaker>
-                                 <ns0:p xml:id="tg1148.2.65.part2"> Wer? Wer? &#8211; <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1148.2.65.1.part2">Aufstehend.</ns0:stage> Wo ist er? <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1148.2.65.2.part2">Sie sinkt zur&#252;ck, sieht die an, die sich um sie bem&#252;hen.</ns0:stage> Dank euch! Dank! &#8211; Wer seid ihr? &#8211;</ns0:p>
+                                 <ns0:p xml:id="tg1148.2.65.part2"> Wer? Wer? &#8211; <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1148.2.65.1.part2">Aufstehend.</ns0:stage> Wo ist er? <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1148.2.65.2.part2">Sie sinkt zur&#252;ck, sieht die an, die sich um sie bem&#252;hen.</ns0:stage> Dank euch! Dank! &#8211; Wer seid ihr? &#8211;</ns0:p>
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1148.2.66.part1">C&#196;CILIE.</ns0:speaker>
@@ -2031,9 +2031,9 @@ vermag vor dir nichts. Fliehen! &#8211; Hab das Herz nicht, dir den Dolch in die
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1148.2.71.part1">STELLA</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1148.2.71.1.part1">aufspringend, sich die Augen zuhaltend.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1148.2.71.1.part1">aufspringend, sich die Augen zuhaltend.</ns0:stage>
                                  </ns0:stage>
-                                 <ns0:l xml:id="tg1148.2.71.part2"> Und ich? &#8211; <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1148.2.71.2.part2">Sie geht verwirrt auf und ab.</ns0:stage>
+                                 <ns0:l xml:id="tg1148.2.71.part2"> Und ich? &#8211; <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1148.2.71.2.part2">Sie geht verwirrt auf und ab.</ns0:stage>
                                  </ns0:l>
                               </ns0:sp>
                               <ns0:sp>
@@ -2071,7 +2071,7 @@ vermag vor dir nichts. Fliehen! &#8211; Hab das Herz nicht, dir den Dolch in die
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1148.2.81.part1">C&#196;CILIE.</ns0:speaker>
-                                 <ns0:l xml:id="tg1148.2.81.part2"> La&#223;! La&#223;! <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1148.2.81.1.part2">Sie bem&#252;hen sich, sie aufzuheben.</ns0:stage>
+                                 <ns0:l xml:id="tg1148.2.81.part2"> La&#223;! La&#223;! <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1148.2.81.1.part2">Sie bem&#252;hen sich, sie aufzuheben.</ns0:stage>
                                  </ns0:l>
                               </ns0:sp>
                               <ns0:sp>
@@ -2085,7 +2085,7 @@ vermag vor dir nichts. Fliehen! &#8211; Hab das Herz nicht, dir den Dolch in die
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1148.2.84.part1">STELLA</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1148.2.84.1.part1">an ihrem Halse.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1148.2.84.1.part1">an ihrem Halse.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:p xml:id="tg1148.2.84.part2"> Ich lese in deinen Augen, auf deiner Lippe Worte des Himmels. Halt mich! Trag mich! Ich gehe zugrunde! Sie vergibt mir! Sie f&#252;hlt mein Elend!</ns0:p>
                               </ns0:sp>
@@ -2104,15 +2104,15 @@ vermag vor dir nichts. Fliehen! &#8211; Hab das Herz nicht, dir den Dolch in die
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1148.2.88.part1">STELLA</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1148.2.88.1.part1">nach einer Pause, wild wegfahrend.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1148.2.88.1.part1">nach einer Pause, wild wegfahrend.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:p xml:id="tg1148.2.88.part2"> La&#223;t mich alle! Sieh, es dr&#228;ngt sich eine Welt voll Verwirrung und Qual in meine Seele, und f&#252;llt sie ganz mit uns&#228;glichen Schmerzen &#8211; Es ist unm&#246;glich &#8211; unm&#246;glich! So auf einmal! &#8211; Ist <ns0:pb n="340" xml:id="tg1148.2.88.2.part2" />
-nicht zu fassen, nicht zu tragen! &#8211; <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1148.2.88.3.part2">Sie steht eine Weile niedersehend still, in sich gekehrt, sieht dann auf, erblickt die beiden, f&#228;hrt mit einem Schrei zusammen und entflieht.</ns0:stage>
+nicht zu fassen, nicht zu tragen! &#8211; <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1148.2.88.3.part2">Sie steht eine Weile niedersehend still, in sich gekehrt, sieht dann auf, erblickt die beiden, f&#228;hrt mit einem Schrei zusammen und entflieht.</ns0:stage>
                                  </ns0:p>
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1148.2.89.part1">C&#196;CILIE.</ns0:speaker>
-                                 <ns0:p xml:id="tg1148.2.89.part2"> Geh ihr nach, Lucie! Beobachte sie! <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1148.2.89.1.part2">Lucie ab.</ns0:stage> Sieh herab auf deine Kinder, und ihre Verwirrung, ihr Elend! &#8211; Leidend lernt ich viel. St&#228;rke mich! &#8211; Und kann der Knoten gel&#246;st werden, heiliger Gott im Himmel! zerrei&#223; ihn nicht.</ns0:p>
+                                 <ns0:p xml:id="tg1148.2.89.part2"> Geh ihr nach, Lucie! Beobachte sie! <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg1148.2.89.1.part2">Lucie ab.</ns0:stage> Sieh herab auf deine Kinder, und ihre Verwirrung, ihr Elend! &#8211; Leidend lernt ich viel. St&#228;rke mich! &#8211; Und kann der Knoten gel&#246;st werden, heiliger Gott im Himmel! zerrei&#223; ihn nicht.</ns0:p>
                               </ns0:sp>
                            </ns0:div>
                         </ns0:div>
@@ -2138,11 +2138,11 @@ nicht zu fassen, nicht zu tragen! &#8211; <ns0:stage rend="italic" ns1:fixed-sta
                               <ns0:lb xml:id="tg1149.2.6" />
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1149.2.7.part1">STELLA.</ns0:speaker>
-                                 <ns0:p xml:id="tg1149.2.7.part2"> F&#252;lle der Nacht, umgib mich! fasse mich! leite mich! ich wei&#223; nicht, wohin ich trete! &#8211; &#8211; Ich mu&#223;! ich will hinaus in die weite Welt! Wohin? Ach wohin? &#8211; Verbannt aus deiner Sch&#246;pfung! Wo du, heiliger Mond, auf den Wipfeln meiner B&#228;ume d&#228;mmerst; wo du mit furchtbar lieben Schatten das Grab meiner holden Mina umgibst, soll ich nicht mehr wandeln? Von dem Ort, wo alle Sch&#228;tze meines Lebens, alle selige Erinnerung aufbewahrt sind? &#8211; Und du, wor&#252;ber ich so oft mit Andacht und Tr&#228;nen gewohnt habe, St&#228;tte meines Grabes! die ich mir weihte; wo umher alle Wehmut, alle Wonne meines Lebens d&#228;mmert; wo ich noch abgeschieden umzuschweben und die Vergangenheit allschmachtend zu genie&#223;en hoffte, von dir auch verbannt sein? &#8211; Verbannt sein! &#8211; Du bist stumpf! Gott sei Dank! dein Gehirn ist verw&#252;stet; du kannst ihn nicht fassen, den Gedanken: Verbannt sein! Du w&#252;rdest wahnsinnig werden! &#8211; &#8211; Nun! &#8211; O mir ist schwindlig! &#8211; Leb wohl! &#8211; Lebt wohl? Nimmerwiedersehen? &#8211; Es ist ein dumpfer Totenblick in dem Gef&#252;hl! Nicht wiedersehn? &#8211; Fort! Stella! Sie ergreift das Portr&#228;t. Und dich sollt ich zur&#252;cklassen? <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1149.2.7.1.part2">Sie nimmt ein Messer und f&#228;ngt an, die N&#228;gel loszubrechen.</ns0:stage> O da&#223; ich ohne Gedanken w&#228;re! da&#223; ich in dumpfem Schlaf, da&#223; ich in hinrei&#223;enden Tr&#228;nen <ns0:pb n="341" xml:id="tg1149.2.7.2.part2" />
-mein Leben hing&#228;be! &#8211; &#8211; Das ist und wird sein: &#8211; du bist elend! &#8211; <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1149.2.7.3.part2">Das Gem&#228;lde nach dem Monde wendend.</ns0:stage> Ha, Fernando! da du zu mir tratst und mein Herz dir entgegensprang, f&#252;hltest du nicht das Vertrauen auf deine Treue deine G&#252;te? &#8211; F&#252;hltest du nicht, welch Heiligtum sich dir er&#246;ffnete, als sich mein Herz gegen dich aufschlo&#223;? &#8211; Und du bebtest nicht vor mir zur&#252;ck? Versankst nicht? Entflohst nicht? &#8211; Du konntest meine Unschuld, mein Gl&#252;ck, mein Leben so zum Zeitvertreib pfl&#252;cken, und zerpfl&#252;cken, und am Wege gedankenlos hinstreuen? &#8211; Edler! &#8211; Ha, Edler! &#8211; Meine Jugend! &#8211; meine goldnen Tage! &#8211; Und du tr&#228;gst die tiefe T&#252;cke im Herzen! &#8211; Dein Weib! &#8211; deine Tochter! &#8211; Und mir war's frei in der Seele, rein wie ein Fr&#252;hlingsmorgen! &#8211; Alles, alles Eine Hoffnung! &#8211; &#8211; Wo bist du, Stella? &#8211; Das Portr&#228;t anschauend. So gro&#223;! so schmeichelnd! &#8211; Der Blick war's, der mich ins Verderben ri&#223;! &#8211; &#8211; Ich hasse dich! Weg! wende dich weg! &#8211; So d&#228;mmernd! so lieb! &#8211; Nein! Nein! &#8211; Verderber! &#8211; Mich? &#8211; Mich? &#8211; Du? Mich? &#8211; <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1149.2.7.4.part2">Sie zuckt mit dem Messer nach dem Gem&#228;lde. Fernando! &#8211; Sie wendet sich ab, das Messer f&#228;llt, sie st&#252;rzt mit einem Ausbruch von Tr&#228;nen vor den Stuhl nieder.</ns0:stage> Liebster! Liebster! &#8211; Vergebens! Vergebens!</ns0:p>
+                                 <ns0:p xml:id="tg1149.2.7.part2"> F&#252;lle der Nacht, umgib mich! fasse mich! leite mich! ich wei&#223; nicht, wohin ich trete! &#8211; &#8211; Ich mu&#223;! ich will hinaus in die weite Welt! Wohin? Ach wohin? &#8211; Verbannt aus deiner Sch&#246;pfung! Wo du, heiliger Mond, auf den Wipfeln meiner B&#228;ume d&#228;mmerst; wo du mit furchtbar lieben Schatten das Grab meiner holden Mina umgibst, soll ich nicht mehr wandeln? Von dem Ort, wo alle Sch&#228;tze meines Lebens, alle selige Erinnerung aufbewahrt sind? &#8211; Und du, wor&#252;ber ich so oft mit Andacht und Tr&#228;nen gewohnt habe, St&#228;tte meines Grabes! die ich mir weihte; wo umher alle Wehmut, alle Wonne meines Lebens d&#228;mmert; wo ich noch abgeschieden umzuschweben und die Vergangenheit allschmachtend zu genie&#223;en hoffte, von dir auch verbannt sein? &#8211; Verbannt sein! &#8211; Du bist stumpf! Gott sei Dank! dein Gehirn ist verw&#252;stet; du kannst ihn nicht fassen, den Gedanken: Verbannt sein! Du w&#252;rdest wahnsinnig werden! &#8211; &#8211; Nun! &#8211; O mir ist schwindlig! &#8211; Leb wohl! &#8211; Lebt wohl? Nimmerwiedersehen? &#8211; Es ist ein dumpfer Totenblick in dem Gef&#252;hl! Nicht wiedersehn? &#8211; Fort! Stella! Sie ergreift das Portr&#228;t. Und dich sollt ich zur&#252;cklassen? <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1149.2.7.1.part2">Sie nimmt ein Messer und f&#228;ngt an, die N&#228;gel loszubrechen.</ns0:stage> O da&#223; ich ohne Gedanken w&#228;re! da&#223; ich in dumpfem Schlaf, da&#223; ich in hinrei&#223;enden Tr&#228;nen <ns0:pb n="341" xml:id="tg1149.2.7.2.part2" />
+mein Leben hing&#228;be! &#8211; &#8211; Das ist und wird sein: &#8211; du bist elend! &#8211; <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1149.2.7.3.part2">Das Gem&#228;lde nach dem Monde wendend.</ns0:stage> Ha, Fernando! da du zu mir tratst und mein Herz dir entgegensprang, f&#252;hltest du nicht das Vertrauen auf deine Treue deine G&#252;te? &#8211; F&#252;hltest du nicht, welch Heiligtum sich dir er&#246;ffnete, als sich mein Herz gegen dich aufschlo&#223;? &#8211; Und du bebtest nicht vor mir zur&#252;ck? Versankst nicht? Entflohst nicht? &#8211; Du konntest meine Unschuld, mein Gl&#252;ck, mein Leben so zum Zeitvertreib pfl&#252;cken, und zerpfl&#252;cken, und am Wege gedankenlos hinstreuen? &#8211; Edler! &#8211; Ha, Edler! &#8211; Meine Jugend! &#8211; meine goldnen Tage! &#8211; Und du tr&#228;gst die tiefe T&#252;cke im Herzen! &#8211; Dein Weib! &#8211; deine Tochter! &#8211; Und mir war's frei in der Seele, rein wie ein Fr&#252;hlingsmorgen! &#8211; Alles, alles Eine Hoffnung! &#8211; &#8211; Wo bist du, Stella? &#8211; Das Portr&#228;t anschauend. So gro&#223;! so schmeichelnd! &#8211; Der Blick war's, der mich ins Verderben ri&#223;! &#8211; &#8211; Ich hasse dich! Weg! wende dich weg! &#8211; So d&#228;mmernd! so lieb! &#8211; Nein! Nein! &#8211; Verderber! &#8211; Mich? &#8211; Mich? &#8211; Du? Mich? &#8211; <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1149.2.7.4.part2">Sie zuckt mit dem Messer nach dem Gem&#228;lde. Fernando! &#8211; Sie wendet sich ab, das Messer f&#228;llt, sie st&#252;rzt mit einem Ausbruch von Tr&#228;nen vor den Stuhl nieder.</ns0:stage> Liebster! Liebster! &#8211; Vergebens! Vergebens!</ns0:p>
                                  <ns0:lb xml:id="tg1149.2.8" />
-                                 <ns0:stage rend="zenoPC" type="enter" xml:id="tg1149.2.9">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1149.2.9.1">Bedienter kommt.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg1149.2.9">
+                                    <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg1149.2.9.1">Bedienter kommt.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg1149.2.10" />
                               </ns0:sp>
@@ -2152,7 +2152,7 @@ mein Leben hing&#228;be! &#8211; &#8211; Das ist und wird sein: &#8211; du bist 
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1149.2.12.part1">STELLA.</ns0:speaker>
-                                 <ns0:p xml:id="tg1149.2.12.part2"> Das Gem&#228;lde! <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1149.2.12.1.part2">Bedienter nimmt das Messer auf und schneidet das Gem&#228;lde von dem Rahmen und rollt's.</ns0:stage> Hier ist Geld.</ns0:p>
+                                 <ns0:p xml:id="tg1149.2.12.part2"> Das Gem&#228;lde! <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1149.2.12.1.part2">Bedienter nimmt das Messer auf und schneidet das Gem&#228;lde von dem Rahmen und rollt's.</ns0:stage> Hier ist Geld.</ns0:p>
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1149.2.13.part1">BEDIENTER.</ns0:speaker>
@@ -2161,27 +2161,27 @@ mein Leben hing&#228;be! &#8211; &#8211; Das ist und wird sein: &#8211; du bist 
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1149.2.14.part1">STELLA</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1149.2.14.1.part1">einen Moment stillstehend, auf- und umherblickend.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1149.2.14.1.part1">einen Moment stillstehend, auf- und umherblickend.</ns0:stage>
                                  </ns0:stage>
-                                 <ns0:l xml:id="tg1149.2.14.part2"> Komm! <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1149.2.14.2.part2">Ab.</ns0:stage>
+                                 <ns0:l xml:id="tg1149.2.14.part2"> Komm! <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1149.2.14.2.part2">Ab.</ns0:stage>
                                  </ns0:l>
                                  <ns0:lb xml:id="tg1149.2.15" />
-                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg1149.2.16">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1149.2.16.1">Saal.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg1149.2.16">
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1149.2.16.1">Saal.</ns0:stage>
                                  </ns0:stage>
-                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg1149.2.17">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1149.2.17.1">Fernando.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg1149.2.17">
+                                    <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg1149.2.17.1">Fernando.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg1149.2.18" />
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1149.2.19.part1">FERNANDO.</ns0:speaker>
                                  <ns0:p xml:id="tg1149.2.19.part2"> La&#223; mich! La&#223; mich! Sieh! da fa&#223;t's mich wieder mit all der schrecklichen Verworrenheit! &#8211; So kalt, so gra&#223; liegt alles vor mir &#8211; als w&#228;r die Welt nichts &#8211; ich h&#228;tte drin nichts verschuldet &#8211; &#8211; Und sie! &#8211; Ha! bin ich nicht <ns0:pb n="342" xml:id="tg1149.2.19.1.part2" />
-elender als ihr? Was habt ihr an mich zu fordern? &#8211; Was ist nun des Sinnens Ende? &#8211; Hier! und hier! Von einem Ende zum andern! durchgedacht! und wieder durchgedacht! und immer qu&#228;lender! immer schrecklicher! &#8211; &#8211; <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1149.2.19.2.part2">Sich die Stirn haltend.</ns0:stage> Wo's zuletzt widerst&#246;&#223;t! Nirgends vor, nicht hinter sich! Nirgends Rat und H&#252;lfe! &#8211; Und diese zwei, diese drei besten weiblichen Gesch&#246;pfe der Erde? &#8211; elend durch mich &#8211; elend ohne mich! &#8211; Ach, noch elender mit mir! &#8211; Wenn ich klagen k&#246;nnte, k&#246;nnte verzweifeln, k&#246;nnt um Vergebung bitten &#8211; k&#246;nnt in stumpfer Hoffnung nur eine Stunde hinbringen &#8211; zu ihren F&#252;&#223;en liegen, und in teilnehmendem Elend Seligkeit genie&#223;en! &#8211; Wo sind sie? &#8211; Stella! du liegst auf deinem Angesichte, blickst sterbend nach dem Himmel, und &#228;chzest: &#187;Was hab ich Blume verschuldet, da&#223; mich dein Grimm so niederknickt? Was hatte ich Arme verschuldet, da&#223; du diesen B&#246;sewicht zu mir f&#252;hrtest?&#171; &#8211; &#8211; C&#228;cilie! Mein Weib! o mein Weib! &#8211; Elend! Elend! tiefes Elend! &#8211; Welche Seligkeiten vereinigen sich, um mich elend zu machen! &#8211; Gatte! Vater! Geliebter! &#8211; Die besten, edelsten weiblichen Gesch&#246;pfe &#8211; Dein! Dein? &#8211; Kannst du das fassen, die dreifache, uns&#228;gliche Wonne? &#8211; Und nur die ist's, die dich so ergreift, die dich zerrei&#223;t! &#8211; Jede fordert mich ganz &#8211; Und ich? &#8211; Hier ist's zu! &#8211; tief! unergr&#252;ndlich! &#8211; &#8211; Sie wird elend sein! Stella! bist elend! &#8211; Was hab ich dir geraubt? Das Bewu&#223;tsein deiner selbst, dein junges Leben! &#8211; Stella! &#8211; Und ich bin so kalt! <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1149.2.19.3.part2">Er nimmt eine Pistole vom Tisch.</ns0:stage> Doch, auf alle F&#228;lle! &#8211; <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1149.2.19.4.part2">Er ladet.</ns0:stage>
+elender als ihr? Was habt ihr an mich zu fordern? &#8211; Was ist nun des Sinnens Ende? &#8211; Hier! und hier! Von einem Ende zum andern! durchgedacht! und wieder durchgedacht! und immer qu&#228;lender! immer schrecklicher! &#8211; &#8211; <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1149.2.19.2.part2">Sich die Stirn haltend.</ns0:stage> Wo's zuletzt widerst&#246;&#223;t! Nirgends vor, nicht hinter sich! Nirgends Rat und H&#252;lfe! &#8211; Und diese zwei, diese drei besten weiblichen Gesch&#246;pfe der Erde? &#8211; elend durch mich &#8211; elend ohne mich! &#8211; Ach, noch elender mit mir! &#8211; Wenn ich klagen k&#246;nnte, k&#246;nnte verzweifeln, k&#246;nnt um Vergebung bitten &#8211; k&#246;nnt in stumpfer Hoffnung nur eine Stunde hinbringen &#8211; zu ihren F&#252;&#223;en liegen, und in teilnehmendem Elend Seligkeit genie&#223;en! &#8211; Wo sind sie? &#8211; Stella! du liegst auf deinem Angesichte, blickst sterbend nach dem Himmel, und &#228;chzest: &#187;Was hab ich Blume verschuldet, da&#223; mich dein Grimm so niederknickt? Was hatte ich Arme verschuldet, da&#223; du diesen B&#246;sewicht zu mir f&#252;hrtest?&#171; &#8211; &#8211; C&#228;cilie! Mein Weib! o mein Weib! &#8211; Elend! Elend! tiefes Elend! &#8211; Welche Seligkeiten vereinigen sich, um mich elend zu machen! &#8211; Gatte! Vater! Geliebter! &#8211; Die besten, edelsten weiblichen Gesch&#246;pfe &#8211; Dein! Dein? &#8211; Kannst du das fassen, die dreifache, uns&#228;gliche Wonne? &#8211; Und nur die ist's, die dich so ergreift, die dich zerrei&#223;t! &#8211; Jede fordert mich ganz &#8211; Und ich? &#8211; Hier ist's zu! &#8211; tief! unergr&#252;ndlich! &#8211; &#8211; Sie wird elend sein! Stella! bist elend! &#8211; Was hab ich dir geraubt? Das Bewu&#223;tsein deiner selbst, dein junges Leben! &#8211; Stella! &#8211; Und ich bin so kalt! <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1149.2.19.3.part2">Er nimmt eine Pistole vom Tisch.</ns0:stage> Doch, auf alle F&#228;lle! &#8211; <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1149.2.19.4.part2">Er ladet.</ns0:stage>
                                  </ns0:p>
                                  <ns0:lb xml:id="tg1149.2.20" />
-                                 <ns0:stage rend="zenoPC" type="enter" xml:id="tg1149.2.21">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1149.2.21.1">C&#228;cilie kommt.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg1149.2.21">
+                                    <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg1149.2.21.1">C&#228;cilie kommt.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg1149.2.22" />
                               </ns0:sp>
@@ -2192,7 +2192,7 @@ elender als ihr? Was habt ihr an mich zu fordern? &#8211; Was ist nun des Sinnen
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1149.2.24.part1">FERNANDO</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1149.2.24.1.part1">legt sie nieder.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1149.2.24.1.part1">legt sie nieder.</ns0:stage>
                                  </ns0:stage>
 
                               </ns0:sp>
@@ -2220,7 +2220,7 @@ elender als ihr? Was habt ihr an mich zu fordern? &#8211; Was ist nun des Sinnen
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1149.2.31.part1">FERNANDO</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1149.2.31.1.part1">spottend.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1149.2.31.1.part1">spottend.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:l xml:id="tg1149.2.31.part2"> Kurz und gut?</ns0:l>
                               </ns0:sp>
@@ -2264,7 +2264,7 @@ elender als ihr? Was habt ihr an mich zu fordern? &#8211; Was ist nun des Sinnen
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1149.2.41.part1">FERNANDO</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1149.2.41.1.part1">f&#228;hrt auf und geht wild auf und ab.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1149.2.41.1.part1">f&#228;hrt auf und geht wild auf und ab.</ns0:stage>
                                  </ns0:stage>
 
                               </ns0:sp>
@@ -2290,20 +2290,20 @@ elender als ihr? Was habt ihr an mich zu fordern? &#8211; Was ist nun des Sinnen
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1149.2.47.part1">FERNANDO.</ns0:speaker>
-                                 <ns0:p xml:id="tg1149.2.47.part2"> Ha! was soll das? Bist du ein b&#246;ser Geist, in Gestalt meines Weibs? Was kehrst du mein Herz um und um? Was zerrei&#223;est du das zerrissene? Bin ich nicht zerst&#246;rt, zerr&#252;ttet genug? Verla&#223; mich! &#220;berla&#223; mich meinem Schicksal! &#8211; und Gott erbarme sich euer! <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1149.2.47.1.part2">Er wirft sich in einen Sessel.</ns0:stage>
+                                 <ns0:p xml:id="tg1149.2.47.part2"> Ha! was soll das? Bist du ein b&#246;ser Geist, in Gestalt meines Weibs? Was kehrst du mein Herz um und um? Was zerrei&#223;est du das zerrissene? Bin ich nicht zerst&#246;rt, zerr&#252;ttet genug? Verla&#223; mich! &#220;berla&#223; mich meinem Schicksal! &#8211; und Gott erbarme sich euer! <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1149.2.47.1.part2">Er wirft sich in einen Sessel.</ns0:stage>
                                  </ns0:p>
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1149.2.48.part1">C&#196;CILIE</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1149.2.48.1.part1">tritt zu ihm und nimmt ihn bei der Hand.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1149.2.48.1.part1">tritt zu ihm und nimmt ihn bei der Hand.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:l xml:id="tg1149.2.48.part2"> Es war einmal ein Graf &#8211;</ns0:l>
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1149.2.49.part1">FERNANDO</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1149.2.49.1.part1">will aufspringen, sie h&#228;lt ihn.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1149.2.49.1.part1">will aufspringen, sie h&#228;lt ihn.</ns0:stage>
                                  </ns0:stage>
 
                               </ns0:sp>
@@ -2318,49 +2318,49 @@ elender als ihr? Was habt ihr an mich zu fordern? &#8211; Was ist nun des Sinnen
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1149.2.53.part1">C&#196;CILIE.</ns0:speaker>
-                                 <ns0:p xml:id="tg1149.2.53.part2"> Er war ein Biedermann; er liebte sein Weib, nahm Abschied von ihr, empfahl ihr sein Hauswesen, umarmte sie, und zog. Er zog durch viele L&#228;nder, kriegte, und ward gefangen. Seiner Sklaverei erbarmte sich seines Herrn Tochter; sie l&#246;ste seine Fesseln, sie flohen. Sie geleitete ihn aufs neue durch alle Gefahren des Kriegs &#8211; Der liebe Waffentr&#228;ger! &#8211; Mit Sieg bekr&#246;nt ging's nun zur R&#252;ckreise &#8211; zu seinem edeln Weibe! &#8211; Und sein M&#228;dchen? Er f&#252;hlte Menschheit! &#8211; er glaubte an Menschheit, und nahm sie mit. &#8211; Sieh da, die wackre Hausfrau, die ihrem Gemahl entgegeneilt, sieht all ihre Treue, all ihr Vertrauen, ihre Hoffnungen belohnt, ihn wieder in ihren Armen. Und dann daneben seine Ritter, mit stolzer Ehre von ihren Rossen sich auf den vaterl&#228;ndischen Boden schwingend; seine Knechte, abladend die Beute, sie zu ihren F&#252;&#223;en legend; und sie schon in ihrem Sinn das all in ihren Schr&#228;nken aufbewahrend, schon ihr Schlo&#223; mit auszierend, ihre Freunde mit beschenkend &#8211; &#187;Edles, teures Weib, der gr&#246;&#223;te Schatz ist noch zur&#252;ck!&#171; &#8211; Wer ist's, die dort verschleiert mit dem Gefolge naht? Sanft steigt sie vom Pferde &#8211; &#8211; &#187;Hier!&#171; &#8211; rief der Graf, sie bei der Hand fassend, sie seiner Frau entgegenf&#252;hrend &#8211; &#187;hier! sieh das alles &#8211; und sie! nimm's aus ihren H&#228;nden &#8211; nimm mich aus ihren H&#228;nden wieder! Sie hat die Ketten von meinem Halse geschlossen, sie hat den Winden befohlen, sie hat mich erworben &#8211; hat mir gedient, mein gewartet! &#8211; Was bin ich ihr schuldig! &#8211; Da hast du sie! Belohn sie.&#171; <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1149.2.53.1.part2">Fernando liegt schluchzend mit den Armen &#252;bern Tisch gebreitet.</ns0:stage> An ihrem Halse rief das treue Weib, in tausend Tr&#228;nen rief sie: &#187;Nimm alles, was ich dir geben kann! Nimm die H&#228;lfte des, der ganz dein geh&#246;rt &#8211; Nimm ihn ganz! La&#223; mir ihn ganz! Jede soll ihn haben, ohne der andern was zu rauben &#8211; Und&#171;, rief sie an seinem Halse, zu seinen F&#252;&#223;en, &#187;wir sind dein!&#171; &#8211; &#8211; Sie fa&#223;ten seine H&#228;nde, hingen an ihm &#8211; Und Gott im Himmel freute sich der Liebe, und sein heiliger Statthalter sprach seinen Segen dazu. Und ihr Gl&#252;ck und ihre Liebe fa&#223;te selig Eine Wohnung, Ein Bett, und Ein Grab.</ns0:p>
+                                 <ns0:p xml:id="tg1149.2.53.part2"> Er war ein Biedermann; er liebte sein Weib, nahm Abschied von ihr, empfahl ihr sein Hauswesen, umarmte sie, und zog. Er zog durch viele L&#228;nder, kriegte, und ward gefangen. Seiner Sklaverei erbarmte sich seines Herrn Tochter; sie l&#246;ste seine Fesseln, sie flohen. Sie geleitete ihn aufs neue durch alle Gefahren des Kriegs &#8211; Der liebe Waffentr&#228;ger! &#8211; Mit Sieg bekr&#246;nt ging's nun zur R&#252;ckreise &#8211; zu seinem edeln Weibe! &#8211; Und sein M&#228;dchen? Er f&#252;hlte Menschheit! &#8211; er glaubte an Menschheit, und nahm sie mit. &#8211; Sieh da, die wackre Hausfrau, die ihrem Gemahl entgegeneilt, sieht all ihre Treue, all ihr Vertrauen, ihre Hoffnungen belohnt, ihn wieder in ihren Armen. Und dann daneben seine Ritter, mit stolzer Ehre von ihren Rossen sich auf den vaterl&#228;ndischen Boden schwingend; seine Knechte, abladend die Beute, sie zu ihren F&#252;&#223;en legend; und sie schon in ihrem Sinn das all in ihren Schr&#228;nken aufbewahrend, schon ihr Schlo&#223; mit auszierend, ihre Freunde mit beschenkend &#8211; &#187;Edles, teures Weib, der gr&#246;&#223;te Schatz ist noch zur&#252;ck!&#171; &#8211; Wer ist's, die dort verschleiert mit dem Gefolge naht? Sanft steigt sie vom Pferde &#8211; &#8211; &#187;Hier!&#171; &#8211; rief der Graf, sie bei der Hand fassend, sie seiner Frau entgegenf&#252;hrend &#8211; &#187;hier! sieh das alles &#8211; und sie! nimm's aus ihren H&#228;nden &#8211; nimm mich aus ihren H&#228;nden wieder! Sie hat die Ketten von meinem Halse geschlossen, sie hat den Winden befohlen, sie hat mich erworben &#8211; hat mir gedient, mein gewartet! &#8211; Was bin ich ihr schuldig! &#8211; Da hast du sie! Belohn sie.&#171; <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1149.2.53.1.part2">Fernando liegt schluchzend mit den Armen &#252;bern Tisch gebreitet.</ns0:stage> An ihrem Halse rief das treue Weib, in tausend Tr&#228;nen rief sie: &#187;Nimm alles, was ich dir geben kann! Nimm die H&#228;lfte des, der ganz dein geh&#246;rt &#8211; Nimm ihn ganz! La&#223; mir ihn ganz! Jede soll ihn haben, ohne der andern was zu rauben &#8211; Und&#171;, rief sie an seinem Halse, zu seinen F&#252;&#223;en, &#187;wir sind dein!&#171; &#8211; &#8211; Sie fa&#223;ten seine H&#228;nde, hingen an ihm &#8211; Und Gott im Himmel freute sich der Liebe, und sein heiliger Statthalter sprach seinen Segen dazu. Und ihr Gl&#252;ck und ihre Liebe fa&#223;te selig Eine Wohnung, Ein Bett, und Ein Grab.</ns0:p>
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1149.2.54.part1">FERNANDO.</ns0:speaker>
                                  <ns0:p xml:id="tg1149.2.54.part2"> Gott im Himmel, der du uns Engel sendest in <ns0:pb n="346" xml:id="tg1149.2.54.1.part2" />
 der Not, schenk uns die Kraft, diese gewaltigen Erscheinungen zu ertragen! &#8211; Mein Weib! &#8211;</ns0:p>
                                  <ns0:lb xml:id="tg1149.2.55" />
-                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg1149.2.56">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1149.2.56.1">Er f&#228;llt wieder zusammen.</ns0:stage>
+                                 <ns0:stage rend="zenoPC" xml:id="tg1149.2.56">
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1149.2.56.1">Er f&#228;llt wieder zusammen.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg1149.2.57" />
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1149.2.58.part1">C&#196;CILIE</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1149.2.58.1.part1">er&#246;ffnet die T&#252;re des Kabinetts und ruft.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1149.2.58.1.part1">er&#246;ffnet die T&#252;re des Kabinetts und ruft.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:l xml:id="tg1149.2.58.part2"> Stella!</ns0:l>
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1149.2.59.part1">STELLA</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1149.2.59.1.part1">ihr um den Hals fallend.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1149.2.59.1.part1">ihr um den Hals fallend.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:l xml:id="tg1149.2.59.part2"> Gott! Gott!</ns0:l>
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1149.2.60.part1">FERNANDO</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1149.2.60.1.part1">springt auf in der Bewegung zu fliehen.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1149.2.60.1.part1">springt auf in der Bewegung zu fliehen.</ns0:stage>
                                  </ns0:stage>
 
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1149.2.61.part1">C&#196;CILIE</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1149.2.61.1.part1">fa&#223;t ihn.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1149.2.61.1.part1">fa&#223;t ihn.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:p xml:id="tg1149.2.61.part2"> Stella! nimm die H&#228;lfte des, der ganz dein ist &#8211; du hast ihn gerettet &#8211; von ihm selbst gerettet &#8211; du gibst mir ihn wieder!</ns0:p>
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1149.2.62.part1">FERNANDO.</ns0:speaker>
-                                 <ns0:l xml:id="tg1149.2.62.part2"> Stella! <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1149.2.62.1.part2">Er neigt sich zu ihr.</ns0:stage>
+                                 <ns0:l xml:id="tg1149.2.62.part2"> Stella! <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1149.2.62.1.part2">Er neigt sich zu ihr.</ns0:stage>
                                  </ns0:l>
                               </ns0:sp>
                               <ns0:sp>
@@ -2374,7 +2374,7 @@ der Not, schenk uns die Kraft, diese gewaltigen Erscheinungen zu ertragen! &#821
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1149.2.65.part1">STELLA</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1149.2.65.1.part1">an seinem Hals.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1149.2.65.1.part1">an seinem Hals.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:l xml:id="tg1149.2.65.part2"> Ich darf? &#8211; &#8211;</ns0:l>
                               </ns0:sp>
@@ -2385,28 +2385,28 @@ der Not, schenk uns die Kraft, diese gewaltigen Erscheinungen zu ertragen! &#821
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1149.2.67.part1">STELLA</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1149.2.67.1.part1">an ihrem Hals.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1149.2.67.1.part1">an ihrem Hals.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:l xml:id="tg1149.2.67.part2"> O du! &#8211; &#8211;</ns0:l>
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1149.2.68.part1">FERNANDO</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1149.2.68.1.part1">beide umarmend.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1149.2.68.1.part1">beide umarmend.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:l xml:id="tg1149.2.68.part2"> Mein! Mein!</ns0:l>
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1149.2.69.part1">STELLA</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1149.2.69.1.part1">seine Hand fassend, an ihm hangend.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1149.2.69.1.part1">seine Hand fassend, an ihm hangend.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:l xml:id="tg1149.2.69.part2"> Ich bin dein!</ns0:l>
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg1149.2.70.part1">C&#196;CILIE</ns0:speaker> 
                                  <ns0:stage>
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1149.2.70.1.part1">seine Hand fassend, an seinem Hals.</ns0:stage>
+                                    <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1149.2.70.1.part1">seine Hand fassend, an seinem Hals.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:l xml:id="tg1149.2.70.part2"> Wir sind dein!</ns0:l>
                               </ns0:sp>
