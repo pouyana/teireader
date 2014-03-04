@@ -133,7 +133,7 @@
                               <ns0:head type="h4" xml:id="tg1145.2.1">Erster Akt</ns0:head>
                               
                               
-                              <ns0:stage rend="zenoPC" type="other" xml:id="tg1145.2.4">
+                              <ns0:stage rend="zenoPC" type="enter" xml:id="tg1145.2.4">
                                  <ns0:hi rend="italic" xml:id="tg1145.2.4.1">Im Posthause.</ns0:hi>
                               </ns0:stage>
                               <ns0:stage rend="zenoPC" type="other" xml:id="tg1145.2.5">
@@ -157,8 +157,13 @@
                                  <ns0:speaker xml:id="tg1145.2.12.part1">POSTMEISTERIN.</ns0:speaker>
                                  <ns0:p xml:id="tg1145.2.12.part2"> Wo hat dich der Henker wieder? Geh hinaus; der Postwagen kommt. F&#252;hr die Passagiers herein, trag ihnen das Gep&#228;ck; r&#252;hr dich! Machst du wieder ein Gesicht? <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1145.2.12.1.part2">Der Junge ab. Ihm nachrufend.</ns0:stage> Wart, ich will dir dein muffig Wesen vertreiben. Ein Wirtsbursche mu&#223; immer munter, immer alert sein. Hernach, wenn so ein Schurke Herr wird, so verdirbt er. Wenn ich wieder heiraten m&#246;chte, so w&#228;r's nur darum; einer Frau allein f&#228;llt's gar zu schwer, das Pack in Ordnung zu halten!</ns0:p>
                                  <ns0:lb xml:id="tg1145.2.13" />
+<<<<<<< HEAD
                                  <ns0:stage rend="zenoPC" xml:id="tg1145.2.14">
                                     <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1145.2.14.1">Madame Sommer, Lucie, in Reisekleidern. Karl.</ns0:stage>
+=======
+                                 <ns0:stage rend="zenoPC" type="enter" xml:id="tg1145.2.14">
+                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1145.2.14.1">Madame Sommer, Lucie, in Reisekleidern. Karl.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg1145.2.15" />
                               </ns0:sp>
@@ -315,8 +320,13 @@ Bette sa&#223; und weinte, weil Sie weinten. Es war in der gr&#252;nen Stube, au
                                  <ns0:speaker xml:id="tg1145.2.55.part1">MADAME SOMMER.</ns0:speaker>
                                  <ns0:l xml:id="tg1145.2.55.part2"> Du warst sieben Jahre alt, und konntest nicht f&#252;hlen, was du verlorst.</ns0:l>
                                  <ns0:lb xml:id="tg1145.2.56" />
+<<<<<<< HEAD
                                  <ns0:stage rend="zenoPC" xml:id="tg1145.2.57">
                                     <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1145.2.57.1">Annchen, mit der Suppe. Die Postmeisterin. Karl.</ns0:stage>
+=======
+                                 <ns0:stage rend="zenoPC" type="enter" xml:id="tg1145.2.57">
+                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1145.2.57.1">Annchen, mit der Suppe. Die Postmeisterin. Karl.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg1145.2.58" />
                               </ns0:sp>
@@ -527,8 +537,13 @@ kannte sie; man hie&#223; sie den gn&#228;digen Herrn und die gn&#228;dige Frau,
                                  <ns0:stage rend="zenoPC" xml:id="tg1145.2.112">
                                     <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1145.2.112.1">Man h&#246;rt einen Postillion.</ns0:stage>
                                  </ns0:stage>
+<<<<<<< HEAD
                                  <ns0:stage rend="zenoPC" xml:id="tg1145.2.113">
                                     <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1145.2.113.1">Fernando, in Offizierstracht. Ein Bedienter.</ns0:stage>
+=======
+                                 <ns0:stage rend="zenoPC" type="enter" xml:id="tg1145.2.113">
+                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1145.2.113.1">Fernando, in Offizierstracht. Ein Bedienter.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg1145.2.114" />
                               </ns0:sp>
@@ -1155,7 +1170,7 @@ k&#246;nnen die Liebe, die Freundlichkeit, wenn seine Seele sich ergo&#223;! O m
                               <ns0:head type="h4" xml:id="tg1147.2.1">Dritter Akt</ns0:head>
                               
                               
-                              <ns0:stage rend="zenoPC" type="other" xml:id="tg1147.2.4">
+                              <ns0:stage rend="zenoPC" type="enter" xml:id="tg1147.2.4">
                                  <ns0:hi rend="italic" xml:id="tg1147.2.4.1">Stella in aller Freude hineintretend mit Fernando.</ns0:hi>
                               </ns0:stage>
                               <ns0:lb xml:id="tg1147.2.5" />
@@ -1758,7 +1773,7 @@ Fr&#252;chte der aufgeopferten Bl&#252;te einzuernten gedachte &#8211; verlassen
 Vierter Akt</ns0:head>
                               
                               
-                              <ns0:stage rend="zenoPC" type="other" xml:id="tg1148.2.4">
+                              <ns0:stage rend="zenoPC" type="enter" xml:id="tg1148.2.4">
                                  <ns0:hi rend="italic" xml:id="tg1148.2.4.1">Einsiedelei in Stellas Garten.</ns0:hi>
                               </ns0:stage>
                               <ns0:stage rend="zenoPC" type="aside" xml:id="tg1148.2.5">
@@ -2129,7 +2144,7 @@ nicht zu fassen, nicht zu tragen! &#8211; <ns0:stage rend="italic" type="other" 
                               <ns0:head type="h4" xml:id="tg1149.2.1">F&#252;nfter Akt</ns0:head>
                               
                               
-                              <ns0:stage rend="zenoPC" type="other" xml:id="tg1149.2.4">
+                              <ns0:stage rend="zenoPC" type="enter" xml:id="tg1149.2.4">
                                  <ns0:hi rend="italic" xml:id="tg1149.2.4.1">Stellas Kabinett. Im Mondenschein.</ns0:hi>
                               </ns0:stage>
                               <ns0:stage rend="zenoPC" type="other" xml:id="tg1149.2.5">
@@ -2166,11 +2181,19 @@ mein Leben hing&#228;be! &#8211; &#8211; Das ist und wird sein: &#8211; du bist 
                                  <ns0:l xml:id="tg1149.2.14.part2"> Komm! <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1149.2.14.2.part2">Ab.</ns0:stage>
                                  </ns0:l>
                                  <ns0:lb xml:id="tg1149.2.15" />
+<<<<<<< HEAD
                                  <ns0:stage rend="zenoPC" xml:id="tg1149.2.16">
                                     <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg1149.2.16.1">Saal.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:stage rend="zenoPC" xml:id="tg1149.2.17">
                                     <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg1149.2.17.1">Fernando.</ns0:stage>
+=======
+                                 <ns0:stage rend="zenoPC" type="enter" xml:id="tg1149.2.16">
+                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1149.2.16.1">Saal.</ns0:stage>
+                                 </ns0:stage>
+                                 <ns0:stage rend="zenoPC" type="enter" xml:id="tg1149.2.17">
+                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg1149.2.17.1">Fernando.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg1149.2.18" />
                               </ns0:sp>

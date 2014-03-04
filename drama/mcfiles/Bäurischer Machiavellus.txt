@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {"id":"tg142.2.4","text":"Eusebius, Uranius.","type":"enter","source":"NLP"}
 {"id":"tg142.2.15.1","text":"Politicus und Civilis treten auff.","type":"other","source":"nltk"}
 {"id":"tg142.2.28.1","text":"Legt Civili die Hand auf den Kopff.","type":"other","source":"nltk"}
@@ -196,3 +197,178 @@
 {"id":"tg147.2.99.1","text":"Gehen ab.","type":"exit","source":"nltk"}
 {"id":"tg147.2.117.1","text":"Gehet zurück.","type":"other","source":"nltk"}
 {"id":"tg147.2.128.1","text":"Sie fallen sämptlichen auf die Knie / so lange als folgende Arie gesungen wird / Und wird zwischen jeglicher Strophe die Melodey mit Trompeten und Paucken nachgespielet.","type":"other","source":"nltk"}
+=======
+tg142.2.4: Eusebius, Uranius.  ==> enter NLP
+tg142.2.15: Politicus und Civilis treten auff.  ==> other nltk
+tg142.2.28: Legt Civili die Hand auf den Kopff.  ==> other nltk
+tg142.2.54: Gehen ab.  ==> exit nltk
+tg142.2.55: Simplex, Candidus, Fidelis.  ==> enter NLP
+tg142.2.93: Gehen ab.  ==> exit nltk
+tg142.2.94: Der innere Schauplatz eröffnet sich / darinn Apollo in einem hellen Throne præsentiret wird.  ==> other nltk
+tg142.2.98: Die Scene fält wieder zu und verbirgt den Thron.  ==> other nltk
+tg142.2.99: Innocens, Infucatus, Immutabilis.  ==> enter NLP
+tg142.2.106: Es wird eine Trompete geblasen / Fama kommt heraus.  ==> enter nltk
+tg142.2.117: Fama schwinget sich davon / die Trompete wird wieder geblasen.  ==> other nltk
+tg142.2.121: Die Scene eröffnet sich wieder / da Apollo auf dem Throne sitzt.  ==> other nltk
+tg142.2.125: Gentiletus, Simplex, Candidus, Fidelis, Innocens, Infucatus, Immutabilis.  ==> enter NLP
+tg142.2.134: Sie treten zusammen biß Machiavellus kömmt.  ==> other nltk
+tg142.2.157: Die Scene fällt zu.  ==> other nltk
+tg142.2.162: Curiosus, Eusebius, Uranius, Politicus, Civilis.  ==> enter NLP
+tg142.2.166: Geht ab.  ==> exit nltk
+tg142.2.171: Geht ab  ==> exit nltk
+tg142.2.179: Sie gehen ab.  ==> exit nltk
+tg142.2.188: Gehet ab.  ==> exit nltk
+tg142.2.199: Geht ab.  ==> exit nltk
+tg142.2.205: Gehen ab.  ==> exit nltk
+tg143.2.4: Ciaconi kömmt.  ==> other nltk
+tg143.2.18: Er fänget an den Fingern zu zählen.  ==> other nltk
+tg143.2.32: Durandus kömmt.  ==> other nltk
+tg143.2.53: Geht ab.  ==> exit nltk
+tg143.2.58: Gehet ab.  ==> exit nltk
+tg143.2.62: Pacifontius steht an des Materialisten Thür.  ==> other nltk
+tg143.2.80: Substantia kömmt auf der andern Seite heraus.  ==> other nltk
+tg143.2.91: Er führt sie auff die Seite.  ==> other nltk
+tg143.2.111: Quantitas kömmt.  ==> other nltk
+tg143.2.130: Pacifontius und Quantitas gehen ab.  ==> exit nltk
+tg143.2.138: Scibilis geht ab.  ==> exit nltk
+tg143.2.142: Purus Putus kömt.  ==> enter NLP
+tg143.2.159: Geht ab.  ==> exit nltk
+tg143.2.163: Ziribiziribo kömt heraus / und singt ein Frantzösisches Liedgen.  ==> other nltk
+tg143.2.172: Gehet ab.  ==> exit nltk
+tg143.2.176: Er singet.  ==> other nltk
+tg143.2.202: Gehen ab.  ==> exit nltk
+tg143.2.203: Der Schau-Platz præsentiret die Schubäncke.  ==> other nltk
+tg143.2.204: Purus Putus, Durandus, Scibilis, Excipe, Vademecus, Extra, Intra, Adjectivus, Nescio treten auff / und setzen sich / Quoniam bleibet an der Thüre stehen.  ==> other nltk
+tg143.2.244: Er geht wieder in seine Session.  ==> exit nltk
+tg143.2.253: Geht ab mit ihren Purus Putus.  ==> exit nltk
+tg143.2.257: Geht ab.  ==> exit nltk
+tg143.2.261: Geht ab.  ==> exit nltk
+tg143.2.273: Gehen ab.  ==> exit nltk
+tg143.2.277: Geht ab.  ==> exit nltk
+tg143.2.281: Geht ab.  ==> exit nltk
+tg143.2.290: Gehen ab.  ==> exit nltk
+tg143.2.291: Vocativus, Scibilis.  ==> enter NLP
+tg143.2.298: Geht ab.  ==> exit nltk
+tg143.2.299: Ziribiziribo bringt des Schulmeisters Tochter Risibilis an der Hand / und singt ein lustig Lied.  ==> other nltk
+tg143.2.323: Gehen ab.  ==> exit nltk
+tg144.2.4: Purus Putus, Durandus, Excipe.  ==> enter NLP
+tg144.2.25: Durandus und Excipe gehen ab.  ==> exit nltk
+tg144.2.26: Pacifontius, Quantitas.  ==> other nltk
+tg144.2.39: Sie wil sich loß reissen / der Vater springt hervor.  ==> other nltk
+tg144.2.45: [Quantitas geht ab.]  ==> exit nltk
+tg144.2.62: Nescio kömmt mit einem Strohseile heraus.  ==> other nltk
+tg144.2.77: Gehen ab.  ==> exit nltk
+tg144.2.78: Scibilis, Excipe.  ==> enter NLP
+tg144.2.90: Geht ab.  ==> exit nltk
+tg144.2.94: Zodiacus kömmt.  ==> other nltk
+tg144.2.110: Geht ab.  ==> exit nltk
+tg144.2.126: Gehet ab.  ==> exit nltk
+tg144.2.130: Ziribiziribo kömmt singende heraus.  ==> other nltk
+tg144.2.146: Gehen ab.  ==> exit nltk
+tg144.2.150: Ziribiziribo kömmt und hat an statt der Bratwürste zwey grosse ausgestopffte Würste / wie die Moriones tragen / in die Schüssel gelegt.  ==> other nltk
+tg144.2.164: Geht ab.  ==> exit nltk
+tg144.2.168: Gehet ab.  ==> exit nltk
+tg144.2.189: Substantia kömmt rasende heraus gelauffen.  ==> enter nltk
+tg144.2.197: Gehet ab.  ==> exit nltk
+tg144.2.201: Geht ab.  ==> exit nltk
+tg144.2.202: Scibilis und Ziribiziribo auf der andern Seite.  ==> other nltk
+tg144.2.208: Geht ab.  ==> exit nltk
+tg144.2.217: Durandus und Purus Putus gehen ab.  ==> exit nltk
+tg144.2.222: Ascanius tritt an des Herrn Paters Thüre heraus.  ==> other nltk
+tg144.2.231: Geht ab.  ==> exit nltk
+tg144.2.245: Geht ab.  ==> exit nltk
+tg144.2.246: Ascanius kömmt.  ==> other nltk
+tg144.2.258: Geht ab.  ==> exit nltk
+tg144.2.262: Geht ab.  ==> exit nltk
+tg144.2.263: Durandus. Purus Putus, Pacifontius, Intra.  ==> enter NLP
+tg144.2.278: Durandus und Intra gehen ab.  ==> exit nltk
+tg144.2.290: Gehen ab.  ==> exit nltk
+tg144.2.291: Scibilis, Ziribiziribo.  ==> enter NLP
+tg144.2.297: Geht ab.  ==> exit nltk
+tg144.2.301: Geht ab.  ==> exit nltk
+tg144.2.302: Zodiacus, Durandus.  ==> enter NLP
+tg144.2.309: Geht ab.  ==> exit nltk
+tg144.2.314: Scibilis, Ziribiziribo.  ==> enter NLP
+tg144.2.340: Geht ab.  ==> exit nltk
+tg144.2.349: Er singet ein Frantzösisch Liedgen und gehet hinein.  ==> exit nltk
+tg145.2.4: Eusebius, Politicus.  ==> enter NLP
+tg145.2.15: Rationalis kömmt.  ==> other nltk
+tg145.2.26: Appetitus, Stultitia, Calliditas.  ==> enter NLP
+tg145.2.40: Antiquus kömmt.  ==> other nltk
+tg145.2.48: Eusebius, Politicus [kommen].  ==> other nltk
+tg145.2.55: Geht ab.  ==> exit nltk
+tg146.2.4: Zodiacus kömmt heraus und hat sein Horn.  ==> other nltk
+tg146.2.8: Er bläset ins Horn / hernach singet er:  ==> enter nltk
+tg146.2.14: Nescio kömmt.  ==> other nltk
+tg146.2.27: Geht ab.  ==> exit nltk
+tg146.2.31: Geht ab.  ==> exit nltk
+tg146.2.35: Quoniam kömmt mit dem Korbe und mit dem Glöckgen.  ==> other nltk
+tg146.2.45: Quoniam klingelt.  ==> other nltk
+tg146.2.65: Geht ab.  ==> exit nltk
+tg146.2.69: Geht ab.  ==> exit nltk
+tg146.2.70: Pacifontius, Quantitas.  ==> other nltk
+tg146.2.91: Ziribiziribo bringt Risibilis an der Hand geführt und singt ein Liedgen.  ==> other nltk
+tg146.2.117: Sie fallen über einander her / und schlagen einander.  ==> other nltk
+tg146.2.118: Purus Putus und Scibilis kommen heraus gelauffen und bringen sie von einander.  ==> other nltk
+tg146.2.131: Gehet ab.  ==> exit nltk
+tg146.2.140: Accusativus, Vocativus, Ciaconi.  ==> enter NLP
+tg146.2.153: Vocativus und Ciaconi gehen ab.  ==> exit nltk
+tg146.2.157: Purus Putus, Durandus, Scibilis.  ==> enter NLP
+tg146.2.193: Geht ab.  ==> exit nltk
+tg146.2.203: Purus Putus und Scibilis gehen ab.  ==> exit nltk
+tg146.2.207: Geht ab.  ==> exit nltk
+tg146.2.208: Purus Putus, Substantia, Pacifontius.  ==> enter NLP
+tg146.2.219: Geht ab.  ==> exit nltk
+tg146.2.226: Gehen ab.  ==> exit nltk
+tg146.2.227: Ziribiziribo, Scibilis.  ==> other nltk
+tg146.2.240: Gehen ab.  ==> exit nltk
+tg146.2.241: Accusativus, Substantia.  ==> enter NLP
+tg146.2.252: Geht ab.  ==> exit nltk
+tg146.2.257: Pacifontius und Quantitas kommen.  ==> other nltk
+tg146.2.267: Geht ab.  ==> exit nltk
+tg146.2.275: Geht ab.  ==> exit nltk
+tg146.2.279: Geht ab.  ==> exit nltk
+tg146.2.280: Purus Putus, Durandus, Scibilis, Excipe.  ==> enter NLP
+tg146.2.320: Gehen ab.  ==> exit nltk
+tg146.2.324: Extra kömmt.  ==> other nltk
+tg146.2.335: Gehet ab.  ==> exit nltk
+tg146.2.347: Gehen ab.  ==> exit nltk
+tg146.2.371: Gehet ab.  ==> exit nltk
+tg146.2.389: Er kriegt seine Zitter / Risibilis wirfft ihm allerhand häßliche Namen an den Hals / jemehr sie aber schreyet / desto schärffer schlägt er die Zitter und singet was lächerliches mit ein.  ==> other nltk
+tg146.2.393: Gehet ab.  ==> exit nltk
+tg146.2.394: Ciaconi singet in die Zitter.  ==> other nltk
+tg146.2.410: Gehet ab.  ==> exit nltk
+tg146.2.411: Frececerax und Aciculus.  ==> other nltk
+tg146.2.422: Ziribiziribo in Pickelherings Habite, mit einer Kanne Brantewein / Quoniam mit der hölzernen Bierkanne.  ==> other nltk
+tg146.2.426: Er schweigt still und besinnt sich.  ==> other nltk
+tg146.2.432: Scibilis kömmt.  ==> other nltk
+tg146.2.440: Gehen ab.  ==> exit nltk
+tg146.2.441: Purus Putus, Durandus, Ciaconi.  ==> enter NLP
+tg146.2.451: Gehen ab.  ==> exit nltk
+tg146.2.455: Geht ab.  ==> exit nltk
+tg146.2.461: Geht hinein.  ==> exit nltk
+tg146.2.499: Geht ab.  ==> exit nltk
+tg146.2.514: Er klingelt und geht ab.  ==> exit nltk
+tg146.2.524: Sie gehen ab.  ==> exit nltk
+tg146.2.543: Geht ab.  ==> exit nltk
+tg146.2.547: Geht ab.  ==> exit nltk
+tg146.2.548: Purus Putus mit allen seinen Collegen kömmt auf die Schuhbäncke und nimmt Session. Juniperus folgt hernach.  ==> enter nltk
+tg146.2.553: Scibilis und Ziribiziribo kömmen.  ==> other nltk
+tg146.2.557: Er setzt sich.  ==> other nltk
+tg146.2.562: Vocativus und Ciaconi kommen / Pacifontius bleibt auf der Seite stehn.  ==> other nltk
+tg146.2.625: Hier tritt Quoniam auf und verlieset die Personen folgender Gestalt:  ==> other nltk
+tg146.2.633: Sie gehen in der Ordnung etliche mahl herumb und lassen den Hirten als Stadt- oder Marckfleckens Pfeiffer mit dem Horne vorher blasen.  ==> other nltk
+tg147.2.4: Machiavellus, Antiquus.  ==> enter NLP
+tg147.2.10: Fama läst blasen und kömmt heraus.  ==> other nltk
+tg147.2.15: Schwinget sich davon.  ==> other nltk
+tg147.2.19: Geht ab.  ==> exit nltk
+tg147.2.23: Geht ab.  ==> exit nltk
+tg147.2.24: Apollo praesentirt sich auff seinem Throne / umb ihn herumb Eusebius, Uranius, Politicus, Civilis, Simplex, Innocens, Candidus, Infucatus, Fidelis, Immutabilis, Rationalis.  ==> other nltk
+tg147.2.33: Machiavellus, Antiquus, Appetitus erscheinen.  ==> other nltk
+tg147.2.40: [Geht ab.]  ==> other nltk
+tg147.2.48: Er bindet den Appetitus an die Kette.  ==> other nltk
+tg147.2.62: Sie kommen hervor.  ==> other nltk
+tg147.2.99: Gehen ab.  ==> exit nltk
+tg147.2.117: Gehet zurück.  ==> other nltk
+tg147.2.128: Sie fallen sämptlichen auf die Knie / so lange als folgende Arie gesungen wird / Und wird zwischen jeglicher Strophe die Melodey mit Trompeten und Paucken nachgespielet.  ==> other nltk
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f

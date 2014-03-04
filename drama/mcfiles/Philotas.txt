@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {"id":"tg534.2.4","text":"Strato. Philotas.","type":"enter","source":"NLP"}
 {"id":"tg535.2.4","text":"König Aridäus. Philotas. Strato.","type":"enter","source":"NLP"}
 {"id":"tg537.2.4","text":"Parmenio. Philotas.","type":"enter","source":"NLP"}
@@ -17,3 +18,11 @@
 {"id":"tg540.2.29.1.part1","text":"sich von ihm entfernend.","type":"other","source":"nltk"}
 {"id":"tg540.2.32.1.part2","text":"Zurücksinkend.","type":"other","source":"nltk"}
 {"id":"tg540.2.54.2.part2","text":"Gehen ab.","type":"exit","source":"nltk"}
+=======
+tg534.2.4: Strato. Philotas.  ==> enter NLP
+tg535.2.4: König Aridäus. Philotas. Strato.  ==> enter NLP
+tg537.2.4: Parmenio. Philotas.  ==> enter NLP
+tg539.2.4: Aridäus. Philotas.  ==> enter NLP
+tg540.2.4: Strato mit einem Schwerde in der Hand.  ==> other nltk
+tg540.2.5: Aridäus. Philotas.  ==> enter NLP
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f

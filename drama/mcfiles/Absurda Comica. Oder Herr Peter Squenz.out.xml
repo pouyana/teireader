@@ -599,8 +599,13 @@ noch ein knappe war, die Susanna gespielet. Er machte ihm die augen mit speichel
                                  <ns0:speaker xml:id="tg769.2.114.part1">PICKELH&#196;RING.</ns0:speaker>
                                  <ns0:p xml:id="tg769.2.114.part2"> Ehren, wolehren und hochehrenvester, tieffgelehrter, spitzfindiger herr Peter Squentz, gro&#223;en danck, eine gute nacht!</ns0:p>
                                  <ns0:lb xml:id="tg769.2.115" />
+<<<<<<< HEAD
                                  <ns0:stage rend="zenoPC" xml:id="tg769.2.116">
                                     <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg769.2.116.1">Die andern nehmen alle mit allerhand cerimonien von einander ihren abschied; Pickelh&#228;ring aber und Peter Squentz n&#246;thigen einander voranzugehen; so bald aber Squentz voran treten wil, zeucht ihn Pickelh&#228;ring zur&#252;ck, und laufft selbst voran.</ns0:stage>
+=======
+                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg769.2.116">
+                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg769.2.116.1">Die andern nehmen alle mit allerhand cerimonien von einander ihren abschied; Pickelh&#228;ring aber und Peter Squentz n&#246;thigen einander voranzugehen; so bald aber Squentz voran treten wil, zeucht ihn Pickelh&#228;ring zur&#252;ck, und laufft selbst voran.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg769.2.117" />
                               </ns0:sp>
@@ -722,7 +727,11 @@ pfarr-amts, wenn die andern alle werden gestorben seyn.</ns0:p>
                                  <ns0:speaker xml:id="tg770.2.30.part1">SERENUS.</ns0:speaker>
                                  <ns0:p xml:id="tg770.2.30.part2"> Aus so vielen com&#339;dien, die ihr zu agiren willens, begehren <ns0:pb n="23" xml:id="tg770.2.30.1.part2" />
 ihre majest&#228;t die erste zu sehen, <ns0:hi rend="spaced" xml:id="tg770.2.30.2.part2">von der verst&#246;rung Jerusa</ns0:hi>
+<<<<<<< HEAD
                                     <ns0:stage rend="spaced" type="other" ns1:fixed-stage="true" xml:id="tg770.2.30.3.part2">lem.</ns0:stage>
+=======
+                                    <ns0:stage rend="spaced" ns1:fixed-stage="true" xml:id="tg770.2.30.3.part2">lem.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                  </ns0:p>
                               </ns0:sp>
                               <ns0:sp>
@@ -822,7 +831,11 @@ ihre majest&#228;t die erste zu sehen, <ns0:hi rend="spaced" xml:id="tg770.2.30.
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg770.2.53.part1">SERENUS.</ns0:speaker>
+<<<<<<< HEAD
                                  <ns0:p xml:id="tg770.2.53.part2"> Nun ich sehe, ihr seyd sehr wol ausger&#252;stet; es mangelt nun nichts mehr als die letzte von <ns0:stage rend="spaced" type="other" ns1:fixed-stage="true" xml:id="tg770.2.53.1.part2">Piramus und Thisbe.</ns0:stage>
+=======
+                                 <ns0:p xml:id="tg770.2.53.part2"> Nun ich sehe, ihr seyd sehr wol ausger&#252;stet; es mangelt nun nichts mehr als die letzte von <ns0:stage rend="spaced" ns1:fixed-stage="true" xml:id="tg770.2.53.1.part2">Piramus und Thisbe.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                  </ns0:p>
                               </ns0:sp>
                               <ns0:sp>
@@ -947,8 +960,13 @@ der th&#252;r.</ns0:l>
                                  <ns0:speaker xml:id="tg771.2.15.part1">SERENUS.</ns0:speaker>
                                  <ns0:l xml:id="tg771.2.15.part2"> Es ist kein kinderwerck, wenn alte leute zu narren werden.</ns0:l>
                                  <ns0:lb xml:id="tg771.2.16" />
+<<<<<<< HEAD
                                  <ns0:stage rend="zenoPC" xml:id="tg771.2.17">
                                     <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg771.2.17.1">Peter Squentz beginnet nach gethaner altfr&#228;nckischen ehrerbietung sein traurig lust-spiel.</ns0:stage>
+=======
+                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg771.2.17">
+                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg771.2.17.1">Peter Squentz beginnet nach gethaner altfr&#228;nckischen ehrerbietung sein traurig lust-spiel.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg771.2.18" />
                               </ns0:sp>
@@ -981,8 +999,13 @@ Wir haben gesessen manche liebe nacht,</ns0:l>
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg771.2.34">Sag' ich euch hier mit gro&#223;em geschrey.</ns0:l>
                                  </ns0:lg>
                                  <ns0:lb xml:id="tg771.2.35" />
+<<<<<<< HEAD
                                  <ns0:stage rend="zenoPC" xml:id="tg771.2.36">
                                     <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg771.2.36.1">Hierauf verstummt er und kratzt sich im kopff.</ns0:stage>
+=======
+                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg771.2.36">
+                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg771.2.36.1">Hierauf verstummt er und kratzt sich im kopff.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg771.2.37" />
                               </ns0:sp>
@@ -993,12 +1016,21 @@ Wir haben gesessen manche liebe nacht,</ns0:l>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg771.2.39.part1">PETER SQUENTZ</ns0:speaker> 
                                  <ns0:stage>
+<<<<<<< HEAD
                                     <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg771.2.39.1.part1">nach langem stillschweigen.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:p xml:id="tg771.2.39.part2"> Ie du diebischer kopff! hast du den dreck denn gar m&#252;ssen vergessen! Nun das ist die erste sau; der com&#339;dianten sind 7. Wenn ein jedweder eine macht, so haben wir ein halb tutzend weniger zwo. Ey hertzer, lieber herr k&#246;nig, habet mir doch nichts f&#252;r &#252;bel! Ich habe es zu hause schlappermentsch wohl gek&#246;nt; ich wils mit meinem weibe und allen mitgesellen bezeugen. Ey! Ey! Ey! Ey!</ns0:p>
                                  <ns0:lb xml:id="tg771.2.40" />
                                  <ns0:stage rend="zenoPC" xml:id="tg771.2.41">
                                     <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg771.2.41.1">Er suchet eine lange weile den zettel; als er ihn zuletzt in dem lincken ermel funden, da setzt er die prille auf und siehet auffs papier, darnach f&#228;hret er fort.</ns0:stage>
+=======
+                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg771.2.39.1.part1">nach langem stillschweigen.</ns0:stage>
+                                 </ns0:stage>
+                                 <ns0:p xml:id="tg771.2.39.part2"> Ie du diebischer kopff! hast du den dreck denn gar m&#252;ssen vergessen! Nun das ist die erste sau; der com&#339;dianten sind 7. Wenn ein jedweder eine macht, so haben wir ein halb tutzend weniger zwo. Ey hertzer, lieber herr k&#246;nig, habet mir doch nichts f&#252;r &#252;bel! Ich habe es zu hause schlappermentsch wohl gek&#246;nt; ich wils mit meinem weibe und allen mitgesellen bezeugen. Ey! Ey! Ey! Ey!</ns0:p>
+                                 <ns0:lb xml:id="tg771.2.40" />
+                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg771.2.41">
+                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg771.2.41.1">Er suchet eine lange weile den zettel; als er ihn zuletzt in dem lincken ermel funden, da setzt er die prille auf und siehet auffs papier, darnach f&#228;hret er fort.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg771.2.42" />
                                  <ns0:lg>
@@ -1105,8 +1137,13 @@ Ich sag euch das, ihr alten und jungen,</ns0:l>
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg771.2.125">Ob sie das spiel tragiren fein.</ns0:l>
                                  </ns0:lg>
                                  <ns0:lb xml:id="tg771.2.126" />
+<<<<<<< HEAD
                                  <ns0:stage rend="zenoPC" xml:id="tg771.2.127">
                                     <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg771.2.127.1">Peter Squentz setzet sich auf einen schemmel, nimt die pr&#252;lle, setzet sie <ns0:pb n="31" xml:id="tg771.2.127.1.1" />
+=======
+                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg771.2.127">
+                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg771.2.127.1">Peter Squentz setzet sich auf einen schemmel, nimt die pr&#252;lle, setzet sie <ns0:pb n="31" xml:id="tg771.2.127.1.1" />
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
 auf die nasen; als er aber sein exemplar ansehen wil, st&#246;&#223;et ein hofediener an den schemmel, dass Peter Squentz &#252;ber und &#252;ber f&#228;llt. Als er aufgestanden, spricht er wider den k&#246;nig.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg771.2.128" />
@@ -1159,8 +1196,13 @@ auf die nasen; als er aber sein exemplar ansehen wil, st&#246;&#223;et ein hofed
 Und solt es euch allen mit einander leid seyn.</ns0:l>
                                  </ns0:lg>
                                  <ns0:lb xml:id="tg771.2.158" />
+<<<<<<< HEAD
                                  <ns0:stage rend="zenoPC" xml:id="tg771.2.159">
                                     <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg771.2.159.1">Piramus gehet etliche mahl stillschweigend auf und nieder, endlich fraget er Peter Squentzen.</ns0:stage>
+=======
+                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg771.2.159">
+                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg771.2.159.1">Piramus gehet etliche mahl stillschweigend auf und nieder, endlich fraget er Peter Squentzen.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg771.2.160" />
                               </ns0:sp>
@@ -1233,8 +1275,13 @@ Und solt es euch allen mit einander leid seyn.</ns0:l>
                                  <ns0:speaker xml:id="tg771.2.197.part1">PIRAMUS.</ns0:speaker>
                                  <ns0:p xml:id="tg771.2.197.part2"> Du rotziger blasebalckemacherischer dieb! Solst du mich dutzen? weist du nicht, dass ich ein k&#246;niglicher diener bin? Schau, das geh&#246;ret einem solchen holuncken!</ns0:p>
                                  <ns0:lb xml:id="tg771.2.198" />
+<<<<<<< HEAD
                                  <ns0:stage rend="zenoPC" xml:id="tg771.2.199">
                                     <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg771.2.199.1">Pickelh&#228;ring schl&#228;get Bullabut&#228;n an den hals, Bullabut&#228;n schl&#228;get ihm hergegen die wand um den kopff, sie kriegen einander bey den haaren und zerren sich hurtig auff dem schauplatz herumb, wor&#252;ber die wand schier gantz in st&#252;cken gehet. Peter Squentz suchet sie zu scheiden.</ns0:stage>
+=======
+                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg771.2.199">
+                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg771.2.199.1">Pickelh&#228;ring schl&#228;get Bullabut&#228;n an den hals, Bullabut&#228;n schl&#228;get ihm hergegen die wand um den kopff, sie kriegen einander bey den haaren und zerren sich hurtig auff dem schauplatz herumb, wor&#252;ber die wand schier gantz in st&#252;cken gehet. Peter Squentz suchet sie zu scheiden.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg771.2.200" />
                               </ns0:sp>
@@ -1242,8 +1289,13 @@ Und solt es euch allen mit einander leid seyn.</ns0:l>
                                  <ns0:speaker xml:id="tg771.2.201.part1">PETER SQUENTZ.</ns0:speaker>
                                  <ns0:p xml:id="tg771.2.201.part2"> Das m&#252;sse gott im himmel erbarmen! das ist die 3te sau. Ie, sch&#228;met ihr euch denn nicht f&#252;r dem k&#246;nige? Meinet ihr, dass er eine bundsfutte ist? H&#246;ret auf in aller hencker namen! H&#246;ret auff! h&#246;ret auff! sage ich. Stellet euch in die ordnung! Sehet ihr nicht, dass Thisbe herein k&#246;mmt?</ns0:p>
                                  <ns0:lb xml:id="tg771.2.202" />
+<<<<<<< HEAD
                                  <ns0:stage rend="zenoPC" xml:id="tg771.2.203">
                                     <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg771.2.203.1">Bullabut&#228;n tritt mit der zerrissenen wand wieder an seinen ort.</ns0:stage>
+=======
+                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg771.2.203">
+                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg771.2.203.1">Bullabut&#228;n tritt mit der zerrissenen wand wieder an seinen ort.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg771.2.204" />
                               </ns0:sp>
@@ -1453,8 +1505,13 @@ Ey blaset auff die wunde sonder schertzen!</ns0:l>
                                  <ns0:speaker xml:id="tg771.2.315">PIRAMUS.</ns0:speaker>
                                  <ns0:l rend="zenoPLm4n4" xml:id="tg771.2.316">Mein halbes hertz im leibe lacht.</ns0:l>
                                  <ns0:lb xml:id="tg771.2.317" />
+<<<<<<< HEAD
                                  <ns0:stage rend="zenoPC" xml:id="tg771.2.318">
                                     <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg771.2.318.1">Thisbe gehet wieder zur&#252;cke und spricht.</ns0:stage>
+=======
+                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg771.2.318">
+                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg771.2.318.1">Thisbe gehet wieder zur&#252;cke und spricht.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg771.2.319" />
                                  <ns0:lg>
@@ -1469,8 +1526,13 @@ Ey blaset auff die wunde sonder schertzen!</ns0:l>
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg771.2.324">Dass ich euch keinen guten tag gesagt!</ns0:l>
                                  </ns0:lg>
                                  <ns0:lb xml:id="tg771.2.325" />
+<<<<<<< HEAD
                                  <ns0:stage rend="zenoPC" xml:id="tg771.2.326">
                                     <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg771.2.326.1">Thisbe kommt noch einmal zur&#252;cke.</ns0:stage>
+=======
+                                 <ns0:stage rend="zenoPC" type="enter" xml:id="tg771.2.326">
+                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg771.2.326.1">Thisbe kommt noch einmal zur&#252;cke.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg771.2.327" />
                                  <ns0:l rend="zenoPLm4n4" xml:id="tg771.2.328">Was mach ich indessen mit dem pfeil?</ns0:l>
@@ -1482,8 +1544,13 @@ Ey blaset auff die wunde sonder schertzen!</ns0:l>
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg771.2.331">So geschwillet nicht die wunde mein.</ns0:l>
                                  </ns0:lg>
                                  <ns0:lb xml:id="tg771.2.332" />
+<<<<<<< HEAD
                                  <ns0:stage rend="zenoPC" xml:id="tg771.2.333">
                                     <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg771.2.333.1">Thisbe kehret wiederum.</ns0:stage>
+=======
+                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg771.2.333">
+                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg771.2.333.1">Thisbe kehret wiederum.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg771.2.334" />
                                  <ns0:lg>
@@ -1503,8 +1570,13 @@ Ey blaset auff die wunde sonder schertzen!</ns0:l>
                                  <ns0:speaker xml:id="tg771.2.341">PIRAMUS.</ns0:speaker>
                                  <ns0:l rend="zenoPLm4n4" xml:id="tg771.2.342">Schlafft liebste, biss ihr aufferwacht!</ns0:l>
                                  <ns0:lb xml:id="tg771.2.343" />
+<<<<<<< HEAD
                                  <ns0:stage rend="zenoPC" xml:id="tg771.2.344">
                                     <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg771.2.344.1">Eine person siehet eine ziemliche weile durch das loch nach der andern, biss sich Piramus zum ersten verleuret.</ns0:stage>
+=======
+                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg771.2.344">
+                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg771.2.344.1">Eine person siehet eine ziemliche weile durch das loch nach der andern, biss sich Piramus zum ersten verleuret.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg771.2.345" />
                               </ns0:sp>
@@ -1529,8 +1601,13 @@ h&#228;ndel mit dem Piramus anfangest, die com&#339;dianten irre machest und das
                                  <ns0:speaker xml:id="tg771.2.355.part1">BULLABUT&#196;N.</ns0:speaker>
                                  <ns0:l xml:id="tg771.2.355.part2"> Ich habe nichts mehr zu sagen; herr Peter Squentz hat nichts mehr auf meinen zedel gemachet.</ns0:l>
                                  <ns0:lb xml:id="tg771.2.356" />
+<<<<<<< HEAD
                                  <ns0:stage rend="zenoPC" xml:id="tg771.2.357">
                                     <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg771.2.357.1">Bullabut&#228;n trit ab, meister Kricks kommt gegangen.</ns0:stage>
+=======
+                                 <ns0:stage rend="zenoPC" type="enter" xml:id="tg771.2.357">
+                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg771.2.357.1">Bullabut&#228;n trit ab, meister Kricks kommt gegangen.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg771.2.358" />
                               </ns0:sp>
@@ -1602,8 +1679,13 @@ sagen werde!</ns0:l>
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg771.2.390">Der frische brunn kommt einher gohn.</ns0:l>
                                  </ns0:lg>
                                  <ns0:lb xml:id="tg771.2.391" />
+<<<<<<< HEAD
                                  <ns0:stage rend="zenoPC" xml:id="tg771.2.392">
                                     <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg771.2.392.1">Meister Lollinger brunn, f&#228;ngt an zu singen.</ns0:stage>
+=======
+                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg771.2.392">
+                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg771.2.392.1">Meister Lollinger brunn, f&#228;ngt an zu singen.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg771.2.393" />
 
@@ -1681,8 +1763,13 @@ Mag nicht so sch&#246;ne werden.</ns0:l>
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg771.2.431">Ob ich gleich habe lange klaun.</ns0:l>
                                  </ns0:lg>
                                  <ns0:lb xml:id="tg771.2.432" />
+<<<<<<< HEAD
                                  <ns0:stage rend="zenoPC" xml:id="tg771.2.433">
                                     <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg771.2.433.1">Monstrat manus.</ns0:stage>
+=======
+                                 <ns0:stage rend="zenoPC" type="enter" xml:id="tg771.2.433">
+                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg771.2.433.1">Monstrat manus.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg771.2.434" />
                                  <ns0:lg>
@@ -1691,8 +1778,13 @@ Mag nicht so sch&#246;ne werden.</ns0:l>
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg771.2.437">Hier ist mein schurtzfell und mein hubel.</ns0:l>
                                  </ns0:lg>
                                  <ns0:lb xml:id="tg771.2.438" />
+<<<<<<< HEAD
                                  <ns0:stage rend="zenoPC" xml:id="tg771.2.439">
                                     <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg771.2.439.1">Monstrat praecinctorium.</ns0:stage>
+=======
+                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg771.2.439">
+                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg771.2.439.1">Monstrat praecinctorium.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg771.2.440" />
                                  <ns0:lg>
@@ -1738,8 +1830,13 @@ Das geld in zw&#246;lff leib vernaschen.</ns0:l>
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg771.2.468">Ein grimmer l&#246;w, ein b&#246;ses thier!</ns0:l>
                                  </ns0:lg>
                                  <ns0:lb xml:id="tg771.2.469" />
+<<<<<<< HEAD
                                  <ns0:stage rend="zenoPC" xml:id="tg771.2.470">
                                     <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg771.2.470.1">Der l&#246;we f&#228;nget an zu mauen wie eine katze.</ns0:stage>
+=======
+                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg771.2.470">
+                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg771.2.470.1">Der l&#246;we f&#228;nget an zu mauen wie eine katze.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg771.2.471" />
                               </ns0:sp>
@@ -1765,8 +1862,13 @@ Sie wil die schaube wegwerffen, kan aber nicht, weil sie zu feste angebunden. Al
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg771.2.483">Mir ist, als wer ich schon begraben.</ns0:l>
                                  </ns0:lg>
                                  <ns0:lb xml:id="tg771.2.484" />
+<<<<<<< HEAD
                                  <ns0:stage rend="zenoPC" xml:id="tg771.2.485">
                                     <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg771.2.485.1">Thisbe entlaufft, der l&#246;we stehet auff, nimmt die gr&#252;ne decke gleich einem mantel um die achsel und die schaube in die band und tritt neben den monden.</ns0:stage>
+=======
+                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg771.2.485">
+                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg771.2.485.1">Thisbe entlaufft, der l&#246;we stehet auff, nimmt die gr&#252;ne decke gleich einem mantel um die achsel und die schaube in die band und tritt neben den monden.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg771.2.486" />
                               </ns0:sp>
@@ -1794,8 +1896,13 @@ Sie wil die schaube wegwerffen, kan aber nicht, weil sie zu feste angebunden. Al
                                  <ns0:speaker xml:id="tg771.2.492.part1">MEISTER KRICKS-&#220;BER-UND-&#220;BER.</ns0:speaker>
                                  <ns0:l xml:id="tg771.2.492.part2"> Was ist daran gelegen?</ns0:l>
                                  <ns0:lb xml:id="tg771.2.493" />
+<<<<<<< HEAD
                                  <ns0:stage rend="zenoPC" xml:id="tg771.2.494">
                                     <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg771.2.494.1">Der mond schl&#228;gt dem l&#246;wen die laterne um den kopff, der l&#246;we erwischet den monden bey den haaren. In diesem get&#252;mmel werffen sie den brunnen um und zerbrechen ihm den krug. Der brunn schl&#228;get beyden die sch&#228;rben um die ohren. Peter Squentz wil friede machen, wird aber Tod allen dreyen darnieder gerissen und bekommt sein theil schl&#228;ge auch darvon.</ns0:stage>
+=======
+                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg771.2.494">
+                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg771.2.494.1">Der mond schl&#228;gt dem l&#246;wen die laterne um den kopff, der l&#246;we erwischet den monden bey den haaren. In diesem get&#252;mmel werffen sie den brunnen um und zerbrechen ihm den krug. Der brunn schl&#228;get beyden die sch&#228;rben um die ohren. Peter Squentz wil friede machen, wird aber Tod allen dreyen darnieder gerissen und bekommt sein theil schl&#228;ge auch darvon.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg771.2.495" />
                                  <ns0:pb n="44" xml:id="tg771.2.496" />
@@ -1892,8 +1999,13 @@ Ich werde mich f&#252;r angst erhencken.</ns0:l>
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg771.2.545">Oder ersteche mich mit der hand.</ns0:l>
                                  </ns0:lg>
                                  <ns0:lb xml:id="tg771.2.546" />
+<<<<<<< HEAD
                                  <ns0:stage rend="zenoPC" xml:id="tg771.2.547">
                                     <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg771.2.547.1">Er laufft und f&#228;llt &#252;ber seinen degen.</ns0:stage>
+=======
+                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg771.2.547">
+                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg771.2.547.1">Er laufft und f&#228;llt &#252;ber seinen degen.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg771.2.548" />
                                  <ns0:lg>
@@ -1905,8 +2017,13 @@ Ich werde mich f&#252;r angst erhencken.</ns0:l>
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg771.2.554">Frisch auff mein hertz und dich erstich!</ns0:l>
                                  </ns0:lg>
                                  <ns0:lb xml:id="tg771.2.555" />
+<<<<<<< HEAD
                                  <ns0:stage rend="zenoPC" xml:id="tg771.2.556">
                                     <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg771.2.556.1">Er zeucht den degen aus, wendet sich gegen den zusehern und spricht.</ns0:stage>
+=======
+                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg771.2.556">
+                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg771.2.556.1">Er zeucht den degen aus, wendet sich gegen den zusehern und spricht.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg771.2.557" />
                                  <ns0:p xml:id="tg771.2.558">Erschrecket nicht, lieben leute, ich ersteche mich nicht recht, es ist nur spiel. Wer es nicht sehen kan, der gehe hinaus oder mache die augen zu, biss ich die schreckliche that verrichtet habe.</ns0:p>
@@ -1917,8 +2034,13 @@ Ich werde mich f&#252;r angst erhencken.</ns0:l>
                                  <ns0:p rend="zenoPLm4n4" xml:id="tg771.2.563">Gesegn' euch Gott, klein und gro&#223;!</ns0:p>
                                  <ns0:p rend="zenoPLm4n4" xml:id="tg771.2.564">Der todt gibt mir itzt einen sto&#223;.</ns0:p>
                                  <ns0:lb xml:id="tg771.2.565" />
+<<<<<<< HEAD
                                  <ns0:stage rend="zenoPC" xml:id="tg771.2.566">
                                     <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg771.2.566.1">Er ziehlet eine lange weile mit dem degen, hernach wendet er sich zu den zuh&#246;rern und spricht.</ns0:stage>
+=======
+                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg771.2.566">
+                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg771.2.566.1">Er ziehlet eine lange weile mit dem degen, hernach wendet er sich zu den zuh&#246;rern und spricht.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg771.2.567" />
                                  <ns0:p xml:id="tg771.2.568">Ey lieber! f&#252;rchtet doch euch nicht so! Es hat nichts zu bedeuten. Seht, ich wil mich nur mit dem knopffe erstechen.</ns0:p>
@@ -1926,8 +2048,13 @@ Ich werde mich f&#252;r angst erhencken.</ns0:l>
                                  <ns0:stage rend="zenoPC" type="other" xml:id="tg771.2.570">
                                     <ns0:hi rend="italic" xml:id="tg771.2.570.1">Hernach macht er das wambst auf, setzet den knopff an die brust, die spitze an die b&#252;hne, f&#228;llt nieder, stehet hernach wieder auf, laufft um das gantze </ns0:hi>
                                  </ns0:stage>
+<<<<<<< HEAD
                                  <ns0:stage rend="zenoPC" xml:id="tg771.2.571">
                                     <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg771.2.571.1">theatrum herum und fanget an.</ns0:stage>
+=======
+                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg771.2.571">
+                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg771.2.571.1">theatrum herum und fanget an.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg771.2.572" />
                                  <ns0:lg>
@@ -1941,8 +2068,13 @@ Nun hab ich mich gethan vom brod.</ns0:l>
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg771.2.578">Hie fall ich auff bauch, kopff und h&#228;nd.</ns0:l>
                                  </ns0:lg>
                                  <ns0:lb xml:id="tg771.2.579" />
+<<<<<<< HEAD
                                  <ns0:stage rend="zenoPC" xml:id="tg771.2.580">
                                     <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg771.2.580.1">Er f&#228;llet wieder nieder, heulet eine lange weile, verkehret die &#228;ugen im kopffe und schweiget endlich; der monden leschet sein licht aus.</ns0:stage>
+=======
+                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg771.2.580">
+                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg771.2.580.1">Er f&#228;llet wieder nieder, heulet eine lange weile, verkehret die &#228;ugen im kopffe und schweiget endlich; der monden leschet sein licht aus.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg771.2.581" />
                               </ns0:sp>
@@ -1965,8 +2097,13 @@ Nun hab ich mich gethan vom brod.</ns0:l>
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg771.2.593">Dort bey dem brunn; was ist das?</ns0:l>
                                  </ns0:lg>
                                  <ns0:lb xml:id="tg771.2.594" />
+<<<<<<< HEAD
                                  <ns0:stage rend="zenoPC" xml:id="tg771.2.595">
                                     <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg771.2.595.1">Sie f&#228;llet &#252;ber Piramum, steht auf und besiehet ihn.</ns0:stage>
+=======
+                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg771.2.595">
+                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg771.2.595.1">Sie f&#228;llet &#252;ber Piramum, steht auf und besiehet ihn.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg771.2.596" />
                                  <ns0:lg>
@@ -1978,8 +2115,13 @@ Nun hab ich mich gethan vom brod.</ns0:l>
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg771.2.602">Dass ich ihm einen schm&#228;tzerling abgestohlen.</ns0:l>
                                  </ns0:lg>
                                  <ns0:lb xml:id="tg771.2.603" />
+<<<<<<< HEAD
                                  <ns0:stage rend="zenoPC" xml:id="tg771.2.604">
                                     <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg771.2.604.1">Sie k&#252;sset ihn, Piramus schnappet nach ihr mit dem maul.</ns0:stage>
+=======
+                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg771.2.604">
+                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg771.2.604.1">Sie k&#252;sset ihn, Piramus schnappet nach ihr mit dem maul.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg771.2.605" />
                               </ns0:sp>
@@ -1999,8 +2141,13 @@ F&#252;rwar, ich hab es wol gerochen.</ns0:l>
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg771.2.615">Die haar wil ich ausrauffen mir</ns0:l>
                                  </ns0:lg>
                                  <ns0:lb xml:id="tg771.2.616" />
+<<<<<<< HEAD
                                  <ns0:stage rend="zenoPC" xml:id="tg771.2.617">
                                     <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg771.2.617.1">Sie greifft unter die armen. Ridet.</ns0:stage>
+=======
+                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg771.2.617">
+                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg771.2.617.1">Sie greifft unter die armen. Ridet.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg771.2.618" />
                                  <ns0:lg>
@@ -2054,8 +2201,13 @@ Ade, mein liebes m&#228;uselein!</ns0:l>
                                  <ns0:stage rend="zenoPC" type="other" xml:id="tg771.2.647">
                                     <ns0:hi rend="italic" xml:id="tg771.2.647.1">Sie sticht sich mit dem degen unter den rock, wirfft hernach den degen weg und f&#228;llt auf Piramum, </ns0:hi>
                                  </ns0:stage>
+<<<<<<< HEAD
                                  <ns0:stage rend="zenoPC" xml:id="tg771.2.648">
                                     <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg771.2.648.1">spricht.</ns0:stage>
+=======
+                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg771.2.648">
+                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg771.2.648.1">spricht.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg771.2.649" />
                                  <ns0:lg>
@@ -2079,8 +2231,13 @@ Ade, mein liebes m&#228;uselein!</ns0:l>
                                  <ns0:speaker xml:id="tg771.2.655.part1">PIRAMUS.</ns0:speaker>
                                  <ns0:l xml:id="tg771.2.655.part2"> Wenn die com&#339;dianten abgegangen sind, wil ich Thisben selber weg tragen.</ns0:l>
                                  <ns0:lb xml:id="tg771.2.656" />
+<<<<<<< HEAD
                                  <ns0:stage rend="zenoPC" xml:id="tg771.2.657">
                                     <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg771.2.657.1">Der mond und brunnen gehen stille davon, Piramus stehet auf, Thisbe springet ihm auf die achseln, Piramus tr&#228;gt sie mit hinweg.</ns0:stage>
+=======
+                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg771.2.657">
+                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg771.2.657.1">Der mond und brunnen gehen stille davon, Piramus stehet auf, Thisbe springet ihm auf die achseln, Piramus tr&#228;gt sie mit hinweg.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg771.2.658" />
                               </ns0:sp>
@@ -2195,8 +2352,13 @@ Es sey winter, sommer oder lentz,</ns0:p>
                                  <ns0:speaker xml:id="tg771.2.726.part1">PETER SQUENTZ.</ns0:speaker>
                                  <ns0:p xml:id="tg771.2.726.part2"> Bald, bald, verziehet! ich wil es in die regul detri setzen. Eine sau um 15 golden, wie hoch kommen zehen s&#228;ue?</ns0:p>
                                  <ns0:lb xml:id="tg771.2.727" />
+<<<<<<< HEAD
                                  <ns0:stage rend="zenoPC" xml:id="tg771.2.728">
                                     <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg771.2.728.1">Er schreibet mit kreide auf die b&#252;hne, hernach fanget er an.</ns0:stage>
+=======
+                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg771.2.728">
+                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg771.2.728.1">Er schreibet mit kreide auf die b&#252;hne, hernach fanget er an.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg771.2.729" />
                                  <ns0:l xml:id="tg771.2.730">Auf den f&#252;&#223;en kommen sie.</ns0:l>

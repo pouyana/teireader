@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {"id":"tg47.2.77.1.part1","text":"NB.","type":"other","source":"nltk"}
 {"id":"tg47.2.77.1.part2","text":": die übrige Türckische Stumme sind im 1st. Actus im 8 Scen. zu ersehen.","type":"other","source":"nltk"}
 {"id":"tg49.2.4","text":"Stahrenberg, Aloisia.","type":"enter","source":"NLP"}
@@ -177,3 +178,148 @@
 {"id":"tg83.2.19.1","text":"Stahrenberg, Cappliers und Daun knien vor dem Könige nieder.","type":"other","source":"nltk"}
 {"id":"tg83.2.26.1.part1","text":"zum Stahrenberg.","type":"other","source":"nltk"}
 {"id":"tg83.2.74.1","text":"Alle repetiren.","type":"other","source":"nltk"}
+=======
+tg47.2.77.part2: : die übrige Türckische Stumme sind im 1st. Actus im 8 Scen. zu ersehen.  ==> other nltk
+tg49.2.4: Stahrenberg, Aloisia.  ==> enter NLP
+tg49.2.30: Euphrosina komt dazu.  ==> enter nltk
+tg49.2.44: Beyde gehen ab.  ==> exit nltk
+tg50.2.4: Marggraff von Baaden, Liebenberg und etliche Stumme anstatt des Raths.  ==> other nltk
+tg50.2.12: Alle gehen ab.  ==> exit nltk
+tg51.2.4: Stahrenberg, Daun.  ==> enter NLP
+tg51.2.13: Alle beyde ab.  ==> exit nltk
+tg52.2.4: Hertzog von Lotthringen, Hertzog von Würtenberg.  ==> other nltk
+tg52.2.12: Alhie kommen die Gräntz-Völcker anmarchirt, gehend Fuß vor Fuß, wo die ersteren, nach dem Sie das Theater pahsiret [sich hinter dem Prospect] an die leztere anschließen und also eine ansehnliche Parade formiren.  ==> other nltk
+tg52.2.19: Alle ab.  ==> exit nltk
+tg53.2.4: Wird aufgezogen und praesentiret den außern Theil der Stadt, alwo der Stephans-Thurn mit Sonn und Mond zu sehen, alhie salviren die Leuthe ihre Sachen und Hauß-Geräth zum Stadt-Thor hinein. Hans Wurst komt dazu, sein Weib bedeckt auf der Scheib-Truhen führend, und mit Hauß-Geräth überall behangen.  ==> other nltk
+tg53.2.8: Burgermeister Liebenberg komt dazu, samt der Burgerschafft mit Fahnen und klingendem Spiel, Hans Wurst vor Schröcken wirfft den Karren umb und begibt sich in etwas auf die Seite.  ==> other nltk
+tg53.2.12: Alle schreyen überlaut ja. Hie wird die Trummel gerühret und das Edict No. 2 denen Burgern vorgelesen.  ==> other nltk
+tg53.2.16: Entdecket alhie sein Weib welche nichts redet, als ah, ah ah uh uh uh.  ==> other nltk
+tg53.2.20: Die Burger theilen sich halb recht, halb linck und gehen alle ab.  ==> exit nltk
+tg53.2.24: Hebt Sie auf und führt Sie neben dem Burgermeister weg.  ==> other nltk
+tg53.2.50: Stahrenberg komt dazu.  ==> enter nltk
+tg53.2.74: H.W. nimt die Scheib-Truhen und führet sie weg, alle ab und in die Stadt hinein. Das forderste Scena wird zugemacht und stellet vor die Colline.  ==> exit nltk
+tg54.2.4: Colline Serini, Cappliers.  ==> enter NLP
+tg54.2.15: Beyde ab.  ==> exit nltk
+tg55.2.4: Wird aufgezogen und praesentiret den außern Theil der Stadt wie zuvor nebst vielen Arbeitsleuthen, mit Hacken, Hauen, Grabschauffeln und Scheib-Truhen, welche in Setzung derer Pallisaden beschäfftiget sind.  ==> other nltk
+tg55.2.5: Liebenberg.  ==> enter NLP
+tg55.2.9: Extemporiret und ordonniret hin und wieder nach Belieben; Hie komt ein Tambour dazu, lieset das Edict No. 3 mit vor und nach gerührter Trummel, und gehet hernach ab; hie müßen etliche Männer, Weiber und Kinder seyn, welche dem Edict zuhören, die hinterste Scene wird nachmals zugemacht, die Stadt weggethan, und die Türckische Cavallerie dahinter verfertiget.  ==> other nltk
+tg56.2.4: Wald.  ==> other nltk
+tg56.2.5: Hie geschiehet der Türckische March mit einer Türckischen Music auf nachfolgende Weise langsam über das Theatr.  ==> other nltk
+tg56.2.6: 1. Ein Cadi oder Türckischer Gesetz-Lehrer führend die Standarte des Mahomets worauf dieser falsche Prophet gemahlet zu sehen.  ==> other nltk
+tg56.2.8: 3. Wiederumb ein Cadi so den Alcoran oder Türckisches Gesetz-Buch tragt.  ==> other nltk
+tg56.2.9: 4. Zwey Türcken mit einer langen Stangen, ein jeder an seiner Stange zu oberst ein Roß-Schweiff gebunden.  ==> other nltk
+tg56.2.10: 5. Tekely und Sechs Tartarn, deren ein jeder eine Flinte über die Achsel hangen hat.  ==> other nltk
+tg56.2.11: 6. Zwey Türckische Kebs-Weiber auf einem Wagen, so von Mohren gezogen wird.  ==> other nltk
+tg56.2.12: 7. Zwey Türcken, jeder mit einer Fahne, worauf der halbe Mond oder das Türckische Wappen zu sehen.  ==> other nltk
+tg56.2.13: 8. Wieder obige 6 Türcken [No. 2], jeder mit einem Rantzen, aber ohne den vorigen Führer.  ==> enter nltk
+tg56.2.14: 9. Wiederumb die 6 Tartarn [No. 5] aber ohne den Tekely.  ==> other nltk
+tg56.2.16: 10. Die Tiirckische Stuck, und hinter denenselben die Bagage. NB.: Wann es seyn kan und sich schicket.  ==> other nltk
+tg56.2.17: 11. Wiederumb die Zwey Türcken [No. 4] mit ihren Roß-Schweiffen.  ==> other nltk
+tg56.2.18: 12. Zwey Türckische Bahsen mit bloßen Säbeln.  ==> other nltk
+tg56.2.19: 13. Vier Türckische Printzen, biß daher pahsiret der Zug über das Theatr:  ==> other nltk
+tg56.2.20: 14. Der Großvezier Kara Mustapha auf den Wagen [No. 6].  ==> other nltk
+tg56.2.21: 15. Selim und Ibrahim.  ==> enter NLP
+tg56.2.22: 16. Sechs Türcken, welche sich auf der einen Seiten des Theatri rangiren.  ==> other nltk
+tg56.2.23: 17. Sechs Tartarn [aber ohne Flinten] auf der andern Seiten.  ==> other nltk
+tg56.2.24: Kara Mustapha, Selim und Ibrahim, und ihre Soldaten No. 16 und 17 verbleiben, die übrigen ab.  ==> exit nltk
+tg56.2.28: Hie blitzet, donnert und regnet es.  ==> other nltk
+tg56.2.32: Hie steiget der Groß-Vezier herunter, und wird der Wagen hinweg geführet.  ==> other nltk
+tg56.2.43: Alle ab.  ==> exit nltk
+tg57.2.4: Wird hinten aufgezogen, und praesentiret die Türckische Reuterey auf folgende Art, NB.: Eine dazu verfertigte Banck mit vielen Roß-füßen von Holtz gemacht, forne aber zwey gegeneinander schauende Pferde, so gemahlen, und vermittelst eines von unten herfür gehenden Pfahls befestiget, worauf forne einer und also nach die Länge sitzen, wie angeheffteter Abriß mit mehreren zeiget.  ==> other nltk
+tg57.2.5: Ibrahim komt dazu.  ==> enter nltk
+tg57.2.9: Extemporiret ad libitum, biß die forderste Scena zugemacht wird.  ==> aside nltk
+tg58.2.4: Zimmer. Aloisia allein.  ==> aside nltk
+tg58.2.8: Sophia komt dazu.  ==> enter nltk
+tg58.2.17: Gehet ab.  ==> exit nltk
+tg58.2.21: Sophia und Hans mit dem Brieff No. 4 dazu.  ==> other nltk
+tg59.2.4: Wird aufgezogen und praesentiret die Stadt, und mit durgebrochenen und illuminirten Scenen die angezündete Vorstadt, ein Hauffen derer Leuthe so ihr Elend beklagen, und nach Gutbefinden extemporiren können, da ihrer etliche noch etwas erretten, und in die Stadt hineinbringen, biß der Commendant dazu komt.  ==> other nltk
+tg59.2.8: Liebenberg komt dazu.  ==> enter nltk
+tg59.2.15: Abeunt.  ==> other nltk
+tg61.2.4: Stellet vor mit durchgehenden Scenen das gantze Türckische Lager, und die Stad wie oben bleibt stehen.  ==> other nltk
+tg61.2.5: Kara Mustapha, Tekely.  ==> enter NLP
+tg61.2.10: Ibrahim komt dazu.  ==> enter nltk
+tg61.2.20: Alle ab, forderstes Scena wird zugemacht.  ==> other nltk
+tg62.2.4: Zimmer. Serini, Daun.  ==> enter NLP
+tg63.2.4: Wird aufgezogen und praesentiret den Geheimen Kriegs-Rath an einem Tische sitzend, worauf Schreib-Zeug, Papier und eine Glocke, 1. Marggraff von Baaden, 2. Hertzog von Würtenberg, 3. Stahrenberg, 4. Cappliers und 5. Liebenberg unten an, und 6. ein stummer Secretarius.  ==> other nltk
+tg63.2.14: Hie schellet der Praesident mit dem Glöckl: ein Page komt dazu.  ==> other nltk
+tg63.2.20: Page ab Koltschützky komt dazu.  ==> exit nltk
+tg63.2.44: Serini komt dazu.  ==> enter nltk
+tg63.2.48: Alle stehen auf und treten fürwerts.  ==> other nltk
+tg63.2.52: Tisch und Stühle weg.  ==> other nltk
+tg63.2.58: Alle ab, wird forne zugemacht.  ==> other nltk
+tg64.2.4: Zimmer. Aloisia, Euphrosina.  ==> enter NLP
+tg64.2.13: Hans Wurst im Thorsteher-Habit komt dazu.  ==> other nltk
+tg64.2.24: Adelgunda und Hans Wurst kommen dazu, drey Stühle werden gebracht.  ==> other nltk
+tg64.2.28: Hie empfanget das Frauen-Zimmer einander auf frantzösische Manier.  ==> other nltk
+tg64.2.33: Alle setzen sich.  ==> other nltk
+tg64.2.63: Alle stehen auf, die Stühle werden weggetragen.  ==> other nltk
+tg64.2.69: Alle gehen ab.  ==> exit nltk
+tg65.2.4: Wird aufgezogen und stellet vor die Cortine [die Gaßen und Häußer] ein Hauffen des Pöbels, welche den mit Blut übelzugerichteten Thanon, oder Baron Zwieffel, mit großem Geschrey daher schleppen, einer unter dem Volck muß reden.  ==> other nltk
+tg65.2.8: Schlagen und tractiren ihn übel, und extemporiren so lange, biß Stahrenberg mit etlichen von der Stadt-Guarde dazu komt.  ==> other nltk
+tg65.2.16: Alle nacheinander ab.  ==> exit nltk
+tg66.2.4: Wird aufgezogen und praesentiret die Donau Brucken, hinterwerts die angezündete Leopold Stadt, die Scenen stellen vor auf einer Seiten den Wienner Wald, auf der andern das Türckische Lager.  ==> other nltk
+tg66.2.5: Ibrahim, Selim mit denen Türcken.  ==> other nltk
+tg66.2.12: Hie komt ein officier mit einer Parthey Christen dazu, und schlagen die Türcken in die Flucht, und gehen alle ab, wird forne zugemacht.  ==> other nltk
+tg67.2.4: Würtenberg, Daun.  ==> enter NLP
+tg67.2.13: Alhie kommen die Kauffleute und Niederläger mit Fahnen und klingendem Spiel dazu NB.: in ihrer Fahnen muß das Österreichische Wappen, zu unterst deßen ein Postillion zu sehen seyn, werden von ihrem führer rangiret und auf nach folgende Weise exerciret [welche zu dem Ende vorher abgerichtet werden müßen]. Würtenberg und Daun gelten ab. Hie werden die Kauffleute durch ihren führer exerciret, wie folget.  ==> other nltk
+tg67.2.17: Der Führer führet Sie in guter Ordnung alle ab.  ==> exit nltk
+tg68.2.4: Wird aufgezogen und praesentiret den geheimen Kriegs-Rath wie oben im Act. sec. scen. 3. Baaden, Stahrenberg, Cappliers und einen Secretarium.  ==> other nltk
+tg68.2.11: Hans Wurst mit dem Brieff No. 5 dazu.  ==> other nltk
+tg68.2.23: Hans Wurst schauet an die Thür und Koltschützky komt dazu.  ==> other nltk
+tg68.2.39: Koltschützky und H.W. ab.  ==> exit nltk
+tg68.2.43: Alle stehen auf.  ==> other nltk
+tg68.2.47: Tisch und Stühle werden weggetragen.  ==> other nltk
+tg68.2.51: Alle gehen ab.  ==> exit nltk
+tg69.2.4: Wird aufgezogen und praesentiret die Stadt wie zuvor, und durch und durch das Türckische Lager. Hie müßen die Auffzüge zu ebner Erden eröffnet seyn anstatt derer Minen und Approchen aus welchen die Türcken auf der Leiter aus und einsteigen.  ==> other nltk
+tg69.2.5: Kara Mustapha, Tekely und alle Türcken.  ==> enter NLP
+tg69.2.16: Hie kan nach gutbefinden eine Mine von Pulver, Calvonium, Papier, Hanff und anderer leichten Materie verfertiget [gesprenget], auch in die Stadt geschoßen und Granaten hineingeworffen werden.  ==> other nltk
+tg69.2.22: Alle ab. Wird hinten zugemacht und praesentiret einen Wald.  ==> other nltk
+tg70.2.4: Hertzog von Lotthringen mit seinen Soldaten.  ==> other nltk
+tg70.2.8: Koltschützky und Hans Wurst zu Pferd in Türckischer Kleydung mit denen Brieffen 7 et 8 dazu.  ==> other nltk
+tg70.2.23: Alle ab.  ==> exit nltk
+tg71.2.4: Portachill, Valide und zwey stumme Sclaven.  ==> other nltk
+tg71.2.9: Kara Mustapha allein dazu.  ==> aside nltk
+tg71.2.18: Hie läst sich ein Geschrey hören: Man greiffe zum Waffen, Vezier, Bahsa, Beglerbeg, die Christen fallen überall an, die Janitscharen wollen den Mustapha tödten.  ==> other nltk
+tg71.2.23: Alle ab.  ==> exit nltk
+tg72.2.4: Hie wird aufgezogen und stellet vor die Stadt mit ihren Mauern und Pasteyen worauf etliche Stuck zu sehen und die Stadt-Guarde von ferne.  ==> other nltk
+tg72.2.5: Selim, Ibrahim und sechs Türcken mit Schilde.  ==> other nltk
+tg72.2.12: Kara Mustapha, Tekely und sechs Tartarn mit Schilde und einem Roß-Schweiff dazu.  ==> other nltk
+tg72.2.21: Hans Wurst in Türckischer Kleydung, gefeßelt, und zu fuße nebst Selim und der Wacht kommen dazu.  ==> other nltk
+tg72.2.46: Die Türcken visitiren ihn.  ==> other nltk
+tg72.2.58: Alhie läßet die Stadt-Guarde auf der Pastey sich sehen und schießet heraus, auch die Türcken richten sich zum Sturm.  ==> other nltk
+tg72.2.62: Hie wird auf beyden Seiten die Trummel gerühret, wie auch Granaten geworffen und gehet der Sturm an, die Türcken werden abgeschlagen, und etliche bleiben als todt liegen so die andern hernach wegtragen.  ==> other nltk
+tg72.2.69: Alle gehen ab, forderstes Scena wird zugemacht.  ==> other nltk
+tg74.2.4: Colline. Liebenberg, Koltschützky.  ==> enter NLP
+tg74.2.15: Hie kommet das gemeine Volck dazu nebst ihrem Führer mit Scheibtruhen, Hacken, Hauen und Schauffeln.  ==> other nltk
+tg74.2.21: Alle gehen ab.  ==> exit nltk
+tg75.2.4: Wird aufgezogen und praesentiret den Geheimen Kriegs-Rath wie zuvor Baaden, Würtenberg, Serini, Daun und einen stummen Secretarium.  ==> other nltk
+tg75.2.16: Alle stehen auf.  ==> other nltk
+tg75.2.20: Tisch und Stühle werden hineingetragen.  ==> other nltk
+tg75.2.25: Alle gehen ab.  ==> exit nltk
+tg76.2.4: Wird hinten aufgezogen und praesentiret den Galgen oder Hochgericht, mit zweyen daran hangenden Soldaten und einem Buben, welchem der Kopff abgeschlagen wird. Stahrenberg und die Stadt-Guarde mit Flinten.  ==> other nltk
+tg77.2.4: Stellet vor einen durchgehenden Wald, Churfürst von Sachsen und seine Soldaten mit Flinten, NB.: die Soldaten bleiben alle auf einer Seiten.  ==> other nltk
+tg77.2.8: Churfürst von Bayern mit seinen Völckern auf der andern Seiten dazu, NB.: seine Völcker rangiren sich gegen die andern über.  ==> other nltk
+tg77.2.13: Umbarmen einander.  ==> other nltk
+tg77.2.19: König in Pohlen dazu, NB.: Hie wird bei seiner Ankunfft die Trummel gerühret und die Churfürstl. Soldaten praesentiren [auf Befehl] das Gewehr.  ==> other nltk
+tg77.2.29: Hie schultern die Churfürstliche Soldaten das Gewehr und gehen in guter Ordnung alle ab.  ==> exit nltk
+tg78.2.4: Wird aufgezogen und praesentiret die Stadt und Thor, und durchaus das Türckische Lager, Ibrahim und die Janitscharen mit dem gefangenen H. Wurst.  ==> other nltk
+tg78.2.8: Die Türcken legen den Hans Wurst nieder und wollen ihn spießen.  ==> other nltk
+tg78.2.12: Hie werden etliche Ragete vom Stephans-Thurn gelaßen.  ==> other nltk
+tg78.2.28: Die Türcken ziehen von Leder und wollen den Hans Wurst niederhauen. Hie thun Daun und Serini einen Außfall, schlagen mit ihren Soldaten die Türcken in die Flucht und erlösen den H.W.  ==> other nltk
+tg78.2.36: Alle ab und in die Stadt hinein.  ==> exit nltk
+tg79.2.4: Selim mit denen Tartarn und vorigen Türcken [doch nicht von der Seiten, wo Ibrahim mit denen Seinigen hineingetrieben worden].  ==> enter nltk
+tg79.2.8: Die Soldaten lagern sich, Sauffen, Spielen und machen sich lustig; Hie muß ein Türckischer Tantz seyn und ihre Music: wan der vorbey thun die Burger einen Ausfall, verjagen die Türcken nehmen etliche gefangen, rauben ihre Beute und gehen alle ab, und die Bürger zum Stadt-Thor hinein; wird forne zugemacht.  ==> other nltk
+tg80.2.4: Zimmer. Stahrenberg, Aloisia, Euphrosina.  ==> enter NLP
+tg80.2.24: Abeunt.  ==> other nltk
+tg81.2.4: Wird aufgezogen und praesentiret der Prospect die Stadt und das Lager wie zuvor.  ==> other nltk
+tg81.2.5: Kara Mustapha, Tekely und alle Türcken.  ==> enter NLP
+tg81.2.11: Selim komt geloffen.  ==> enter nltk
+tg81.2.15: Ibrahim komt dazu.  ==> enter nltk
+tg81.2.23: Hie geschehen einige verborgene Schüße und die Türcken retiriren sich alle auf eine Seiten.  ==> other nltk
+tg81.2.27: Pohlen, Sachsen, Bayern, Lotthringen, mir allen ihren Völckern dazu und gehet die Schlacht an, NB.: Hie muß offt geschoßen und die Trummel stets gerühret werden, die Christen schlagen die Türcken und gehen im Nachsetzen alle ab, außer etliche Türcken, welche als todt auf der Wahlstatt liegen bleiben; Hie muß noch hinter denen Scenen ein Geschrey und Klang derer Waffen gehöret werden.  ==> other nltk
+tg82.2.4: Hans Wurst geharnischt und mit zweyen Säbeln aus dem Stadt-Thor heraus.  ==> other nltk
+tg83.2.4: Pohlen, Sachsen, Bayern, Lotthringen, Baaden mit allen ihren Völckern, der ... theils gefangene Türcken an Ketten, andere Türcken-Köpff auf Stangen, und etliche die Beute an Kleyder und andern Sachen mit sich bringen. NB.: wie auch die große Standarte des Mahomets.  ==> other nltk
+tg83.2.15: Würtenberg, Cappliers, Stahrenberg und Daun kommen aus der Stadt dazu, bringen die Schlüßel der Stadt auf einem Polster mit sich.  ==> other nltk
+tg83.2.19: Stahrenberg, Cappliers und Daun knien vor dem Könige nieder.  ==> other nltk
+tg83.2.74: Alle repetiren.  ==> other nltk
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f

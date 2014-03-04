@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {"id":"tg814.2.7","text":"Die Liebe erscheinet mit Bogen und Pfeilen in den Wolcken.","type":"other","source":"nltk"}
 {"id":"tg816.2.4","text":"Sulpicius auff dem Bette. Fabricius. Flavia.","type":"other","source":"nltk"}
 {"id":"tg816.2.43.1","text":"Cornelien Brieff.","type":"enter","source":"NLP"}
@@ -103,3 +104,73 @@
 {"id":"tg823.2.194.1","text":"Tantz der Liben.","type":"other","source":"nltk"}
 {"id":"tg824.2.5","text":"Welche in dem Gesang-Spiel auffgezogen / und Reyen der Bauren / die in dem untergemischten Schertz-Spil erschienen.","type":"other","source":"nltk"}
 {"id":"tg824.2.55.1.part1","text":"vmbgeben mit vier liben.","type":"other","source":"nltk"}
+=======
+tg814.2.7: Die Liebe erscheinet mit Bogen und Pfeilen in den Wolcken.  ==> other nltk
+tg816.2.4: Sulpicius auff dem Bette. Fabricius. Flavia.  ==> enter NLP
+tg816.2.43: Cornelien Brieff.  ==> enter NLP
+tg816.2.128: Sulpicius. Fabricius.  ==> enter NLP
+tg816.2.188: Levin. Sulpicius. Fabricius.  ==> enter NLP
+tg817.2.4: Gregor Kornblume.  ==> enter NLP
+tg817.2.5: Kommet auff den Schawplatz / stehet eine lange weill und beschauet die Zuseher / nachmals fänget er voll Verwunderung an.  ==> other nltk
+tg817.2.9: Stehet wider eine weile und bedencket sich / nachmals stöst er mit dem Stabe wider die Erden und fähret fort.  ==> other nltk
+tg817.2.13: Bartel Klotzmann bringet einen Hahn unter dem Arme mit sich / welchem der Fuß entzwey geschmissen.  ==> other nltk
+tg817.2.19: Jockeldreyecke kommet von der andern Seiten und träget einen mit sidendem Wasser verbrandten Hund.  ==> other nltk
+tg817.2.102: Jockel Dreyecke gehet ab.  ==> exit nltk
+tg817.2.107: Bartel in deme er wiederkommet zu Kornblumen.  ==> other nltk
+tg817.2.121: Gehet ab.  ==> exit nltk
+tg817.2.122: Greger Kornblume.  ==> enter NLP
+tg818.2.4: Cassander. Fabricius.  ==> enter NLP
+tg818.2.70: Flavia. Cassander.  ==> enter NLP
+tg818.2.124: Cornelia. Chloris.  ==> enter NLP
+tg818.2.125: Jn dem Lust-Garten.  ==> enter NLP
+tg818.2.194: Sie setzet sich nider / liset und entschläft.  ==> other nltk
+tg818.2.336: Flavia. Chloris. Cornelia.  ==> enter NLP
+tg818.2.366: Beyde sehn einander als erstarret eine zeitlang an.  ==> other nltk
+tg818.2.396: Levin. Cornelia. Chloris. Flavia. Cassander.  ==> enter NLP
+tg818.2.452: Sulpicius. Fabricius. Cornelia. Chloris. Levin. Flavia. Cassander.  ==> enter NLP
+tg818.2.484: Die Personen kommen alle in Sulpicen Gemach.  ==> other nltk
+tg818.2.541: Er schmeist die Citronat hinweg.  ==> other nltk
+tg819.2.2: Matz Aschenwedel / Lise Dornrose / Gregor Kornblume.  ==> enter NLP
+tg819.2.45: Aschewedel fasset Dornrosen mit Gewalt und wil mit ihr nach dem Pusche lauffen / sie wehret sich mit reissen und schlagen und ruffet überlaut.  ==> other nltk
+tg819.2.56: Kornblume laufft hinzu und schlägt auff Aschewedeln.  ==> other nltk
+tg820.2.4: Sulpicius. Fabricius.  ==> enter NLP
+tg820.2.74: Cassander. Fabricius.  ==> enter NLP
+tg820.2.120: Levin. Cornelia. Chloris. Cassander.  ==> enter NLP
+tg820.2.121: Vor der Cornelie Behausung.  ==> enter NLP
+tg820.2.214: Sulpicius. Fabricius.  ==> enter NLP
+tg820.2.215: Jn Sulpiciuss Behausung.  ==> enter NLP
+tg820.2.234: Cornelia. Chloris. Flavia.  ==> enter NLP
+tg820.2.235: Jn dem Lust-Garten.  ==> enter NLP
+tg820.2.270: Chloris allein.  ==> aside nltk
+tg820.2.309: Sulpicius in Gestalt des Geistes.  ==> enter NLP
+tg820.2.382: Sulpicius verschwindet.  ==> other nltk
+tg820.2.394: Flavia. Sulpicius.  ==> enter NLP
+tg820.2.395: Vor Cornelie Behausung.  ==> enter NLP
+tg820.2.445: Fabricius. Sulpicii Bild auff dem Bette /  ==> enter NLP
+tg820.2.446: die andern alle.  ==> other nltk
+tg820.2.447: Jn Sulpicii Behausung.  ==> enter NLP
+tg820.2.448: Fabricius allein vor der falschen Leiche.  ==> other nltk
+tg820.2.473: Sie gehen wieder weg.  ==> other nltk
+tg820.2.487: Chloris. Cornelia. Cassander. Flavia. Levin.  ==> enter NLP
+tg820.2.488: Vor der Cornelia Behausung.  ==> enter NLP
+tg821.2.2: Greger Kornblume / und Fraw Salome.  ==> enter NLP
+tg821.2.27: Zu der Salome.  ==> enter NLP
+tg822.2.4: Cornelia. Levin. Chloris. Sulpicius.  ==> enter NLP
+tg822.2.5: Fabricius. Flavia. Cassander.  ==> enter NLP
+tg822.2.6: Jn Sulpiciuss Behausung.  ==> enter NLP
+tg823.2.2: Wilhelm von hohen Sinnen Arendator  ==> enter NLP
+tg823.2.3: des Gutts Vildünckel.  ==> enter NLP
+tg823.2.4: Vor ihm gehen Cuntz und Lorentz derer  ==> other nltk
+tg823.2.5: iedweder eine Hewgabel träget.  ==> other nltk
+tg823.2.16: Wilhelm. Ciliax Dorffschreiber. Cuntz und Lorentz.  ==> enter NLP
+tg823.2.46: Wilhelm. Cuntz. Lorentz. Jockel. Bartel. Kornblume.  ==> enter NLP
+tg823.2.47: Aschewedel. Dornrose. Fraw Salome.  ==> enter NLP
+tg823.2.119: Er stehet auff und gehet etliche mahl auff und nider.  ==> other nltk
+tg823.2.126: Er setzet sich wider und fähret fort.  ==> other nltk
+tg823.2.138: Beide stehen und sehen einander eine ziemliche weile betrübet an.  ==> other nltk
+tg823.2.185: Stehet auff und spricht in dem hingehen.  ==> other nltk
+tg823.2.189: Die andern treten alle hinter ihm hinein / biß auff Kornblumen / welcher die Zuseher folgends anredet.  ==> exit nltk
+tg823.2.193: Tantz der Geister.  ==> enter NLP
+tg823.2.194: Tantz der Liben.  ==> enter NLP
+tg824.2.5: Welche in dem Gesang-Spiel auffgezogen / und Reyen der Bauren / die in dem untergemischten Schertz-Spil erschienen.  ==> other nltk
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f

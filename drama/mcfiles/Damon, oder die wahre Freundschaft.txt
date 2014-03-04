@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {"id":"tg279.2.4","text":"Die Witwe. Lisette.","type":"enter","source":"NLP"}
 {"id":"tg280.2.4","text":"Lisette. Damon.","type":"enter","source":"NLP"}
 {"id":"tg282.2.4","text":"Lisette. Leander.","type":"enter","source":"NLP"}
@@ -5,3 +6,12 @@
 {"id":"tg285.2.4","text":"Oronte. Damon.","type":"enter","source":"NLP"}
 {"id":"tg287.2.4","text":"Lisette. Damon.","type":"enter","source":"NLP"}
 {"id":"tg288.2.4","text":"Oronte. Die Witwe. Leander. Damon. Lisette.","type":"enter","source":"NLP"}
+=======
+tg279.2.4: Die Witwe. Lisette.  ==> enter NLP
+tg280.2.4: Lisette. Damon.  ==> enter NLP
+tg282.2.4: Lisette. Leander.  ==> enter NLP
+tg283.2.4: Leander. Damon.  ==> enter NLP
+tg285.2.4: Oronte. Damon.  ==> enter NLP
+tg287.2.4: Lisette. Damon.  ==> enter NLP
+tg288.2.4: Oronte. Die Witwe. Leander. Damon. Lisette.  ==> enter NLP
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f

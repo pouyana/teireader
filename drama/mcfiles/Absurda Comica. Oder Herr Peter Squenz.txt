@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {"id":"tg769.2.4","text":"Peter Squentz, Pickelhäring, meister Kricks-über-und-über, meister Bulla-Butän, meister Klipperling, meister Lollinger, meister Klotz-George.","type":"enter","source":"NLP"}
 {"id":"tg769.2.116.1","text":"Die andern nehmen alle mit allerhand cerimonien von einander ihren abschied; Pickelhäring aber und Peter Squentz nöthigen einander voranzugehen; so bald aber Squentz voran treten wil, zeucht ihn Pickelhäring zurück, und laufft selbst voran.","type":"other","source":"nltk"}
 {"id":"tg770.2.4","text":"Theodorus. Cassandra. Violandra. Serenus. Eubulus. Peter Squentz.","type":"enter","source":"NLP"}
@@ -36,3 +37,40 @@
 {"id":"tg771.2.648.1","text":"spricht.","type":"other","source":"nltk"}
 {"id":"tg771.2.657.1","text":"Der mond und brunnen gehen stille davon, Piramus stehet auf, Thisbe springet ihm auf die achseln, Piramus trägt sie mit hinweg.","type":"other","source":"nltk"}
 {"id":"tg771.2.728.1","text":"Er schreibet mit kreide auf die bühne, hernach fanget er an.","type":"other","source":"nltk"}
+=======
+tg769.2.4: Peter Squentz, Pickelhäring, meister Kricks-über-und-über, meister Bulla-Butän, meister Klipperling, meister Lollinger, meister Klotz-George.  ==> enter NLP
+tg769.2.116: Die andern nehmen alle mit allerhand cerimonien von einander ihren abschied; Pickelhäring aber und Peter Squentz nöthigen einander voranzugehen; so bald aber Squentz voran treten wil, zeucht ihn Pickelhäring zurück, und laufft selbst voran.  ==> other nltk
+tg770.2.4: Theodorus. Cassandra. Violandra. Serenus. Eubulus. Peter Squentz.  ==> enter NLP
+tg771.2.4: Die personen alle.  ==> other nltk
+tg771.2.17: Peter Squentz beginnet nach gethaner altfränckischen ehrerbietung sein traurig lust-spiel.  ==> other nltk
+tg771.2.36: Hierauf verstummt er und kratzt sich im kopff.  ==> other nltk
+tg771.2.41: Er suchet eine lange weile den zettel; als er ihn zuletzt in dem lincken ermel funden, da setzt er die prille auf und siehet auffs papier, darnach fähret er fort.  ==> other nltk
+tg771.2.127: Peter Squentz setzet sich auf einen schemmel, nimt die prülle, setzet sie   ==> other nltk
+tg771.2.159: Piramus gehet etliche mahl stillschweigend auf und nieder, endlich fraget er Peter Squentzen.  ==> other nltk
+tg771.2.199: Pickelhäring schläget Bullabutän an den hals, Bullabutän schläget ihm hergegen die wand um den kopff, sie kriegen einander bey den haaren und zerren sich hurtig auff dem schauplatz herumb, worüber die wand schier gantz in stücken gehet. Peter Squentz suchet sie zu scheiden.  ==> other nltk
+tg771.2.203: Bullabutän tritt mit der zerrissenen wand wieder an seinen ort.  ==> other nltk
+tg771.2.318: Thisbe gehet wieder zurücke und spricht.  ==> other nltk
+tg771.2.326: Thisbe kommt noch einmal zurücke.  ==> enter nltk
+tg771.2.333: Thisbe kehret wiederum.  ==> other nltk
+tg771.2.344: Eine person siehet eine ziemliche weile durch das loch nach der andern, biss sich Piramus zum ersten verleuret.  ==> other nltk
+tg771.2.357: Bullabutän trit ab, meister Kricks kommt gegangen.  ==> enter nltk
+tg771.2.392: Meister Lollinger brunn, fängt an zu singen.  ==> other nltk
+tg771.2.433: Monstrat manus.  ==> enter NLP
+tg771.2.439: Monstrat praecinctorium.  ==> other nltk
+tg771.2.470: Der löwe fänget an zu mauen wie eine katze.  ==> other nltk
+tg771.2.485: Thisbe entlaufft, der löwe stehet auff, nimmt die grüne decke gleich einem mantel um die achsel und die schaube in die band und tritt neben den monden.  ==> other nltk
+tg771.2.494: Der mond schlägt dem löwen die laterne um den kopff, der löwe erwischet den monden bey den haaren. In diesem getümmel werffen sie den brunnen um und zerbrechen ihm den krug. Der brunn schläget beyden die schärben um die ohren. Peter Squentz wil friede machen, wird aber Tod allen dreyen darnieder gerissen und bekommt sein theil schläge auch darvon.  ==> other nltk
+tg771.2.547: Er laufft und fällt über seinen degen.  ==> other nltk
+tg771.2.556: Er zeucht den degen aus, wendet sich gegen den zusehern und spricht.  ==> other nltk
+tg771.2.566: Er ziehlet eine lange weile mit dem degen, hernach wendet er sich zu den zuhörern und spricht.  ==> other nltk
+tg771.2.570: Hernach macht er das wambst auf, setzet den knopff an die brust, die spitze an die bühne, fällt nieder, stehet hernach wieder auf, laufft um das gantze   ==> other nltk
+tg771.2.571: theatrum herum und fanget an.  ==> other nltk
+tg771.2.580: Er fället wieder nieder, heulet eine lange weile, verkehret die äugen im kopffe und schweiget endlich; der monden leschet sein licht aus.  ==> other nltk
+tg771.2.595: Sie fället über Piramum, steht auf und besiehet ihn.  ==> other nltk
+tg771.2.604: Sie küsset ihn, Piramus schnappet nach ihr mit dem maul.  ==> other nltk
+tg771.2.617: Sie greifft unter die armen. Ridet.  ==> other nltk
+tg771.2.647: Sie sticht sich mit dem degen unter den rock, wirfft hernach den degen weg und fällt auf Piramum,   ==> other nltk
+tg771.2.648: spricht.  ==> other nltk
+tg771.2.657: Der mond und brunnen gehen stille davon, Piramus stehet auf, Thisbe springet ihm auf die achseln, Piramus trägt sie mit hinweg.  ==> other nltk
+tg771.2.728: Er schreibet mit kreide auf die bühne, hernach fanget er an.  ==> other nltk
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f

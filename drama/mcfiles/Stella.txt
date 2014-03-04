@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {"id":"tg1145.2.4","text":"Im Posthause.","type":"other","source":"nltk"}
 {"id":"tg1145.2.5","text":"Man hört einen Postillion blasen. Postmeisterin.","type":"other","source":"nltk"}
 {"id":"tg1145.2.9.1","text":"Der Junge kommt.","type":"enter","source":"nltk"}
@@ -154,3 +155,43 @@
 {"id":"tg1149.2.68.1.part1","text":"beide umarmend.","type":"other","source":"nltk"}
 {"id":"tg1149.2.69.1.part1","text":"seine Hand fassend, an ihm hangend.","type":"other","source":"nltk"}
 {"id":"tg1149.2.70.1.part1","text":"seine Hand fassend, an seinem Hals.","type":"other","source":"nltk"}
+=======
+tg1145.2.4: Im Posthause.  ==> enter NLP
+tg1145.2.5: Man hört einen Postillion blasen. Postmeisterin.  ==> other nltk
+tg1145.2.9: Der Junge kommt.  ==> enter nltk
+tg1145.2.14: Madame Sommer, Lucie, in Reisekleidern. Karl.  ==> enter NLP
+tg1145.2.30: Postillion tritt herein.  ==> enter nltk
+tg1145.2.57: Annchen, mit der Suppe. Die Postmeisterin. Karl.  ==> enter NLP
+tg1145.2.95: Annchen kommt.  ==> enter nltk
+tg1145.2.111: Beide ab.  ==> exit nltk
+tg1145.2.112: Man hört einen Postillion.  ==> other nltk
+tg1145.2.113: Fernando, in Offizierstracht. Ein Bedienter.  ==> enter NLP
+tg1145.2.121: Postmeisterin kommt.  ==> enter nltk
+tg1145.2.139: Lucie, Annchen kommen.  ==> other nltk
+tg1145.2.149: Fernando kommt.  ==> enter nltk
+tg1145.2.158: Lucie kommt.  ==> enter nltk
+tg1146.2.4: Stella. Ein Bedienter.  ==> enter NLP
+tg1146.2.12: Madame Sommer, Lucie kommen.  ==> other nltk
+tg1146.2.62: Bedienter kommt.  ==> enter nltk
+tg1146.2.81: Fernando, Bedienter kommen.  ==> other nltk
+tg1146.2.85: Fernando vorbei, über sie hinsehend.  ==> other nltk
+tg1147.2.4: Stella in aller Freude hineintretend mit Fernando.  ==> enter NLP
+tg1147.2.39: Bedienter kommt.  ==> enter nltk
+tg1147.2.56: Der Verwalter kommt.  ==> enter nltk
+tg1147.2.87: Bedienter kommt.  ==> enter nltk
+tg1147.2.93: Madame Sommer tritt auf.  ==> enter nltk
+tg1147.2.105: Fernando kommt zurück.  ==> enter nltk
+tg1147.2.138: Lucie tritt auf.  ==> enter nltk
+tg1148.2.4: Einsiedelei in Stellas Garten.  ==> enter NLP
+tg1148.2.5: Stella allein.  ==> aside nltk
+tg1148.2.30: Annchen kommt.  ==> enter nltk
+tg1148.2.57: Cäcilie, Lucie kommen.  ==> other nltk
+tg1148.2.61: Sie bemühen sich um sie.  ==> other nltk
+tg1149.2.4: Stellas Kabinett. Im Mondenschein.  ==> enter NLP
+tg1149.2.5: Stella. Sie hat Fernandos Porträt und ist im Begriff, es von dem Blendrahmen loszumachen.  ==> other nltk
+tg1149.2.9: Bedienter kommt.  ==> enter nltk
+tg1149.2.16: Saal.  ==> enter NLP
+tg1149.2.17: Fernando.  ==> enter NLP
+tg1149.2.21: Cäcilie kommt.  ==> enter nltk
+tg1149.2.56: Er fällt wieder zusammen.  ==> other nltk
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f

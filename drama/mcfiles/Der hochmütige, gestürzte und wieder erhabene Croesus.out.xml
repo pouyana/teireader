@@ -213,7 +213,11 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg8.2.23" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg8.2.24.1">Winckt / da&#223; sie sich aufrichten sollen / und wendet sich zu Solon.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg8.2.24.1">Winckt / da&#223; sie sich aufrichten sollen / und wendet sich zu Solon.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg8.2.25" />
                                     <ns0:lg>
@@ -299,7 +303,11 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg8.2.67" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg8.2.68.1">Die Th&#252;ren der Schatzkammer werden auffgethan.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg8.2.68.1">Die Th&#252;ren der Schatzkammer werden auffgethan.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg8.2.69" />
                                     <ns0:lg>
@@ -308,7 +316,11 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg8.2.72" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg8.2.73.1">Solon siehet nur ein wenig hin / und wendet sich alsobald wieder um.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg8.2.73.1">Solon siehet nur ein wenig hin / und wendet sich alsobald wieder um.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg8.2.74" />
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg8.2.75">Schau an!</ns0:l>
@@ -334,7 +346,11 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg8.2.88" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg8.2.89.1">Aria.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg8.2.89.1">Aria.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg8.2.90" />
                                     <ns0:lg>
@@ -347,11 +363,19 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg8.2.97" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg8.2.98.1">Gehet ab.</ns0:stage>
                                     
                                     
                                     
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg8.2.100.1">Cr&#339;sus vom Thron absteigend.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg8.2.98.1">Gehet ab.</ns0:stage>
+                                    
+                                    
+                                    
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg8.2.100.1">Cr&#339;sus vom Thron absteigend.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg8.2.101" />
                                  </ns0:sp>
@@ -363,7 +387,11 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg8.2.105" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg8.2.106.1">Aria.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg8.2.106.1">Aria.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg8.2.107" />
                                     <ns0:lg>
@@ -392,7 +420,11 @@
 
                                  
                                  
+<<<<<<< HEAD
                                  <ns0:stage rend="zenoPC" type="other" xml:id="tg9.2.4">
+=======
+                                 <ns0:stage rend="zenoPC" type="enter" xml:id="tg9.2.4">
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     <ns0:hi rend="italic" xml:id="tg9.2.4.1">K&#246;niglicher Garten.</ns0:hi>
                                  </ns0:stage>
                                  
@@ -441,7 +473,11 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg9.2.34" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg9.2.35.1">Aria.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg9.2.35.1">Aria.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg9.2.36" />
                                  </ns0:sp>
@@ -457,7 +493,11 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg9.2.44" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg9.2.45.1">Aria.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg9.2.45.1">Aria.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg9.2.46" />
                                  </ns0:sp>
@@ -551,7 +591,11 @@
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg10.2.30">(Es ist mit mir bey einem nie geblieben.)</ns0:l>
                                     <ns0:lb xml:id="tg10.2.31" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg10.2.32.1">Gehet ab.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg10.2.32.1">Gehet ab.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg10.2.33" />
 
@@ -572,7 +616,11 @@
 
                                  
                                  
+<<<<<<< HEAD
                                  <ns0:stage rend="zenoPC" type="other" xml:id="tg11.2.4">
+=======
+                                 <ns0:stage rend="zenoPC" type="enter" xml:id="tg11.2.4">
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     <ns0:hi rend="italic" xml:id="tg11.2.4.1">Halimacus von ferne / Orsanes, Elmira.</ns0:hi>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg11.2.5" />
@@ -646,11 +694,19 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg11.2.41" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg11.2.42.1">Gehet ab.</ns0:stage>
                                     
                                     
                                     
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg11.2.44.1">Halimacus tritt hervor.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg11.2.42.1">Gehet ab.</ns0:stage>
+                                    
+                                    
+                                    
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg11.2.44.1">Halimacus tritt hervor.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg11.2.45" />
                                  </ns0:sp>
@@ -672,7 +728,11 @@
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg11.2.54">Die Treu und Tugend ist f&#252;r sich gnugsamer Lohn.</ns0:l>
                                     <ns0:lb xml:id="tg11.2.55" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg11.2.56.1">Aria.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg11.2.56.1">Aria.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg11.2.57" />
                                  </ns0:sp>
@@ -717,7 +777,11 @@
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg12.2.9">Printz Atis k&#246;mmt!</ns0:l>
                                     <ns0:lb xml:id="tg12.2.10" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg12.2.11.1">Aria.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg12.2.11.1">Aria.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg12.2.12" />
                                  </ns0:sp>
@@ -734,7 +798,11 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg12.2.21" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg12.2.22.1">Atis zeiget durch Geb&#228;rden / da&#223; ihm Halimacus beunruhiget f&#252;r komme.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg12.2.22.1">Atis zeiget durch Geb&#228;rden / da&#223; ihm Halimacus beunruhiget f&#252;r komme.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg12.2.23" />
                                  </ns0:sp>
@@ -746,7 +814,11 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg12.2.27" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg12.2.28.1">Atis zeiget / da&#223; er die Ursache wissen wolle.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg12.2.28.1">Atis zeiget / da&#223; er die Ursache wissen wolle.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg12.2.29" />
                                  </ns0:sp>
@@ -770,7 +842,11 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg12.2.45" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg12.2.46.1">Atis antwortet mit freundlichen Geb&#228;rden / worauff Halimacus abtritt.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg12.2.46.1">Atis antwortet mit freundlichen Geb&#228;rden / worauff Halimacus abtritt.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg12.2.47" />
 
@@ -809,11 +885,19 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg13.2.13" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg13.2.14.1">Atis giebet Zeichen einer br&#252;nstigen Liebe.</ns0:stage>
                                     
                                     
                                     
                                        <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg13.2.16.1">Aria.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg13.2.14.1">Atis giebet Zeichen einer br&#252;nstigen Liebe.</ns0:stage>
+                                    
+                                    
+                                    
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg13.2.16.1">Aria.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg13.2.17" />
                                  </ns0:sp>
@@ -826,19 +910,31 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg13.2.22" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg13.2.23.1">Atis wincket: Ja.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg13.2.23.1">Atis wincket: Ja.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg13.2.24" />
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg13.2.25">Liebst auch kein' andre?</ns0:l>
                                     <ns0:lb xml:id="tg13.2.26" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg13.2.27.1">Atis wincket: Nein.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg13.2.27.1">Atis wincket: Nein.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg13.2.28" />
                                     
                                     
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg13.2.31.1">2.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg13.2.31.1">2.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg13.2.32" />
                                     <ns0:lg>
@@ -848,17 +944,29 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg13.2.36" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg13.2.37.1">Atis wincket: Ja.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg13.2.37.1">Atis wincket: Ja.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg13.2.38" />
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg13.2.39">Und sonst kein' andre?</ns0:l>
                                     <ns0:lb xml:id="tg13.2.40" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg13.2.41.1">Atis wincket: Nein.</ns0:stage>
                                     
                                     
                                     
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg13.2.43.1">Folgends wendet er sich zu Nerill, und deutet auff Elmira.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg13.2.41.1">Atis wincket: Nein.</ns0:stage>
+                                    
+                                    
+                                    
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg13.2.43.1">Folgends wendet er sich zu Nerill, und deutet auff Elmira.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg13.2.44" />
                                  </ns0:sp>
@@ -875,7 +983,11 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg13.2.51" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg13.2.52.1">Atis macht unterschiedliche Bewegungen auf die Masse folgender Aria, welche indessen gespielet wird.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg13.2.52.1">Atis macht unterschiedliche Bewegungen auf die Masse folgender Aria, welche indessen gespielet wird.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg13.2.53" />
                                  </ns0:sp>
@@ -888,7 +1000,11 @@
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg13.2.57">So ist es zu verstehn.</ns0:l>
                                     <ns0:lb xml:id="tg13.2.58" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg13.2.59.1">Aria.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg13.2.59.1">Aria.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg13.2.60" />
                                     <ns0:lg>
@@ -903,7 +1019,11 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg13.2.69" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg13.2.70.1">Atis bekr&#228;fftiget dieses mit Geb&#228;rden.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg13.2.70.1">Atis bekr&#228;fftiget dieses mit Geb&#228;rden.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg13.2.71" />
                                  </ns0:sp>
@@ -945,7 +1065,11 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg14.2.9" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg14.2.10.1">Atis zeiget / da&#223; er scheiden m&#252;sse.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg14.2.10.1">Atis zeiget / da&#223; er scheiden m&#252;sse.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg14.2.11" />
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg14.2.12">Aria.</ns0:l>
@@ -959,7 +1083,11 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg14.2.17" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg14.2.18.1">Atis antwortet mit Geb&#228;rden.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg14.2.18.1">Atis antwortet mit Geb&#228;rden.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg14.2.19" />
                                  </ns0:sp>
@@ -976,7 +1104,11 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg14.2.26" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg14.2.27.1">Atis antwortet mit Geb&#228;rden.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg14.2.27.1">Atis antwortet mit Geb&#228;rden.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg14.2.28" />
                                  </ns0:sp>
@@ -985,13 +1117,21 @@
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg14.2.30">Nein / Nein / sagt er / nimmermehr.</ns0:l>
                                     <ns0:lb xml:id="tg14.2.31" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg14.2.32.1">Atis und Elmira gehen ab. Elcius erhascht Nerill, und h&#228;lt ihn / da&#223; er folgenden Satz mit ihm singe.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg14.2.32.1">Atis und Elmira gehen ab. Elcius erhascht Nerill, und h&#228;lt ihn / da&#223; er folgenden Satz mit ihm singe.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg14.2.33" />
                                     
                                     
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg14.2.36.1">2.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg14.2.36.1">2.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg14.2.37" />
                                  </ns0:sp>
@@ -1020,7 +1160,11 @@
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg14.2.49">Ja / Ja / sagt er / noch vielmehr.</ns0:l>
                                     <ns0:lb xml:id="tg14.2.50" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg14.2.51.1">Nerill entlaufft.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg14.2.51.1">Nerill entlaufft.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg14.2.52" />
                                     <ns0:lg>
@@ -1156,7 +1300,11 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg16.2.19" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg16.2.20.1">Aria.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg16.2.20.1">Aria.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg16.2.21" />
                                  </ns0:sp>
@@ -1301,7 +1449,11 @@
                                     
                                     
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg17.2.25.1">2.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg17.2.25.1">2.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg17.2.26" />
                                  </ns0:sp>
@@ -1404,7 +1556,11 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg18.2.25" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg18.2.26.1">Aria.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg18.2.26.1">Aria.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg18.2.27" />
                                     <ns0:lg>
@@ -1577,7 +1733,11 @@
                                     
                                     
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg20.2.38.1">Aria.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg20.2.38.1">Aria.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg20.2.39" />
                                     <ns0:lg>
@@ -1617,7 +1777,11 @@
 
                                  
                                  
+<<<<<<< HEAD
                                  <ns0:stage rend="zenoPC" type="other" xml:id="tg21.2.4">
+=======
+                                 <ns0:stage rend="zenoPC" type="enter" xml:id="tg21.2.4">
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     <ns0:hi rend="italic" xml:id="tg21.2.4.1">Orsanes in tieffen Gedancken; folgends Clerida.</ns0:hi>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg21.2.5" />
@@ -1649,7 +1813,11 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg21.2.26" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg21.2.27.1">Aria.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg21.2.27.1">Aria.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg21.2.28" />
                                     <ns0:lg>
@@ -1693,7 +1861,11 @@
                                  <ns0:sp>
                                     <ns0:speaker xml:id="tg22.2.2.part1">ELCIUS</ns0:speaker> 
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg22.2.2.1.part1">n&#228;rrisch gewaffnet / von vier Harlequins begleitet / die seiner spotten.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg22.2.2.1.part1">n&#228;rrisch gewaffnet / von vier Harlequins begleitet / die seiner spotten.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
 
                                     <ns0:lg>
@@ -1720,7 +1892,11 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg22.2.19" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg22.2.20.1">Aria.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg22.2.20.1">Aria.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg22.2.21" />
                                     <ns0:lg>
@@ -1741,7 +1917,11 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg22.2.36" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg22.2.37.1">Ballet von Harlequins.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg22.2.37.1">Ballet von Harlequins.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg22.2.38" />
 
@@ -1789,13 +1969,21 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg23.2.20" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg23.2.21.1">Rittornello, von Paucken und Trompeten.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg23.2.21.1">Rittornello, von Paucken und Trompeten.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg23.2.22" />
                                     
                                     
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg23.2.25.1">2.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg23.2.25.1">2.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg23.2.26" />
                                     <ns0:lg>
@@ -1811,7 +1999,11 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg23.2.36" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg23.2.37.1">Ritornello.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg23.2.37.1">Ritornello.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg23.2.38" />
                                  </ns0:sp>
@@ -1827,7 +2019,11 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg23.2.46" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg23.2.47.1">Die Trompeten und Trommeln lassen sich von beyden Seiten h&#246;ren.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg23.2.47.1">Die Trompeten und Trommeln lassen sich von beyden Seiten h&#246;ren.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg23.2.48" />
                                  </ns0:sp>
@@ -1843,13 +2039,21 @@
                                  <ns0:sp>
                                     <ns0:speaker xml:id="tg23.2.54.part1">CHOR</ns0:speaker> 
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg23.2.54.1.part1">bey der Arm&#233;en.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg23.2.54.1.part1">bey der Arm&#233;en.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
 
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg23.2.55">Zun Waffen / zum Streiten!</ns0:l>
                                     <ns0:lb xml:id="tg23.2.56" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg23.2.57.1">Darauff folget die Schlacht / worinnen zuletzt die Perser obsiegen / und die Lidier die Flucht nehmen. Ballet von Persischen Soldaten.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg23.2.57.1">Darauff folget die Schlacht / worinnen zuletzt die Perser obsiegen / und die Lidier die Flucht nehmen. Ballet von Persischen Soldaten.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg23.2.58" />
 
@@ -1870,7 +2074,11 @@
 
                                  
                                  
+<<<<<<< HEAD
                                  <ns0:stage rend="zenoPC" type="other" xml:id="tg24.2.4">
+=======
+                                 <ns0:stage rend="zenoPC" type="enter" xml:id="tg24.2.4">
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     <ns0:hi rend="italic" xml:id="tg24.2.4.1">Cr&#339;sus fl&#252;chtig ohne K&#246;nigliche Kleidung / ein Persischer Hauptmann / mit einigen Soldaten /folgends Atis und Halimacus.</ns0:hi>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg24.2.5" />
@@ -1911,7 +2119,11 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg24.2.24" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg24.2.25.1">F&#252;hren ihn gefangen hinweg.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg24.2.25.1">F&#252;hren ihn gefangen hinweg.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg24.2.26" />
                                  </ns0:sp>
@@ -1920,7 +2132,11 @@
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg24.2.28">Ach! ich erstick im Blut.</ns0:l>
                                     <ns0:lb xml:id="tg24.2.29" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg24.2.30.1">Wirfft h&#228;uffig Blut aus.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg24.2.30.1">Wirfft h&#228;uffig Blut aus.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg24.2.31" />
                                  </ns0:sp>
@@ -1999,7 +2215,11 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg25.2.21" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg25.2.22.1">Rittornello mit Trompeten und Paucken. Cr&#339;sus wird in Ketten herzugef&#252;hret.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg25.2.22.1">Rittornello mit Trompeten und Paucken. Cr&#339;sus wird in Ketten herzugef&#252;hret.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg25.2.23" />
                                  </ns0:sp>
@@ -2091,7 +2311,11 @@
                                  </ns0:sp>
                                  <ns0:sp>
                                     <ns0:speaker xml:id="tg25.2.71">CIRUS.</ns0:speaker>
+<<<<<<< HEAD
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg25.2.72">So jauchzet / <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg25.2.72.1">un supr. Aria.</ns0:stage>
+=======
+                                    <ns0:l rend="zenoPLm4n4" xml:id="tg25.2.72">So jauchzet / <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg25.2.72.1">un supr. Aria.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:l>
                                  </ns0:sp>
                               </ns0:div>
@@ -2119,7 +2343,11 @@
 
                                  
                                  
+<<<<<<< HEAD
                                  <ns0:stage rend="zenoPC" type="other" xml:id="tg27.2.4">
+=======
+                                 <ns0:stage rend="zenoPC" type="enter" xml:id="tg27.2.4">
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     <ns0:hi rend="italic" xml:id="tg27.2.4.1">Bauren H&#252;tten.</ns0:hi>
                                  </ns0:stage>
                                  
@@ -2173,7 +2401,11 @@
                                     </ns0:lg>
                                     
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg27.2.32.1">2.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg27.2.32.1">2.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg27.2.33" />
                                  </ns0:sp>
@@ -2188,7 +2420,11 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg27.2.39" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg27.2.40.1">Die Kinder wiederholen wie oben.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg27.2.40.1">Die Kinder wiederholen wie oben.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg27.2.41" />
                                  </ns0:sp>
@@ -2203,13 +2439,21 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg27.2.47" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg27.2.48.1">Die Kinder wiederholen.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg27.2.48.1">Die Kinder wiederholen.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg27.2.49" />
                                     
                                     
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg27.2.52.1">3.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg27.2.52.1">3.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg27.2.53" />
                                  </ns0:sp>
@@ -2225,7 +2469,11 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg27.2.59" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg27.2.60.1">Die Kinder wiederholen.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg27.2.60.1">Die Kinder wiederholen.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg27.2.61" />
                                     <ns0:lg>
@@ -2236,7 +2484,11 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg27.2.66" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg27.2.67.1">Die Kinder repetiren.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg27.2.67.1">Die Kinder repetiren.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg27.2.68" />
                                  </ns0:sp>
@@ -2306,7 +2558,11 @@
                                        <ns0:l rend="zenoPLm4n4" xml:id="tg28.2.21">Nach M&#252;glichkeit zusammen f&#252;hren;</ns0:l>
                                        <ns0:l rend="zenoPLm4n4" xml:id="tg28.2.22">Das meiste ist noch zu befahren</ns0:l>
                                        <ns0:l rend="zenoPLm4n4" xml:id="tg28.2.23">Von dem treulosen Hauffen /</ns0:l>
+<<<<<<< HEAD
                                        <ns0:l rend="zenoPLm4n4" xml:id="tg28.2.24">Die mit <ns0:hi rend="italic" xml:id="tg28.2.24.1">Orsan</ns0:hi> geneigt zum <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg28.2.24.2">Rebelliren.</ns0:stage>
+=======
+                                       <ns0:l rend="zenoPLm4n4" xml:id="tg28.2.24">Die mit <ns0:hi rend="italic" xml:id="tg28.2.24.1">Orsan</ns0:hi> geneigt zum <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg28.2.24.2">Rebelliren.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                        </ns0:l>
                                        <ns0:l rend="zenoPLm4n4" xml:id="tg28.2.25">Indessen halt' ich n&#252;tz zu seyn /</ns0:l>
                                        <ns0:l rend="zenoPLm4n4" xml:id="tg28.2.26">Damit der Auffruhr nicht durch deine Sprach erwache /</ns0:l>
@@ -2382,7 +2638,11 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg28.2.65" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg28.2.66.1">Wenden sich zu den Bauren / die erschrecken.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg28.2.66.1">Wenden sich zu den Bauren / die erschrecken.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg28.2.67" />
                                  </ns0:sp>
@@ -2409,7 +2669,11 @@
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg28.2.79">Wir thun / was uns geb&#252;hret.</ns0:l>
                                     <ns0:lb xml:id="tg28.2.80" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg28.2.81.1">Gehen mit den Alten in die Bauren-H&#252;tte.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg28.2.81.1">Gehen mit den Alten in die Bauren-H&#252;tte.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg28.2.82" />
 
@@ -2430,7 +2694,11 @@
 
                                  
                                  
+<<<<<<< HEAD
                                  <ns0:stage rend="zenoPC" type="other" xml:id="tg29.2.4">
+=======
+                                 <ns0:stage rend="zenoPC" type="enter" xml:id="tg29.2.4">
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     <ns0:hi rend="italic" xml:id="tg29.2.4.1">Elcius in po&#223;ierlicher Persischer Kleidung. Bauren-Kinder.</ns0:hi>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg29.2.5" />
@@ -2467,7 +2735,11 @@
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg29.2.30">Thut das / ich h&#246;re zu.</ns0:l>
                                     <ns0:lb xml:id="tg29.2.31" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg29.2.32.1">Aria.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg29.2.32.1">Aria.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg29.2.33" />
                                     <ns0:lg>
@@ -2490,7 +2762,11 @@
                                     </ns0:lg>
                                     
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg29.2.47.1">2.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg29.2.47.1">2.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg29.2.48" />
                                     <ns0:lg>
@@ -2513,7 +2789,11 @@
                                     </ns0:lg>
                                     
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg29.2.62.1">3.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg29.2.62.1">3.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg29.2.63" />
                                     <ns0:lg>
@@ -2535,7 +2815,11 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg29.2.75" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg29.2.76.1">Elcius singet zuletzt mit / und tantzet.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg29.2.76.1">Elcius singet zuletzt mit / und tantzet.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg29.2.77" />
                                  </ns0:sp>
@@ -2553,7 +2837,11 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg29.2.87" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg29.2.88.1">Ballet von alten und jungen Bauren und B&#228;uerinnen.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg29.2.88.1">Ballet von alten und jungen Bauren und B&#228;uerinnen.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg29.2.89" />
                                  </ns0:sp>
@@ -2573,7 +2861,11 @@
 
                                  
                                  
+<<<<<<< HEAD
                                  <ns0:stage rend="zenoPC" type="other" xml:id="tg30.2.4">
+=======
+                                 <ns0:stage rend="zenoPC" type="enter" xml:id="tg30.2.4">
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     <ns0:hi rend="italic" xml:id="tg30.2.4.1">K&#246;niglicher Vorhoff / mit einem Fisch-Teiche.</ns0:hi>
                                  </ns0:stage>
                                  
@@ -2618,7 +2910,11 @@
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg30.2.25">Freundliche Liebe / wie freustu mein Hertz.</ns0:l>
                                     <ns0:lb xml:id="tg30.2.26" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg30.2.27.1">Elmira setzet sich zu fischen / mit einem Angel.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg30.2.27.1">Elmira setzet sich zu fischen / mit einem Angel.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg30.2.28" />
 
@@ -2657,11 +2953,19 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg31.2.12" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg31.2.13.1">Wendet sich zu Elmira.</ns0:stage>
                                     
                                     
                                     
                                        <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg31.2.15.1">Aria.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg31.2.13.1">Wendet sich zu Elmira.</ns0:stage>
+                                    
+                                    
+                                    
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg31.2.15.1">Aria.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg31.2.16" />
                                     <ns0:lg>
@@ -2679,7 +2983,11 @@
                                  </ns0:sp>
                                  <ns0:sp>
                                     <ns0:speaker xml:id="tg31.2.25">CLERIDA.</ns0:speaker>
+<<<<<<< HEAD
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg31.2.26">Nimm <ns0:hi rend="italic" xml:id="tg31.2.26.1">Clerida,</ns0:hi> und la&#223; <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg31.2.26.2">Elmir.</ns0:stage>
+=======
+                                    <ns0:l rend="zenoPLm4n4" xml:id="tg31.2.26">Nimm <ns0:hi rend="italic" xml:id="tg31.2.26.1">Clerida,</ns0:hi> und la&#223; <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg31.2.26.2">Elmir.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:l>
                                  </ns0:sp>
                                  <ns0:sp>
@@ -2687,11 +2995,19 @@
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg31.2.28">Ich rede nicht mit dir.</ns0:l>
                                     <ns0:lb xml:id="tg31.2.29" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg31.2.30.1">Elmira f&#228;hret fort im Fischen / sich stellend / ob h&#246;re sie Orsanes nicht.</ns0:stage>
                                     
                                     
                                     
                                        <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg31.2.32.1">Aria.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg31.2.30.1">Elmira f&#228;hret fort im Fischen / sich stellend / ob h&#246;re sie Orsanes nicht.</ns0:stage>
+                                    
+                                    
+                                    
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg31.2.32.1">Aria.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg31.2.33" />
                                  </ns0:sp>
@@ -2708,7 +3024,11 @@
                                     </ns0:lg>
                                     
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg31.2.43.1">2.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg31.2.43.1">2.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg31.2.44" />
                                     <ns0:lg>
@@ -2761,11 +3081,19 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg31.2.71" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg31.2.72.1">Orsanes und Elmira treten ab.</ns0:stage>
                                     
                                     
                                     
                                        <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg31.2.74.1">Aria.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg31.2.72.1">Orsanes und Elmira treten ab.</ns0:stage>
+                                    
+                                    
+                                    
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg31.2.74.1">Aria.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg31.2.75" />
                                  </ns0:sp>
@@ -2782,7 +3110,11 @@
                                     </ns0:lg>
                                     
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg31.2.85.1">2.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg31.2.85.1">2.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg31.2.86" />
                                     <ns0:lg>
@@ -2811,7 +3143,11 @@
 
                                  
                                  
+<<<<<<< HEAD
                                  <ns0:stage rend="zenoPC" type="other" xml:id="tg32.2.4">
+=======
+                                 <ns0:stage rend="zenoPC" type="enter" xml:id="tg32.2.4">
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     <ns0:hi rend="italic" xml:id="tg32.2.4.1">K&#246;nigliche Zimmer.</ns0:hi>
                                  </ns0:stage>
                                  
@@ -2831,7 +3167,11 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg32.2.15" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg32.2.16.1">Aria.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg32.2.16.1">Aria.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg32.2.17" />
                                     <ns0:lg>
@@ -2850,7 +3190,11 @@
                                        
                                     </ns0:lg>
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg32.2.30.1">2.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg32.2.30.1">2.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg32.2.31" />
                                  </ns0:sp>
@@ -2874,7 +3218,11 @@
                                  <ns0:sp>
                                     <ns0:speaker xml:id="tg32.2.43.part1">CHOR</ns0:speaker> 
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg32.2.43.1.part1">von innen.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg32.2.43.1.part1">von innen.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
 
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg32.2.44">Waffen / H&#252;lffe / H&#252;lffe / Waffen!</ns0:l>
@@ -2892,7 +3240,11 @@
                                  <ns0:sp>
                                     <ns0:speaker xml:id="tg32.2.51.part1">CHOR</ns0:speaker> 
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg32.2.51.1.part1">von innen.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg32.2.51.1.part1">von innen.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
 
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg32.2.52">Waffen / H&#252;lffe / H&#252;lffe / Waffen!</ns0:l>
@@ -2958,7 +3310,11 @@
                                  <ns0:sp>
                                     <ns0:speaker xml:id="tg33.2.26.part1">CHOR</ns0:speaker> 
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg33.2.26.1.part1">von innen.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg33.2.26.1.part1">von innen.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
 
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg33.2.27">Waffen / H&#252;lffe / H&#252;lffe / Waffen!</ns0:l>
@@ -3066,7 +3422,11 @@
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg34.2.21">Geh! la&#223; ihn kommen.</ns0:l>
                                     <ns0:lb xml:id="tg34.2.22" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg34.2.23.1">Aria.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg34.2.23.1">Aria.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg34.2.24" />
                                     <ns0:lg>
@@ -3096,7 +3456,11 @@
 
                                  
                                  
+<<<<<<< HEAD
                                  <ns0:stage rend="zenoPC" type="other" xml:id="tg35.2.4">
+=======
+                                 <ns0:stage rend="zenoPC" type="enter" xml:id="tg35.2.4">
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     <ns0:hi rend="italic" xml:id="tg35.2.4.1">Halimacus, Atis, in Bauren-Kleidung / Elmira, Trigesta.</ns0:hi>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg35.2.5" />
@@ -3116,7 +3480,11 @@
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg35.2.12">(Nun ist mein Wunsch erf&#252;llt.)</ns0:l>
                                     <ns0:lb xml:id="tg35.2.13" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg35.2.14.1">Heimlich.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg35.2.14.1">Heimlich.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg35.2.15" />
                                  </ns0:sp>
@@ -3147,7 +3515,11 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg35.2.29" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg35.2.30.1">Gehet ab.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg35.2.30.1">Gehet ab.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg35.2.31" />
                                  </ns0:sp>
@@ -3267,11 +3639,19 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg35.2.89" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg35.2.90.1">Elmira, Trigesta treten ab.</ns0:stage>
                                     
                                     
                                     
                                        <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg35.2.92.1">Aria.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg35.2.90.1">Elmira, Trigesta treten ab.</ns0:stage>
+                                    
+                                    
+                                    
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg35.2.92.1">Aria.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg35.2.93" />
                                  </ns0:sp>
@@ -3315,7 +3695,11 @@
                                     <ns0:speaker xml:id="tg36.2.8">ELIATES.</ns0:speaker>
                                     <ns0:lg>
                                        <ns0:l rend="zenoPLm4n4" xml:id="tg36.2.9">
+<<<<<<< HEAD
                                           <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg36.2.9.1">Atis.</ns0:stage>
+=======
+                                          <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg36.2.9.1">Atis.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                        </ns0:l>
                                        <ns0:l xml:id="tg36.2.10">ELIATES, OLISIUS, ORSANES.</ns0:l>
                                        <ns0:l rend="zenoPLm4n4" xml:id="tg36.2.11">Herr!</ns0:l>
@@ -3341,7 +3725,11 @@
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg36.2.20">So kriegt ihr Liebes-Feuer neue Kohlen.</ns0:l>
                                     <ns0:lb xml:id="tg36.2.21" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg36.2.22.1">Heimlich.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg36.2.22.1">Heimlich.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg36.2.23" />
                                  </ns0:sp>
@@ -3473,7 +3861,11 @@
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg36.2.83">Ihr G&#246;tter / lasset es gelingen!</ns0:l>
                                     <ns0:lb xml:id="tg36.2.84" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg36.2.85.1">Treten ab.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg36.2.85.1">Treten ab.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg36.2.86" />
 
@@ -3515,7 +3907,11 @@
                                     </ns0:lg>
                                     
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg37.2.17.1">2.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg37.2.17.1">2.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg37.2.18" />
                                     <ns0:lg>
@@ -3528,7 +3924,11 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg37.2.25" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg37.2.26.1">Atis kommt.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg37.2.26.1">Atis kommt.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg37.2.27" />
                                  </ns0:sp>
@@ -3589,7 +3989,11 @@
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg37.2.53">Wohl dir / da&#223; ich es so verstehen kan!</ns0:l>
                                     <ns0:lb xml:id="tg37.2.54" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg37.2.55.1">Aria.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg37.2.55.1">Aria.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg37.2.56" />
                                  </ns0:sp>
@@ -3629,7 +4033,11 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg37.2.78" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg37.2.79.1">Tritt ab.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg37.2.79.1">Tritt ab.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg37.2.80" />
                                  </ns0:sp>
@@ -3678,7 +4086,11 @@
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg38.2.14">So find' ich / was ich wolte /</ns0:l>
                                     <ns0:lb xml:id="tg38.2.15" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg38.2.16.1">Heimlich.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg38.2.16.1">Heimlich.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg38.2.17" />
                                  </ns0:sp>
@@ -3709,7 +4121,11 @@
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg38.2.29">Verr&#228;ther / welche T&#252;cke /</ns0:l>
                                     <ns0:lb xml:id="tg38.2.30" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg38.2.31.1">Heimlich.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg38.2.31.1">Heimlich.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg38.2.32" />
                                  </ns0:sp>
@@ -3801,7 +4217,11 @@
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg38.2.83">Verfluchter B&#246;sewicht / du forderst dein Verderben.</ns0:l>
                                     <ns0:lb xml:id="tg38.2.84" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg38.2.85.1">Heimlich.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg38.2.85.1">Heimlich.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg38.2.86" />
                                  </ns0:sp>
@@ -3837,7 +4257,11 @@
 
                                  
                                  
+<<<<<<< HEAD
                                  <ns0:stage rend="zenoPC" type="other" xml:id="tg39.2.4">
+=======
+                                 <ns0:stage rend="zenoPC" type="enter" xml:id="tg39.2.4">
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     <ns0:hi rend="italic" xml:id="tg39.2.4.1">Persisches Lager.</ns0:hi>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg39.2.5" />
@@ -3958,7 +4382,11 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg40.2.15" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg40.2.16.1">Nahet sich zu Cirus.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg40.2.16.1">Nahet sich zu Cirus.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg40.2.17" />
                                  </ns0:sp>
@@ -4016,7 +4444,11 @@
                                     <ns0:speaker xml:id="tg40.2.44">HAUPTMANN.</ns0:speaker>
                                     <ns0:lg>
                                        <ns0:l rend="zenoPLm4n4" xml:id="tg40.2.45">Es hat der Feind Gesandten abgeschickt /</ns0:l>
+<<<<<<< HEAD
                                        <ns0:l rend="zenoPLm4n4" xml:id="tg40.2.46">Die suchen <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg40.2.46.1">Audientz.</ns0:stage>
+=======
+                                       <ns0:l rend="zenoPLm4n4" xml:id="tg40.2.46">Die suchen <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg40.2.46.1">Audientz.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                        </ns0:l>
                                     </ns0:lg>
                                  </ns0:sp>
@@ -4032,7 +4464,11 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg40.2.52" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg40.2.53.1">Cr&#339;sus wird abgef&#252;hret.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg40.2.53.1">Cr&#339;sus wird abgef&#252;hret.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg40.2.54" />
 
@@ -4053,7 +4489,11 @@
 
                                  
                                  
+<<<<<<< HEAD
                                  <ns0:stage rend="zenoPC" type="other" xml:id="tg41.2.4">
+=======
+                                 <ns0:stage rend="zenoPC" type="enter" xml:id="tg41.2.4">
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     <ns0:hi rend="italic" xml:id="tg41.2.4.1">Olisius, mit vielen Lidiern / Cirus, und seine Bediente.</ns0:hi>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg41.2.5" />
@@ -4088,7 +4528,11 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg41.2.28" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg41.2.29.1">Steiget von Thron.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg41.2.29.1">Steiget von Thron.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg41.2.30" />
                                  </ns0:sp>
@@ -4104,11 +4548,19 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg41.2.36" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg41.2.37.1">Die Lidier treten ab.</ns0:stage>
                                     
                                     
                                     
                                        <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg41.2.39.1">Aria.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg41.2.37.1">Die Lidier treten ab.</ns0:stage>
+                                    
+                                    
+                                    
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg41.2.39.1">Aria.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg41.2.40" />
                                  </ns0:sp>
@@ -4129,7 +4581,11 @@
                                        <ns0:hi rend="italic" xml:id="tg41.2.51.1">Ritornello mit Trompeten und Paucken. Es wird </ns0:hi>
                                     </ns0:stage>
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg41.2.52.1">Nacht / und pr&#230;sentiret sich eine Illumination worunter einige Feuerwercker tantzen.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg41.2.52.1">Nacht / und pr&#230;sentiret sich eine Illumination worunter einige Feuerwercker tantzen.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg41.2.53" />
                                  </ns0:sp>
@@ -4229,7 +4685,11 @@
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg43.2.44">Ja w&#252;st' er was in dieser Nacht geschehen!</ns0:l>
                                     <ns0:lb xml:id="tg43.2.45" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg43.2.46.1">Heimlich.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg43.2.46.1">Heimlich.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg43.2.47" />
                                  </ns0:sp>
@@ -4242,11 +4702,19 @@
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg43.2.51">Es wird der Baur an statt des Printzen kommen.</ns0:l>
                                     <ns0:lb xml:id="tg43.2.52" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg43.2.53.1">Heimlich.</ns0:stage>
                                     
                                     
                                     
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg43.2.55.1">Es &#246;ffnet sich Atis Schlaff Gemach.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg43.2.53.1">Heimlich.</ns0:stage>
+                                    
+                                    
+                                    
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg43.2.55.1">Es &#246;ffnet sich Atis Schlaff Gemach.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg43.2.56" />
 
@@ -4267,7 +4735,11 @@
 
                                  
                                  
+<<<<<<< HEAD
                                  <ns0:stage rend="zenoPC" type="other" xml:id="tg44.2.4">
+=======
+                                 <ns0:stage rend="zenoPC" type="enter" xml:id="tg44.2.4">
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     <ns0:hi rend="italic" xml:id="tg44.2.4.1">Atis in F&#252;rstl. Kleidung / Halimacus, Eliates, Orsanes und Hoffleute.</ns0:hi>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg44.2.5" />
@@ -4280,7 +4752,11 @@
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg44.2.9">Der Baur den ich erhebe.</ns0:l>
                                     <ns0:lb xml:id="tg44.2.10" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg44.2.11.1">Heimlich.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg44.2.11.1">Heimlich.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg44.2.12" />
                                  </ns0:sp>
@@ -4295,11 +4771,19 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg44.2.17" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg44.2.18.1">Atis stellet sich freundlich gegen jedweden.</ns0:stage>
                                     
                                     
                                     
                                        <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg44.2.20.1">Aria.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg44.2.18.1">Atis stellet sich freundlich gegen jedweden.</ns0:stage>
+                                    
+                                    
+                                    
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg44.2.20.1">Aria.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg44.2.21" />
                                  </ns0:sp>
@@ -4329,7 +4813,11 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg44.2.35" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg44.2.36.1">Atis wendet ihm mit sp&#246;ttischen Geb&#228;rden den R&#252;cken zu.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg44.2.36.1">Atis wendet ihm mit sp&#246;ttischen Geb&#228;rden den R&#252;cken zu.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg44.2.37" />
                                  </ns0:sp>
@@ -4338,11 +4826,19 @@
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg44.2.39">Schaut doch den Bauren-L&#252;mmel.</ns0:l>
                                     <ns0:lb xml:id="tg44.2.40" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg44.2.41.1">Heimlich.</ns0:stage>
                                     
                                     
                                     
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg44.2.43.1">Atis macht viele Geb&#228;rden gegen die andern.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg44.2.41.1">Heimlich.</ns0:stage>
+                                    
+                                    
+                                    
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg44.2.43.1">Atis macht viele Geb&#228;rden gegen die andern.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg44.2.44" />
                                  </ns0:sp>
@@ -4359,7 +4855,11 @@
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg44.2.50">Ich mu&#223; des alten Narren lachen.</ns0:l>
                                     <ns0:lb xml:id="tg44.2.51" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg44.2.52.1">Heimlich.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg44.2.52.1">Heimlich.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg44.2.53" />
                                  </ns0:sp>
@@ -4368,7 +4868,11 @@
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg44.2.55">Wir geben f&#252;r ihm Gut und Blut.</ns0:l>
                                     <ns0:lb xml:id="tg44.2.56" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg44.2.57.1">Atis gibt Zeichen danckbarer Erk&#228;ntlichkeit.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg44.2.57.1">Atis gibt Zeichen danckbarer Erk&#228;ntlichkeit.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg44.2.58" />
                                  </ns0:sp>
@@ -4384,7 +4888,11 @@
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg44.2.63">Wie stellet sich der schlimme Bauer-Knabe.</ns0:l>
                                     <ns0:lb xml:id="tg44.2.64" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg44.2.65.1">Heimlich.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg44.2.65.1">Heimlich.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg44.2.66" />
                                  </ns0:sp>
@@ -4398,7 +4906,11 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg44.2.72" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg44.2.73.1">Treten ab / ausser Orsanes und Atis.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg44.2.73.1">Treten ab / ausser Orsanes und Atis.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg44.2.74" />
                                  </ns0:sp>
@@ -4489,7 +5001,11 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg45.2.10" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg45.2.11.1">Atis macht ihr freundliche Geb&#228;rden.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg45.2.11.1">Atis macht ihr freundliche Geb&#228;rden.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg45.2.12" />
                                  </ns0:sp>
@@ -4498,7 +5014,11 @@
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg45.2.14">Seht doch den Bauren-Bengel!</ns0:l>
                                     <ns0:lb xml:id="tg45.2.15" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg45.2.16.1">Aria.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg45.2.16.1">Aria.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg45.2.17" />
                                  </ns0:sp>
@@ -4514,7 +5034,11 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg45.2.25" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg45.2.26.1">Atis antwortet mit holdseligen Geb&#228;rden.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg45.2.26.1">Atis antwortet mit holdseligen Geb&#228;rden.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg45.2.27" />
                                  </ns0:sp>
@@ -4523,7 +5047,11 @@
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg45.2.29">Ey der sch&#246;nen Freyerey!</ns0:l>
                                     <ns0:lb xml:id="tg45.2.30" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg45.2.31.1">Atis macht Orsanen eine ver&#228;chtliche Mine.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg45.2.31.1">Atis macht Orsanen eine ver&#228;chtliche Mine.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg45.2.32" />
                                  </ns0:sp>
@@ -4535,7 +5063,11 @@
                                     </ns0:lg>
                                     
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg45.2.37.1">2.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg45.2.37.1">2.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg45.2.38" />
                                  </ns0:sp>
@@ -4551,7 +5083,11 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg45.2.46" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg45.2.47.1">Atis zeiget verliebte Zustimmung.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg45.2.47.1">Atis zeiget verliebte Zustimmung.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg45.2.48" />
                                  </ns0:sp>
@@ -4560,7 +5096,11 @@
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg45.2.50">Sch&#246;nstes Kind / du irrest dich.</ns0:l>
                                     <ns0:lb xml:id="tg45.2.51" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg45.2.52.1">Atis siehet Orsanen h&#246;nisch an.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg45.2.52.1">Atis siehet Orsanen h&#246;nisch an.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg45.2.53" />
                                  </ns0:sp>
@@ -4569,7 +5109,11 @@
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg45.2.55">Ist des Bauren Witz verschwunden?</ns0:l>
                                     <ns0:lb xml:id="tg45.2.56" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg45.2.57.1">Heimlich.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg45.2.57.1">Heimlich.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg45.2.58" />
                                  </ns0:sp>
@@ -4583,7 +5127,11 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg45.2.63" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg45.2.64.1">Atis wincket Nein.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg45.2.64.1">Atis wincket Nein.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg45.2.65" />
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg45.2.66">Er zeigt ich habe recht.</ns0:l>
@@ -4593,11 +5141,19 @@
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg45.2.68">Ach kennte sie den groben Bauren-Knecht.</ns0:l>
                                     <ns0:lb xml:id="tg45.2.69" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg45.2.70.1">Heimlich.</ns0:stage>
                                     
                                     
                                     
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg45.2.72.1">Atis zeucht einen Ring vom Finger / und gibt ihn Elmiren.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg45.2.70.1">Heimlich.</ns0:stage>
+                                    
+                                    
+                                    
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg45.2.72.1">Atis zeucht einen Ring vom Finger / und gibt ihn Elmiren.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg45.2.73" />
                                  </ns0:sp>
@@ -4610,7 +5166,11 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg45.2.78" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg45.2.79.1">Atis winket Ja.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg45.2.79.1">Atis winket Ja.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg45.2.80" />
                                  </ns0:sp>
@@ -4619,7 +5179,11 @@
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg45.2.82">Der Baur ist nicht mehr recht gescheut.</ns0:l>
                                     <ns0:lb xml:id="tg45.2.83" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg45.2.84.1">Heimlich.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg45.2.84.1">Heimlich.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg45.2.85" />
                                  </ns0:sp>
@@ -4631,7 +5195,11 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg45.2.89" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg45.2.90.1">Tritt ab.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg45.2.90.1">Tritt ab.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg45.2.91" />
                                  </ns0:sp>
@@ -4657,7 +5225,11 @@
                                  </ns0:sp>
                                  <ns0:sp>
                                     <ns0:speaker xml:id="tg45.2.102">ATIS.</ns0:speaker>
+<<<<<<< HEAD
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg45.2.103">Ich folg <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg45.2.103.1">Elmir.</ns0:stage>
+=======
+                                    <ns0:l rend="zenoPLm4n4" xml:id="tg45.2.103">Ich folg <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg45.2.103.1">Elmir.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:l>
                                  </ns0:sp>
                                  <ns0:sp>
@@ -4669,7 +5241,11 @@
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg45.2.107">Das dient dir nicht zu wissen.</ns0:l>
                                     <ns0:lb xml:id="tg45.2.108" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg45.2.109.1">Tritt ab.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg45.2.109.1">Tritt ab.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg45.2.110" />
                                  </ns0:sp>
@@ -4747,7 +5323,11 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg46.2.33" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg46.2.34.1">Aria.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg46.2.34.1">Aria.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg46.2.35" />
                                  </ns0:sp>
@@ -4764,7 +5344,11 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg46.2.44" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg46.2.45.1">Treten ab.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg46.2.45.1">Treten ab.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg46.2.46" />
 
@@ -4786,14 +5370,22 @@
                                  <ns0:sp>
                                     <ns0:speaker xml:id="tg47.2.2.part1">ATIS</ns0:speaker> 
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg47.2.2.1.part1">in Bauren-Kleidung.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg47.2.2.1.part1">in Bauren-Kleidung.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:l xml:id="tg47.2.2.part2">
                                        <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg47.2.2.1.part2"> Folgends Elmira.</ns0:stage>
                                     </ns0:l>
                                     <ns0:lb xml:id="tg47.2.3" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg47.2.4.1">Aria.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg47.2.4.1">Aria.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg47.2.5" />
                                     <ns0:lg>
@@ -4811,7 +5403,11 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg47.2.15" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg47.2.16.1">Elmira k&#246;mmt.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg47.2.16.1">Elmira k&#246;mmt.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg47.2.17" />
                                  </ns0:sp>
@@ -4912,11 +5508,19 @@
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg47.2.63">Schweig / du bist toll.</ns0:l>
                                     <ns0:lb xml:id="tg47.2.64" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg47.2.65.1">Tritt ab.</ns0:stage>
                                     
                                     
                                     
                                        <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg47.2.67.1">Aria.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg47.2.65.1">Tritt ab.</ns0:stage>
+                                    
+                                    
+                                    
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg47.2.67.1">Aria.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg47.2.68" />
                                  </ns0:sp>
@@ -5041,7 +5645,11 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg48.2.48" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg48.2.49.1">Tritt ab.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg48.2.49.1">Tritt ab.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg48.2.50" />
                                  </ns0:sp>
@@ -5058,7 +5666,11 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg48.2.59" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg48.2.60.1">Aria.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg48.2.60.1">Aria.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg48.2.61" />
                                     <ns0:lg>
@@ -5088,7 +5700,11 @@
 
                                  
                                  
+<<<<<<< HEAD
                                  <ns0:stage rend="zenoPC" type="other" xml:id="tg49.2.4">
+=======
+                                 <ns0:stage rend="zenoPC" type="enter" xml:id="tg49.2.4">
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     <ns0:hi rend="italic" xml:id="tg49.2.4.1">K&#246;niglich Zimmer.</ns0:hi>
                                  </ns0:stage>
                                  
@@ -5099,12 +5715,20 @@
                                  <ns0:sp>
                                     <ns0:speaker xml:id="tg49.2.8.part1">ATIS</ns0:speaker> 
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg49.2.8.1.part1">schreibet an einem Tische.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg49.2.8.1.part1">schreibet an einem Tische.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
 
                                     <ns0:lb xml:id="tg49.2.9" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg49.2.10.1">Aria.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg49.2.10.1">Aria.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg49.2.11" />
                                     <ns0:lg>
@@ -5139,7 +5763,11 @@
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg49.2.29">Di&#223; Schreiben wird ihrs sagen.</ns0:l>
                                     <ns0:lb xml:id="tg49.2.30" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg49.2.31.1">Atis reichet ihr einen Brieff / den sie er&#246;ffnet / und lieset / wie folget.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg49.2.31.1">Atis reichet ihr einen Brieff / den sie er&#246;ffnet / und lieset / wie folget.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg49.2.32" />
                                     <ns0:lg>
@@ -5159,7 +5787,11 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg49.2.40" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg49.2.41.1">Sie zerreist den Brieff.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg49.2.41.1">Sie zerreist den Brieff.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg49.2.42" />
                                     <ns0:lg>
@@ -5192,11 +5824,19 @@
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg49.2.56">Scher weg / du bist ein Narr / und Atis ist nicht klug.</ns0:l>
                                     <ns0:lb xml:id="tg49.2.57" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg49.2.58.1">Atis tritt ab.</ns0:stage>
                                     
                                     
                                     
                                        <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg49.2.60.1">Aria.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg49.2.58.1">Atis tritt ab.</ns0:stage>
+                                    
+                                    
+                                    
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg49.2.60.1">Aria.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg49.2.61" />
                                     <ns0:lg>
@@ -5226,7 +5866,11 @@
 
                                  
                                  
+<<<<<<< HEAD
                                  <ns0:stage rend="zenoPC" type="other" xml:id="tg50.2.4">
+=======
+                                 <ns0:stage rend="zenoPC" type="enter" xml:id="tg50.2.4">
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     <ns0:hi rend="italic" xml:id="tg50.2.4.1">Trigesta, folgends Elcius mit seinem Krahm.</ns0:hi>
                                  </ns0:stage>
                                  
@@ -5266,7 +5910,11 @@
                                        <ns0:l rend="zenoPLm4n4" xml:id="tg50.2.31">Hier wenjy nich dat neye Lied /</ns0:l>
                                        <ns0:l rend="zenoPLm4n4" xml:id="tg50.2.32">Van der olden <ns0:hi rend="italic" xml:id="tg50.2.32.1">Courante</ns0:hi> Margret.</ns0:l>
                                        <ns0:l rend="zenoPLm4n4" xml:id="tg50.2.33">
+<<<<<<< HEAD
                                           <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg50.2.33.1">Oublis, oublis.</ns0:stage>
+=======
+                                          <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg50.2.33.1">Oublis, oublis.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                        </ns0:l>
                                     </ns0:lg>
                                  </ns0:sp>
@@ -5298,12 +5946,20 @@
                                     <ns0:speaker xml:id="tg50.2.46">ELCIUS.</ns0:speaker>
                                     <ns0:lg>
                                        <ns0:l rend="zenoPLm4n4" xml:id="tg50.2.47">Auwe! Ich werd' in Lieb entz&#252;ckt!</ns0:l>
+<<<<<<< HEAD
                                        <ns0:l rend="zenoPLm4n4" xml:id="tg50.2.48">Ich mu&#223; das sch&#246;ne Bild doch recht <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg50.2.48.1">bespeculiren.</ns0:stage>
+=======
+                                       <ns0:l rend="zenoPLm4n4" xml:id="tg50.2.48">Ich mu&#223; das sch&#246;ne Bild doch recht <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg50.2.48.1">bespeculiren.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                        </ns0:l>
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg50.2.49" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg50.2.50.1">Setzt einen Brill auf.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg50.2.50.1">Setzt einen Brill auf.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg50.2.51" />
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg50.2.52">Sieh da! <ns0:hi rend="italic" xml:id="tg50.2.52.1">Trigesta,</ns0:hi> find ich dich?</ns0:l>
@@ -5345,7 +6001,11 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg50.2.73" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg50.2.74.1">Aria.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg50.2.74.1">Aria.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg50.2.75" />
                                     <ns0:lg>
@@ -5366,7 +6026,11 @@
                                     </ns0:lg>
                                     
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg50.2.87.1">2.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg50.2.87.1">2.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg50.2.88" />
                                     <ns0:lg>
@@ -5396,7 +6060,11 @@
                                     </ns0:lg>
                                     
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg50.2.104.1">3.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg50.2.104.1">3.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg50.2.105" />
                                     <ns0:lg>
@@ -5418,6 +6086,7 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg50.2.117" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg50.2.118.1">Treten ab.</ns0:stage>
                                     
                                     
@@ -5426,6 +6095,16 @@
                                     </ns0:stage>
                                     
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg50.2.121.1">Scheerenschleiffern.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg50.2.118.1">Treten ab.</ns0:stage>
+                                    
+                                    
+                                    <ns0:stage rend="zenoPC" type="enter" xml:id="tg50.2.120">
+                                       <ns0:hi rend="italic" xml:id="tg50.2.120.1">Ballet von Schorsteinfegern und </ns0:hi>
+                                    </ns0:stage>
+                                    
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg50.2.121.1">Scheerenschleiffern.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg50.2.122" />
 
@@ -5495,7 +6174,11 @@
 
                                  
                                  
+<<<<<<< HEAD
                                  <ns0:stage rend="zenoPC" type="other" xml:id="tg52.2.4">
+=======
+                                 <ns0:stage rend="zenoPC" type="enter" xml:id="tg52.2.4">
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     <ns0:hi rend="italic" xml:id="tg52.2.4.1">Elmira, Atis in F&#252;rstlicher Kleidung.</ns0:hi>
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg52.2.5" />
@@ -5504,37 +6187,61 @@
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg52.2.7">Printz weistu da&#223; <ns0:hi rend="italic" xml:id="tg52.2.7.1">Ermin</ns0:hi> mit mir vom Lieben spricht?</ns0:l>
                                     <ns0:lb xml:id="tg52.2.8" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg52.2.9.1">Atis lachet.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg52.2.9.1">Atis lachet.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg52.2.10" />
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg52.2.11">Du lachest noch / und z&#252;rnest dr&#252;ber nicht?</ns0:l>
                                     <ns0:lb xml:id="tg52.2.12" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg52.2.13.1">Atis wincket Nein.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg52.2.13.1">Atis wincket Nein.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg52.2.14" />
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg52.2.15">Kanstu / da&#223; er mich liebt vertragen?</ns0:l>
                                     <ns0:lb xml:id="tg52.2.16" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg52.2.17.1">Atis wincket Ja.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg52.2.17.1">Atis wincket Ja.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg52.2.18" />
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg52.2.19">Wird dann die Eifersucht dich nicht deswegen plagen?</ns0:l>
                                     <ns0:lb xml:id="tg52.2.20" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg52.2.21.1">Atis wincket Nein.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg52.2.21.1">Atis wincket Nein.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg52.2.22" />
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg52.2.23">Ja du wilt selbst / ich sol ihn wieder lieben?</ns0:l>
                                     <ns0:lb xml:id="tg52.2.24" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg52.2.25.1">Atis wincket Ja.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg52.2.25.1">Atis wincket Ja.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg52.2.26" />
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg52.2.27">Hastu den Brieff / so er mir bracht' / geschrieben?</ns0:l>
                                     <ns0:lb xml:id="tg52.2.28" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg52.2.29.1">Atis wincket Ja.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg52.2.29.1">Atis wincket Ja.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg52.2.30" />
                                     <ns0:lg>
@@ -5603,11 +6310,19 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg52.2.63" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg52.2.64.1">Tritt ab.</ns0:stage>
                                     
                                     
                                     
                                        <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg52.2.66.1">Aria.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg52.2.64.1">Tritt ab.</ns0:stage>
+                                    
+                                    
+                                    
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg52.2.66.1">Aria.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg52.2.67" />
                                     <ns0:lg>
@@ -5683,7 +6398,11 @@
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg53.2.24">Verfluchter Baur / du solt von meiner Faust erblassen.</ns0:l>
                                     <ns0:lb xml:id="tg53.2.25" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg53.2.26.1">Sie z&#252;cken beyde ihr Gewehr. Atis rufft / worauff Halimacus mit vielem Gefolge eintritt.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg53.2.26.1">Sie z&#252;cken beyde ihr Gewehr. Atis rufft / worauff Halimacus mit vielem Gefolge eintritt.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg53.2.27" />
                                  </ns0:sp>
@@ -5700,7 +6419,11 @@
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg53.2.33">Wer rufft an diesem Ort?</ns0:l>
                                     <ns0:lb xml:id="tg53.2.34" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg53.2.35.1">Atis winckt / da&#223; Orsanes geruffen.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg53.2.35.1">Atis winckt / da&#223; Orsanes geruffen.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg53.2.36" />
                                  </ns0:sp>
@@ -5709,7 +6432,11 @@
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg53.2.38">Orsanes?</ns0:l>
                                     <ns0:lb xml:id="tg53.2.39" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg53.2.40.1">Atis wincket ja / und da&#223; er es ihm befohlen.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg53.2.40.1">Atis wincket ja / und da&#223; er es ihm befohlen.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg53.2.41" />
                                     <ns0:lg>
@@ -5725,7 +6452,11 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg53.2.47" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg53.2.48.1">Atis zeiget an Halimacus, da&#223; er ins Persische Lager hinaus gehen / und von ihnen allen vergesellschafftet seyn wolle.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg53.2.48.1">Atis zeiget an Halimacus, da&#223; er ins Persische Lager hinaus gehen / und von ihnen allen vergesellschafftet seyn wolle.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg53.2.49" />
                                  </ns0:sp>
@@ -5741,7 +6472,11 @@
                                        <ns0:hi rend="italic" xml:id="tg53.2.55.1">Atis gr&#252;sset Orsanes mit freundlichen Geb&#228;rden /</ns0:hi>
                                     </ns0:stage>
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg53.2.56.1">der dar&#252;ber best&#252;rtzt / sich gar dem&#252;thig neiget.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg53.2.56.1">der dar&#252;ber best&#252;rtzt / sich gar dem&#252;thig neiget.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg53.2.57" />
                                  </ns0:sp>
@@ -5757,7 +6492,11 @@
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg53.2.62">O Schelm / dein Fall ist nicht mehr weit.</ns0:l>
                                     <ns0:lb xml:id="tg53.2.63" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg53.2.64.1">Treten ab.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg53.2.64.1">Treten ab.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg53.2.65" />
                                  </ns0:sp>
@@ -5769,7 +6508,11 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg53.2.69" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg53.2.70.1">Aria.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg53.2.70.1">Aria.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg53.2.71" />
                                     <ns0:lg>
@@ -5871,7 +6614,11 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg55.2.18" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg55.2.19.1">Es steigen schwartze Wolcken auf / die pl&#246;tzlich mit Blitz und Donner in einen starcken Platz-Regen ausbrechen / nacher das Feuer verl&#246;schet.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg55.2.19.1">Es steigen schwartze Wolcken auf / die pl&#246;tzlich mit Blitz und Donner in einen starcken Platz-Regen ausbrechen / nacher das Feuer verl&#246;schet.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg55.2.20" />
                                  </ns0:sp>
@@ -5898,7 +6645,11 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg55.2.31" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg55.2.32.1">Das Feuer wird wieder angez&#252;ndet; Olisius, Halimacus, Atis, Elmira, Clerida, Trigesta und Orsanes gelangen an durch unterschiedliche Wege.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg55.2.32.1">Das Feuer wird wieder angez&#252;ndet; Olisius, Halimacus, Atis, Elmira, Clerida, Trigesta und Orsanes gelangen an durch unterschiedliche Wege.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg55.2.33" />
                                  </ns0:sp>
@@ -5963,7 +6714,11 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg55.2.66" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg55.2.67.1">Tritt nebenst Eliates ab / das Heer anzuf&#252;hren.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg55.2.67.1">Tritt nebenst Eliates ab / das Heer anzuf&#252;hren.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg55.2.68" />
                                  </ns0:sp>
@@ -5989,7 +6744,11 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg55.2.82" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg55.2.83.1">Cr&#339;sus wird auf dem Scheiter-Hauffen gebunden.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg55.2.83.1">Cr&#339;sus wird auf dem Scheiter-Hauffen gebunden.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg55.2.84" />
                                  </ns0:sp>
@@ -6008,7 +6767,11 @@
                                  <ns0:sp>
                                     <ns0:speaker xml:id="tg55.2.91">ELMIRA.</ns0:speaker>
                                     <ns0:lg>
+<<<<<<< HEAD
                                        <ns0:l rend="zenoPLm4n4" xml:id="tg55.2.92">Es ist <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg55.2.92.1">Ermin.</ns0:stage>
+=======
+                                       <ns0:l rend="zenoPLm4n4" xml:id="tg55.2.92">Es ist <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg55.2.92.1">Ermin.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                        </ns0:l>
                                        <ns0:l xml:id="tg55.2.93">OLISIUS, CLERIDA.</ns0:l>
                                        <ns0:l rend="zenoPLm4n4" xml:id="tg55.2.94">O R&#252;hmens-werthe That!</ns0:l>
@@ -6030,7 +6793,11 @@
                                  <ns0:sp>
                                     <ns0:speaker xml:id="tg55.2.102.part1">ATIS</ns0:speaker> 
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg55.2.102.1.part1">zu Orsanes.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg55.2.102.1.part1">zu Orsanes.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
 
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg55.2.103">Verr&#228;ther / m&#246;cht' ich dir das Leben rauben.</ns0:l>
@@ -6048,7 +6815,11 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg55.2.110" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg55.2.111.1">Atis wil sich ins Feuer st&#252;rtzen.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg55.2.111.1">Atis wil sich ins Feuer st&#252;rtzen.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg55.2.112" />
                                  </ns0:sp>
@@ -6092,7 +6863,11 @@
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg55.2.131">Nein / lebe trautster Sohn.</ns0:l>
                                     <ns0:lb xml:id="tg55.2.132" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg55.2.133.1">Atis wil sich mit Gewalt lo&#223; reissen.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg55.2.133.1">Atis wil sich mit Gewalt lo&#223; reissen.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg55.2.134" />
                                  </ns0:sp>
@@ -6120,7 +6895,11 @@
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg55.2.145">F&#252;hrt diesen tollen Menschen weg.</ns0:l>
                                     <ns0:lb xml:id="tg55.2.146" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg55.2.147.1">Die Soldaten entfernen Atis.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg55.2.147.1">Die Soldaten entfernen Atis.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg55.2.148" />
                                  </ns0:sp>
@@ -6141,7 +6920,11 @@
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg55.2.156">Nein / Vater / nein / ich wil nach dir nicht leben.</ns0:l>
                                     <ns0:lb xml:id="tg55.2.157" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg55.2.158.1">Atis wird weggerissen; Solon kommt.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg55.2.158.1">Atis wird weggerissen; Solon kommt.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg55.2.159" />
                                  </ns0:sp>
@@ -6150,11 +6933,19 @@
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg55.2.161">(Ich kan den Handel nicht mehr fassen)</ns0:l>
                                     <ns0:lb xml:id="tg55.2.162" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg55.2.163.1">Das Feuer ist v&#246;llig wieder angebrandt.</ns0:stage>
                                     
                                     
                                     
                                        <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg55.2.165.1">Aria.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg55.2.163.1">Das Feuer ist v&#246;llig wieder angebrandt.</ns0:stage>
+                                    
+                                    
+                                    
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg55.2.165.1">Aria.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg55.2.166" />
                                  </ns0:sp>
@@ -6204,7 +6995,11 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg55.2.193" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg55.2.194.1">Cirus sitzet eine Weile in tieffen Gedancken.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg55.2.194.1">Cirus sitzet eine Weile in tieffen Gedancken.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg55.2.195" />
                                  </ns0:sp>
@@ -6213,7 +7008,11 @@
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg55.2.197">Mein Hertze wird ger&#252;hrt. Fort / machet <ns0:hi rend="italic" xml:id="tg55.2.197.1">Cr&#339;sus</ns0:hi> lo&#223;;</ns0:l>
                                     <ns0:lb xml:id="tg55.2.198" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg55.2.199.1">Cr&#339;sus wird von dem Scheiterhauffen lo&#223; gemacht.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg55.2.199.1">Cr&#339;sus wird von dem Scheiterhauffen lo&#223; gemacht.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg55.2.200" />
                                     <ns0:lg>
@@ -6225,7 +7024,11 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg55.2.206" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg55.2.207.1">Cr&#339;sus wird in ein Gezelt gef&#252;hret.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg55.2.207.1">Cr&#339;sus wird in ein Gezelt gef&#252;hret.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg55.2.208" />
                                  </ns0:sp>
@@ -6246,7 +7049,11 @@
                                     <ns0:speaker xml:id="tg55.2.216">CHOR.</ns0:speaker>
                                     <ns0:lb xml:id="tg55.2.217" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg55.2.218.1">Von innen.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg55.2.218.1">Von innen.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg55.2.219" />
                                     <ns0:lg>
@@ -6255,7 +7062,11 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg55.2.222" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg55.2.223.1">Eliates, Halimacus, und viele Lidier / brechen / den Degen in der Faust / durch Cirus Leibwache ihren K&#246;nig vom Feuer zu erretten.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg55.2.223.1">Eliates, Halimacus, und viele Lidier / brechen / den Degen in der Faust / durch Cirus Leibwache ihren K&#246;nig vom Feuer zu erretten.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg55.2.224" />
                                  </ns0:sp>
@@ -6279,7 +7090,11 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg55.2.236" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg55.2.237.1">Cr&#339;sus k&#246;mmt in K&#246;niglicher Kleidung.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg55.2.237.1">Cr&#339;sus k&#246;mmt in K&#246;niglicher Kleidung.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg55.2.238" />
                                  </ns0:sp>
@@ -6292,7 +7107,11 @@
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg55.2.242">O Hertzens-Lust!</ns0:l>
                                     <ns0:lb xml:id="tg55.2.243" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg55.2.244.1">Cirus stehet auf / und umarmet Cr&#339;sus.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg55.2.244.1">Cirus stehet auf / und umarmet Cr&#339;sus.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg55.2.245" />
                                  </ns0:sp>
@@ -6317,7 +7136,11 @@
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg55.2.255">Komm / <ns0:hi rend="italic" xml:id="tg55.2.255.1">Cr&#339;sus,</ns0:hi> setz dich mir zur Seiten.</ns0:l>
                                     <ns0:lb xml:id="tg55.2.256" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg55.2.257.1">Cr&#339;sus setzet sich bey Cirus auff den Thron.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg55.2.257.1">Cr&#339;sus setzet sich bey Cirus auff den Thron.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg55.2.258" />
                                  </ns0:sp>
@@ -6331,7 +7154,11 @@
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg55.2.262">Gantz Lidien legt sich zu <ns0:hi rend="italic" xml:id="tg55.2.262.1">Cirus</ns0:hi> F&#252;ssen nieder.</ns0:l>
                                     <ns0:lb xml:id="tg55.2.263" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="aside" ns1:fixed-stage="true" xml:id="tg55.2.264.1">Alle Lidier neigen sich zur Erden. Atis kniet vor dem Thron.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg55.2.264.1">Alle Lidier neigen sich zur Erden. Atis kniet vor dem Thron.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg55.2.265" />
                                  </ns0:sp>
@@ -6361,7 +7188,11 @@
                                  <ns0:sp>
                                     <ns0:speaker xml:id="tg55.2.277">HALIMACUS.</ns0:speaker>
                                     <ns0:lg>
+<<<<<<< HEAD
                                        <ns0:l rend="zenoPLm4n4" xml:id="tg55.2.278">Du irrest dich / <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg55.2.278.1">Orsan.</ns0:stage>
+=======
+                                       <ns0:l rend="zenoPLm4n4" xml:id="tg55.2.278">Du irrest dich / <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg55.2.278.1">Orsan.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                        </ns0:l>
                                        <ns0:l rend="zenoPLm4n4" xml:id="tg55.2.279">Es ist der Printz: Ich sah' es selber an /</ns0:l>
                                        <ns0:l rend="zenoPLm4n4" xml:id="tg55.2.280">Wie ihm die Furcht / und seiner Liebe Trieb /</ns0:l>
@@ -6406,7 +7237,11 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg55.2.303" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg55.2.304.1">Orsan f&#228;llt auf die Knie.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg55.2.304.1">Orsan f&#228;llt auf die Knie.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg55.2.305" />
                                  </ns0:sp>
@@ -6427,7 +7262,11 @@
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg55.2.313">Mein Kind / es war zu meiner Sicherheit.</ns0:l>
                                     <ns0:lb xml:id="tg55.2.314" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg55.2.315.1">Gibt ihr die Hand.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg55.2.315.1">Gibt ihr die Hand.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg55.2.316" />
                                     <ns0:lg>
@@ -6452,7 +7291,11 @@
                                  <ns0:sp>
                                     <ns0:speaker xml:id="tg55.2.327">ATIS.</ns0:speaker>
                                     <ns0:lg>
+<<<<<<< HEAD
                                        <ns0:l rend="zenoPLm4n4" xml:id="tg55.2.328">Und sie / holdselige <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg55.2.328.1">Clerida.</ns0:stage>
+=======
+                                       <ns0:l rend="zenoPLm4n4" xml:id="tg55.2.328">Und sie / holdselige <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg55.2.328.1">Clerida.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                        </ns0:l>
                                        <ns0:l rend="zenoPLm4n4" xml:id="tg55.2.329">Wil sie an <ns0:hi rend="italic" xml:id="tg55.2.329.1">Eliat</ns0:hi> nicht auch ingleichen</ns0:l>
                                        <ns0:l rend="zenoPLm4n4" xml:id="tg55.2.330">Die Hand zu fester Treue reichen?</ns0:l>
@@ -6463,7 +7306,11 @@
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg55.2.332">Ich wil nicht l&#228;nger widerstreben.</ns0:l>
                                     <ns0:lb xml:id="tg55.2.333" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg55.2.334.1">Gibt Eliaten die Hand.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg55.2.334.1">Gibt Eliaten die Hand.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg55.2.335" />
                                  </ns0:sp>
@@ -6480,11 +7327,19 @@
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg55.2.340">Wir wollen diese Gunst mit steter Treu' ersetzen.</ns0:l>
                                     <ns0:lb xml:id="tg55.2.341" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg55.2.342.1">Die K&#246;nige steigen vom Thron. Elmira und Aria. Clerida und Eliates umarmen sich.</ns0:stage>
                                     
                                     
                                     
                                        <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg55.2.344.1">Aria.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg55.2.342.1">Die K&#246;nige steigen vom Thron. Elmira und Aria. Clerida und Eliates umarmen sich.</ns0:stage>
+                                    
+                                    
+                                    
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg55.2.344.1">Aria.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg55.2.345" />
                                  </ns0:sp>
@@ -6512,7 +7367,11 @@
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg55.2.359" />
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg55.2.360.1">Tantz von Damen und Cavalliere.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg55.2.360.1">Tantz von Damen und Cavalliere.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg55.2.361" />
                                  </ns0:sp>
@@ -6524,7 +7383,11 @@
                                     </ns0:lg>
                                     
                                     
+<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg55.2.366.1">Ende.</ns0:stage>
+=======
+                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg55.2.366.1">Ende.</ns0:stage>
+>>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     
                                     <ns0:lb xml:id="tg55.2.367" />
                                  </ns0:sp>
