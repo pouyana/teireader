@@ -1,0 +1,105 @@
+{"id":"tg814.2.7","text":"Die Liebe erscheinet mit Bogen und Pfeilen in den Wolcken.","type":"other","source":"nltk"}
+{"id":"tg816.2.4","text":"Sulpicius auff dem Bette. Fabricius. Flavia.","type":"other","source":"nltk"}
+{"id":"tg816.2.43.1","text":"Cornelien Brieff.","type":"enter","source":"NLP"}
+{"id":"tg816.2.128.1","text":"Sulpicius. Fabricius.","type":"enter","source":"NLP"}
+{"id":"tg816.2.188.1","text":"Levin. Sulpicius. Fabricius.","type":"enter","source":"NLP"}
+{"id":"tg817.2.4","text":"Gregor Kornblume.","type":"enter","source":"NLP"}
+{"id":"tg817.2.5","text":"Kommet auff den Schawplatz / stehet eine lange weill und beschauet die Zuseher / nachmals fänget er voll Verwunderung an.","type":"other","source":"nltk"}
+{"id":"tg817.2.9","text":"Stehet wider eine weile und bedencket sich / nachmals stöst er mit dem Stabe wider die Erden und fähret fort.","type":"other","source":"nltk"}
+{"id":"tg817.2.13","text":"Bartel Klotzmann bringet einen Hahn unter dem Arme mit sich / welchem der Fuß entzwey geschmissen.","type":"other","source":"nltk"}
+{"id":"tg817.2.19.1","text":"Jockeldreyecke kommet von der andern Seiten und träget einen mit sidendem Wasser verbrandten Hund.","type":"other","source":"nltk"}
+{"id":"tg817.2.102.1","text":"Jockel Dreyecke gehet ab.","type":"exit","source":"nltk"}
+{"id":"tg817.2.107.1","text":"Bartel in deme er wiederkommet zu Kornblumen.","type":"other","source":"nltk"}
+{"id":"tg817.2.121.1","text":"Gehet ab.","type":"exit","source":"nltk"}
+{"id":"tg817.2.122.1","text":"Greger Kornblume.","type":"enter","source":"NLP"}
+{"id":"tg818.2.4","text":"Cassander. Fabricius.","type":"enter","source":"NLP"}
+{"id":"tg818.2.70.1","text":"Flavia. Cassander.","type":"enter","source":"NLP"}
+{"id":"tg818.2.124.1","text":"Cornelia. Chloris.","type":"enter","source":"NLP"}
+{"id":"tg818.2.125.1","text":"Jn dem Lust-Garten.","type":"other","source":"nltk"}
+{"id":"tg818.2.194.1","text":"Sie setzet sich nider / liset und entschläft.","type":"other","source":"nltk"}
+{"id":"tg818.2.252.1.part1","text":"schlaffend.","type":"other","source":"nltk"}
+{"id":"tg818.2.264.1.part1","text":"schlafend.","type":"other","source":"nltk"}
+{"id":"tg818.2.271.1.part1","text":"erwachend.","type":"other","source":"nltk"}
+{"id":"tg818.2.292.1.part1","text":"seit abwerts.","type":"other","source":"nltk"}
+{"id":"tg818.2.296.1.part1","text":"seit abwerts.","type":"other","source":"nltk"}
+{"id":"tg818.2.304.1.part1","text":"seit abwerts.","type":"other","source":"nltk"}
+{"id":"tg818.2.328.1.part1","text":"seit abwerts.","type":"other","source":"nltk"}
+{"id":"tg818.2.336.1","text":"Flavia. Chloris. Cornelia.","type":"enter","source":"NLP"}
+{"id":"tg818.2.366.1","text":"Beyde sehn einander als erstarret eine zeitlang an.","type":"other","source":"nltk"}
+{"id":"tg818.2.368.1.part1","text":"seit abwerts.","type":"other","source":"nltk"}
+{"id":"tg818.2.370.1.part1","text":"seit abwerts.","type":"other","source":"nltk"}
+{"id":"tg818.2.372.1.part1","text":"abgewendet.","type":"other","source":"nltk"}
+{"id":"tg818.2.379.1.part1","text":"seit abwerts.","type":"other","source":"nltk"}
+{"id":"tg818.2.393.1.part1","text":"seit abwerts.","type":"other","source":"nltk"}
+{"id":"tg818.2.396.1","text":"Levin. Cornelia. Chloris. Flavia. Cassander.","type":"enter","source":"NLP"}
+{"id":"tg818.2.424.1.part1","text":"seit abwerts.","type":"other","source":"nltk"}
+{"id":"tg818.2.435.1.part1","text":"seit abwerts.","type":"other","source":"nltk"}
+{"id":"tg818.2.444.1.part1","text":"seit abwerts.","type":"other","source":"nltk"}
+{"id":"tg818.2.452.1","text":"Sulpicius. Fabricius. Cornelia. Chloris. Levin. Flavia. Cassander.","type":"enter","source":"NLP"}
+{"id":"tg818.2.484.1","text":"Die Personen kommen alle in Sulpicen Gemach.","type":"other","source":"nltk"}
+{"id":"tg818.2.520.1.part1","text":"seit abwerts.","type":"other","source":"nltk"}
+{"id":"tg818.2.522.1.part1","text":"seit abwerts.","type":"other","source":"nltk"}
+{"id":"tg818.2.524.1.part1","text":"seit abwerts.","type":"other","source":"nltk"}
+{"id":"tg818.2.526.1.part1","text":"seit abwerts.","type":"other","source":"nltk"}
+{"id":"tg818.2.541.1","text":"Er schmeist die Citronat hinweg.","type":"other","source":"nltk"}
+{"id":"tg818.2.591.1.part1","text":"seit abwerts.","type":"other","source":"nltk"}
+{"id":"tg818.2.595.1.part1","text":"seit abwerts.","type":"other","source":"nltk"}
+{"id":"tg819.2.2","text":"Matz Aschenwedel / Lise Dornrose / Gregor Kornblume.","type":"enter","source":"NLP"}
+{"id":"tg819.2.45.1","text":"Aschewedel fasset Dornrosen mit Gewalt und wil mit ihr nach dem Pusche lauffen / sie wehret sich mit reissen und schlagen und ruffet überlaut.","type":"other","source":"nltk"}
+{"id":"tg819.2.56.1","text":"Kornblume laufft hinzu und schlägt auff Aschewedeln.","type":"other","source":"nltk"}
+{"id":"tg820.2.4","text":"Sulpicius. Fabricius.","type":"enter","source":"NLP"}
+{"id":"tg820.2.74.1","text":"Cassander. Fabricius.","type":"enter","source":"NLP"}
+{"id":"tg820.2.120.1","text":"Levin. Cornelia. Chloris. Cassander.","type":"enter","source":"NLP"}
+{"id":"tg820.2.121.1","text":"Vor der Cornelie Behausung.","type":"other","source":"nltk"}
+{"id":"tg820.2.152.1.part1","text":"seit abwerts.","type":"other","source":"nltk"}
+{"id":"tg820.2.204.1.part1","text":"seit abwerts.","type":"other","source":"nltk"}
+{"id":"tg820.2.214.1","text":"Sulpicius. Fabricius.","type":"enter","source":"NLP"}
+{"id":"tg820.2.215.1","text":"Jn Sulpiciuss Behausung.","type":"other","source":"nltk"}
+{"id":"tg820.2.234.1","text":"Cornelia. Chloris. Flavia.","type":"enter","source":"NLP"}
+{"id":"tg820.2.235.1","text":"Jn dem Lust-Garten.","type":"other","source":"nltk"}
+{"id":"tg820.2.238.1.part1","text":"allein.","type":"aside","source":"nltk"}
+{"id":"tg820.2.270.1","text":"Chloris allein.","type":"aside","source":"nltk"}
+{"id":"tg820.2.309.1","text":"Sulpicius in Gestalt des Geistes.","type":"other","source":"nltk"}
+{"id":"tg820.2.382.1","text":"Sulpicius verschwindet.","type":"other","source":"nltk"}
+{"id":"tg820.2.394.1","text":"Flavia. Sulpicius.","type":"enter","source":"NLP"}
+{"id":"tg820.2.395.1","text":"Vor Cornelie Behausung.","type":"other","source":"nltk"}
+{"id":"tg820.2.445","text":"Fabricius. Sulpicii Bild auff dem Bette /","type":"other","source":"nltk"}
+{"id":"tg820.2.446.1","text":"die andern alle.","type":"other","source":"nltk"}
+{"id":"tg820.2.447.1","text":"Jn Sulpicii Behausung.","type":"other","source":"nltk"}
+{"id":"tg820.2.448.1","text":"Fabricius allein vor der falschen Leiche.","type":"other","source":"nltk"}
+{"id":"tg820.2.473.1","text":"Sie gehen wieder weg.","type":"other","source":"nltk"}
+{"id":"tg820.2.487.1","text":"Chloris. Cornelia. Cassander. Flavia. Levin.","type":"enter","source":"NLP"}
+{"id":"tg820.2.488.1","text":"Vor der Cornelia Behausung.","type":"other","source":"nltk"}
+{"id":"tg821.2.2","text":"Greger Kornblume / und Fraw Salome.","type":"enter","source":"NLP"}
+{"id":"tg821.2.8.1.part1","text":"stelt sich als ob sie betete.","type":"other","source":"nltk"}
+{"id":"tg821.2.21.1.part1","text":"schreyet sehr laut.","type":"other","source":"nltk"}
+{"id":"tg821.2.23.1.part1","text":"noch lauter.","type":"other","source":"nltk"}
+{"id":"tg821.2.25.1.part1","text":"abwerts.","type":"other","source":"nltk"}
+{"id":"tg821.2.27.1","text":"Zu der Salome.","type":"other","source":"nltk"}
+{"id":"tg821.2.53.1.part1","text":"abwerts.","type":"other","source":"nltk"}
+{"id":"tg822.2.4","text":"Cornelia. Levin. Chloris. Sulpicius.","type":"enter","source":"NLP"}
+{"id":"tg822.2.5","text":"Fabricius. Flavia. Cassander.","type":"enter","source":"NLP"}
+{"id":"tg822.2.6","text":"Jn Sulpiciuss Behausung.","type":"other","source":"nltk"}
+{"id":"tg823.2.2","text":"Wilhelm von hohen Sinnen Arendator","type":"other","source":"nltk"}
+{"id":"tg823.2.3","text":"des Gutts Vildünckel.","type":"enter","source":"NLP"}
+{"id":"tg823.2.4","text":"Vor ihm gehen Cuntz und Lorentz derer","type":"other","source":"nltk"}
+{"id":"tg823.2.5","text":"iedweder eine Hewgabel träget.","type":"other","source":"nltk"}
+{"id":"tg823.2.16.1","text":"Wilhelm. Ciliax Dorffschreiber. Cuntz und Lorentz.","type":"enter","source":"NLP"}
+{"id":"tg823.2.46.1","text":"Wilhelm. Cuntz. Lorentz. Jockel. Bartel. Kornblume.","type":"enter","source":"NLP"}
+{"id":"tg823.2.47.1","text":"Aschewedel. Dornrose. Fraw Salome.","type":"enter","source":"NLP"}
+{"id":"tg823.2.119.1","text":"Er stehet auff und gehet etliche mahl auff und nider.","type":"other","source":"nltk"}
+{"id":"tg823.2.124.1.part1","text":"auff und nider gehend.","type":"other","source":"nltk"}
+{"id":"tg823.2.126.1","text":"Er setzet sich wider und fähret fort.","type":"other","source":"nltk"}
+{"id":"tg823.2.132.1.part1","text":"krimmet sich in dem Haubte.","type":"other","source":"nltk"}
+{"id":"tg823.2.138.1","text":"Beide stehen und sehen einander eine ziemliche weile betrübet an.","type":"other","source":"nltk"}
+{"id":"tg823.2.149.1.part1","text":"weinet überlaut.","type":"other","source":"nltk"}
+{"id":"tg823.2.158.1.part2","text":"Abwerts.","type":"other","source":"nltk"}
+{"id":"tg823.2.162.1.part1","text":"fället auf die Knie und schreyet.","type":"other","source":"nltk"}
+{"id":"tg823.2.163.1.part1","text":"auff den Knien.","type":"other","source":"nltk"}
+{"id":"tg823.2.180.1.part1","text":"redet mit seinem Vetter in geheim hernach fanget er an.","type":"exit","source":"nltk"}
+{"id":"tg823.2.185.1","text":"Stehet auff und spricht in dem hingehen.","type":"other","source":"nltk"}
+{"id":"tg823.2.189.1","text":"Die andern treten alle hinter ihm hinein / biß auff Kornblumen / welcher die Zuseher folgends anredet.","type":"exit","source":"nltk"}
+{"id":"tg823.2.193.1","text":"Tantz der Geister.","type":"other","source":"nltk"}
+{"id":"tg823.2.194.1","text":"Tantz der Liben.","type":"other","source":"nltk"}
+{"id":"tg824.2.5","text":"Welche in dem Gesang-Spiel auffgezogen / und Reyen der Bauren / die in dem untergemischten Schertz-Spil erschienen.","type":"other","source":"nltk"}
+{"id":"tg824.2.55.1.part1","text":"vmbgeben mit vier liben.","type":"other","source":"nltk"}

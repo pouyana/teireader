@@ -1,0 +1,19 @@
+{"id":"tg534.2.4","text":"Strato. Philotas.","type":"enter","source":"NLP"}
+{"id":"tg535.2.4","text":"König Aridäus. Philotas. Strato.","type":"enter","source":"NLP"}
+{"id":"tg537.2.4","text":"Parmenio. Philotas.","type":"enter","source":"NLP"}
+{"id":"tg538.2.3.1","text":"Indem er sich selbst betrachtet.","type":"other","source":"nltk"}
+{"id":"tg539.2.4","text":"Aridäus. Philotas.","type":"enter","source":"NLP"}
+{"id":"tg540.2.4","text":"Strato mit einem Schwerde in der Hand.","type":"enter","source":"nltk"}
+{"id":"tg540.2.5","text":"Aridäus. Philotas.","type":"enter","source":"NLP"}
+{"id":"tg540.2.12.1.part2","text":"Bei Seite.","type":"aside","source":"nltk"}
+{"id":"tg540.2.12.2.part2","text":"Indem er es lange und ernsthaft betrachtet.","type":"other","source":"nltk"}
+{"id":"tg540.2.15.1.part2","text":"Indem er wieder zu sich kömmt.","type":"other","source":"nltk"}
+{"id":"tg540.2.18.1.part1","text":"zum Strato.","type":"other","source":"nltk"}
+{"id":"tg540.2.19.1.part1","text":"bei Seite.","type":"aside","source":"nltk"}
+{"id":"tg540.2.21.1.part2","text":"Er zieht es, und Strato tritt zwischen ihn und den König.","type":"other","source":"nltk"}
+{"id":"tg540.2.25.1.part2","text":"Indem er zurückspringt, und mit dem Schwerde einen Streich durch die Luft tut.","type":"other","source":"nltk"}
+{"id":"tg540.2.27.2.part2","text":"Um sich hauend.","type":"other","source":"nltk"}
+{"id":"tg540.2.28.1.part2","text":"Geht auf ihn zu.","type":"other","source":"nltk"}
+{"id":"tg540.2.29.1.part1","text":"sich von ihm entfernend.","type":"other","source":"nltk"}
+{"id":"tg540.2.32.1.part2","text":"Zurücksinkend.","type":"other","source":"nltk"}
+{"id":"tg540.2.54.2.part2","text":"Gehen ab.","type":"exit","source":"nltk"}
