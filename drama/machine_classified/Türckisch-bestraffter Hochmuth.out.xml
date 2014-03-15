@@ -210,17 +210,10 @@ Agirende Personen.</ns0:head>
                               <ns0:sp>
                                  <ns0:speaker rend="zenoPC" xml:id="tg47.2.77.part1" /> 
                                  <ns0:stage>
-<<<<<<< HEAD
                                     <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg47.2.77.1.part1">NB.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:stage rend="zenoPC" xml:id="tg47.2.77.part2">
                                     <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg47.2.77.1.part2">: die &#252;brige T&#252;rckische Stumme sind im 1st. Actus im 8 Scen. zu ersehen.</ns0:stage>
-=======
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg47.2.77.1.part1">NB.</ns0:stage>
-                                 </ns0:stage>
-                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg47.2.77.part2">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg47.2.77.1.part2">: die &#252;brige T&#252;rckische Stumme sind im 1st. Actus im 8 Scen. zu ersehen.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                  </ns0:stage>
                               </ns0:sp>
                            </ns0:div>
@@ -298,11 +291,7 @@ Agirende Personen.</ns0:head>
                                  </ns0:sp>
                                  <ns0:sp>
                                     <ns0:speaker xml:id="tg49.2.18.part1">ALOISIA.</ns0:speaker>
-<<<<<<< HEAD
                                     <ns0:l xml:id="tg49.2.18.part2"> Und ihr gehet von hier, und la&#223;et mich Trostlo&#223; und alleine. <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg49.2.18.1.part2">Weynet.</ns0:stage>
-=======
-                                    <ns0:l xml:id="tg49.2.18.part2"> Und ihr gehet von hier, und la&#223;et mich Trostlo&#223; und alleine. <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg49.2.18.1.part2">Weynet.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:l>
                                  </ns0:sp>
                                  <ns0:sp>
@@ -346,13 +335,8 @@ Agirende Personen.</ns0:head>
                                     <ns0:speaker xml:id="tg49.2.28.part1">ALOISIA.</ns0:speaker>
                                     <ns0:p xml:id="tg49.2.28.part2"> Ach lebe wohl, deine Abwesenheit verursacht mir Tausend Schmertzen, indem du gleichsam deinem Tode entgegen gehest, und durch denselben mich zu einer betr&#252;bten Wittib machest.</ns0:p>
                                     <ns0:lb xml:id="tg49.2.29" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg49.2.30">
                                        <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg49.2.30.1">Euphrosina komt dazu.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="enter" xml:id="tg49.2.30">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg49.2.30.1">Euphrosina komt dazu.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg49.2.31" />
                                  </ns0:sp>
@@ -401,13 +385,8 @@ Agirende Personen.</ns0:head>
                                     <ns0:speaker xml:id="tg49.2.42.part1">EUPHROSINA.</ns0:speaker>
                                     <ns0:l xml:id="tg49.2.42.part2"> Und ich folge in Kindlichem Gehorsam.</ns0:l>
                                     <ns0:lb xml:id="tg49.2.43" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg49.2.44">
                                        <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg49.2.44.1">Beyde gehen ab.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="exit" xml:id="tg49.2.44">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg49.2.44.1">Beyde gehen ab.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg49.2.45" />
 
@@ -452,13 +431,8 @@ Agirende Personen.</ns0:head>
                                     <ns0:speaker xml:id="tg50.2.10.part1">BAADEN.</ns0:speaker>
                                     <ns0:p xml:id="tg50.2.10.part2"> Ein Ehrbahrer Magistrat und l&#246;bl. Stadt- Gericht werde seinem Versprechen nachleben und sich aller Gewogenheit und H&#252;lffe versehen, weil auch anjetzo die erste Sehsion im Kriegs-Rath gehalten wird soll de&#223;en Nothdurfft dabey besorget werden.</ns0:p>
                                     <ns0:lb xml:id="tg50.2.11" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg50.2.12">
                                        <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg50.2.12.1">Alle gehen ab.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="exit" xml:id="tg50.2.12">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg50.2.12.1">Alle gehen ab.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg50.2.13" />
 
@@ -508,13 +482,8 @@ Tekely nicht gefeyert &#214;el zu sch&#252;tten, dergestalt da&#223; nach Berich
                                     <ns0:speaker xml:id="tg51.2.11.part1">DAUN.</ns0:speaker>
                                     <ns0:l xml:id="tg51.2.11.part2"> Auch ich folge die empfangene ordre auf schleunigste zu bewerckstelligen.</ns0:l>
                                     <ns0:lb xml:id="tg51.2.12" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg51.2.13">
                                        <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg51.2.13.1">Alle beyde ab.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="exit" xml:id="tg51.2.13">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg51.2.13.1">Alle beyde ab.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg51.2.14" />
 
@@ -556,13 +525,8 @@ Tekely nicht gefeyert &#214;el zu sch&#252;tten, dergestalt da&#223; nach Berich
                                     <ns0:speaker xml:id="tg52.2.10.part1">W&#220;RTENBERG.</ns0:speaker>
                                     <ns0:p xml:id="tg52.2.10.part2"> Ich lobe Ew. Durchlaucht heroischen Entschlu&#223;, doch ist die Behutsamkeit neben der Tapfferkeit zu loben; Aber dort sehe ich den An-march jener Regimenter, welche ich zu besichtigen beliebung trage.</ns0:p>
                                     <ns0:lb xml:id="tg52.2.11" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg52.2.12">
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg52.2.12.1">Alhie kommen die Gr&#228;ntz-V&#246;lcker anmarchirt, gehend Fu&#223; vor Fu&#223;, wo die ersteren, nach dem Sie das Theater pahsiret [sich hinter dem Prospect] an die leztere anschlie&#223;en und also eine ansehnliche Parade formiren.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="other" xml:id="tg52.2.12">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg52.2.12.1">Alhie kommen die Gr&#228;ntz-V&#246;lcker anmarchirt, gehend Fu&#223; vor Fu&#223;, wo die ersteren, nach dem Sie das Theater pahsiret [sich hinter dem Prospect] an die leztere anschlie&#223;en und also eine ansehnliche Parade formiren.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg52.2.13" />
                                  </ns0:sp>
@@ -582,13 +546,8 @@ Tekely nicht gefeyert &#214;el zu sch&#252;tten, dergestalt da&#223; nach Berich
                                     <ns0:speaker xml:id="tg52.2.17.part1">W&#220;RTENBERG.</ns0:speaker>
                                     <ns0:p xml:id="tg52.2.17.part2"> Der Himmel vereinige seinen Seegen mit denen Christlichen Waffen und verschaffe, da&#223; Sie jetz gedachte noch m&#246;gen &#252;bertreffen, wie ich dann zu Ew. durchlaucht. Progre&#223;en alles Gedeyen w&#252;nsche.</ns0:p>
                                     <ns0:lb xml:id="tg52.2.18" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg52.2.19">
                                        <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg52.2.19.1">Alle ab.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="exit" xml:id="tg52.2.19">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg52.2.19.1">Alle ab.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg52.2.20" />
 
@@ -615,17 +574,10 @@ Tekely nicht gefeyert &#214;el zu sch&#252;tten, dergestalt da&#223; nach Berich
                                  <ns0:lb xml:id="tg53.2.5" />
                                  <ns0:sp>
                                     <ns0:speaker xml:id="tg53.2.6.part1">HANS WURST.</ns0:speaker>
-<<<<<<< HEAD
                                     <ns0:p xml:id="tg53.2.6.part2"> Weynet periculum in mora, periculum in Summo gradu, ich armes B&#252;bl steck im Ungl&#252;ck bi&#223; an die Ohrwaschel, mein liebes Weibl mu&#223; ich mit mir f&#252;hren und all mein Verm&#246;gen im Rauch aufgehen sehen, nichts geht mir zu Hertzen, als da&#223; ich mein goldenes Schatzl in keinen Kobl- Wagen gesetzt, und ihr in meinem Leib-Wagen die Lufft gar zu starck angeht, der Feind ist schon umb und umb auf allen D&#246;rffern, dieses hat mich bewegt, da&#223; ich all mein Haab und Gut im Stich gela&#223;en, doch hat der Notarius mirs zuvor aufschreiben m&#252;&#223;en, da&#223; es nicht hernach hei&#223;en soll, ich hab nichts im verm&#246;gen gehabt, dieses alles will ich dem leydigen T&#252;rcken vermachen, <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg53.2.6.1.part2">Lieset die Specification No. 1.</ns0:stage> itz under weil die Vorst&#228;dt sollen abgebrennt werden, will ich hingehen und mich auch verbrennen, und in meiner Gro&#223; Mutter ihre Fu&#223;stapffen treten, welche auch mit 6 Klaffter Holtz gen Himmel gefahren ist.</ns0:p>
                                     <ns0:lb xml:id="tg53.2.7" />
                                     <ns0:stage rend="zenoPC" xml:id="tg53.2.8">
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg53.2.8.1">Burgermeister Liebenberg komt dazu, samt der Burgerschafft mit Fahnen und klingendem Spiel, Hans Wurst vor Schr&#246;cken wirfft den Karren umb und begibt sich in etwas auf die Seite.</ns0:stage>
-=======
-                                    <ns0:p xml:id="tg53.2.6.part2"> Weynet periculum in mora, periculum in Summo gradu, ich armes B&#252;bl steck im Ungl&#252;ck bi&#223; an die Ohrwaschel, mein liebes Weibl mu&#223; ich mit mir f&#252;hren und all mein Verm&#246;gen im Rauch aufgehen sehen, nichts geht mir zu Hertzen, als da&#223; ich mein goldenes Schatzl in keinen Kobl- Wagen gesetzt, und ihr in meinem Leib-Wagen die Lufft gar zu starck angeht, der Feind ist schon umb und umb auf allen D&#246;rffern, dieses hat mich bewegt, da&#223; ich all mein Haab und Gut im Stich gela&#223;en, doch hat der Notarius mirs zuvor aufschreiben m&#252;&#223;en, da&#223; es nicht hernach hei&#223;en soll, ich hab nichts im verm&#246;gen gehabt, dieses alles will ich dem leydigen T&#252;rcken vermachen, <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg53.2.6.1.part2">Lieset die Specification No. 1.</ns0:stage> itz under weil die Vorst&#228;dt sollen abgebrennt werden, will ich hingehen und mich auch verbrennen, und in meiner Gro&#223; Mutter ihre Fu&#223;stapffen treten, welche auch mit 6 Klaffter Holtz gen Himmel gefahren ist.</ns0:p>
-                                    <ns0:lb xml:id="tg53.2.7" />
-                                    <ns0:stage rend="zenoPC" type="other" xml:id="tg53.2.8">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg53.2.8.1">Burgermeister Liebenberg komt dazu, samt der Burgerschafft mit Fahnen und klingendem Spiel, Hans Wurst vor Schr&#246;cken wirfft den Karren umb und begibt sich in etwas auf die Seite.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg53.2.9" />
                                  </ns0:sp>
@@ -634,13 +586,8 @@ Tekely nicht gefeyert &#214;el zu sch&#252;tten, dergestalt da&#223; nach Berich
                                     <ns0:p xml:id="tg53.2.10.part2"> Mannhaffte Burger, getreue unserer Stadt, Wann selbst die Gefahr die Nothwendigkeit, die Liebe zu dem Vaterlande, ja euer eygenes interehse anstatt meiner das Wort f&#252;hret, so ist unn&#246;thig euch solches weitl&#228;uffig f&#252;rzustellen. Nur will ich euch derjenigen fr&#246;lichen Bottschafft theilhafftig machen, welche von Ihro R&#246;m. Kayserl. Mayest&#228;t unserm Allergn&#228;digsten Herrn durch den Mund Sr. Durchlaucht des Marggraffen von Baaden uns verk&#252;ndiget wird, da&#223; nemlich der Entsatz nicht s&#228;umen werde, uns von der Blutd&#252;rstigkeit derer T&#252;rcken zu erledigen. Anjetzo ist es an euch, Ehre und Ruhm zu erwerben, jedermann siehet auf uns, und unsere Stadt, wie wir dieselbig verth&#228;tigen und besch&#252;tzen werden. La&#223;et nicht zu, da&#223; da diese Stadt von euern Vorfahren mit Hindansetzung ihres Lebens offtmahls erhalten worden, Sie anjetzo verlohren gehe, und wir etwa den Ruhm unserer Voreltern durch unsere Zaghafftigkeit verdunckeln, sondern suchet durch tapffere Bestreitung euerer Feinde der Nachwelt euere Nahmen zu verewigen. Wer demnach <ns0:pb n="88" xml:id="tg53.2.10.1.part2" />
 es mit dem Ertz-Hause &#214;esterreich und unserer Vater-Stadt es treu und aufrichtig meynet, der spreche ein hertzliches ja.</ns0:p>
                                     <ns0:lb xml:id="tg53.2.11" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg53.2.12">
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg53.2.12.1">Alle schreyen &#252;berlaut ja. Hie wird die Trummel ger&#252;hret und das Edict No. 2 denen Burgern vorgelesen.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="other" xml:id="tg53.2.12">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg53.2.12.1">Alle schreyen &#252;berlaut ja. Hie wird die Trummel ger&#252;hret und das Edict No. 2 denen Burgern vorgelesen.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg53.2.13" />
                                  </ns0:sp>
@@ -648,13 +595,8 @@ es mit dem Ertz-Hause &#214;esterreich und unserer Vater-Stadt es treu und aufri
                                     <ns0:speaker xml:id="tg53.2.14.part1">HANS WURST.</ns0:speaker>
                                     <ns0:l xml:id="tg53.2.14.part2"> Anjetzo will ich meinen Schatz aufladen, und in die Stadt hinein f&#252;hren.</ns0:l>
                                     <ns0:lb xml:id="tg53.2.15" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg53.2.16">
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg53.2.16.1">Entdecket alhie sein Weib welche nichts redet, als ah, ah ah uh uh uh.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="other" xml:id="tg53.2.16">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg53.2.16.1">Entdecket alhie sein Weib welche nichts redet, als ah, ah ah uh uh uh.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg53.2.17" />
                                  </ns0:sp>
@@ -662,13 +604,8 @@ es mit dem Ertz-Hause &#214;esterreich und unserer Vater-Stadt es treu und aufri
                                     <ns0:speaker xml:id="tg53.2.18.part1">LIEBENBERG.</ns0:speaker>
                                     <ns0:p xml:id="tg53.2.18.part2"> Anjetzo ihr so wohl zum K&#228;rntner Viertel als Stuben Pastey geh&#246;rige: rechts und lincks um, marchirt auf euern Posten.</ns0:p>
                                     <ns0:lb xml:id="tg53.2.19" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg53.2.20">
                                        <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg53.2.20.1">Die Burger theilen sich halb recht, halb linck und gehen alle ab.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="exit" xml:id="tg53.2.20">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg53.2.20.1">Die Burger theilen sich halb recht, halb linck und gehen alle ab.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg53.2.21" />
                                  </ns0:sp>
@@ -676,13 +613,8 @@ es mit dem Ertz-Hause &#214;esterreich und unserer Vater-Stadt es treu und aufri
                                     <ns0:speaker xml:id="tg53.2.22.part1">HANS WURST.</ns0:speaker>
                                     <ns0:p xml:id="tg53.2.22.part2"> Wann alle Weiber ihren M&#228;nnern so schwer werden als die meinige, so ist kein Wunder, da&#223; immer mahl einer sein Weib gern lo&#223; seyn will.</ns0:p>
                                     <ns0:lb xml:id="tg53.2.23" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg53.2.24">
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg53.2.24.1">Hebt Sie auf und f&#252;hrt Sie neben dem Burgermeister weg.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="other" xml:id="tg53.2.24">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg53.2.24.1">Hebt Sie auf und f&#252;hrt Sie neben dem Burgermeister weg.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg53.2.25" />
                                  </ns0:sp>
@@ -778,13 +710,8 @@ es mit dem Ertz-Hause &#214;esterreich und unserer Vater-Stadt es treu und aufri
                                     <ns0:speaker xml:id="tg53.2.48.part1">LIEBENBERG.</ns0:speaker>
                                     <ns0:p xml:id="tg53.2.48.part2"> Wann ich die Warheit sagen soll, so glaube ich, da&#223; ihr ein Narr seyd, doch ist es genug, da&#223; euer Weib in die Stadt zu bringen euch nicht gestattet wird. Aber dort sehe ich Se. Excellenz den Herrn Commendanten selbst anhero kommen, welcher euch befehlen wird, was ihr hierinnen zu thun oder zu la&#223;en habt.</ns0:p>
                                     <ns0:lb xml:id="tg53.2.49" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg53.2.50">
                                        <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg53.2.50.1">Stahrenberg komt dazu.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="enter" xml:id="tg53.2.50">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg53.2.50.1">Stahrenberg komt dazu.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg53.2.51" />
                                  </ns0:sp>
@@ -852,11 +779,7 @@ es mit dem Ertz-Hause &#214;esterreich und unserer Vater-Stadt es treu und aufri
                                  <ns0:sp>
                                     <ns0:speaker xml:id="tg53.2.67.part1">HANS WURST</ns0:speaker> 
                                     <ns0:stage>
-<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg53.2.67.1.part1">kratzt die Ohren.</ns0:stage>
-=======
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg53.2.67.1.part1">kratzt die Ohren.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:p xml:id="tg53.2.67.part2"> Wann das wahr ist, was ihr sagt, so werd ich vor meine meiste Kinder noch wohl das Macherlohn schuldig seyn.</ns0:p>
                                  </ns0:sp>
@@ -880,13 +803,8 @@ es mit dem Ertz-Hause &#214;esterreich und unserer Vater-Stadt es treu und aufri
                                     <ns0:speaker xml:id="tg53.2.72.part1">HANS WURST.</ns0:speaker>
                                     <ns0:p xml:id="tg53.2.72.part2"> Und ich werd schauen, wie sich mein neuer Dienst anla&#223;t, wann mein Herr treu und flei&#223;ig ist, bleib ich schon &#228; weil bey ihm.</ns0:p>
                                     <ns0:lb xml:id="tg53.2.73" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg53.2.74">
                                        <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg53.2.74.1">H.W. nimt die Scheib-Truhen und f&#252;hret sie weg, alle ab und in die Stadt hinein. Das forderste Scena wird zugemacht und stellet vor die Colline.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="exit" xml:id="tg53.2.74">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg53.2.74.1">H.W. nimt die Scheib-Truhen und f&#252;hret sie weg, alle ab und in die Stadt hinein. Das forderste Scena wird zugemacht und stellet vor die Colline.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg53.2.75" />
 
@@ -944,13 +862,8 @@ Feind auch noch wohl die Finger brennen, und seinen allzuhitzigen Lust b&#252;&#
                                     <ns0:speaker xml:id="tg54.2.13.part1">CAPPLIERS.</ns0:speaker>
                                     <ns0:l xml:id="tg54.2.13.part2"> Auch ich folge der Gelegenheit meinem Allergn&#228;digstem Kayser zu dienen.</ns0:l>
                                     <ns0:lb xml:id="tg54.2.14" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg54.2.15">
                                        <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg54.2.15.1">Beyde ab.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="exit" xml:id="tg54.2.15">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg54.2.15.1">Beyde ab.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg54.2.16" />
 
@@ -982,13 +895,8 @@ Feind auch noch wohl die Finger brennen, und seinen allzuhitzigen Lust b&#252;&#
                                     <ns0:speaker xml:id="tg55.2.7.part1">LIEBENBERG.</ns0:speaker>
                                     <ns0:p xml:id="tg55.2.7.part2"> Eylet, Eylet ihr hierzu bestelte Arbeiter, und la&#223;et durch euere Nachl&#228;&#223;igkeit die Stadt nicht in Gefahr gerathen, und wie ihr gesehen, da&#223; ich selber Hand mit angeleget, so la&#223;et euch dieses ein Exempel seyn, die Ermangelung derer Pallisaden k&#246;nnte bald dem Feind Gelegenheit geben, uns zu &#252;berrumpeln und in &#228;u&#223;erstes Verderben zu st&#252;rtzen, unser Ungl&#252;ck wachet, und wir haben nichts anders als den Untergang zu gewarten, daferne unsere Vorsichtigkeit von der Tr&#228;g- und Faulheit eingeschl&#228;ffert wird, so haben Wir auch nicht mit unsern Glaubens Genossen zu thun, sondern mit denen Blutbegierigsten Barbaren, welche jemahls der Erdboden getragen, diese sind schon vor der Th&#252;r, und haben schon zu M&#246;dlingen, Schonbrun, Pentzing, Odakring, W&#228;hring, Hernals und andern umbliegenden Orthen sich gesetzet; derowegen auf zur Arbeit, sonst werdet ihr eure Unvorsichtigkeit mit dem Leben bezahlen m&#252;&#223;en.</ns0:p>
                                     <ns0:lb xml:id="tg55.2.8" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg55.2.9">
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg55.2.9.1">Extemporiret und ordonniret hin und wieder nach Belieben; Hie komt ein Tambour dazu, lieset das Edict No. 3 mit vor und nach ger&#252;hrter Trummel, und gehet hernach ab; hie m&#252;&#223;en etliche M&#228;nner, Weiber und Kinder seyn, welche dem Edict zuh&#246;ren, die hinterste Scene wird nachmals zugemacht, die Stadt weggethan, und die T&#252;rckische Cavallerie dahinter verfertiget.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="other" xml:id="tg55.2.9">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg55.2.9.1">Extemporiret und ordonniret hin und wieder nach Belieben; Hie komt ein Tambour dazu, lieset das Edict No. 3 mit vor und nach ger&#252;hrter Trummel, und gehet hernach ab; hie m&#252;&#223;en etliche M&#228;nner, Weiber und Kinder seyn, welche dem Edict zuh&#246;ren, die hinterste Scene wird nachmals zugemacht, die Stadt weggethan, und die T&#252;rckische Cavallerie dahinter verfertiget.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg55.2.10" />
 
@@ -1077,13 +985,8 @@ Feind auch noch wohl die Finger brennen, und seinen allzuhitzigen Lust b&#252;&#
                                     <ns0:speaker xml:id="tg56.2.26.part1">KARA MUSTAPHA.</ns0:speaker>
                                     <ns0:p xml:id="tg56.2.26.part2"> Also m&#252;&#223;en des Gro&#223;-Sultans Waffen ihnen alles unterw&#252;rfig machen; ja von Orient bi&#223; Occident darf sich niemand unterstehen den gehorigen Tribut ihm zu verweigern. Die Ottomannische Pforte machet billig aus der Trapezuntischen, Griechischen und R&#246;mischen Monarchie eine Herrschafft, und dieses Kleeblat schreibet der gantzen Welt Gesetze vor. Europa ist es, welches bi&#223; daher sich geweigert, die Macht des gro&#223;en Mahomets zu erkennen. Aber dieser gewaltige Lehrer wird denen verha&#223;ten Christen zeigen, wie gef&#228;hrlich es sey, ihm zu wiederstehen. Die Stadt Wienn mu&#223; zuerst die Sch&#228;rffe unserer S&#228;bel empfinden, ja aus dieser Stadt werde ich die Christen herausjagen so sich darinnen verkrochen, und hernachmahls meinen Siegreichen Einzug darinnen halten, damit die Macht des gro&#223;en Mahomets &#252;berall verehret, und die Waffen seines Dieners Solimans auf dem gantzen Erdkrei&#223; gef&#252;rchtet werden m&#246;gen.</ns0:p>
                                     <ns0:lb xml:id="tg56.2.27" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg56.2.28">
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg56.2.28.1">Hie blitzet, donnert und regnet es.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="other" xml:id="tg56.2.28">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg56.2.28.1">Hie blitzet, donnert und regnet es.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg56.2.29" />
                                  </ns0:sp>
@@ -1091,13 +994,8 @@ Feind auch noch wohl die Finger brennen, und seinen allzuhitzigen Lust b&#252;&#
                                     <ns0:speaker xml:id="tg56.2.30.part1">SELIM.</ns0:speaker>
                                     <ns0:p xml:id="tg56.2.30.part2"> Gro&#223;er Vezier und F&#252;rst des ottomannischen Reichs, ich wei&#223; nicht, wie ich dieses verstehen soll, indem der Himmel auf deine gef&#252;hrte Reden so pl&#246;tzlich seinen Donner schicket, welches mich fast zweifflen machet, ob auch unsere Unternehmungen einen erw&#252;nschten Ausgang gewinnen werden.</ns0:p>
                                     <ns0:lb xml:id="tg56.2.31" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg56.2.32">
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg56.2.32.1">Hie steiget der Gro&#223;-Vezier herunter, und wird der Wagen hinweg gef&#252;hret.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="other" xml:id="tg56.2.32">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg56.2.32.1">Hie steiget der Gro&#223;-Vezier herunter, und wird der Wagen hinweg gef&#252;hret.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg56.2.33" />
                                  </ns0:sp>
@@ -1134,13 +1032,8 @@ eure L&#246;wenhaut in einen Hasenbalg verwandelt, hat es ehmahls das Ansehen ge
                                     <ns0:speaker xml:id="tg56.2.41.part1">IBRAHIM.</ns0:speaker>
                                     <ns0:l xml:id="tg56.2.41.part2"> Dein Wille gro&#223;er Vezier mu&#223; mir anstatt eines Gebots dienen.</ns0:l>
                                     <ns0:lb xml:id="tg56.2.42" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg56.2.43">
                                        <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg56.2.43.1">Alle ab.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="exit" xml:id="tg56.2.43">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg56.2.43.1">Alle ab.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg56.2.44" />
 
@@ -1172,13 +1065,8 @@ eure L&#246;wenhaut in einen Hasenbalg verwandelt, hat es ehmahls das Ansehen ge
                                     <ns0:speaker xml:id="tg57.2.7.part1">IBRAHIM.</ns0:speaker>
                                     <ns0:p xml:id="tg57.2.7.part2"> Wohlan ihr tapffere Spahi, anjetzo flieget der Ro&#223;-Schweiff, und will euch f&#252;hren an dasjenige Orth, wo ihr euren Feinden den Garau&#223; machen und mit reicher Ausbeute euch beladen k&#246;nnet, nicht komme ich anhero euch zur Tapfferkeit anzumahnen, welche mir ehede&#223;en zur Gn&#252;ge bekannt ist, sondern &#252;ber der Christen Untergang mich mit euch zu erfreuen, o &#8211; wie werden diese Hund so zappeln, wann man ihnen die K&#246;pff nacheinander abschlagen, und aus ihrer Hirnschaalen unsers Sultans Gesundheit trincken wird, ihr seyd diejenigen, welche vom Jordan an bi&#223; zum Euphrath eure Nahmen f&#252;rchtend gemacht, derowegen zweiffle ich nicht, ihr werdet mit euren S&#228;beln auch bald das Europa auskehren und der Bottm&#228;&#223;igkeit unsers Sultans unterw&#252;rffig machen, als dann wird es noch dahin gerathen, da&#223; ein Christ und ein Schaff in gleichem Werth seyn werden.</ns0:p>
                                     <ns0:lb xml:id="tg57.2.8" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg57.2.9">
                                        <ns0:stage rend="italic" type="aside" ns1:fixed-stage="true" xml:id="tg57.2.9.1">Extemporiret ad libitum, bi&#223; die forderste Scena zugemacht wird.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="aside" xml:id="tg57.2.9">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg57.2.9.1">Extemporiret ad libitum, bi&#223; die forderste Scena zugemacht wird.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg57.2.10" />
 
@@ -1207,13 +1095,8 @@ eure L&#246;wenhaut in einen Hasenbalg verwandelt, hat es ehmahls das Ansehen ge
                                     <ns0:speaker xml:id="tg58.2.6.part1">ALOISIA.</ns0:speaker>
                                     <ns0:p xml:id="tg58.2.6.part2"> Hast du dann o grausames Schicksahl dich wieder mich verschworen, indem du mir dasjenige raubest, welches ich weit h&#246;her als mein Leben achte, und du o ausgetrockneter Thr&#228;nenbrunn nachdem die Angst deine Quelle gehemmet, so bringe an de&#223;en Statt wo m&#246;glich Blut hervor, meine Wangen zu benetzen. Ach mein Gemahl soll ich euch unter denen Todten oder Lebendigen rechnen, o bitteres Ungl&#252;ck welches euch mir entzogen, und aufs wenigste euch an der Seite zu sterben mir nicht einmahl verg&#246;nnet.</ns0:p>
                                     <ns0:lb xml:id="tg58.2.7" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg58.2.8">
                                        <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg58.2.8.1">Sophia komt dazu.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="enter" xml:id="tg58.2.8">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg58.2.8.1">Sophia komt dazu.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg58.2.9" />
                                  </ns0:sp>
@@ -1238,13 +1121,8 @@ eure L&#246;wenhaut in einen Hasenbalg verwandelt, hat es ehmahls das Ansehen ge
                                     <ns0:speaker xml:id="tg58.2.15.part1">SOPHIA.</ns0:speaker>
                                     <ns0:l xml:id="tg58.2.15.part2"> Ich gehorsame Ew. Excellenz.</ns0:l>
                                     <ns0:lb xml:id="tg58.2.16" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg58.2.17">
                                        <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg58.2.17.1">Gehet ab.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="exit" xml:id="tg58.2.17">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg58.2.17.1">Gehet ab.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg58.2.18" />
                                  </ns0:sp>
@@ -1252,13 +1130,8 @@ eure L&#246;wenhaut in einen Hasenbalg verwandelt, hat es ehmahls das Ansehen ge
                                     <ns0:speaker xml:id="tg58.2.19.part1">ALOISIA.</ns0:speaker>
                                     <ns0:p xml:id="tg58.2.19.part2"> Der Himmel verh&#252;te da&#223; dieses nicht ein trauriger Bothe sey, mein Gem&#252;th schwebet zwischen Furcht und Hoffnung, wie es meinem werthesten Gemahl ergehet.</ns0:p>
                                     <ns0:lb xml:id="tg58.2.20" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg58.2.21">
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg58.2.21.1">Sophia und Hans mit dem Brieff No. 4 dazu.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="other" xml:id="tg58.2.21">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg58.2.21.1">Sophia und Hans mit dem Brieff No. 4 dazu.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg58.2.22" />
                                  </ns0:sp>
@@ -1292,21 +1165,13 @@ eure L&#246;wenhaut in einen Hasenbalg verwandelt, hat es ehmahls das Ansehen ge
                                  </ns0:sp>
                                  <ns0:sp>
                                     <ns0:speaker xml:id="tg58.2.30.part1">HANS WURST.</ns0:speaker>
-<<<<<<< HEAD
                                     <ns0:l xml:id="tg58.2.30.part2"> Commendant und Commoediant ist alles eins. <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg58.2.30.1.part2">&#220;bergibt den Brieff.</ns0:stage>
-=======
-                                    <ns0:l xml:id="tg58.2.30.part2"> Commendant und Commoediant ist alles eins. <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg58.2.30.1.part2">&#220;bergibt den Brieff.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:l>
                                  </ns0:sp>
                                  <ns0:sp>
                                     <ns0:speaker xml:id="tg58.2.31.part1">ALOISIA</ns0:speaker> 
                                     <ns0:stage>
-<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg58.2.31.1.part1">lieset den Brieff laut.</ns0:stage>
-=======
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg58.2.31.1.part1">lieset den Brieff laut.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:l xml:id="tg58.2.31.part2"> Und wo war mein Gemahl, als er dir diesen Brieff gab?</ns0:l>
                                  </ns0:sp>
@@ -1336,11 +1201,7 @@ eure L&#246;wenhaut in einen Hasenbalg verwandelt, hat es ehmahls das Ansehen ge
                                  </ns0:sp>
                                  <ns0:sp>
                                     <ns0:speaker xml:id="tg58.2.38.part1">ALOISIA.</ns0:speaker>
-<<<<<<< HEAD
                                     <ns0:p xml:id="tg58.2.38.part2"> Einen Narren h&#228;tte ich schier gesagt, weil man aber deren ohne dem gnug hat, solt du meine Salve-Guarde seyn, wozu gegenw&#228;rttige meine Bediente dir Anweisung geben wird. <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg58.2.38.1.part2">Gehet ab.</ns0:stage>
-=======
-                                    <ns0:p xml:id="tg58.2.38.part2"> Einen Narren h&#228;tte ich schier gesagt, weil man aber deren ohne dem gnug hat, solt du meine Salve-Guarde seyn, wozu gegenw&#228;rttige meine Bediente dir Anweisung geben wird. <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg58.2.38.1.part2">Gehet ab.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:p>
                                  </ns0:sp>
                                  <ns0:sp>
@@ -1414,20 +1275,12 @@ da ich dich zu heyrathen willens gewesen, aber anjetzo mag ich dich nicht.</ns0:
                                  </ns0:sp>
                                  <ns0:sp>
                                     <ns0:speaker xml:id="tg58.2.56.part1">SOPHIA.</ns0:speaker>
-<<<<<<< HEAD
                                     <ns0:p xml:id="tg58.2.56.part2"> Du ungeschliffener Esel, du Flegel wart, jetzt will gleich den Hau&#223;knecht la&#223;en &#252;ber dich kommen, da&#223; er dir den Puckel voll anpr&#252;geln soll. <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg58.2.56.1.part2">Gehet ab.</ns0:stage>
-=======
-                                    <ns0:p xml:id="tg58.2.56.part2"> Du ungeschliffener Esel, du Flegel wart, jetzt will gleich den Hau&#223;knecht la&#223;en &#252;ber dich kommen, da&#223; er dir den Puckel voll anpr&#252;geln soll. <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg58.2.56.1.part2">Gehet ab.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:p>
                                  </ns0:sp>
                                  <ns0:sp>
                                     <ns0:speaker xml:id="tg58.2.57.part1">HANS WURST.</ns0:speaker>
-<<<<<<< HEAD
                                     <ns0:p xml:id="tg58.2.57.part2"> Du Schneebruntzerin ich verlang dich nicht, unsere Buben daheim, wann sie ihrem Diendel &#228; Schmatzel geben, und nicht zwey finger dick ein Rotz dran sitzen th&#228;t so meynten Sie es w&#228;r nicht gesund, ja diese da w&#228;r wohl geschickt darzu, wann sies sehen w&#252;rden, da&#223; es solche schopffete Menscher geb, Sie d&#228;chten es w&#228;ren Flederm&#228;u&#223; oder Meer-Wunder, und sol der Hau&#223;knecht sich unterstehen mich zu pr&#252;geln, ich wolt ihm &#228; Sto&#223; geben, da&#223; man ihn zu Pre&#223;burg wieder suchen m&#252;st. <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg58.2.57.1.part2">Gehet ab.</ns0:stage>
-=======
-                                    <ns0:p xml:id="tg58.2.57.part2"> Du Schneebruntzerin ich verlang dich nicht, unsere Buben daheim, wann sie ihrem Diendel &#228; Schmatzel geben, und nicht zwey finger dick ein Rotz dran sitzen th&#228;t so meynten Sie es w&#228;r nicht gesund, ja diese da w&#228;r wohl geschickt darzu, wann sies sehen w&#252;rden, da&#223; es solche schopffete Menscher geb, Sie d&#228;chten es w&#228;ren Flederm&#228;u&#223; oder Meer-Wunder, und sol der Hau&#223;knecht sich unterstehen mich zu pr&#252;geln, ich wolt ihm &#228; Sto&#223; geben, da&#223; man ihn zu Pre&#223;burg wieder suchen m&#252;st. <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg58.2.57.1.part2">Gehet ab.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:p>
                                     <ns0:lb xml:id="tg58.2.58" />
                                  </ns0:sp>
@@ -1455,13 +1308,8 @@ da ich dich zu heyrathen willens gewesen, aber anjetzo mag ich dich nicht.</ns0:
                                     <ns0:speaker xml:id="tg59.2.6.part1">STAHRENBERG.</ns0:speaker>
                                     <ns0:p xml:id="tg59.2.6.part2"> Also must du be&#228;ngstigtes Wienn, leyder, deine umbliegende Vorst&#228;dt gleich einem andern Troja zernichtet sehen, ja deine Einwohner beseufzen nicht ohn Ursach, da&#223; dasjenige so die H&#228;nde ihrer Vorfahren durch langwierige Zeit erbauet, in so kurtzer Frist zu Grunde gehet; euch aber denen die Ein&#228;scherung euerer bi&#223;herigen Wohnungen bek&#252;mmert, m&#246;ge die&#223;es zu einem Trost dienen, da&#223; ob ihr zwar euer Dach und fach verlohren, dennoch die Stadt Wienn als eine mitleydige Gluckhenne euch unter ihre Fl&#252;gel nehmen wird, bi&#223; so lange es dem Himmel gef&#228;llet diese Geb&#228;ue viel herrlicher auff&#252;hren zu la&#223;en, als Sie anjetzo gewesen, und wie alle diese sch&#246;ne H&#228;user umb des T&#252;rckischen Blut-Hundes willen abgebrennet worden sind, also wird er auch noch derjenige seyn m&#252;&#223;en, welcher zu ihrer Aufferbauung und Wiedererg&#228;ntzung dienen wird.</ns0:p>
                                     <ns0:lb xml:id="tg59.2.7" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg59.2.8">
                                        <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg59.2.8.1">Liebenberg komt dazu.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="enter" xml:id="tg59.2.8">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg59.2.8.1">Liebenberg komt dazu.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg59.2.9" />
                                  </ns0:sp>
@@ -1481,13 +1329,8 @@ da ich dich zu heyrathen willens gewesen, aber anjetzo mag ich dich nicht.</ns0:
                                     <ns0:speaker xml:id="tg59.2.13.part1">STAHRENBERG.</ns0:speaker>
                                     <ns0:l xml:id="tg59.2.13.part2"> Wohlan so begebe ich mich in euerer Begleitung dahin.</ns0:l>
                                     <ns0:lb xml:id="tg59.2.14" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg59.2.15">
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg59.2.15.1">Abeunt.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="other" xml:id="tg59.2.15">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg59.2.15.1">Abeunt.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg59.2.16" />
                                  </ns0:sp>
@@ -1532,13 +1375,8 @@ hegt, auf da&#223; dasjenige was meine Waffen nicht verderben, vom Feuer verzehr
                                     <ns0:speaker xml:id="tg61.2.8.part1">TEKELY.</ns0:speaker>
                                     <ns0:p xml:id="tg61.2.8.part2"> Gro&#223;er F&#252;rst Mustapha dieses Volck ist derma&#223;en verstockt, da&#223; es eher alles wagen, als seine Freyheit verschertzen will, derowegen sind sie unw&#252;rdig durch Accord Gnade zu erhalten, sondern ein General-Sturm wird sie zwingen, und ihre Hoheit deiner Macht vor die F&#252;&#223;e legen.</ns0:p>
                                     <ns0:lb xml:id="tg61.2.9" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg61.2.10">
                                        <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg61.2.10.1">Ibrahim komt dazu.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="enter" xml:id="tg61.2.10">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg61.2.10.1">Ibrahim komt dazu.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg61.2.11" />
                                  </ns0:sp>
@@ -1570,13 +1408,8 @@ hegt, auf da&#223; dasjenige was meine Waffen nicht verderben, vom Feuer verzehr
                                     <ns0:speaker xml:id="tg61.2.18.part1">IBRAHIM.</ns0:speaker>
                                     <ns0:l xml:id="tg61.2.18.part2"> Das verderben dieser Unbeschnittenen wird meine h&#246;chste Freude und Vergn&#252;gen seyn.</ns0:l>
                                     <ns0:lb xml:id="tg61.2.19" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg61.2.20">
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg61.2.20.1">Alle ab, forderstes Scena wird zugemacht.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="other" xml:id="tg61.2.20">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg61.2.20.1">Alle ab, forderstes Scena wird zugemacht.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg61.2.21" />
 
@@ -1624,20 +1457,12 @@ wodurch alle Communication mit der Kayserlichen Arm&#233;e uns abgeschnitten wor
                                  </ns0:sp>
                                  <ns0:sp>
                                     <ns0:speaker xml:id="tg62.2.11.part1">SERINI.</ns0:speaker>
-<<<<<<< HEAD
                                     <ns0:p xml:id="tg62.2.11.part2"> Ich eyle umb der Sehsion de&#223;elben beyzuwohnen, und w&#252;nsche nochmahls Gl&#252;ck zu vorgenommener entreprise. <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg62.2.11.1.part2">Gehet ab.</ns0:stage>
-=======
-                                    <ns0:p xml:id="tg62.2.11.part2"> Ich eyle umb der Sehsion de&#223;elben beyzuwohnen, und w&#252;nsche nochmahls Gl&#252;ck zu vorgenommener entreprise. <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg62.2.11.1.part2">Gehet ab.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:p>
                                  </ns0:sp>
                                  <ns0:sp>
                                     <ns0:speaker xml:id="tg62.2.12.part1">DAUN.</ns0:speaker>
-<<<<<<< HEAD
                                     <ns0:p xml:id="tg62.2.12.part2"> Anjetzo hat das Gl&#252;ck mir den Weg gebahnet, mein Krieges Gl&#252;ck bi&#223; auf die h&#246;chste Staffel zu erheben, und denen T&#252;rcken meinen Degen nachdr&#252;cklich f&#252;hlen zu la&#223;en; Wohlan ich gehe wohin die Begierde zur Tugend und Tapfferkeit mich f&#252;hret. <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg62.2.12.1.part2">Abit.</ns0:stage>
-=======
-                                    <ns0:p xml:id="tg62.2.12.part2"> Anjetzo hat das Gl&#252;ck mir den Weg gebahnet, mein Krieges Gl&#252;ck bi&#223; auf die h&#246;chste Staffel zu erheben, und denen T&#252;rcken meinen Degen nachdr&#252;cklich f&#252;hlen zu la&#223;en; Wohlan ich gehe wohin die Begierde zur Tugend und Tapfferkeit mich f&#252;hret. <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg62.2.12.1.part2">Abit.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:p>
                                     <ns0:lb xml:id="tg62.2.13" />
                                  </ns0:sp>
@@ -1689,13 +1514,8 @@ wodurch alle Communication mit der Kayserlichen Arm&#233;e uns abgeschnitten wor
                                     <ns0:speaker xml:id="tg63.2.12.part1">LIEBENBERG.</ns0:speaker>
                                     <ns0:p xml:id="tg63.2.12.part2"> In dem Vorzimmer weil ich ihn zu dem Ende mit hergebracht, Ew. Durchlaucht und einem hochprei&#223;l. Consilio vorstellen zu k&#246;nnen.</ns0:p>
                                     <ns0:lb xml:id="tg63.2.13" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg63.2.14">
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg63.2.14.1">Hie schellet der Praesident mit dem Gl&#246;ckl: ein Page komt dazu.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="other" xml:id="tg63.2.14">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg63.2.14.1">Hie schellet der Praesident mit dem Gl&#246;ckl: ein Page komt dazu.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg63.2.15" />
                                  </ns0:sp>
@@ -1711,13 +1531,8 @@ wodurch alle Communication mit der Kayserlichen Arm&#233;e uns abgeschnitten wor
                                     <ns0:speaker xml:id="tg63.2.18.part1">PAGE.</ns0:speaker>
                                     <ns0:l xml:id="tg63.2.18.part2"> Ich gehorsame Ew. Durchlaucht.</ns0:l>
                                     <ns0:lb xml:id="tg63.2.19" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg63.2.20">
                                        <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg63.2.20.1">Page ab Koltsch&#252;tzky komt dazu.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="exit" xml:id="tg63.2.20">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg63.2.20.1">Page ab Koltsch&#252;tzky komt dazu.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg63.2.21" />
                                  </ns0:sp>
@@ -1760,11 +1575,7 @@ womit ich von Ungarn herauf handele, ernehret. &#8211;</ns0:p>
                                  </ns0:sp>
                                  <ns0:sp>
                                     <ns0:speaker xml:id="tg63.2.31.part1">KOLTSCH&#220;TZKY.</ns0:speaker>
-<<<<<<< HEAD
                                     <ns0:l xml:id="tg63.2.31.part2"> No So befehl ich mich derweil der hochgestrengen Gesellschaft. <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg63.2.31.1.part2">Abit.</ns0:stage>
-=======
-                                    <ns0:l xml:id="tg63.2.31.part2"> No So befehl ich mich derweil der hochgestrengen Gesellschaft. <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg63.2.31.1.part2">Abit.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:l>
                                  </ns0:sp>
                                  <ns0:sp>
@@ -1811,13 +1622,8 @@ womit ich von Ungarn herauf handele, ernehret. &#8211;</ns0:p>
                                     <ns0:speaker xml:id="tg63.2.42.part1">LIEBENBERG.</ns0:speaker>
                                     <ns0:l xml:id="tg63.2.42.part2"> Ich werde der einem hochansehnlichen Collegio schuldigen Pflicht gem&#228;&#223; alles veranstalten.</ns0:l>
                                     <ns0:lb xml:id="tg63.2.43" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg63.2.44">
                                        <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg63.2.44.1">Serini komt dazu.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="enter" xml:id="tg63.2.44">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg63.2.44.1">Serini komt dazu.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg63.2.45" />
                                  </ns0:sp>
@@ -1825,13 +1631,8 @@ womit ich von Ungarn herauf handele, ernehret. &#8211;</ns0:p>
                                     <ns0:speaker xml:id="tg63.2.46.part1">SERINI.</ns0:speaker>
                                     <ns0:p xml:id="tg63.2.46.part2"> Gefahr, Gefahr, Gn&#228;digste und hochansehnliche Herren, eine am Schotten Closter im Mayer- Hoff entstandene Feuers-Brunst setzet das Kayserl. Zeughau&#223; in Gefahr.</ns0:p>
                                     <ns0:lb xml:id="tg63.2.47" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg63.2.48">
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg63.2.48.1">Alle stehen auf und treten f&#252;rwerts.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="other" xml:id="tg63.2.48">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg63.2.48.1">Alle stehen auf und treten f&#252;rwerts.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg63.2.49" />
                                  </ns0:sp>
@@ -1839,13 +1640,8 @@ womit ich von Ungarn herauf handele, ernehret. &#8211;</ns0:p>
                                     <ns0:speaker xml:id="tg63.2.50.part1">BAADEN.</ns0:speaker>
                                     <ns0:p xml:id="tg63.2.50.part2"> Das wolle der Himmel nicht, wann das darinnen befindliche Pulver in die Lufft sprenget, so ist alles verlohren.</ns0:p>
                                     <ns0:lb xml:id="tg63.2.51" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg63.2.52">
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg63.2.52.1">Tisch und St&#252;hle weg.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="other" xml:id="tg63.2.52">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg63.2.52.1">Tisch und St&#252;hle weg.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg63.2.53" />
                                  </ns0:sp>
@@ -1858,13 +1654,8 @@ womit ich von Ungarn herauf handele, ernehret. &#8211;</ns0:p>
                                     <ns0:p xml:id="tg63.2.55.part2"> Geehrteste Mittglieder, es eyle mit mir ein jeder dem &#220;bel zu steuren und zu wehren.</ns0:p>
                                     <ns0:p xml:id="tg63.2.56">W&#220;RTENBERG, STAHRENBERG, CAPPLIERS, SERINI UND LIEBENBERG. Wir folgen alle, wohin es Ihro Durchlaucht dem Herrn Praesidenten gef&#228;llig.</ns0:p>
                                     <ns0:lb xml:id="tg63.2.57" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg63.2.58">
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg63.2.58.1">Alle ab, wird forne zugemacht.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="other" xml:id="tg63.2.58">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg63.2.58.1">Alle ab, wird forne zugemacht.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg63.2.59" />
 
@@ -1910,13 +1701,8 @@ womit ich von Ungarn herauf handele, ernehret. &#8211;</ns0:p>
                                     <ns0:speaker xml:id="tg64.2.11.part1">ALOISIA.</ns0:speaker>
                                     <ns0:p xml:id="tg64.2.11.part2"> Was kan man aber gutes hoffen, da das Ungl&#252;ck &#252;ber unserm Haupte schwebet und unser Leben nur an einem seydenen Faden hanget.</ns0:p>
                                     <ns0:lb xml:id="tg64.2.12" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg64.2.13">
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg64.2.13.1">Hans Wurst im Thorsteher-Habit komt dazu.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="other" xml:id="tg64.2.13">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg64.2.13.1">Hans Wurst im Thorsteher-Habit komt dazu.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg64.2.14" />
                                  </ns0:sp>
@@ -1946,24 +1732,15 @@ womit ich von Ungarn herauf handele, ernehret. &#8211;</ns0:p>
                                  </ns0:sp>
                                  <ns0:sp>
                                     <ns0:speaker xml:id="tg64.2.21.part1">HANS WURST.</ns0:speaker>
-<<<<<<< HEAD
                                     <ns0:l xml:id="tg64.2.21.part2"> No No ist schon recht. <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg64.2.21.1.part2">Gehet ab.</ns0:stage>
-=======
-                                    <ns0:l xml:id="tg64.2.21.part2"> No No ist schon recht. <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg64.2.21.1.part2">Gehet ab.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:l>
                                  </ns0:sp>
                                  <ns0:sp>
                                     <ns0:speaker xml:id="tg64.2.22.part1">EUPHROSINA.</ns0:speaker>
                                     <ns0:p xml:id="tg64.2.22.part2"> Dieser meiner gn&#228;digsten Frau Mutter Hertzens-Freundin wird unserer Betr&#252;bnu&#223; durch ihre Gegenwart eine Linderung geben.</ns0:p>
                                     <ns0:lb xml:id="tg64.2.23" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg64.2.24">
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg64.2.24.1">Adelgunda und Hans Wurst kommen dazu, drey St&#252;hle werden gebracht.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="other" xml:id="tg64.2.24">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg64.2.24.1">Adelgunda und Hans Wurst kommen dazu, drey St&#252;hle werden gebracht.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg64.2.25" />
                                  </ns0:sp>
@@ -1971,13 +1748,8 @@ womit ich von Ungarn herauf handele, ernehret. &#8211;</ns0:p>
                                     <ns0:speaker xml:id="tg64.2.26.part1">HANS WURST.</ns0:speaker>
                                     <ns0:l xml:id="tg64.2.26.part2"> Fa&#223;en Sie mich bey der Hand, da&#223; Sie nicht fallen, die Stiegen ist gar finster.</ns0:l>
                                     <ns0:lb xml:id="tg64.2.27" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg64.2.28">
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg64.2.28.1">Hie empfanget das Frauen-Zimmer einander auf frantz&#246;sische Manier.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="other" xml:id="tg64.2.28">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg64.2.28.1">Hie empfanget das Frauen-Zimmer einander auf frantz&#246;sische Manier.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg64.2.29" />
                                  </ns0:sp>
@@ -1989,13 +1761,8 @@ womit ich von Ungarn herauf handele, ernehret. &#8211;</ns0:p>
                                     <ns0:speaker xml:id="tg64.2.31.part1">ALOISIA.</ns0:speaker>
                                     <ns0:p xml:id="tg64.2.31.part2"> Da&#223; Ew. Excellenz dero Dienerin mit ihrem werthen Zuspruch beehren wollen, erkenne ich als eine sonderbahre affection, weil mein Hertz anstatt derer Gesch&#228;ffte mit lauter Traurigkeit erf&#252;llet ist.</ns0:p>
                                     <ns0:lb xml:id="tg64.2.32" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg64.2.33">
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg64.2.33.1">Alle setzen sich.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="other" xml:id="tg64.2.33">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg64.2.33.1">Alle setzen sich.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg64.2.34" />
                                  </ns0:sp>
@@ -2037,11 +1804,7 @@ womit ich von Ungarn herauf handele, ernehret. &#8211;</ns0:p>
                                  </ns0:sp>
                                  <ns0:sp>
                                     <ns0:speaker xml:id="tg64.2.44.part1">HANS WURST.</ns0:speaker>
-<<<<<<< HEAD
                                     <ns0:p xml:id="tg64.2.44.part2"> Sitzen, warumb solt ich dann nicht auch so gut sitzen k&#246;nnen als der Mohr, was wolt Sies wetten. <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg64.2.44.1.part2">Setzt sich nieder.</ns0:stage>
-=======
-                                    <ns0:p xml:id="tg64.2.44.part2"> Sitzen, warumb solt ich dann nicht auch so gut sitzen k&#246;nnen als der Mohr, was wolt Sies wetten. <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg64.2.44.1.part2">Setzt sich nieder.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:p>
                                  </ns0:sp>
                                  <ns0:sp>
@@ -2050,11 +1813,7 @@ womit ich von Ungarn herauf handele, ernehret. &#8211;</ns0:p>
                                  </ns0:sp>
                                  <ns0:sp>
                                     <ns0:speaker xml:id="tg64.2.46.part1">HANS WURST.</ns0:speaker>
-<<<<<<< HEAD
                                     <ns0:p xml:id="tg64.2.46.part2"> No so last eure Tochter &#228; fried geben, warumb sagt Sie ich kan nicht so gut sitzen als der Mohr. <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg64.2.46.1.part2">Stehet auf.</ns0:stage>
-=======
-                                    <ns0:p xml:id="tg64.2.46.part2"> No so last eure Tochter &#228; fried geben, warumb sagt Sie ich kan nicht so gut sitzen als der Mohr. <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg64.2.46.1.part2">Stehet auf.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:p>
                                  </ns0:sp>
                                  <ns0:sp>
@@ -2084,20 +1843,12 @@ an euch, seyd ihr etwa ehede&#223;en im Feld gewesen, dann dergleichen Leuthe pf
                                  </ns0:sp>
                                  <ns0:sp>
                                     <ns0:speaker xml:id="tg64.2.53.part1">ALOISIA.</ns0:speaker>
-<<<<<<< HEAD
                                     <ns0:p xml:id="tg64.2.53.part2"> Wann du bey mir keine be&#223;ere Schildwacht seyn wirst als damahls so bist du mir wenig n&#252;tze; Aber anjetzo nim diesen Brieff, trage ihn zu meinem Gemahl, vermelde dabey, da&#223; ich seinenthalben in Tausend Sorgen lebe, und w&#252;nsche ihm bald zu sehen. <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg64.2.53.1.part2">Gibt ihm den Brief No. 5.</ns0:stage>
-=======
-                                    <ns0:p xml:id="tg64.2.53.part2"> Wann du bey mir keine be&#223;ere Schildwacht seyn wirst als damahls so bist du mir wenig n&#252;tze; Aber anjetzo nim diesen Brieff, trage ihn zu meinem Gemahl, vermelde dabey, da&#223; ich seinenthalben in Tausend Sorgen lebe, und w&#252;nsche ihm bald zu sehen. <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg64.2.53.1.part2">Gibt ihm den Brief No. 5.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:p>
                                  </ns0:sp>
                                  <ns0:sp>
                                     <ns0:speaker xml:id="tg64.2.54.part1">HANS WURST.</ns0:speaker>
-<<<<<<< HEAD
                                     <ns0:p xml:id="tg64.2.54.part2"> No, No ist schon recht Frau Gr&#228;ffin &#8211; &#8211; Aber a propo wann der Hausknecht &#8211; sagens ihm doch, er soll sich nur &#228; Weil niedersetzen, bi&#223; ich komme, er hat mich bestelt, ich soll mit ihm Dame ziehen. <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg64.2.54.1.part2">Gehet ab.</ns0:stage>
-=======
-                                    <ns0:p xml:id="tg64.2.54.part2"> No, No ist schon recht Frau Gr&#228;ffin &#8211; &#8211; Aber a propo wann der Hausknecht &#8211; sagens ihm doch, er soll sich nur &#228; Weil niedersetzen, bi&#223; ich komme, er hat mich bestelt, ich soll mit ihm Dame ziehen. <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg64.2.54.1.part2">Gehet ab.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:p>
                                  </ns0:sp>
                                  <ns0:sp>
@@ -2106,11 +1857,7 @@ an euch, seyd ihr etwa ehede&#223;en im Feld gewesen, dann dergleichen Leuthe pf
                                  </ns0:sp>
                                  <ns0:sp>
                                     <ns0:speaker xml:id="tg64.2.56.part1">EUPHROSINA.</ns0:speaker>
-<<<<<<< HEAD
                                     <ns0:p xml:id="tg64.2.56.part2"> Wie solte doch einige fr&#246;lichkeit bey mir stattfinden, da mein Herr Vater in Gefahr, und meine Frau Mutter in Sorgen lebet. <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg64.2.56.1.part2">Sophia dazu.</ns0:stage>
-=======
-                                    <ns0:p xml:id="tg64.2.56.part2"> Wie solte doch einige fr&#246;lichkeit bey mir stattfinden, da mein Herr Vater in Gefahr, und meine Frau Mutter in Sorgen lebet. <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg64.2.56.1.part2">Sophia dazu.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:p>
                                  </ns0:sp>
                                  <ns0:sp>
@@ -2133,13 +1880,8 @@ an euch, seyd ihr etwa ehede&#223;en im Feld gewesen, dann dergleichen Leuthe pf
                                     <ns0:speaker xml:id="tg64.2.61.part1">ADELGUNDA.</ns0:speaker>
                                     <ns0:l xml:id="tg64.2.61.part2"> Ihro Exzellenz es hat keine Gefahr nicht, dann wir seynd alhie sicher genug.</ns0:l>
                                     <ns0:lb xml:id="tg64.2.62" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg64.2.63">
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg64.2.63.1">Alle stehen auf, die St&#252;hle werden weggetragen.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="other" xml:id="tg64.2.63">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg64.2.63.1">Alle stehen auf, die St&#252;hle werden weggetragen.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg64.2.64" />
                                  </ns0:sp>
@@ -2155,13 +1897,8 @@ an euch, seyd ihr etwa ehede&#223;en im Feld gewesen, dann dergleichen Leuthe pf
                                     <ns0:speaker xml:id="tg64.2.67.part1">ADELGUNDA.</ns0:speaker>
                                     <ns0:l xml:id="tg64.2.67.part2"> Ich folge wohin es Ew. Excellenz gef&#228;llig.</ns0:l>
                                     <ns0:lb xml:id="tg64.2.68" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg64.2.69">
                                        <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg64.2.69.1">Alle gehen ab.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="exit" xml:id="tg64.2.69">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg64.2.69.1">Alle gehen ab.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg64.2.70" />
 
@@ -2189,21 +1926,12 @@ an euch, seyd ihr etwa ehede&#223;en im Feld gewesen, dann dergleichen Leuthe pf
                                  <ns0:sp>
                                     <ns0:speaker xml:id="tg65.2.6.part1">DAS VOLCK</ns0:speaker> 
                                     <ns0:stage>
-<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg65.2.6.1.part1">schreyet.</ns0:stage>
                                     </ns0:stage>
                                     <ns0:p xml:id="tg65.2.6.part2"> Schlagt zu, Schlagt zu hauet, sto&#223;t, stecht und schlagt ihn gar todt, den Schelm, den Mordbrenner, er hats Feuer angez&#252;ndt, und kein Mensch anders zieht ihm gar die Haut ab.</ns0:p>
                                     <ns0:lb xml:id="tg65.2.7" />
                                     <ns0:stage rend="zenoPC" xml:id="tg65.2.8">
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg65.2.8.1">Schlagen und tractiren ihn &#252;bel, und extemporiren so lange, bi&#223; Stahrenberg mit etlichen von der Stadt-Guarde dazu komt.</ns0:stage>
-=======
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg65.2.6.1.part1">schreyet.</ns0:stage>
-                                    </ns0:stage>
-                                    <ns0:p xml:id="tg65.2.6.part2"> Schlagt zu, Schlagt zu hauet, sto&#223;t, stecht und schlagt ihn gar todt, den Schelm, den Mordbrenner, er hats Feuer angez&#252;ndt, und kein Mensch anders zieht ihm gar die Haut ab.</ns0:p>
-                                    <ns0:lb xml:id="tg65.2.7" />
-                                    <ns0:stage rend="zenoPC" type="other" xml:id="tg65.2.8">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg65.2.8.1">Schlagen und tractiren ihn &#252;bel, und extemporiren so lange, bi&#223; Stahrenberg mit etlichen von der Stadt-Guarde dazu komt.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg65.2.9" />
                                  </ns0:sp>
@@ -2219,11 +1947,7 @@ gescho&#223;en, dadurch wir arme Leuthe ins Ungl&#252;ck kommen sind.</ns0:p>
                                  <ns0:sp>
                                     <ns0:speaker xml:id="tg65.2.12.part1">STAHRENBERG</ns0:speaker> 
                                     <ns0:stage>
-<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg65.2.12.1.part1">wincket mit der Hand dem Volck stille zu seyn.</ns0:stage>
-=======
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg65.2.12.1.part1">wincket mit der Hand dem Volck stille zu seyn.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:p xml:id="tg65.2.12.part2"> Ihr die ihr bi&#223;hero durch eure Unordnungen und Auffruhr nicht allein den innerlichen Frieden gest&#246;ret die Gesetz &#252;berschritten, die Einigkeit gebrochen, ja sogar hiedurch dem Feind Gelegenheit gegeben sich dieses Vortheils zu bedienen, und uns zu &#252;berrumpeln, euch sey angedeutet, da&#223; daferne ihr nicht alsobald euerer Schuldigkeit nach, euch friedlich und gehorsam bezeigen werdet, man unter euch Feuer geben, und euere R&#228;delsf&#252;hrer an die dazu aufgerichtete Galgen hencken wird.</ns0:p>
                                  </ns0:sp>
@@ -2235,13 +1959,8 @@ gescho&#223;en, dadurch wir arme Leuthe ins Ungl&#252;ck kommen sind.</ns0:p>
                                     <ns0:speaker xml:id="tg65.2.14.part1">STAHRENBERG.</ns0:speaker>
                                     <ns0:p xml:id="tg65.2.14.part2"> Dieser Schaden ist so wohl durch euere &#252;ble Auff&#252;hrung vermehret als er von denen feindlichen Bomben verursacht worden, doch soll solcher von dem Magistrat taxiret, und dar&#252;ber verordnet werden.</ns0:p>
                                     <ns0:lb xml:id="tg65.2.15" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg65.2.16">
                                        <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg65.2.16.1">Alle nacheinander ab.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="exit" xml:id="tg65.2.16">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg65.2.16.1">Alle nacheinander ab.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg65.2.17" />
 
@@ -2285,13 +2004,8 @@ gescho&#223;en, dadurch wir arme Leuthe ins Ungl&#252;ck kommen sind.</ns0:p>
                                     <ns0:speaker xml:id="tg66.2.10.part1">SELIM.</ns0:speaker>
                                     <ns0:p xml:id="tg66.2.10.part2"> La&#223; Sie nur machen, wann wir nur ihr Nest erstlich einmahl eingenommen so sollen unsere S&#228;bel hernach die gantze Christenheit auskehren.</ns0:p>
                                     <ns0:lb xml:id="tg66.2.11" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg66.2.12">
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg66.2.12.1">Hie komt ein officier mit einer Parthey Christen dazu, und schlagen die T&#252;rcken in die Flucht, und gehen alle ab, wird forne zugemacht.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="other" xml:id="tg66.2.12">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg66.2.12.1">Hie komt ein officier mit einer Parthey Christen dazu, und schlagen die T&#252;rcken in die Flucht, und gehen alle ab, wird forne zugemacht.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg66.2.13" />
 
@@ -2337,13 +2051,8 @@ gescho&#223;en, dadurch wir arme Leuthe ins Ungl&#252;ck kommen sind.</ns0:p>
                                     <ns0:speaker xml:id="tg67.2.11.part1">W&#220;RTENBERG.</ns0:speaker>
                                     <ns0:p xml:id="tg67.2.11.part2"> Dieses, wo mir recht ist, sind die Kauffleute und Niederl&#228;ger, welchen nach beschehenem Ansuchen an Se. Excellenz dem Herrn Commendanten eygene Fahnen zu f&#252;hren erlaubet ist.</ns0:p>
                                     <ns0:lb xml:id="tg67.2.12" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg67.2.13">
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg67.2.13.1">Alhie kommen die Kauffleute und Niederl&#228;ger mit Fahnen und klingendem Spiel dazu NB.: in ihrer Fahnen mu&#223; das &#214;sterreichische Wappen, zu unterst de&#223;en ein Postillion zu sehen seyn, werden von ihrem f&#252;hrer rangiret und auf nach folgende Weise exerciret [welche zu dem Ende vorher abgerichtet werden m&#252;&#223;en]. W&#252;rtenberg und Daun gelten ab. Hie werden die Kauffleute durch ihren f&#252;hrer exerciret, wie folget.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="other" xml:id="tg67.2.13">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg67.2.13.1">Alhie kommen die Kauffleute und Niederl&#228;ger mit Fahnen und klingendem Spiel dazu NB.: in ihrer Fahnen mu&#223; das &#214;sterreichische Wappen, zu unterst de&#223;en ein Postillion zu sehen seyn, werden von ihrem f&#252;hrer rangiret und auf nach folgende Weise exerciret [welche zu dem Ende vorher abgerichtet werden m&#252;&#223;en]. W&#252;rtenberg und Daun gelten ab. Hie werden die Kauffleute durch ihren f&#252;hrer exerciret, wie folget.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg67.2.14" />
                                  </ns0:sp>
@@ -2351,13 +2060,8 @@ gescho&#223;en, dadurch wir arme Leuthe ins Ungl&#252;ck kommen sind.</ns0:p>
                                     <ns0:speaker xml:id="tg67.2.15.part1">F&#220;HRER.</ns0:speaker>
                                     <ns0:p xml:id="tg67.2.15.part2"> Gebt Achtung &#8211; praesentirt das Gewehr &#8211; das Gewehr beym Fu&#223; &#8211; das Gewehr vor euch &#8211; das Gewehr an der lincken Seite &#8211; ergreifft euer Patron &#8211; zerbei&#223;t sie mit dem Mund &#8211; Thut Sie in den Lauf &#8211; Legt die Hand an den Ladt Stock &#8211; Zieht ihn heraus &#8211; Thut ihn in den Lauff &#8211; Gebt der Ladung drey Sto&#223; &#8211; den Ladt Stock heraus &#8211; den Ladt Stock gerad vor euch &#8211; den Ladt Stock wieder an seinen Orth &#8211; Last das Gewehr forne sincken &#8211; &#246;ffnet die Z&#252;nd Pfanne &#8211; ergreift das Pulverhorn &#8211; Pulver auf die Pfanne &#8211; deckt die Pfanne &#8211; spannet den Hahn &#8211; das Gewehr vors Gesicht &#8211; schlagt an &#8211; Feuer &#8211; bringt den Hahn in der Ruh &#8211; deckt die Pfanne &#8211; das Gewehr hoch &#8211; das Gewehr auf die Schulter &#8211; rechts umb kehrt euch &#8211; March lincks umb &#8211; Schlie&#223;t euch &#8211; march.</ns0:p>
                                     <ns0:lb xml:id="tg67.2.16" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg67.2.17">
                                        <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg67.2.17.1">Der F&#252;hrer f&#252;hret Sie in guter Ordnung alle ab.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="exit" xml:id="tg67.2.17">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg67.2.17.1">Der F&#252;hrer f&#252;hret Sie in guter Ordnung alle ab.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg67.2.18" />
 
@@ -2392,41 +2096,24 @@ gescho&#223;en, dadurch wir arme Leuthe ins Ungl&#252;ck kommen sind.</ns0:p>
                                  </ns0:sp>
                                  <ns0:sp>
                                     <ns0:speaker xml:id="tg68.2.8.part1">CAPPLIERS.</ns0:speaker>
-<<<<<<< HEAD
                                     <ns0:p xml:id="tg68.2.8.part2"> So hat auch Sr. Kayserlichen Mayest&#228;t Resident, der Herr von Cunitz gegenw&#228;rttigen Brieff aus dem Lager gesendet, welchen ich Ew. Durchlaucht gehorsamst &#252;berreichen will. <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg68.2.8.1.part2">&#220;bergibt den Brief No. 6.</ns0:stage>
-=======
-                                    <ns0:p xml:id="tg68.2.8.part2"> So hat auch Sr. Kayserlichen Mayest&#228;t Resident, der Herr von Cunitz gegenw&#228;rttigen Brieff aus dem Lager gesendet, welchen ich Ew. Durchlaucht gehorsamst &#252;berreichen will. <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg68.2.8.1.part2">&#220;bergibt den Brief No. 6.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:p>
                                  </ns0:sp>
                                  <ns0:sp>
                                     <ns0:speaker xml:id="tg68.2.9.part1">BAADEN</ns0:speaker> 
                                     <ns0:stage>
-<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg68.2.9.1.part1">lieset den Brieff.</ns0:stage>
                                     </ns0:stage>
                                     <ns0:p xml:id="tg68.2.9.part2"> Die Gefahr ist gro&#223; darinnen wir leben, und deswegen mu&#223; unsere Wachsamkeit umb desto gr&#246;&#223;er seyn, euch aber Herr Graff von Stahrenberg soll das gesuchte bewilliget, und die Edicta ausgefertiget und publiciret werden.</ns0:p>
                                     <ns0:lb xml:id="tg68.2.10" />
                                     <ns0:stage rend="zenoPC" xml:id="tg68.2.11">
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg68.2.11.1">Hans Wurst mit dem Brieff No. 5 dazu.</ns0:stage>
-=======
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg68.2.9.1.part1">lieset den Brieff.</ns0:stage>
-                                    </ns0:stage>
-                                    <ns0:p xml:id="tg68.2.9.part2"> Die Gefahr ist gro&#223; darinnen wir leben, und deswegen mu&#223; unsere Wachsamkeit umb desto gr&#246;&#223;er seyn, euch aber Herr Graff von Stahrenberg soll das gesuchte bewilliget, und die Edicta ausgefertiget und publiciret werden.</ns0:p>
-                                    <ns0:lb xml:id="tg68.2.10" />
-                                    <ns0:stage rend="zenoPC" type="other" xml:id="tg68.2.11">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg68.2.11.1">Hans Wurst mit dem Brieff No. 5 dazu.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg68.2.12" />
                                  </ns0:sp>
                                  <ns0:sp>
                                     <ns0:speaker xml:id="tg68.2.13.part1">HANS WURST.</ns0:speaker>
-<<<<<<< HEAD
                                     <ns0:p xml:id="tg68.2.13.part2"> Gn&#228;diger Herr Graff, geschwind, geschwind, da ist eure Frau, die schickt euch diesen Brieff. <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg68.2.13.1.part2">&#220;bergibt den Brieff.</ns0:stage>
-=======
-                                    <ns0:p xml:id="tg68.2.13.part2"> Gn&#228;diger Herr Graff, geschwind, geschwind, da ist eure Frau, die schickt euch diesen Brieff. <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg68.2.13.1.part2">&#220;bergibt den Brieff.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:p>
                                  </ns0:sp>
                                  <ns0:sp>
@@ -2459,13 +2146,8 @@ gescho&#223;en, dadurch wir arme Leuthe ins Ungl&#252;ck kommen sind.</ns0:p>
                                     <ns0:speaker xml:id="tg68.2.21.part1">STAHRENBERG.</ns0:speaker>
                                     <ns0:l xml:id="tg68.2.21.part2"> Aber ich h&#246;re jemand klopffen, Hans Wurst siehe zu wer es ist.</ns0:l>
                                     <ns0:lb xml:id="tg68.2.22" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg68.2.23">
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg68.2.23.1">Hans Wurst schauet an die Th&#252;r und Koltsch&#252;tzky komt dazu.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="other" xml:id="tg68.2.23">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg68.2.23.1">Hans Wurst schauet an die Th&#252;r und Koltsch&#252;tzky komt dazu.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg68.2.24" />
                                  </ns0:sp>
@@ -2503,11 +2185,7 @@ gescho&#223;en, dadurch wir arme Leuthe ins Ungl&#252;ck kommen sind.</ns0:p>
                                  </ns0:sp>
                                  <ns0:sp>
                                     <ns0:speaker xml:id="tg68.2.33.part1">BAADEN.</ns0:speaker>
-<<<<<<< HEAD
                                     <ns0:p xml:id="tg68.2.33.part2"> Es bleibet dabey Koltsch&#252;tzky, er seye euch zugegeben, der Himmel gebe da&#223; alles gut von statten gehe, hier empfanget die Brieffe, welche ihr &#252;berreichet, und darauf eine Antwort wieder zur&#252;ck bringet. <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg68.2.33.1.part2">Gibt ihm die Brieffe No. 7 et 8.</ns0:stage>
-=======
-                                    <ns0:p xml:id="tg68.2.33.part2"> Es bleibet dabey Koltsch&#252;tzky, er seye euch zugegeben, der Himmel gebe da&#223; alles gut von statten gehe, hier empfanget die Brieffe, welche ihr &#252;berreichet, und darauf eine Antwort wieder zur&#252;ck bringet. <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg68.2.33.1.part2">Gibt ihm die Brieffe No. 7 et 8.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:p>
                                  </ns0:sp>
                                  <ns0:sp>
@@ -2526,13 +2204,8 @@ gescho&#223;en, dadurch wir arme Leuthe ins Ungl&#252;ck kommen sind.</ns0:p>
                                     <ns0:speaker xml:id="tg68.2.37.part1">HANS WURST.</ns0:speaker>
                                     <ns0:l xml:id="tg68.2.37.part2"> Und wir bleiben ihnen mit Gnaden gewogen.</ns0:l>
                                     <ns0:lb xml:id="tg68.2.38" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg68.2.39">
                                        <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg68.2.39.1">Koltsch&#252;tzky und H.W. ab.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="exit" xml:id="tg68.2.39">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg68.2.39.1">Koltsch&#252;tzky und H.W. ab.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg68.2.40" />
                                  </ns0:sp>
@@ -2540,13 +2213,8 @@ gescho&#223;en, dadurch wir arme Leuthe ins Ungl&#252;ck kommen sind.</ns0:p>
                                     <ns0:speaker xml:id="tg68.2.41.part1">BAADEN.</ns0:speaker>
                                     <ns0:p xml:id="tg68.2.41.part2"> Auch uns beruffet die Zeit zu andern Gesch&#228;fften, und die Nothwendigkeit ermahnet uns, uns von hier zu begeben.</ns0:p>
                                     <ns0:lb xml:id="tg68.2.42" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg68.2.43">
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg68.2.43.1">Alle stehen auf.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="other" xml:id="tg68.2.43">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg68.2.43.1">Alle stehen auf.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg68.2.44" />
                                  </ns0:sp>
@@ -2554,13 +2222,8 @@ gescho&#223;en, dadurch wir arme Leuthe ins Ungl&#252;ck kommen sind.</ns0:p>
                                     <ns0:speaker xml:id="tg68.2.45.part1">STAHRENBERG.</ns0:speaker>
                                     <ns0:l xml:id="tg68.2.45.part2"> Wann dieses Stratagema seinen Entzweck erreichet so zweiffle ich nicht an einer gl&#252;cklichen folge.</ns0:l>
                                     <ns0:lb xml:id="tg68.2.46" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg68.2.47">
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg68.2.47.1">Tisch und St&#252;hle werden weggetragen.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="other" xml:id="tg68.2.47">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg68.2.47.1">Tisch und St&#252;hle werden weggetragen.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg68.2.48" />
                                  </ns0:sp>
@@ -2568,13 +2231,8 @@ gescho&#223;en, dadurch wir arme Leuthe ins Ungl&#252;ck kommen sind.</ns0:p>
                                     <ns0:speaker xml:id="tg68.2.49.part1">CAPPLIERS.</ns0:speaker>
                                     <ns0:p xml:id="tg68.2.49.part2"> Der Himmel vereinige seinen Willen mit unsern irdischen Unternehmungen, so k&#246;nnen dieselbe nicht anders als erw&#252;nscht von statten gehen.</ns0:p>
                                     <ns0:lb xml:id="tg68.2.50" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg68.2.51">
                                        <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg68.2.51.1">Alle gehen ab.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="exit" xml:id="tg68.2.51">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg68.2.51.1">Alle gehen ab.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg68.2.52" />
 
@@ -2631,13 +2289,8 @@ gescho&#223;en, dadurch wir arme Leuthe ins Ungl&#252;ck kommen sind.</ns0:p>
                                     <ns0:speaker xml:id="tg69.2.14.part1">KARA MUSTAPHA.</ns0:speaker>
                                     <ns0:p xml:id="tg69.2.14.part2"> Wie zum Teuffel, wer hat dann au&#223;er dem Sultan uns zu befehlen, soll ich dann von euch erlernen, wie ich die V&#246;lcker in Schlacht- Ordnung stellen, streiten, siegen und das Feld erhalten soll; Also bald gebe man Befehl, da&#223; die innerste Mine gesprenget und mit dem Schie&#223;en unaufh&#246;rlich fortgefahren werde.</ns0:p>
                                     <ns0:lb xml:id="tg69.2.15" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg69.2.16">
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg69.2.16.1">Hie kan nach gutbefinden eine Mine von Pulver, Calvonium, Papier, Hanff und anderer leichten Materie verfertiget [gesprenget], auch in die Stadt gescho&#223;en und Granaten hineingeworffen werden.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="other" xml:id="tg69.2.16">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg69.2.16.1">Hie kan nach gutbefinden eine Mine von Pulver, Calvonium, Papier, Hanff und anderer leichten Materie verfertiget [gesprenget], auch in die Stadt gescho&#223;en und Granaten hineingeworffen werden.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg69.2.17" />
                                  </ns0:sp>
@@ -2653,13 +2306,8 @@ gescho&#223;en, dadurch wir arme Leuthe ins Ungl&#252;ck kommen sind.</ns0:p>
                                     <ns0:speaker xml:id="tg69.2.20.part1">TEKELY.</ns0:speaker>
                                     <ns0:l xml:id="tg69.2.20.part2"> Zu deinem Dienst F&#252;rst Mustapha werde ich allezeit bereit und willig seyn.</ns0:l>
                                     <ns0:lb xml:id="tg69.2.21" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg69.2.22">
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg69.2.22.1">Alle ab. Wird hinten zugemacht und praesentiret einen Wald.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="other" xml:id="tg69.2.22">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg69.2.22.1">Alle ab. Wird hinten zugemacht und praesentiret einen Wald.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg69.2.23" />
 
@@ -2688,23 +2336,14 @@ gescho&#223;en, dadurch wir arme Leuthe ins Ungl&#252;ck kommen sind.</ns0:p>
                                     <ns0:speaker xml:id="tg70.2.6.part1">LOTTHRINGEN.</ns0:speaker>
                                     <ns0:p xml:id="tg70.2.6.part2"> Bi&#223; daher floriret annoch die tapffere Teutsche Macht, und der T&#252;rcken Hund, wie sehr er auch solche zu d&#228;mpffen sich bem&#252;het, mu&#223; mit seinem Schaden erfahren da&#223; der H&#246;chste die Hand &#252;ber die Seinigen h&#228;lt, und da&#223; der R&#246;mische Adler bi&#223; daher noch unerschrocken sey, Ihr aber tapffere Soldaten die ihr bi&#223; daher nicht ermangelt dem Feind M&#228;nnlichen Wiederstand zu thun, fahret fort noch ferner f&#252;r die Christenheit zu streiten, wie ich dann ordre geben werde, da&#223; zu Anfrischung euerer Tapfferkeit einem jeden ein Monath Sold voraus gereichet werden soll.</ns0:p>
                                     <ns0:lb xml:id="tg70.2.7" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg70.2.8">
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg70.2.8.1">Koltsch&#252;tzky und Hans Wurst zu Pferd in T&#252;rckischer Kleydung mit denen Brieffen 7 et 8 dazu.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="other" xml:id="tg70.2.8">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg70.2.8.1">Koltsch&#252;tzky und Hans Wurst zu Pferd in T&#252;rckischer Kleydung mit denen Brieffen 7 et 8 dazu.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg70.2.9" />
                                  </ns0:sp>
                                  <ns0:sp>
                                     <ns0:speaker xml:id="tg70.2.10.part1">KOLTSCH&#220;TZKY.</ns0:speaker>
-<<<<<<< HEAD
                                     <ns0:p xml:id="tg70.2.10.part2"> Gn&#228;diger Herr Quartier, wir sind keine T&#252;rcken, sondern Christliche Kundschaffter, der Commendant und der Stab schicken ihnen diese Brieffe. <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg70.2.10.1.part2">&#220;bergibt die Brieffe.</ns0:stage>
-=======
-                                    <ns0:p xml:id="tg70.2.10.part2"> Gn&#228;diger Herr Quartier, wir sind keine T&#252;rcken, sondern Christliche Kundschaffter, der Commendant und der Stab schicken ihnen diese Brieffe. <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg70.2.10.1.part2">&#220;bergibt die Brieffe.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:p>
                                  </ns0:sp>
                                  <ns0:sp>
@@ -2751,13 +2390,8 @@ gescho&#223;en, dadurch wir arme Leuthe ins Ungl&#252;ck kommen sind.</ns0:p>
                                     <ns0:speaker xml:id="tg70.2.21.part1">HANS WURST.</ns0:speaker>
                                     <ns0:l xml:id="tg70.2.21.part2"> No, no ist schon recht, ich und mein Ro&#223; verlangen so &#228; futter.</ns0:l>
                                     <ns0:lb xml:id="tg70.2.22" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg70.2.23">
                                        <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg70.2.23.1">Alle ab.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="exit" xml:id="tg70.2.23">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg70.2.23.1">Alle ab.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg70.2.24" />
 
@@ -2792,13 +2426,8 @@ Scena XI</ns0:head>
                                     <ns0:speaker xml:id="tg71.2.7.part1">VALIDE.</ns0:speaker>
                                     <ns0:p xml:id="tg71.2.7.part2"> Ich selbsten ob ich gleich in der Mahometanischen Lehre erzogen, und denen Gebr&#228;uchen der ottomannischen Pforte unterworffen bin, kan doch eine solche Lebens-Art nicht billigen, welche von aller Gesellschafft g&#228;ntzlich abgesondert, und das Weibliche Geschlecht bey der Tyranney ihrer M&#228;nner schlechte Freude genie&#223;et, und lobe ich hierinnen die Weiber derer Christen, welche wie ich erzehlen h&#246;ren, nicht von stummen Sclaven, sondern von ihren liebreitzenden M&#228;nnern auf das flei&#223;igste bedienet werden.</ns0:p>
                                     <ns0:lb xml:id="tg71.2.8" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg71.2.9">
                                        <ns0:stage rend="italic" type="aside" ns1:fixed-stage="true" xml:id="tg71.2.9.1">Kara Mustapha allein dazu.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="aside" xml:id="tg71.2.9">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg71.2.9.1">Kara Mustapha allein dazu.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg71.2.10" />
                                  </ns0:sp>
@@ -2826,13 +2455,8 @@ Scena XI</ns0:head>
                                     <ns0:speaker xml:id="tg71.2.16.part1">KARA MUSTAPHA.</ns0:speaker>
                                     <ns0:l xml:id="tg71.2.16.part2"> Und dein Anschauen erfreuet mich.</ns0:l>
                                     <ns0:lb xml:id="tg71.2.17" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg71.2.18">
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg71.2.18.1">Hie l&#228;st sich ein Geschrey h&#246;ren: Man greiffe zum Waffen, Vezier, Bahsa, Beglerbeg, die Christen fallen &#252;berall an, die Janitscharen wollen den Mustapha t&#246;dten.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="other" xml:id="tg71.2.18">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg71.2.18.1">Hie l&#228;st sich ein Geschrey h&#246;ren: Man greiffe zum Waffen, Vezier, Bahsa, Beglerbeg, die Christen fallen &#252;berall an, die Janitscharen wollen den Mustapha t&#246;dten.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg71.2.19" />
                                  </ns0:sp>
@@ -2844,13 +2468,8 @@ Scena XI</ns0:head>
                                     <ns0:speaker xml:id="tg71.2.21.part1">KARA MUSTAPHA.</ns0:speaker>
                                     <ns0:p xml:id="tg71.2.21.part2"> O H&#246;lle was ist dieses, es eyle alles, es fliehe, was unbewaffnet ist, ich aber gehe den Auffruhr zu stillen.</ns0:p>
                                     <ns0:lb xml:id="tg71.2.22" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg71.2.23">
                                        <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg71.2.23.1">Alle ab.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="exit" xml:id="tg71.2.23">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg71.2.23.1">Alle ab.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg71.2.24" />
 
@@ -2894,13 +2513,8 @@ Scena XI</ns0:head>
                                     <ns0:speaker xml:id="tg72.2.10.part1">IBRAHIM.</ns0:speaker>
                                     <ns0:p xml:id="tg72.2.10.part2"> Es ist wahr mein Freund Selim, diese Gefangenschafft wird ihnen h&#228;rter als der Todt selbst fallen, solte es uns aber an Ketten und Stricke ermangeln, diese Hund zu binden, so schneide man Riemen aus derer &#252;brigen Leiber sie damit zu fe&#223;eln, und zu bestricken. Ihr aber tapffere Janitscharen freuet euch mit mir an der Christen Niederlage, die Beute die in dieser Stadt sich befindet ist alle euer, dafern ihr sie nur holen wollet.</ns0:p>
                                     <ns0:lb xml:id="tg72.2.11" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg72.2.12">
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg72.2.12.1">Kara Mustapha, Tekely und sechs Tartarn mit Schilde und einem Ro&#223;-Schweiff dazu.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="other" xml:id="tg72.2.12">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg72.2.12.1">Kara Mustapha, Tekely und sechs Tartarn mit Schilde und einem Ro&#223;-Schweiff dazu.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg72.2.13" />
                                  </ns0:sp>
@@ -2923,24 +2537,15 @@ Sie wollen lieber sterben als gefangen seyn, und ist weder Stahl noch Eysen verm
                                  </ns0:sp>
                                  <ns0:sp>
                                     <ns0:speaker xml:id="tg72.2.18.part1">SELIM.</ns0:speaker>
-<<<<<<< HEAD
                                     <ns0:l xml:id="tg72.2.18.part2"> Ich gehe dein Gebot zu erf&#252;llen. <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg72.2.18.1.part2">Gehet ab.</ns0:stage>
-=======
-                                    <ns0:l xml:id="tg72.2.18.part2"> Ich gehe dein Gebot zu erf&#252;llen. <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg72.2.18.1.part2">Gehet ab.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:l>
                                  </ns0:sp>
                                  <ns0:sp>
                                     <ns0:speaker xml:id="tg72.2.19.part1">KARA MUSTAPHA.</ns0:speaker>
                                     <ns0:p xml:id="tg72.2.19.part2"> Vielleicht ist dieses ein Kundschaffter, von welchem ich die Beschaffenheit der Stadt zu meinem Vortheil erfahren kan.</ns0:p>
                                     <ns0:lb xml:id="tg72.2.20" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg72.2.21">
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg72.2.21.1">Hans Wurst in T&#252;rckischer Kleydung, gefe&#223;elt, und zu fu&#223;e nebst Selim und der Wacht kommen dazu.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="other" xml:id="tg72.2.21">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg72.2.21.1">Hans Wurst in T&#252;rckischer Kleydung, gefe&#223;elt, und zu fu&#223;e nebst Selim und der Wacht kommen dazu.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg72.2.22" />
                                  </ns0:sp>
@@ -3032,23 +2637,14 @@ Sie wollen lieber sterben als gefangen seyn, und ist weder Stahl noch Eysen verm
                                     <ns0:speaker xml:id="tg72.2.44.part1">KARA MUSTAPHA.</ns0:speaker>
                                     <ns0:p xml:id="tg72.2.44.part2"> Holla, dieses ist ohne Zweiffel ein Schelm und Spion. Alsobald lasse man ihn besuchen, ob er keine Brieffe bey sich hat.</ns0:p>
                                     <ns0:lb xml:id="tg72.2.45" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg72.2.46">
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg72.2.46.1">Die T&#252;rcken visitiren ihn.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="other" xml:id="tg72.2.46">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg72.2.46.1">Die T&#252;rcken visitiren ihn.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg72.2.47" />
                                  </ns0:sp>
                                  <ns0:sp>
                                     <ns0:speaker xml:id="tg72.2.48.part1">HANS WURST.</ns0:speaker>
-<<<<<<< HEAD
                                     <ns0:l xml:id="tg72.2.48.part2"> Greiffts nur selber eine ins Felleisen. <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg72.2.48.1.part2">Zeigt ihnen den Hintern.</ns0:stage>
-=======
-                                    <ns0:l xml:id="tg72.2.48.part2"> Greiffts nur selber eine ins Felleisen. <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg72.2.48.1.part2">Zeigt ihnen den Hintern.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:l>
                                  </ns0:sp>
                                  <ns0:sp>
@@ -3073,11 +2669,7 @@ Sie wollen lieber sterben als gefangen seyn, und ist weder Stahl noch Eysen verm
                                  </ns0:sp>
                                  <ns0:sp>
                                     <ns0:speaker xml:id="tg72.2.54.part1">KARA MUSTAPHA.</ns0:speaker>
-<<<<<<< HEAD
                                     <ns0:p xml:id="tg72.2.54.part2"> Ihr Soldaten f&#252;hrt ihn weg; da&#223; er allen Verr&#228;thern zum Exempel seinen verdienten Lohn empfange. <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg72.2.54.1.part2">Selim, Hans Wurst mit der Wacht ab.</ns0:stage> Anjetzo mache sich alles fertig zum Sturm, dann ich noch heute die Stadt haben, und denen Christen den Garaus machen will.</ns0:p>
-=======
-                                    <ns0:p xml:id="tg72.2.54.part2"> Ihr Soldaten f&#252;hrt ihn weg; da&#223; er allen Verr&#228;thern zum Exempel seinen verdienten Lohn empfange. <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg72.2.54.1.part2">Selim, Hans Wurst mit der Wacht ab.</ns0:stage> Anjetzo mache sich alles fertig zum Sturm, dann ich noch heute die Stadt haben, und denen Christen den Garaus machen will.</ns0:p>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                  </ns0:sp>
                                  <ns0:sp>
                                     <ns0:speaker xml:id="tg72.2.55.part1">TEKELY.</ns0:speaker>
@@ -3088,13 +2680,8 @@ Sie wollen lieber sterben als gefangen seyn, und ist weder Stahl noch Eysen verm
                                     <ns0:p xml:id="tg72.2.56.part2"> Man verschone keines Christen, er seye alt oder jung, nur was der Lehre des Alcorans sich unterwerffen will bleibe am Leben das &#252;brige aber gehe zu <ns0:pb n="106" xml:id="tg72.2.56.1.part2" />
 Grund, ja aus jenem gro&#223;en Geb&#228;u und Thurn werde ich dem gro&#223;en Mahomet eine Moche&#233; widmen und verfertigen la&#223;en damit der Nahme derer Christen daraus vertilget und hingegen die Macht des gro&#223;en Mahomets, und seines Dieners Solimans gef&#252;rchtet werden m&#246;ge.</ns0:p>
                                     <ns0:lb xml:id="tg72.2.57" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg72.2.58">
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg72.2.58.1">Alhie l&#228;&#223;et die Stadt-Guarde auf der Pastey sich sehen und schie&#223;et heraus, auch die T&#252;rcken richten sich zum Sturm.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="other" xml:id="tg72.2.58">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg72.2.58.1">Alhie l&#228;&#223;et die Stadt-Guarde auf der Pastey sich sehen und schie&#223;et heraus, auch die T&#252;rcken richten sich zum Sturm.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg72.2.59" />
                                  </ns0:sp>
@@ -3102,13 +2689,8 @@ Grund, ja aus jenem gro&#223;en Geb&#228;u und Thurn werde ich dem gro&#223;en M
                                     <ns0:speaker xml:id="tg72.2.60.part1">IBRAHIM.</ns0:speaker>
                                     <ns0:p xml:id="tg72.2.60.part2"> Gr&#246;&#223;ester F&#252;rst der ottomannischen Pforte, mein Gebl&#252;t kochet in meinen Adern, und ich kan mein Haupt nicht eher sanffte legen, bi&#223; ich die Christen ausgerottet sehe, derowegen es freue sich der Mond, es fliege der Ro&#223;-Schweiff, es frolocken alle Musulm&#228;nner da&#223; der Christen Verderben nahe ist.</ns0:p>
                                     <ns0:lb xml:id="tg72.2.61" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg72.2.62">
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg72.2.62.1">Hie wird auf beyden Seiten die Trummel ger&#252;hret, wie auch Granaten geworffen und gehet der Sturm an, die T&#252;rcken werden abgeschlagen, und etliche bleiben als todt liegen so die andern hernach wegtragen.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="other" xml:id="tg72.2.62">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg72.2.62.1">Hie wird auf beyden Seiten die Trummel ger&#252;hret, wie auch Granaten geworffen und gehet der Sturm an, die T&#252;rcken werden abgeschlagen, und etliche bleiben als todt liegen so die andern hernach wegtragen.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg72.2.63" />
                                  </ns0:sp>
@@ -3128,13 +2710,8 @@ Grund, ja aus jenem gro&#223;en Geb&#228;u und Thurn werde ich dem gro&#223;en M
                                     <ns0:speaker xml:id="tg72.2.67.part1">KARA MUSTAPHA.</ns0:speaker>
                                     <ns0:p xml:id="tg72.2.67.part2"> So la&#223;e man inde&#223;en mit der Arbeit in denen Minen fortfahren und mit Bomben einwerffen die Stadt be&#228;ngstigen; ich aber werde noch heute alle Bahsen und Obristen f&#252;r mich erfordern la&#223;en, umb mit ihnen Raths zu pflegen: Ihr &#252;brige aber kommet und begleitet uns.</ns0:p>
                                     <ns0:lb xml:id="tg72.2.68" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg72.2.69">
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg72.2.69.1">Alle gehen ab, forderstes Scena wird zugemacht.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="other" xml:id="tg72.2.69">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg72.2.69.1">Alle gehen ab, forderstes Scena wird zugemacht.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg72.2.70" />
                                  </ns0:sp>
@@ -3173,11 +2750,7 @@ Grund, ja aus jenem gro&#223;en Geb&#228;u und Thurn werde ich dem gro&#223;en M
                                  </ns0:sp>
                                  <ns0:sp>
                                     <ns0:speaker xml:id="tg74.2.7.part1">KOLTSCH&#220;TZKY.</ns0:speaker>
-<<<<<<< HEAD
                                     <ns0:p xml:id="tg74.2.7.part2"> Der Herr Burgermeister wird schon alles sehen aus denen Brieffen, die mir der Herr General gegeben hat, nichts ist mir leyd als umb meinen Knecht den ich eingeb&#252;st. <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg74.2.7.1.part2">&#220;bergibt die Brieffe No. 7 et 8.</ns0:stage>
-=======
-                                    <ns0:p xml:id="tg74.2.7.part2"> Der Herr Burgermeister wird schon alles sehen aus denen Brieffen, die mir der Herr General gegeben hat, nichts ist mir leyd als umb meinen Knecht den ich eingeb&#252;st. <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg74.2.7.1.part2">&#220;bergibt die Brieffe No. 7 et 8.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:p>
                                  </ns0:sp>
                                  <ns0:sp>
@@ -3204,13 +2777,8 @@ Grund, ja aus jenem gro&#223;en Geb&#228;u und Thurn werde ich dem gro&#223;en M
                                     <ns0:speaker xml:id="tg74.2.13.part1">KOLTSCH&#220;TZKY.</ns0:speaker>
                                     <ns0:p xml:id="tg74.2.13.part2"> Da&#223; man allezeit etliche Raget vom Stephans-Thurn lo&#223;schie&#223;en solt, wann die Brieffe alhier wohl angekommen, er hingegen will des gleichen thun, und ein Feuer am Biesenberg brennen la&#223;en, da&#223; er Sie dort wohl empfangen hat.</ns0:p>
                                     <ns0:lb xml:id="tg74.2.14" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg74.2.15">
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg74.2.15.1">Hie kommet das gemeine Volck dazu nebst ihrem F&#252;hrer mit Scheibtruhen, Hacken, Hauen und Schauffeln.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="other" xml:id="tg74.2.15">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg74.2.15.1">Hie kommet das gemeine Volck dazu nebst ihrem F&#252;hrer mit Scheibtruhen, Hacken, Hauen und Schauffeln.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg74.2.16" />
                                  </ns0:sp>
@@ -3226,13 +2794,8 @@ Grund, ja aus jenem gro&#223;en Geb&#228;u und Thurn werde ich dem gro&#223;en M
                                     <ns0:speaker xml:id="tg74.2.19.part1">KOLTSCH&#220;TZKY.</ns0:speaker>
                                     <ns0:l xml:id="tg74.2.19.part2"> Nu ist gantz wohl nach des Herrn Burgermeisters Gelegenheit.</ns0:l>
                                     <ns0:lb xml:id="tg74.2.20" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg74.2.21">
                                        <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg74.2.21.1">Alle gehen ab.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="exit" xml:id="tg74.2.21">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg74.2.21.1">Alle gehen ab.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg74.2.22" />
 
@@ -3294,13 +2857,8 @@ berichtet: da&#223; die Waffen Sr. Kayserl. Mayest&#228;t unter Anf&#252;hrung S
                                     <ns0:speaker xml:id="tg75.2.14.part1">BAADEN.</ns0:speaker>
                                     <ns0:p xml:id="tg75.2.14.part2"> Ich befinde vor rathsam den Herrn Grafen Volckra durch ein Decret dahin errinnern zu la&#223;en, da&#223; er seinem Versprechen nachlebe, mit angehengtem Versprechen, da&#223; die Stadt und das Vaterland nicht ermangeln werde solches mit beh&#246;riger Dancksagung zu erwiedern.</ns0:p>
                                     <ns0:lb xml:id="tg75.2.15" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg75.2.16">
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg75.2.16.1">Alle stehen auf.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="other" xml:id="tg75.2.16">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg75.2.16.1">Alle stehen auf.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg75.2.17" />
                                  </ns0:sp>
@@ -3308,13 +2866,8 @@ berichtet: da&#223; die Waffen Sr. Kayserl. Mayest&#228;t unter Anf&#252;hrung S
                                     <ns0:speaker xml:id="tg75.2.18.part1">SERINI.</ns0:speaker>
                                     <ns0:p xml:id="tg75.2.18.part2"> So hat man auch wahrgenommen, da&#223; verschiedene Leuthe von meiner unterhabenden Artillerie Pulver und Bley zu kauffen sich unterstehen, weshalben ich einem hochl&#246;bl. Consilo solches anzeigen, und durch &#246;ffentlichen Trummel Schlag, solches abzustellen bitten wollen.</ns0:p>
                                     <ns0:lb xml:id="tg75.2.19" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg75.2.20">
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg75.2.20.1">Tisch und St&#252;hle werden hineingetragen.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="other" xml:id="tg75.2.20">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg75.2.20.1">Tisch und St&#252;hle werden hineingetragen.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg75.2.21" />
                                  </ns0:sp>
@@ -3326,13 +2879,8 @@ berichtet: da&#223; die Waffen Sr. Kayserl. Mayest&#228;t unter Anf&#252;hrung S
                                     <ns0:speaker xml:id="tg75.2.23.part1">BAADEN.</ns0:speaker>
                                     <ns0:p xml:id="tg75.2.23.part2"> Zu diesem wird man alle Verf&#252;gung, wie dann die Noth erfordert, ergehen la&#223;en, wie dann die Ausfertigung derer concludirten Decretorum euch Herr Secretarius anbefohlen wird.</ns0:p>
                                     <ns0:lb xml:id="tg75.2.24" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg75.2.25">
                                        <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg75.2.25.1">Alle gehen ab.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="exit" xml:id="tg75.2.25">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg75.2.25.1">Alle gehen ab.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg75.2.26" />
 
@@ -3393,13 +2941,8 @@ Ein Tambour komt dazu, publiciret das Edict Nr. 9 mit vor und nachger&#252;hrter
                                     <ns0:speaker xml:id="tg77.2.6.part1">SACHSEN.</ns0:speaker>
                                     <ns0:p xml:id="tg77.2.6.part2"> Also tritt das versamlete Christliche Heer dem Feind unter das Gesicht, und diese Kette leget dem T&#252;rckischen Blut-Hund ein Gebi&#223; ins Maul Ihr aber Manhaffte Sach&#223;en die ihr mir eurem F&#252;rsten zu folgen, und zu dem Dienst Sr. R&#246;m. Kayserl. Mayest&#228;t eure Schwerdter zu bl&#246;&#223;en bereit sind, stecket nicht dieselbige ein, ehe und bevor Sie von euerer feinde Blut trieffen, und wi&#223;et da&#223; ihr nicht allein die Waffen denen Menschen, sondern selbst dem h&#246;chsten Sch&#246;pffer zu Ehren wieder die Ungl&#228;ubigen f&#252;hret.</ns0:p>
                                     <ns0:lb xml:id="tg77.2.7" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg77.2.8">
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg77.2.8.1">Churf&#252;rst von Bayern mit seinen V&#246;lckern auf der andern Seiten dazu, NB.: seine V&#246;lcker rangiren sich gegen die andern &#252;ber.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="other" xml:id="tg77.2.8">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg77.2.8.1">Churf&#252;rst von Bayern mit seinen V&#246;lckern auf der andern Seiten dazu, NB.: seine V&#246;lcker rangiren sich gegen die andern &#252;ber.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg77.2.9" />
                                  </ns0:sp>
@@ -3411,13 +2954,8 @@ Ein Tambour komt dazu, publiciret das Edict Nr. 9 mit vor und nachger&#252;hrter
                                     <ns0:speaker xml:id="tg77.2.11.part1">SACHSEN.</ns0:speaker>
                                     <ns0:p xml:id="tg77.2.11.part2"> Was kan die Ankunfft Sr. Churf&#252;rstl. Durchl&#228;ucht aus Bayern mir anders als Freude bringen, de&#223;en Tapfferkeit eine St&#252;tze des R&#246;mischen Reichs ist; Ich umbarme Ew. Liebden und w&#252;nsche da&#223; der Himmel seinen Seegen mit unsern Waffen vereinige.</ns0:p>
                                     <ns0:lb xml:id="tg77.2.12" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg77.2.13">
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg77.2.13.1">Umbarmen einander.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="other" xml:id="tg77.2.13">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg77.2.13.1">Umbarmen einander.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg77.2.14" />
                                  </ns0:sp>
@@ -3433,13 +2971,8 @@ Ein Tambour komt dazu, publiciret das Edict Nr. 9 mit vor und nachger&#252;hrter
                                     <ns0:speaker xml:id="tg77.2.17.part1">BAYERN.</ns0:speaker>
                                     <ns0:p xml:id="tg77.2.17.part2"> Dieselbe habe ich jenseit des Kahlenberges verla&#223;en, alwo Sie Ihre Trouppen gemustert, und in Schlachtordnung gestellet.</ns0:p>
                                     <ns0:lb xml:id="tg77.2.18" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg77.2.19">
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg77.2.19.1">K&#246;nig in Pohlen dazu, NB.: Hie wird bei seiner Ankunfft die Trummel ger&#252;hret und die Churf&#252;rstl. Soldaten praesentiren [auf Befehl] das Gewehr.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="other" xml:id="tg77.2.19">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg77.2.19.1">K&#246;nig in Pohlen dazu, NB.: Hie wird bei seiner Ankunfft die Trummel ger&#252;hret und die Churf&#252;rstl. Soldaten praesentiren [auf Befehl] das Gewehr.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg77.2.20" />
                                  </ns0:sp>
@@ -3457,11 +2990,7 @@ Ein Tambour komt dazu, publiciret das Edict Nr. 9 mit vor und nachger&#252;hrter
                                  </ns0:sp>
                                  <ns0:sp>
                                     <ns0:speaker xml:id="tg77.2.24.part1">POHLEN.</ns0:speaker>
-<<<<<<< HEAD
                                     <ns0:p xml:id="tg77.2.24.part2"> Durchl&#228;uchtigster F&#252;rst, die Ehre euch zu sehen, achte ich billig hoch, weil der Ruff euerer Tapfferkeit, und der Glantz euerer Tugenden, mir und der gantzen Welt bekannt ist. <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg77.2.24.1.part2">Umarmet die Churf&#252;rsten.</ns0:stage>
-=======
-                                    <ns0:p xml:id="tg77.2.24.part2"> Durchl&#228;uchtigster F&#252;rst, die Ehre euch zu sehen, achte ich billig hoch, weil der Ruff euerer Tapfferkeit, und der Glantz euerer Tugenden, mir und der gantzen Welt bekannt ist. <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg77.2.24.1.part2">Umarmet die Churf&#252;rsten.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:p>
                                  </ns0:sp>
                                  <ns0:sp>
@@ -3476,13 +3005,8 @@ Ein Tambour komt dazu, publiciret das Edict Nr. 9 mit vor und nachger&#252;hrter
                                     <ns0:speaker xml:id="tg77.2.27.part1">POHLEN.</ns0:speaker>
                                     <ns0:p xml:id="tg77.2.27.part2"> Anjetzo wende ich mich zu euch versamlete Christliche V&#246;lcker, indem die Gelegenheit anjetzo bl&#252;het, bey welcher ihr eure Nahmen unsterblich machen k&#246;nnet, das gantze Europa siehet auf uns, wie wir diese so edle Stadt Wienn, welche eine Vormauer Teutschlandes, eine Crone des Heyl. R&#246;m. Reichs, und ein Augapffel der Christenheit ist, besch&#252;tzen werden, und wie k&#246;nnet ihr eure Kr&#228;fften n&#252;tzlicher anwenden, als in Ausrottung derer, welche aller Christen geschworne Feinde sind; derowegen auf: Heute ist der Tag welcher denen Christen Ehre und Ruhm denen T&#252;rcken aber Spott und Schande bringet.</ns0:p>
                                     <ns0:lb xml:id="tg77.2.28" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg77.2.29">
                                        <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg77.2.29.1">Hie schultern die Churf&#252;rstliche Soldaten das Gewehr und gehen in guter Ordnung alle ab.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="exit" xml:id="tg77.2.29">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg77.2.29.1">Hie schultern die Churf&#252;rstliche Soldaten das Gewehr und gehen in guter Ordnung alle ab.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg77.2.30" />
 
@@ -3513,13 +3037,8 @@ Scena V</ns0:head>
                                     <ns0:speaker xml:id="tg78.2.6.part1">IBRAHIM.</ns0:speaker>
                                     <ns0:p xml:id="tg78.2.6.part2"> Endlich will die Macht des gro&#223;en Mahomets durchdringen und der Christen aufgeblasener Hochmuth will sich allgemach in Kleinm&#252;thigkeit verwandeln, und ob Sie gleich anjetzo einen wei&#223;en fahnen ausstecken und Gnade suchen wolten, wird ihnen doch diese nicht werden, und Sie werden meiner Rache nicht entrinnen; Du aber verfluchter Schelm must zuerst derjenigen Straffe theilhafftig werden, welche ich allen Christen zugedacht, derowegen ihr Soldaten macht euch fertig ihn anzuspie&#223;en.</ns0:p>
                                     <ns0:lb xml:id="tg78.2.7" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg78.2.8">
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg78.2.8.1">Die T&#252;rcken legen den Hans Wurst nieder und wollen ihn spie&#223;en.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="other" xml:id="tg78.2.8">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg78.2.8.1">Die T&#252;rcken legen den Hans Wurst nieder und wollen ihn spie&#223;en.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg78.2.9" />
                                  </ns0:sp>
@@ -3527,13 +3046,8 @@ Scena V</ns0:head>
                                     <ns0:speaker xml:id="tg78.2.10.part1">HANS WURST.</ns0:speaker>
                                     <ns0:p xml:id="tg78.2.10.part2"> O meine liebe T&#252;rcken ich bitt euch gar sch&#246;n, verstopfft mir doch den Podex nicht, ich kan so kein Lufft kriegen, und hab mir erst vor etlichen Tagen la&#223;en ein Clistir setzen.</ns0:p>
                                     <ns0:lb xml:id="tg78.2.11" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg78.2.12">
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg78.2.12.1">Hie werden etliche Ragete vom Stephans-Thurn gela&#223;en.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="other" xml:id="tg78.2.12">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg78.2.12.1">Hie werden etliche Ragete vom Stephans-Thurn gela&#223;en.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg78.2.13" />
                                  </ns0:sp>
@@ -3567,11 +3081,7 @@ Scena V</ns0:head>
                                  </ns0:sp>
                                  <ns0:sp>
                                     <ns0:speaker xml:id="tg78.2.21.part1">HANS WURST.</ns0:speaker>
-<<<<<<< HEAD
                                     <ns0:p xml:id="tg78.2.21.part2"> So &#8211; N&#228; dazu hab ich kein Lust, Schaut ich will mir selber &#228; Todt erwehlen, dann ich m&#246;cht gern da&#223; mir die Haut gantz blieb. <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg78.2.21.1.part2">Besinnet sich.</ns0:stage>
-=======
-                                    <ns0:p xml:id="tg78.2.21.part2"> So &#8211; N&#228; dazu hab ich kein Lust, Schaut ich will mir selber &#228; Todt erwehlen, dann ich m&#246;cht gern da&#223; mir die Haut gantz blieb. <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg78.2.21.1.part2">Besinnet sich.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:p>
                                  </ns0:sp>
                                  <ns0:sp>
@@ -3594,13 +3104,8 @@ Scena V</ns0:head>
                                     <ns0:speaker xml:id="tg78.2.26.part1">IBRAHIM.</ns0:speaker>
                                     <ns0:p xml:id="tg78.2.26.part2"> Pfy du verdamter Hund, soltest du meiner noch spotten, Alsobald ihr Soldaten s&#228;belt ihn vor meinen Augen nieder.</ns0:p>
                                     <ns0:lb xml:id="tg78.2.27" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg78.2.28">
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg78.2.28.1">Die T&#252;rcken ziehen von Leder und wollen den Hans Wurst niederhauen. Hie thun Daun und Serini einen Au&#223;fall, schlagen mit ihren Soldaten die T&#252;rcken in die Flucht und erl&#246;sen den H.W.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="other" xml:id="tg78.2.28">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg78.2.28.1">Die T&#252;rcken ziehen von Leder und wollen den Hans Wurst niederhauen. Hie thun Daun und Serini einen Au&#223;fall, schlagen mit ihren Soldaten die T&#252;rcken in die Flucht und erl&#246;sen den H.W.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg78.2.29" />
                                  </ns0:sp>
@@ -3624,13 +3129,8 @@ Scena V</ns0:head>
                                     <ns0:speaker xml:id="tg78.2.34.part1">SERINI.</ns0:speaker>
                                     <ns0:l xml:id="tg78.2.34.part2"> Hier ist keine Zeit im feindlichen Lager zu verweilen, indem der T&#252;rck sich verst&#228;rcken m&#246;chte.</ns0:l>
                                     <ns0:lb xml:id="tg78.2.35" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg78.2.36">
                                        <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg78.2.36.1">Alle ab und in die Stadt hinein.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="exit" xml:id="tg78.2.36">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg78.2.36.1">Alle ab und in die Stadt hinein.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg78.2.37" />
 
@@ -3660,13 +3160,8 @@ Scena V</ns0:head>
                                     <ns0:p xml:id="tg79.2.6.part2"> Verha&#223;tes Land deren verfluchten Christen, da das edle Blut derer Musulmanner unn&#246;thig versch&#252;ttet wird, und fast alle Tag <ns0:pb n="110" xml:id="tg79.2.6.1.part2" />
 eine Anzahl der unserigen ins Gra&#223; bei&#223;en; Aber ich schw&#246;re bey der Macht durch welche ehede&#223;en der gro&#223;e Ottomann seine Feinde ihm zin&#223;bahr gemacht, da&#223; ich dieses grausam r&#228;chen, und diese Schmach mit der Christen Blut abwaschen und abwischen will; Ihr aber Tapffere und streitbahre V&#246;lcker k&#246;nnet euch inde&#223;en ausruhen, und bi&#223; zu einem bald angehendem Sturm fertig machen.</ns0:p>
                                     <ns0:lb xml:id="tg79.2.7" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg79.2.8">
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg79.2.8.1">Die Soldaten lagern sich, Sauffen, Spielen und machen sich lustig; Hie mu&#223; ein T&#252;rckischer Tantz seyn und ihre Music: wan der vorbey thun die Burger einen Ausfall, verjagen die T&#252;rcken nehmen etliche gefangen, rauben ihre Beute und gehen alle ab, und die B&#252;rger zum Stadt-Thor hinein; wird forne zugemacht.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="other" xml:id="tg79.2.8">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg79.2.8.1">Die Soldaten lagern sich, Sauffen, Spielen und machen sich lustig; Hie mu&#223; ein T&#252;rckischer Tantz seyn und ihre Music: wan der vorbey thun die Burger einen Ausfall, verjagen die T&#252;rcken nehmen etliche gefangen, rauben ihre Beute und gehen alle ab, und die B&#252;rger zum Stadt-Thor hinein; wird forne zugemacht.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg79.2.9" />
 
@@ -3756,13 +3251,8 @@ eine Anzahl der unserigen ins Gra&#223; bei&#223;en; Aber ich schw&#246;re bey d
                                     <ns0:speaker xml:id="tg80.2.22.part1">STAHRENBERG.</ns0:speaker>
                                     <ns0:l xml:id="tg80.2.22.part2"> Diesem m&#252;&#223;en wir billig unsere Errettung anbefehlen.</ns0:l>
                                     <ns0:lb xml:id="tg80.2.23" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg80.2.24">
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg80.2.24.1">Abeunt.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="other" xml:id="tg80.2.24">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg80.2.24.1">Abeunt.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg80.2.25" />
 
@@ -3802,13 +3292,8 @@ eine Anzahl der unserigen ins Gra&#223; bei&#223;en; Aber ich schw&#246;re bey d
                                     <ns0:speaker xml:id="tg81.2.9.part1">KARA MUSTAPHA.</ns0:speaker>
                                     <ns0:p xml:id="tg81.2.9.part2"> Diese Stadt derer Christen Schlupffwinckel werde ich nachdem ich denen Burgern die K&#246;pffe abgeschlagen, schleiffen la&#223;en, ja ihres obersten Priesters werde ich nicht verschonen, sondern ihm mit eygener Faust den Schedel herunter hauen, und seinen Kopff nach Constantinopel senden, damit der Gro&#223;-Sultan seine Freud daran sehe, und wann dieser hin, wird alles von ihm selbst der wahren Lehre des Alcorans unterw&#252;rffig, und dem gro&#223;en Mahomet fu&#223;f&#228;llig werden.</ns0:p>
                                     <ns0:lb xml:id="tg81.2.10" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg81.2.11">
                                        <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg81.2.11.1">Selim komt geloffen.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="enter" xml:id="tg81.2.11">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg81.2.11.1">Selim komt geloffen.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg81.2.12" />
                                  </ns0:sp>
@@ -3816,13 +3301,8 @@ eine Anzahl der unserigen ins Gra&#223; bei&#223;en; Aber ich schw&#246;re bey d
                                     <ns0:speaker xml:id="tg81.2.13.part1">SELIM.</ns0:speaker>
                                     <ns0:p xml:id="tg81.2.13.part2"> Zum Waffen, zum Waffen, Gro&#223;er Vezier und F&#252;rst, der Seraskier von Caminca mit einer fliegenden Parthey berichtet, da&#223; die gantze Christenheit sich zusammen gerottet, und im Anmarch ist, wie dann der Bahsa von Klein Asien und Vezier Azem mit allen den ihrigen erschlagen worden, wodurch das gantze Lager in Furcht und Schrecken gesetzet ist.</ns0:p>
                                     <ns0:lb xml:id="tg81.2.14" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg81.2.15">
                                        <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg81.2.15.1">Ibrahim komt dazu.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="enter" xml:id="tg81.2.15">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg81.2.15.1">Ibrahim komt dazu.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg81.2.16" />
                                  </ns0:sp>
@@ -3847,13 +3327,8 @@ aber schicket euch, mit mir den Sieg oder den Todt zu behaupten, weil nur eines 
                                     <ns0:speaker xml:id="tg81.2.21.part1">IBRAHIM.</ns0:speaker>
                                     <ns0:p xml:id="tg81.2.21.part2"> Auch ich werde suchen meinen Zorn und Grim gegen die Christen auszusch&#252;tten und mit meinem Blut ihnen ins Gesicht zu speyen.</ns0:p>
                                     <ns0:lb xml:id="tg81.2.22" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg81.2.23">
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg81.2.23.1">Hie geschehen einige verborgene Sch&#252;&#223;e und die T&#252;rcken retiriren sich alle auf eine Seiten.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="other" xml:id="tg81.2.23">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg81.2.23.1">Hie geschehen einige verborgene Sch&#252;&#223;e und die T&#252;rcken retiriren sich alle auf eine Seiten.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg81.2.24" />
                                  </ns0:sp>
@@ -3861,13 +3336,8 @@ aber schicket euch, mit mir den Sieg oder den Todt zu behaupten, weil nur eines 
                                     <ns0:speaker xml:id="tg81.2.25.part1">KARA MUSTAPHA.</ns0:speaker>
                                     <ns0:p xml:id="tg81.2.25.part2"> Was ist dieses, und was sehe ich auf jenem H&#252;gel, einen dicken Staub so mir nichts gutes prophezeiet, Ihr aber tapffere Musulm&#228;nner, streitet f&#252;r die ottomanische Pforte, ja ich werde ohne eure Beite euch von jedem Christen Kopff einen Ducaten reichen la&#223;en.</ns0:p>
                                     <ns0:lb xml:id="tg81.2.26" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg81.2.27">
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg81.2.27.1">Pohlen, Sachsen, Bayern, Lotthringen, mir allen ihren V&#246;lckern dazu und gehet die Schlacht an, NB.: Hie mu&#223; offt gescho&#223;en und die Trummel stets ger&#252;hret werden, die Christen schlagen die T&#252;rcken und gehen im Nachsetzen alle ab, au&#223;er etliche T&#252;rcken, welche als todt auf der Wahlstatt liegen bleiben; Hie mu&#223; noch hinter denen Scenen ein Geschrey und Klang derer Waffen geh&#246;ret werden.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="other" xml:id="tg81.2.27">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg81.2.27.1">Pohlen, Sachsen, Bayern, Lotthringen, mir allen ihren V&#246;lckern dazu und gehet die Schlacht an, NB.: Hie mu&#223; offt gescho&#223;en und die Trummel stets ger&#252;hret werden, die Christen schlagen die T&#252;rcken und gehen im Nachsetzen alle ab, au&#223;er etliche T&#252;rcken, welche als todt auf der Wahlstatt liegen bleiben; Hie mu&#223; noch hinter denen Scenen ein Geschrey und Klang derer Waffen geh&#246;ret werden.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg81.2.28" />
 
@@ -3894,11 +3364,7 @@ aber schicket euch, mit mir den Sieg oder den Todt zu behaupten, weil nur eines 
                                  <ns0:lb xml:id="tg82.2.5" />
                                  <ns0:sp>
                                     <ns0:speaker xml:id="tg82.2.6.part1">HANS WURST.</ns0:speaker>
-<<<<<<< HEAD
                                     <ns0:p xml:id="tg82.2.6.part2"> Wo ist er, Wo ist er der Feind, schert euch heraus ihr B&#228;renheuter, wanns Courage habt, ihr T&#252;rcken, traut ihr euch doch nicht einmahl &#252;ber mich, ihr Canaillen. <ns0:stage rend="italic" type="enter" ns1:fixed-stage="true" xml:id="tg82.2.6.1.part2">Wetzet seine S&#228;bel.</ns0:stage> Und du verfluchter Visir-Schneider, wann ich dich vor meiner h&#228;tt, o wie wolt ich dir eins auf deinen Constantinopolitanischen Schmecker versetzen, da&#223; du an mich gedencken solt, das sind Kerl die T&#252;rcken, Bart habens aufeinander, man kunt bald &#228; fuder Heu draus schneiden, ich wills euch schon wieder einbringen, ihr Hund da&#223; Sie mich habt spie&#223;en wollen, ich hab mich itzunder brav auf die Kling excercirt, mit meines Herrn seinen Paruquen-Stock daheim hab ich gefochten, alle Sto&#223; hat er &#228; Hieb von mir &#252;ber die Nasen kriegt, solt mir itzt &#228; T&#252;rck kommen, ich wolt ihm zeigen, entweder ich sto&#223; ihm prim aufs Beischl oder wann er mir auspariren wolt so sto&#223; ich ihm Quart &#252;bern Ellbogen. <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg82.2.6.2.part2">Hie machet Hans Wurst die Positur zum fechten, und indem er die todten T&#252;rcken siehet, f&#228;lt er vor Schrecken zur Erden.</ns0:stage> Auweh da sind etliche da die mir aufpa&#223;en, O wie wirds mir gehen, h&#228;tt ich mein Wort wieder zur&#252;ck. Oder w&#228;r mit raison hinweg, ich wolt verreden, mein Lebtag mich nimmer vor starck auszugeben, Aber ich will hingehen und Sie umb Verzeihung bitten. <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg82.2.6.3.part2">Stehet auf und tritt hinzu.</ns0:stage> Schau was ich vor &#228; Narr bin die Kerl sind ja todt und ich hab mich vor ihnen geforchten, Aber ihr Gallmucken, weil ihr mich also Todter noch gefopt habt, so will ich euch auch wieder bezahlen. <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg82.2.6.4.part2">Extemporiret und vexiret die Todten, gehet endlich ab und schleifet Sie hinweg.</ns0:stage>
-=======
-                                    <ns0:p xml:id="tg82.2.6.part2"> Wo ist er, Wo ist er der Feind, schert euch heraus ihr B&#228;renheuter, wanns Courage habt, ihr T&#252;rcken, traut ihr euch doch nicht einmahl &#252;ber mich, ihr Canaillen. <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg82.2.6.1.part2">Wetzet seine S&#228;bel.</ns0:stage> Und du verfluchter Visir-Schneider, wann ich dich vor meiner h&#228;tt, o wie wolt ich dir eins auf deinen Constantinopolitanischen Schmecker versetzen, da&#223; du an mich gedencken solt, das sind Kerl die T&#252;rcken, Bart habens aufeinander, man kunt bald &#228; fuder Heu draus schneiden, ich wills euch schon wieder einbringen, ihr Hund da&#223; Sie mich habt spie&#223;en wollen, ich hab mich itzunder brav auf die Kling excercirt, mit meines Herrn seinen Paruquen-Stock daheim hab ich gefochten, alle Sto&#223; hat er &#228; Hieb von mir &#252;ber die Nasen kriegt, solt mir itzt &#228; T&#252;rck kommen, ich wolt ihm zeigen, entweder ich sto&#223; ihm prim aufs Beischl oder wann er mir auspariren wolt so sto&#223; ich ihm Quart &#252;bern Ellbogen. <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg82.2.6.2.part2">Hie machet Hans Wurst die Positur zum fechten, und indem er die todten T&#252;rcken siehet, f&#228;lt er vor Schrecken zur Erden.</ns0:stage> Auweh da sind etliche da die mir aufpa&#223;en, O wie wirds mir gehen, h&#228;tt ich mein Wort wieder zur&#252;ck. Oder w&#228;r mit raison hinweg, ich wolt verreden, mein Lebtag mich nimmer vor starck auszugeben, Aber ich will hingehen und Sie umb Verzeihung bitten. <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg82.2.6.3.part2">Stehet auf und tritt hinzu.</ns0:stage> Schau was ich vor &#228; Narr bin die Kerl sind ja todt und ich hab mich vor ihnen geforchten, Aber ihr Gallmucken, weil ihr mich also Todter noch gefopt habt, so will ich euch auch wieder bezahlen. <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg82.2.6.4.part2">Extemporiret und vexiret die Todten, gehet endlich ab und schleifet Sie hinweg.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:p>
                                     <ns0:lb xml:id="tg82.2.7" />
                                  </ns0:sp>
@@ -3955,13 +3421,8 @@ durch dieselbe Sr. Kayserl. Mayest&#228;t V&#246;lcker haben gesieget, und hat d
                                     <ns0:speaker xml:id="tg83.2.13.part1">BAADEN.</ns0:speaker>
                                     <ns0:p xml:id="tg83.2.13.part2"> Wer dem Marti folget und in de&#223;en Garten Blumen brechen will, kan billig keiner andern theilhafftig werden, diese Printzen haben die Liebe zur Tapfferkeit ihren Leben vorgezogen, de&#223;wegen Sie auch in dem Rosen-Bette eines ritterlichen Todes ruhen.</ns0:p>
                                     <ns0:lb xml:id="tg83.2.14" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg83.2.15">
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg83.2.15.1">W&#252;rtenberg, Cappliers, Stahrenberg und Daun kommen aus der Stadt dazu, bringen die Schl&#252;&#223;el der Stadt auf einem Polster mit sich.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="other" xml:id="tg83.2.15">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg83.2.15.1">W&#252;rtenberg, Cappliers, Stahrenberg und Daun kommen aus der Stadt dazu, bringen die Schl&#252;&#223;el der Stadt auf einem Polster mit sich.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg83.2.16" />
                                  </ns0:sp>
@@ -3969,13 +3430,8 @@ durch dieselbe Sr. Kayserl. Mayest&#228;t V&#246;lcker haben gesieget, und hat d
                                     <ns0:speaker xml:id="tg83.2.17.part1">W&#220;RTENBERG.</ns0:speaker>
                                     <ns0:p xml:id="tg83.2.17.part2"> Allerdurchlauchtigster Gro&#223;m&#228;chtigster K&#246;nig, und durchlauchtigste Chur- und F&#252;rsten, das frolockende Echo w&#252;nschet mit mir denen Christlichen hohen Alliirten Gl&#252;ck zu der erhaltenen Victorie, und gleichwie die Stadt Wienn in Ew. K&#246;nigl. Mayest&#228;t und dero Durchlauchtigste Bundes Geno&#223;en seine Erretter verehret, also w&#252;nschet Sie nichts mehrers, als Deroselben w&#252;rdige Ehren Pforten zu erbauen, ja ihre Burger sehnen sich die Fu&#223;stapffen solcher hohen H&#228;upter mit denen Blumen ihrer Danckbarkeit zu bestreuen.</ns0:p>
                                     <ns0:lb xml:id="tg83.2.18" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg83.2.19">
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg83.2.19.1">Stahrenberg, Cappliers und Daun knien vor dem K&#246;nige nieder.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="other" xml:id="tg83.2.19">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg83.2.19.1">Stahrenberg, Cappliers und Daun knien vor dem K&#246;nige nieder.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg83.2.20" />
                                  </ns0:sp>
@@ -4003,11 +3459,7 @@ durch dieselbe Sr. Kayserl. Mayest&#228;t V&#246;lcker haben gesieget, und hat d
                                  <ns0:sp>
                                     <ns0:speaker xml:id="tg83.2.26.part1">POHLEN</ns0:speaker> 
                                     <ns0:stage>
-<<<<<<< HEAD
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg83.2.26.1.part1">zum Stahrenberg.</ns0:stage>
-=======
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg83.2.26.1.part1">zum Stahrenberg.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:p xml:id="tg83.2.26.part2"> Mein Herr Graff. Wir erfreuen uns euch zu sehen, indem Wir von euerer Tapfferkeit viel ruhm- und Lobw&#252;rdiges sagen h&#246;ren, und Sind euch mit allen Gnaden zugethan.</ns0:p>
                                  </ns0:sp>
@@ -4097,13 +3549,8 @@ S&#252;d, Osten, Nord und West, bereitet deinen Ruhm,</ns0:l>
                                        <ns0:l rend="zenoPLm4n4" xml:id="tg83.2.72">Es leb und bl&#252;he stets, das Ertz-Hau&#223; Oesterreich,</ns0:l>
                                     </ns0:lg>
                                     <ns0:lb xml:id="tg83.2.73" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg83.2.74">
                                        <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg83.2.74.1">Alle repetiren.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="other" xml:id="tg83.2.74">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg83.2.74.1">Alle repetiren.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg83.2.75" />
                                     <ns0:l rend="zenoPLm4n4" xml:id="tg83.2.76">Es leb und bl&#252;he stets das Ertz-Hau&#223; Oesterreich.</ns0:l>

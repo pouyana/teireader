@@ -707,7 +707,10 @@
                      </sp>
                      <sp>
                         <speaker xml:id="tg10.2.21.part1">ODOARDO</speaker>
-                           <stage type="other" rend="italic" xml:id="tg10.2.21.1.part1" dr:fixed-stage="true">nihmt denselben, Hanswurst vor sich.</stage>
+                        
+                           <stage type="other" rend="italic" xml:id="tg10.2.21.1.part1" dr:fixed-stage="true"
+                              >nihmt denselben, </seg>Hanswurst vor sich.</stage>
+                        
                         <p xml:id="tg10.2.21.part2"> Ich merke schon, auf was der Vogel anschlägt,
                            der kommt mir eben recht; <stage type="other" rend="italic" xml:id="tg10.2.21.2.part2"
                               dr:fixed-stage="true">Zu Hanswurst.</stage> ja, und wer soll das

@@ -264,11 +264,7 @@
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg462.2.39.part1">LEANDER</ns0:speaker> 
                                  <ns0:stage>
-<<<<<<< HEAD
                                     <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg462.2.39.1.part1">traurig.</ns0:stage>
-=======
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg462.2.39.1.part1">traurig.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                  </ns0:stage>
                                  <ns0:l xml:id="tg462.2.39.part2"> Eine Aussteuer?</ns0:l>
                               </ns0:sp>
@@ -656,11 +652,7 @@ Anselmus wegreisete, zog er mich bei Seite, und f&#252;hrte mich an einen gewiss
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg464.2.51.part1">PHILTO.</ns0:speaker>
-<<<<<<< HEAD
                                  <ns0:p xml:id="tg464.2.51.part2"> Es hat aber doch Ohren! &#8211; &#8211; Habe ich, sprach er, <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg464.2.51.1.part2">Indem er sich von Zeit zu Zeit furchtsam umsiehet.</ns0:stage> eine kleine Barschaft vergraben.</ns0:p>
-=======
-                                 <ns0:p xml:id="tg464.2.51.part2"> Es hat aber doch Ohren! &#8211; &#8211; Habe ich, sprach er, <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg464.2.51.1.part2">Indem er sich von Zeit zu Zeit furchtsam umsiehet.</ns0:stage> eine kleine Barschaft vergraben.</ns0:p>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg464.2.52.part1">STALENO.</ns0:speaker>
@@ -738,11 +730,7 @@ gegen alle verschwiegen, damit er es etwa nicht von einem Dritten erf&#228;hrt. 
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg464.2.71.part1">STALENO.</ns0:speaker>
-<<<<<<< HEAD
                                  <ns0:p xml:id="tg464.2.71.part2"> Ich w&#252;&#223;te nicht. &#8211; &#8211; Doch ja. <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg464.2.71.1.part2">Bei Seite.</ns0:stage> Vielleicht kann ich meinem M&#252;ndel eine unverhoffte Freude machen.</ns0:p>
-=======
-                                 <ns0:p xml:id="tg464.2.71.part2"> Ich w&#252;&#223;te nicht. &#8211; &#8211; Doch ja. <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg464.2.71.1.part2">Bei Seite.</ns0:stage> Vielleicht kann ich meinem M&#252;ndel eine unverhoffte Freude machen.</ns0:p>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg464.2.72.part1">PHILTO.</ns0:speaker>
@@ -858,13 +846,8 @@ machen. Aber, mein lieber Philto, ich, der ich sein Vormund bin, habe mich f&#25
                                  <ns0:speaker xml:id="tg464.2.100.part1">STALENO.</ns0:speaker>
                                  <ns0:l xml:id="tg464.2.100.part2"> H&#246;ren Sie nur: ich d&#228;chte &#8211; &#8211; Das ist auch nichts.</ns0:l>
                                  <ns0:lb xml:id="tg464.2.101" />
-<<<<<<< HEAD
                                  <ns0:stage rend="zenoPC" xml:id="tg464.2.102">
                                     <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg464.2.102.1">Zugleich, nachdem sie einige Augenblicke nachgedacht.</ns0:stage>
-=======
-                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg464.2.102">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg464.2.102.1">Zugleich, nachdem sie einige Augenblicke nachgedacht.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg464.2.103" />
                               </ns0:sp>
@@ -971,25 +954,15 @@ machen. Aber, mein lieber Philto, ich, der ich sein Vormund bin, habe mich f&#25
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg464.2.130.part1">STALENO.</ns0:speaker>
-<<<<<<< HEAD
                                  <ns0:l xml:id="tg464.2.130.part2"> Tun Sie das! tun Sie das! In einer halben Stunde soll der Mann bei Ihnen sein. <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg464.2.130.1.part2">Geht ab.</ns0:stage>
-=======
-                                 <ns0:l xml:id="tg464.2.130.part2"> Tun Sie das! tun Sie das! In einer halben Stunde soll der Mann bei Ihnen sein. <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg464.2.130.1.part2">Geht ab.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                  </ns0:l>
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg464.2.131.part1">PHILTO</ns0:speaker> 
                                  <ns0:stage>
-<<<<<<< HEAD
                                     <ns0:stage rend="italic" type="aside" ns1:fixed-stage="true" xml:id="tg464.2.131.1.part1">allein.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:p xml:id="tg464.2.131.part2"> Es ist mir &#228;rgerlich genug, da&#223; ich in meinen alten Tagen noch solche Kniffe brauchen mu&#223;, und zwar des l&#252;derlichen Lelios wegen! &#8211; &#8211; Da k&#246;mmt er ja wohl gar selber, mit seinem Anf&#252;hrer in allen Schelmst&#252;cken? Sie reden ziemlich ernstlich; ohne Zweifel mu&#223; sie ein Gl&#228;ubiger wieder auf dem Korne haben. <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg464.2.131.2.part2">Tritt ein wenig zur&#252;ck.</ns0:stage>
-=======
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg464.2.131.1.part1">allein.</ns0:stage>
-                                 </ns0:stage>
-                                 <ns0:p xml:id="tg464.2.131.part2"> Es ist mir &#228;rgerlich genug, da&#223; ich in meinen alten Tagen noch solche Kniffe brauchen mu&#223;, und zwar des l&#252;derlichen Lelios wegen! &#8211; &#8211; Da k&#246;mmt er ja wohl gar selber, mit seinem Anf&#252;hrer in allen Schelmst&#252;cken? Sie reden ziemlich ernstlich; ohne Zweifel mu&#223; sie ein Gl&#228;ubiger wieder auf dem Korne haben. <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg464.2.131.2.part2">Tritt ein wenig zur&#252;ck.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                  </ns0:p>
                                  <ns0:pb n="572" xml:id="tg464.2.132" />
                                  <ns0:lb xml:id="tg464.2.133" />
@@ -1016,19 +989,11 @@ machen. Aber, mein lieber Philto, ich, der ich sein Vormund bin, habe mich f&#25
                               <ns0:lb xml:id="tg465.2.5" />
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg465.2.6.part1">LELIO.</ns0:speaker>
-<<<<<<< HEAD
                                  <ns0:p xml:id="tg465.2.6.part2"> Und das w&#228;re der ganze Rest von den drei tausend Talern? <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg465.2.6.1.part2">Er z&#228;hlt.</ns0:stage> Zehne, zwanzig, drei&#223;ig, vierzig, funfzig, f&#252;nf und funfzig. Nicht mehr, als f&#252;nf und funfzig Taler noch?</ns0:p>
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg465.2.7.part1">MASKARILL.</ns0:speaker>
                                  <ns0:p xml:id="tg465.2.7.part2"> Es k&#246;mmt mir selbst fast unglaublich vor. Lassen Sie mich doch z&#228;hlen. <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg465.2.7.1.part2">Lelio gibt ihm das Geld.</ns0:stage> Zehne, zwanzig, drei&#223;ig, vierzig, f&#252;nf und vierzig. Ja wahrhaftig; noch f&#252;nf und vierzig Taler, und nicht einen Heller mehr. <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg465.2.7.2.part2">Er gibt ihm das Geld wieder.</ns0:stage>
-=======
-                                 <ns0:p xml:id="tg465.2.6.part2"> Und das w&#228;re der ganze Rest von den drei tausend Talern? <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg465.2.6.1.part2">Er z&#228;hlt.</ns0:stage> Zehne, zwanzig, drei&#223;ig, vierzig, funfzig, f&#252;nf und funfzig. Nicht mehr, als f&#252;nf und funfzig Taler noch?</ns0:p>
-                              </ns0:sp>
-                              <ns0:sp>
-                                 <ns0:speaker xml:id="tg465.2.7.part1">MASKARILL.</ns0:speaker>
-                                 <ns0:p xml:id="tg465.2.7.part2"> Es k&#246;mmt mir selbst fast unglaublich vor. Lassen Sie mich doch z&#228;hlen. <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg465.2.7.1.part2">Lelio gibt ihm das Geld.</ns0:stage> Zehne, zwanzig, drei&#223;ig, vierzig, f&#252;nf und vierzig. Ja wahrhaftig; noch f&#252;nf und vierzig Taler, und nicht einen Heller mehr. <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg465.2.7.2.part2">Er gibt ihm das Geld wieder.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                  </ns0:p>
                               </ns0:sp>
                               <ns0:sp>
@@ -1042,11 +1007,7 @@ machen. Aber, mein lieber Philto, ich, der ich sein Vormund bin, habe mich f&#25
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg465.2.10.part1">LELIO</ns0:speaker> 
                                  <ns0:stage>
-<<<<<<< HEAD
                                     <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg465.2.10.1.part1">nachdem er vor sich gez&#228;hlt.</ns0:stage>
-=======
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg465.2.10.1.part1">nachdem er vor sich gez&#228;hlt.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                  </ns0:stage>
                                  <ns0:p xml:id="tg465.2.10.part2"> Ha! ha! Herr Taschenspieler! Sie haben Ihre H&#228;nde doch nicht zum Schubsacke gebracht? Mit Erlaubnis &#8211; &#8211;</ns0:p>
                               </ns0:sp>
@@ -1158,21 +1119,13 @@ machen. Aber, mein lieber Philto, ich, der ich sein Vormund bin, habe mich f&#25
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg465.2.38.part1">PHILTO</ns0:speaker> 
                                  <ns0:stage>
-<<<<<<< HEAD
                                     <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg465.2.38.1.part1">der ihnen n&#228;her tritt.</ns0:stage>
-=======
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg465.2.38.1.part1">der ihnen n&#228;her tritt.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                  </ns0:stage>
                                  <ns0:l xml:id="tg465.2.38.part2"> Da&#223; der Herr noch endlich die Liverei des Bedienten wird tragen m&#252;ssen.</ns0:l>
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg465.2.39.part1">MASKARILL.</ns0:speaker>
-<<<<<<< HEAD
                                  <ns0:p xml:id="tg465.2.39.part2"> Welche Prophezeiung! Ich glaube, sie kam vom Himmel? <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg465.2.39.1.part2">Indem er sich umsieht.</ns0:stage> Ha! ha! Herr Philto, kam sie von Ihnen? Ich bin zu gro&#223;m&#252;tig, als da&#223; ich Ihnen das Schicksal der neuen Propheten w&#252;nschen sollte.<ns0:pb n="574" xml:id="tg465.2.39.2.part2" />
-=======
-                                 <ns0:p xml:id="tg465.2.39.part2"> Welche Prophezeiung! Ich glaube, sie kam vom Himmel? <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg465.2.39.1.part2">Indem er sich umsieht.</ns0:stage> Ha! ha! Herr Philto, kam sie von Ihnen? Ich bin zu gro&#223;m&#252;tig, als da&#223; ich Ihnen das Schicksal der neuen Propheten w&#252;nschen sollte.<ns0:pb n="574" xml:id="tg465.2.39.2.part2" />
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
  &#8211; &#8211; Aber wenn Sie uns zugeh&#246;rt haben, sagen Sie selbst, ist es erlaubt, da&#223; ein armer Bedienter seinen Lohn f&#252;r sieben saure Jahre &#8211; &#8211;</ns0:p>
                               </ns0:sp>
                               <ns0:sp>
@@ -1205,20 +1158,12 @@ machen. Aber, mein lieber Philto, ich, der ich sein Vormund bin, habe mich f&#25
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg465.2.47.part1">MASKARILL.</ns0:speaker>
-<<<<<<< HEAD
                                  <ns0:p xml:id="tg465.2.47.part2"> Nicht durch seine Schuld, sondern durch die Schuld eines alten Geizhalses. Wenn doch der Geier alle eigenn&#252;tzige Vorm&#252;nder, und alles was ihnen &#228;hnlich sieht, <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg465.2.47.1.part2">Indem er den Philto ansieht.</ns0:stage> holen wollte. Mu&#223; denn ein M&#228;dchen Geld haben, wenn sie die ehrliche Frau eines ehrlichen Mannes sein soll? Und allen Falls w&#252;&#223;te ich wohl, wer ihr eine Aussteuer geben k&#246;nnte. Es gibt Leute, die sehr wohlfeil H&#228;user zu kaufen pflegen. &#8211;</ns0:p>
-=======
-                                 <ns0:p xml:id="tg465.2.47.part2"> Nicht durch seine Schuld, sondern durch die Schuld eines alten Geizhalses. Wenn doch der Geier alle eigenn&#252;tzige Vorm&#252;nder, und alles was ihnen &#228;hnlich sieht, <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg465.2.47.1.part2">Indem er den Philto ansieht.</ns0:stage> holen wollte. Mu&#223; denn ein M&#228;dchen Geld haben, wenn sie die ehrliche Frau eines ehrlichen Mannes sein soll? Und allen Falls w&#252;&#223;te ich wohl, wer ihr eine Aussteuer geben k&#246;nnte. Es gibt Leute, die sehr wohlfeil H&#228;user zu kaufen pflegen. &#8211;</ns0:p>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg465.2.48.part1">LELIO</ns0:speaker> 
                                  <ns0:stage>
-<<<<<<< HEAD
                                     <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg465.2.48.1.part1">in Gedanken.</ns0:stage>
-=======
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg465.2.48.1.part1">in Gedanken.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                  </ns0:stage>
                                  <ns0:l xml:id="tg465.2.48.part2"> Kamilla ist doch wirklich ungl&#252;cklich. Ihr Bruder ist &#8211; &#8211; ist ein Nichtsw&#252;rdiger.</ns0:l>
                               </ns0:sp>
@@ -1272,11 +1217,7 @@ machen. Aber, mein lieber Philto, ich, der ich sein Vormund bin, habe mich f&#25
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg466.2.7.part1">LELIO</ns0:speaker> 
                                  <ns0:stage>
-<<<<<<< HEAD
                                     <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg466.2.7.1.part1">noch in Gedanken.</ns0:stage>
-=======
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg466.2.7.1.part1">noch in Gedanken.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                  </ns0:stage>
                                  <ns0:l xml:id="tg466.2.7.part2"> H&#246;re, Maskarill! &#8211; &#8211;</ns0:l>
                               </ns0:sp>
@@ -1306,11 +1247,7 @@ machen. Aber, mein lieber Philto, ich, der ich sein Vormund bin, habe mich f&#25
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg466.2.14.part1">MASKARILL.</ns0:speaker>
-<<<<<<< HEAD
                                  <ns0:p xml:id="tg466.2.14.part2"> Sich vor den Kopf schie&#223;en? &#8211; &#8211; Es ist schon wahr, entlaufen w&#252;rden Sie mir mit dem Gelde alsdann nicht. Aber doch &#8211; &#8211; <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg466.2.14.1.part2">Als ob er nachd&#228;chte.</ns0:stage>
-=======
-                                 <ns0:p xml:id="tg466.2.14.part2"> Sich vor den Kopf schie&#223;en? &#8211; &#8211; Es ist schon wahr, entlaufen w&#252;rden Sie mir mit dem Gelde alsdann nicht. Aber doch &#8211; &#8211; <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg466.2.14.1.part2">Als ob er nachd&#228;chte.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                  </ns0:p>
                                  <ns0:pb n="576" xml:id="tg466.2.15" />
                               </ns0:sp>
@@ -1455,11 +1392,7 @@ machen. Aber, mein lieber Philto, ich, der ich sein Vormund bin, habe mich f&#25
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg466.2.52.part1">LELIO</ns0:speaker> 
                                  <ns0:stage>
-<<<<<<< HEAD
                                     <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg466.2.52.1.part1">nachdem er ein wenig nachgedacht.</ns0:stage>
-=======
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg466.2.52.1.part1">nachdem er ein wenig nachgedacht.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                  </ns0:stage>
                                  <ns0:l xml:id="tg466.2.52.part2"> Ja, das w&#228;re noch das einzige. Ich will es dem Staleno selbst vorschlagen. Komm, Schurke! &#8211; &#8211;</ns0:l>
                               </ns0:sp>
@@ -1500,11 +1433,7 @@ noch; nur da&#223;, &#8211; &#8211; wie Sie leicht vermuten k&#246;nnen, &#8211;
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg467.2.7.part1">MASKARILL</ns0:speaker> 
                                  <ns0:stage>
-<<<<<<< HEAD
                                     <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg467.2.7.1.part1">sachte zum Lelio.</ns0:stage>
-=======
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg467.2.7.1.part1">sachte zum Lelio.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                  </ns0:stage>
                                  <ns0:l xml:id="tg467.2.7.part2"> Sind Sie nicht klug, Herr Lelio? &#8211;</ns0:l>
                               </ns0:sp>
@@ -1531,11 +1460,7 @@ noch; nur da&#223;, &#8211; &#8211; wie Sie leicht vermuten k&#246;nnen, &#8211;
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg467.2.13.part1">STALENO</ns0:speaker> 
                                  <ns0:stage>
-<<<<<<< HEAD
                                     <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg467.2.13.1.part1">bei Seite.</ns0:stage>
-=======
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg467.2.13.1.part1">bei Seite.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                  </ns0:stage>
                                  <ns0:p xml:id="tg467.2.13.part2"> Ich merke schon. &#8211; Ja wohl, Herr Lelio, mu&#223;te ich mich an den g&#228;nzlichen Mangel der Aussteuer sto&#223;en, so gern ich auch sonst diese Heirat gesehen h&#228;tte. Wenn es Ihnen also mit dem getanen Vorschlage ein Ernst w&#228;re, so wollte ich mich wohl noch besinnen.</ns0:p>
                               </ns0:sp>
@@ -1573,11 +1498,7 @@ noch; nur da&#223;, &#8211; &#8211; wie Sie leicht vermuten k&#246;nnen, &#8211;
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg467.2.22.part1">LELIO.</ns0:speaker>
-<<<<<<< HEAD
                                  <ns0:l xml:id="tg467.2.22.part2"> Leben Sie wohl unterdessen. <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg467.2.22.1.part2">Geht ab.</ns0:stage>
-=======
-                                 <ns0:l xml:id="tg467.2.22.part2"> Leben Sie wohl unterdessen. <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg467.2.22.1.part2">Geht ab.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                  </ns0:l>
                                  <ns0:pb n="580" xml:id="tg467.2.23" />
                                  <ns0:lb xml:id="tg467.2.24" />
@@ -1605,11 +1526,7 @@ noch; nur da&#223;, &#8211; &#8211; wie Sie leicht vermuten k&#246;nnen, &#8211;
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg468.2.6.part1">MASKARILL</ns0:speaker> 
                                  <ns0:stage>
-<<<<<<< HEAD
                                     <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg468.2.6.1.part1">bei Seite.</ns0:stage>
-=======
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg468.2.6.1.part1">bei Seite.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                  </ns0:stage>
                                  <ns0:p xml:id="tg468.2.6.part2"> Jetzt mu&#223; ich ihm wider seinen Willen einen guten Dienst tun. Wie fange ichs an? Pst! &#8211; &#8211; Verziehen Sie doch noch einen Augenblick, Herr Staleno &#8211; &#8211;</ns0:p>
                               </ns0:sp>
@@ -1775,22 +1692,14 @@ Ernte haben, so bringen die &#196;cker, die zu dem Vorwerke geh&#246;ren, doch k
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg468.2.48.part1">MASKARILL</ns0:speaker> 
                                  <ns0:stage>
-<<<<<<< HEAD
                                     <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg468.2.48.1.part1">bei Seite.</ns0:stage>
-=======
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg468.2.48.1.part1">bei Seite.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                  </ns0:stage>
                                  <ns0:l xml:id="tg468.2.48.part2"> Der alte Fuchs!</ns0:l>
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg468.2.49.part1">STALENO</ns0:speaker> 
                                  <ns0:stage>
-<<<<<<< HEAD
                                     <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg468.2.49.1.part1">bei Seite.</ns0:stage>
-=======
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg468.2.49.1.part1">bei Seite.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                  </ns0:stage>
                                  <ns0:p xml:id="tg468.2.49.part2"> Wie ich ihn martre, den Schelm! &#8211; &#8211; Aber doch, Maskarill, danke ich dir f&#252;r deine gute Nachricht. Sie kann mir wenigstens so viel n&#252;tzen, da&#223; ich meinen M&#252;ndel das Vorwerk zwar nehmen, aber auch gleich wieder verkaufen lasse.</ns0:p>
                               </ns0:sp>
@@ -1800,11 +1709,7 @@ Ernte haben, so bringen die &#196;cker, die zu dem Vorwerke geh&#246;ren, doch k
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg468.2.51.part1">STALENO.</ns0:speaker>
-<<<<<<< HEAD
                                  <ns0:p xml:id="tg468.2.51.part2"> Verspare es nur; ich habe ohnedem jetzo nicht Zeit. Ein andermal, Maskarill, bin ich deinen Possen wieder zu Diensten. <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg468.2.51.1.part2">Geht ab.</ns0:stage>
-=======
-                                 <ns0:p xml:id="tg468.2.51.part2"> Verspare es nur; ich habe ohnedem jetzo nicht Zeit. Ein andermal, Maskarill, bin ich deinen Possen wieder zu Diensten. <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg468.2.51.1.part2">Geht ab.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                  </ns0:p>
                                  <ns0:lb xml:id="tg468.2.52" />
                               </ns0:sp>
@@ -1858,11 +1763,7 @@ Ernte haben, so bringen die &#196;cker, die zu dem Vorwerke geh&#246;ren, doch k
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg470.2.8.part1">ANSELMO</ns0:speaker> 
                                  <ns0:stage>
-<<<<<<< HEAD
                                     <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg470.2.8.1.part1">zum Tr&#228;ger.</ns0:stage>
-=======
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg470.2.8.1.part1">zum Tr&#228;ger.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                  </ns0:stage>
                                  <ns0:p xml:id="tg470.2.8.part2"> Setzt den Koffer hier nur nieder, <ns0:pb n="584" xml:id="tg470.2.8.2.part2" />
 guter Freund. Ich will ihn schon vollends herein schaffen lassen. &#8211; Ich habe Euch doch bezahlt? &#8211; &#8211;</ns0:p>
@@ -1885,11 +1786,7 @@ guter Freund. Ich will ihn schon vollends herein schaffen lassen. &#8211; Ich ha
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg470.2.13.part1">DER TR&#196;GER.</ns0:speaker>
-<<<<<<< HEAD
                                  <ns0:p xml:id="tg470.2.13.part2"> Ei! ei! das ist mir doch lieb, da&#223; ich mich nicht betrogen habe; ich s&#228;he Sie gleich f&#252;r einen spendabeln Mann an. O! ich versteh mich drauf. Gott bezahls! <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg470.2.13.1.part2">Geht ab.</ns0:stage>
-=======
-                                 <ns0:p xml:id="tg470.2.13.part2"> Ei! ei! das ist mir doch lieb, da&#223; ich mich nicht betrogen habe; ich s&#228;he Sie gleich f&#252;r einen spendabeln Mann an. O! ich versteh mich drauf. Gott bezahls! <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg470.2.13.1.part2">Geht ab.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                  </ns0:p>
                               </ns0:sp>
                               <ns0:sp>
@@ -1907,15 +1804,9 @@ guter Freund. Ich will ihn schon vollends herein schaffen lassen. &#8211; Ich ha
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg470.2.17.part1">MASKARILL</ns0:speaker> 
                                  <ns0:stage>
-<<<<<<< HEAD
                                     <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg470.2.17.1.part1">der ihm n&#228;her tritt.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:p xml:id="tg470.2.17.part2"> Mein Herr! &#8211; &#8211; Sie werden verzeihen &#8211; &#8211; ich bitte um Vergebung &#8211; <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg470.2.17.2.part2">Indem er zur&#252;ck prellt.</ns0:stage> Der Blitz! das Gesichte sollte ich kennen.</ns0:p>
-=======
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg470.2.17.1.part1">der ihm n&#228;her tritt.</ns0:stage>
-                                 </ns0:stage>
-                                 <ns0:p xml:id="tg470.2.17.part2"> Mein Herr! &#8211; &#8211; Sie werden verzeihen &#8211; &#8211; ich bitte um Vergebung &#8211; <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg470.2.17.2.part2">Indem er zur&#252;ck prellt.</ns0:stage> Der Blitz! das Gesichte sollte ich kennen.</ns0:p>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg470.2.18.part1">ANSELMO.</ns0:speaker>
@@ -1996,11 +1887,7 @@ guter Freund. Ich will ihn schon vollends herein schaffen lassen. &#8211; Ich ha
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg470.2.38.part1">MASKARILL.</ns0:speaker>
-<<<<<<< HEAD
                                  <ns0:p xml:id="tg470.2.38.part2"> Ja, nun darf ich wohl nicht mehr daran zweifeln, da&#223; Sie es sind. &#8211; Sie leben, beide leben sie noch. &#8211; &#8211; <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg470.2.38.1.part2">Bei Seite.</ns0:stage> Wenn er das &#252;brige doch von einem andern zu erst erfahren k&#246;nnte. &#8211;</ns0:p>
-=======
-                                 <ns0:p xml:id="tg470.2.38.part2"> Ja, nun darf ich wohl nicht mehr daran zweifeln, da&#223; Sie es sind. &#8211; Sie leben, beide leben sie noch. &#8211; &#8211; <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg470.2.38.1.part2">Bei Seite.</ns0:stage> Wenn er das &#252;brige doch von einem andern zu erst erfahren k&#246;nnte. &#8211;</ns0:p>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg470.2.39.part1">ANSELMO.</ns0:speaker>
@@ -2147,21 +2034,12 @@ guter Freund. Ich will ihn schon vollends herein schaffen lassen. &#8211; Ich ha
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg470.2.76.part1">MASKARILL</ns0:speaker> 
                                  <ns0:stage>
-<<<<<<< HEAD
                                     <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg470.2.76.1.part1">bei Seite.</ns0:stage>
                                  </ns0:stage>
                                  <ns0:l xml:id="tg470.2.76.part2"> Gut, da&#223; ich so weg komme. Herr Lelio! Herr Lelio! was werden Sie zu der Nachricht sagen?</ns0:l>
                                  <ns0:lb xml:id="tg470.2.77" />
                                  <ns0:stage rend="zenoPC" xml:id="tg470.2.78">
                                     <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg470.2.78.1">Er geht und k&#246;mmt wieder zur&#252;ck.</ns0:stage>
-=======
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg470.2.76.1.part1">bei Seite.</ns0:stage>
-                                 </ns0:stage>
-                                 <ns0:l xml:id="tg470.2.76.part2"> Gut, da&#223; ich so weg komme. Herr Lelio! Herr Lelio! was werden Sie zu der Nachricht sagen?</ns0:l>
-                                 <ns0:lb xml:id="tg470.2.77" />
-                                 <ns0:stage rend="zenoPC" type="other" xml:id="tg470.2.78">
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg470.2.78.1">Er geht und k&#246;mmt wieder zur&#252;ck.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                  </ns0:stage>
                                  <ns0:lb xml:id="tg470.2.79" />
                               </ns0:sp>
@@ -2180,11 +2058,7 @@ guter Freund. Ich will ihn schon vollends herein schaffen lassen. &#8211; Ich ha
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg470.2.83.part1">MASKARILL</ns0:speaker> 
                                  <ns0:stage>
-<<<<<<< HEAD
                                     <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg470.2.83.1.part1">im Fortgehen.</ns0:stage>
-=======
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg470.2.83.1.part1">im Fortgehen.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                  </ns0:stage>
                                  <ns0:l xml:id="tg470.2.83.part2"> Ja, ja, er ists. &#8211; &#8211; Neun Jahr weg sein, und eben jetzt wieder kommen!</ns0:l>
                                  <ns0:lb xml:id="tg470.2.84" />
@@ -2206,11 +2080,7 @@ guter Freund. Ich will ihn schon vollends herein schaffen lassen. &#8211; Ich ha
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg471.2.2.part1">ANSELMO.</ns0:speaker>
                                  <ns0:p xml:id="tg471.2.2.part2"> Da mu&#223; ich nun unter freiem Himmel warten? Es ist gut, da&#223; die Stra&#223;e ein wenig abgelegen ist, und da&#223; mich die wenigsten mehr kennen werden. Aber gleichwohl darf ich die Augen nicht sehr von meinem Koffer verwenden. Ich d&#228;chte, ich setzte mich darauf. &#8211; &#8211; Bald, bald <ns0:pb n="588" xml:id="tg471.2.2.1.part2" />
-<<<<<<< HEAD
 werde ich nun wohl ruhiger sitzen k&#246;nnen. Ich habe mir es sauer genug werden lassen, und Gefahr genug ausgestanden, da&#223; ich mir schon, mit gutem Gewissen, meine letzten Tage zu Rast- und Freudentagen machen kann. &#8211; &#8211; Ja gewi&#223;, das sollen sie werden. Und wer wird mir es verdenken? Wenn ich es nur ganz obenhin &#252;berschlage, so besitze ich doch &#8211; <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg471.2.2.2.part2">Er spricht die letzten Worte immer sachter und sachter, bis er zuletzt in blo&#223;en Gedanken an Fingern z&#228;hlt.</ns0:stage>
-=======
-werde ich nun wohl ruhiger sitzen k&#246;nnen. Ich habe mir es sauer genug werden lassen, und Gefahr genug ausgestanden, da&#223; ich mir schon, mit gutem Gewissen, meine letzten Tage zu Rast- und Freudentagen machen kann. &#8211; &#8211; Ja gewi&#223;, das sollen sie werden. Und wer wird mir es verdenken? Wenn ich es nur ganz obenhin &#252;berschlage, so besitze ich doch &#8211; <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg471.2.2.2.part2">Er spricht die letzten Worte immer sachter und sachter, bis er zuletzt in blo&#223;en Gedanken an Fingern z&#228;hlt.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                  </ns0:p>
                                  <ns0:lb xml:id="tg471.2.3" />
                               </ns0:sp>
@@ -2256,11 +2126,7 @@ werde ich nun wohl ruhiger sitzen k&#246;nnen. Ich habe mir es sauer genug werde
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg472.2.11.part1">ANSELMO.</ns0:speaker>
-<<<<<<< HEAD
                                  <ns0:l xml:id="tg472.2.11.part2"> Lelio? Philto? &#8211; <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg472.2.11.1.part2">Bei Seite.</ns0:stage> So hei&#223;t ja mein Sohn, und mein alter guter Freund. &#8211; &#8211;</ns0:l>
-=======
-                                 <ns0:l xml:id="tg472.2.11.part2"> Lelio? Philto? &#8211; <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg472.2.11.1.part2">Bei Seite.</ns0:stage> So hei&#223;t ja mein Sohn, und mein alter guter Freund. &#8211; &#8211;</ns0:l>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg472.2.12.part1">RAPS.</ns0:speaker>
@@ -2273,11 +2139,7 @@ so werden Sie bei einem Manne Dank verdienen, der nicht ermangeln wird. Ihre H&#
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg472.2.14.part1">RAPS.</ns0:speaker>
-<<<<<<< HEAD
                                  <ns0:p xml:id="tg472.2.14.part2"> Das hei&#223;t sehr viel auf einmal fragen. Worauf soll ich nun zuerst antworten? Wenn Sie mich jedes insbesondere, mit der geh&#246;rigen Art, fragen wollten, so m&#246;chte ich vielleicht darauf Bescheid erteilen. Denn ich bin gespr&#228;chig, mein Herr, sehr gespr&#228;chig. &#8211; &#8211; <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg472.2.14.1.part2">Bei Seite.</ns0:stage> Ich kann wenigstens meine Rolle mit ihm probieren.</ns0:p>
-=======
-                                 <ns0:p xml:id="tg472.2.14.part2"> Das hei&#223;t sehr viel auf einmal fragen. Worauf soll ich nun zuerst antworten? Wenn Sie mich jedes insbesondere, mit der geh&#246;rigen Art, fragen wollten, so m&#246;chte ich vielleicht darauf Bescheid erteilen. Denn ich bin gespr&#228;chig, mein Herr, sehr gespr&#228;chig. &#8211; &#8211; <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg472.2.14.1.part2">Bei Seite.</ns0:stage> Ich kann wenigstens meine Rolle mit ihm probieren.</ns0:p>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg472.2.15.part1">ANSELMO.</ns0:speaker>
@@ -2306,11 +2168,7 @@ so werden Sie bei einem Manne Dank verdienen, der nicht ermangeln wird. Ihre H&#
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg472.2.21.part1">ANSELMO</ns0:speaker> 
                                  <ns0:stage>
-<<<<<<< HEAD
                                     <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg472.2.21.1.part1">bei Seite.</ns0:stage>
-=======
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg472.2.21.1.part1">bei Seite.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                  </ns0:stage>
                                  <ns0:p xml:id="tg472.2.21.part2"> Der Kerl redt! &#8211; Aber was wollen Sie denn bei dem jungen Lelio, und bei dem alten Philto? Ohne Zweifel stehen Sie mit dem erstern in Verkehr? Lelio soll ein gro&#223;er Kaufmann sein.</ns0:p>
                               </ns0:sp>
@@ -2346,11 +2204,7 @@ so werden Sie bei einem Manne Dank verdienen, der nicht ermangeln wird. Ihre H&#
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg472.2.30.part1">ANSELMO</ns0:speaker> 
                                  <ns0:stage>
-<<<<<<< HEAD
                                     <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg472.2.30.1.part1">bei Seite.</ns0:stage>
-=======
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg472.2.30.1.part1">bei Seite.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                  </ns0:stage>
                                  <ns0:p xml:id="tg472.2.30.part2"> Je! das ist ja gar, mit Ehren zu melden, ein Betrieger. Warte, dich will ich kriegen. Ich soll ihm Briefe an meinen Sohn gegeben haben?</ns0:p>
                               </ns0:sp>
@@ -2410,11 +2264,7 @@ liebe die neugierigen Leute. &#8211; &#8211; Er ist ungef&#228;hr einen Kopf gr&
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg472.2.44.part1">ANSELMO</ns0:speaker> 
                                  <ns0:stage>
-<<<<<<< HEAD
                                     <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg472.2.44.1.part1">bei Seite.</ns0:stage>
-=======
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg472.2.44.1.part1">bei Seite.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                  </ns0:stage>
                                  <ns0:p xml:id="tg472.2.44.part2"> Das geht gut! ich bin abwesend gr&#246;&#223;er, als gegenw&#228;rtig. &#8211; Seinen Namen haben Sie mir noch nicht gesagt. Wie hei&#223;t er?</ns0:p>
                               </ns0:sp>
@@ -2490,11 +2340,7 @@ Dardanellen? Sie reiseten vor einigen zwanzig Jahren in Europa herum; und da hat
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg472.2.62.part1">ANSELMO</ns0:speaker> 
                                  <ns0:stage>
-<<<<<<< HEAD
                                     <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg472.2.62.1.part1">bei Seite.</ns0:stage>
-=======
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg472.2.62.1.part1">bei Seite.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                  </ns0:stage>
                                  <ns0:p xml:id="tg472.2.62.part2"> Die Narrenspossen dauern zu lange. Ich mu&#223; der Pauke nur ein Loch machen, damit ich doch erfahre, woran ich bin.</ns0:p>
                               </ns0:sp>
@@ -2562,11 +2408,7 @@ Beweise. Nicht allein Briefe hat er mir mitgegeben, sondern auch sechstausend Ta
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg472.2.78.part1">ANSELMO</ns0:speaker> 
                                  <ns0:stage>
-<<<<<<< HEAD
                                     <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg472.2.78.1.part1">bei Seite.</ns0:stage>
-=======
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg472.2.78.1.part1">bei Seite.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                  </ns0:stage>
                                  <ns0:p xml:id="tg472.2.78.part2"> Nun wei&#223; ich fast nicht, was ich von dem Kerl denken soll. Ein Betrieger, der Geld bringt, das ist ja wohl ein sehr wunderbarer Betrieger.</ns0:p>
                               </ns0:sp>
@@ -2629,11 +2471,7 @@ Beweise. Nicht allein Briefe hat er mir mitgegeben, sondern auch sechstausend Ta
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg472.2.93.part1">RAPS</ns0:speaker> 
                                  <ns0:stage>
-<<<<<<< HEAD
                                     <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg472.2.93.1.part1">bei Seite.</ns0:stage>
-=======
-                                    <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg472.2.93.1.part1">bei Seite.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                  </ns0:stage>
                                  <ns0:l xml:id="tg472.2.93.part2"> Sollte man nicht schw&#246;ren, der Mann w&#228;re ein gr&#246;&#223;rer Gauner, als ich selbst! &#8211; &#8211;</ns0:l>
                               </ns0:sp>
@@ -2684,11 +2522,7 @@ sein k&#246;nnte! Sobald er h&#246;rt, da&#223; ich Geld bei mir habe: husch! is
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg472.2.105.part1">RAPS.</ns0:speaker>
-<<<<<<< HEAD
                                  <ns0:p xml:id="tg472.2.105.part2"> O! ich bitte, mein Herr &#8211; &#8211; <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg472.2.105.1.part2">Indem ihn Anselmo halten will, st&#246;&#223;t ihn Raps mit Gewalt von sich, da&#223; er r&#252;cklings wieder auf den Koffer zu sitzen k&#246;mmt.</ns0:stage> Der alte Dieb k&#246;nnte wenigstens einen Auflauf erregen. Ich will dir schon einen schicken, der dich besser kennen soll. <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg472.2.105.2.part2">Geht ab.</ns0:stage>
-=======
-                                 <ns0:p xml:id="tg472.2.105.part2"> O! ich bitte, mein Herr &#8211; &#8211; <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg472.2.105.1.part2">Indem ihn Anselmo halten will, st&#246;&#223;t ihn Raps mit Gewalt von sich, da&#223; er r&#252;cklings wieder auf den Koffer zu sitzen k&#246;mmt.</ns0:stage> Der alte Dieb k&#246;nnte wenigstens einen Auflauf erregen. Ich will dir schon einen schicken, der dich besser kennen soll. <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg472.2.105.2.part2">Geht ab.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                  </ns0:p>
                               </ns0:sp>
                               <ns0:sp>
@@ -2839,11 +2673,7 @@ den Anselmo auszugeben. &#8211; &#8211; Aber was sehe ich? Er ist es wirklich. &
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg474.2.13.part1">PHILTO.</ns0:speaker>
-<<<<<<< HEAD
                                  <ns0:p xml:id="tg474.2.13.part2"> Auch diese wirst du finden, wie du sie verlassen hast. <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg474.2.13.1.part2">Sie gehen in das Haus, nachdem sie den Koffer nach sich gezogen.</ns0:stage>
-=======
-                                 <ns0:p xml:id="tg474.2.13.part2"> Auch diese wirst du finden, wie du sie verlassen hast. <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg474.2.13.1.part2">Sie gehen in das Haus, nachdem sie den Koffer nach sich gezogen.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                  </ns0:p>
                                  <ns0:lb xml:id="tg474.2.14" />
                               </ns0:sp>
@@ -3194,11 +3024,7 @@ Bouteille tun wollte. &#8211; Freuen Sie sich, Herr Lelio, waren meine Worte: eb
                               <ns0:lb xml:id="tg479.2.5" />
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg479.2.6.part1">MASKARILL.</ns0:speaker>
-<<<<<<< HEAD
                                  <ns0:p xml:id="tg479.2.6.part2"> Und steckte ihn an. Komm, rief er, Maskarill; mein Vater wird auf mich z&#252;rnen, und sein Zorn ist mir unertr&#228;glich. Ich will nicht l&#228;nger leben, ohne ihn zu vers&#246;hnen. Er st&#252;rzte die Treppe herab, lief sporenstreichs zum Hause hinaus, und warf sich nicht weit von hier &#8211; <ns0:stage rend="italic" type="other" ns1:fixed-stage="true" xml:id="tg479.2.6.1.part2">Indem Maskarill dieses sagt, und Anselmo gegen ihn gekehrt ist, f&#228;llt ihm Lelio auf der andern Seite zu F&#252;&#223;en.</ns0:stage> &#8211; &#8211; zu den F&#252;&#223;en seines Vaters. &#8211; &#8211;</ns0:p>
-=======
-                                 <ns0:p xml:id="tg479.2.6.part2"> Und steckte ihn an. Komm, rief er, Maskarill; mein Vater wird auf mich z&#252;rnen, und sein Zorn ist mir unertr&#228;glich. Ich will nicht l&#228;nger leben, ohne ihn zu vers&#246;hnen. Er st&#252;rzte die Treppe herab, lief sporenstreichs zum Hause hinaus, und warf sich nicht weit von hier &#8211; <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg479.2.6.1.part2">Indem Maskarill dieses sagt, und Anselmo gegen ihn gekehrt ist, f&#228;llt ihm Lelio auf der andern Seite zu F&#252;&#223;en.</ns0:stage> &#8211; &#8211; zu den F&#252;&#223;en seines Vaters. &#8211; &#8211;</ns0:p>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                               </ns0:sp>
                               <ns0:sp>
                                  <ns0:speaker xml:id="tg479.2.7.part1">LELIO.</ns0:speaker>

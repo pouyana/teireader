@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 '''
-
+    Use this Program to classify the files, uses Stanford Pos_Tagger and NLTK trained Randomforrest Pickle. 
+    Usage:
+    classify.py foo.xml
 '''
 import sys
 import nltk.data
@@ -11,14 +13,13 @@ from drama import Drama
 
 if __name__ == '__main__':
     text = Drama(sys.argv[1])
-    #text = Drama("ncfiles/GryphAbsurda_ComiDrame.xml")
     classifier = pickle.load(open("pickle/grid_sklearn.RandomForestClassifier.new.pickle"))
     collection_a = text.get_fix_stage()
     ner = Ner()
     temp=[]
     tree = text.get_tree()
     title = text.get_title()
-    file_handle = open("mcfiles/"+title+".txt","w")
+    file_handle = open("machine_classified/"+title+".txt","w")
     for c in collection_a:
         if("text" in c):
             stage = {}

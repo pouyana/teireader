@@ -18,7 +18,6 @@ cn = 0
 stats={}
 for f in file_list:
     if(re.match(".*\.txt",f)):
-        print f
         xml_file = files_dir+"/"+find_xml(tools.unicode_safe(f))
         xml = Drama(xml_file)
         tree = xml.get_tree()
@@ -28,8 +27,16 @@ for f in file_list:
         for line in lines:
             jsondata = json.loads(line)
             stage = xml.get_content_by_id(jsondata["id"])
-            if("type" in stage.attrib):
-                if(stage.attrib["type"]!=jsondata["type"]):
-                    stats[(stage.attrib["type"],jsondata["type"])] = stats.setdefault((stage.attrib["type"],jsondata["type"]))+1
-            #else:
-            #    stage.set("type",jsondata["type"])
+            if(stage is not None):
+                if("type" in stage.attrib):
+                    if(stage.attrib["type"]!=jsondata["type"]):
+                        if(not (stage.attrib["type"],jsondata["type"]) in stats):
+                            stats.setdefault((stage.attrib["type"],jsondata["type"]))
+                            stats[(stage.attrib["type"],jsondata["type"])]=1
+                        else:
+                            stats[(stage.attrib["type"],jsondata["type"])]=stats[(stage.attrib["type"],jsondata["type"])]+1
+print "corrections:\n"
+print "|    Before  |   After   |   Count    |"
+for st,vals in stats.iteritems():
+    print "|    "+st[0]+"   |   "+st[1]+"  |    "+str(vals)+"   |"
+

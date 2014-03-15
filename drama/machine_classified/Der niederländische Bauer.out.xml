@@ -1704,13 +1704,8 @@ bliebe / da&#223; wir mit einander auff die Jagt spatzieren reiten wolten?</ns0:
                                     <ns0:speaker xml:id="tg319.2.78.part1">MIERTEN.</ns0:speaker>
                                     <ns0:l xml:id="tg319.2.78.part2"> Ie / ja ja / du wirst mir wohl nichts zumuthen / was nicht Manier ist.</ns0:l>
                                     <ns0:lb xml:id="tg319.2.79" />
-<<<<<<< HEAD
                                     <ns0:stage rend="zenoPC" xml:id="tg319.2.80">
                                        <ns0:stage rend="italic" type="exit" ns1:fixed-stage="true" xml:id="tg319.2.80.1">Sie gehen hinein / die Scene f&#228;llt zu und verbirgt das Bette.</ns0:stage>
-=======
-                                    <ns0:stage rend="zenoPC" type="exit" xml:id="tg319.2.80">
-                                       <ns0:stage rend="italic" ns1:fixed-stage="true" xml:id="tg319.2.80.1">Sie gehen hinein / die Scene f&#228;llt zu und verbirgt das Bette.</ns0:stage>
->>>>>>> e004bbe93f33f9c0ceb118b6bc08a9020394070f
                                     </ns0:stage>
                                     <ns0:lb xml:id="tg319.2.81" />
                                  </ns0:sp>

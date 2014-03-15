@@ -8,13 +8,13 @@ import re
 #the_drama =  Drama('files/LessiDer_MisogynDrame.xml')
 tools = Tools()
 ner = Ner()
-files_dir = "files"
+files_dir = "hand_classified"
 dirprefix = "corpora/"
 file_prefix = "cv"
 file_list = os.listdir(files_dir)
 cn = 0
 for f in file_list:
-    the_drama = Drama('files/'+f)
+    the_drama = Drama(files_dir+"/"+f)
 #    print the_drama.get_title()
 #print the_drama.get_bibl_title()
 #print the_drama.get_bibl_author()

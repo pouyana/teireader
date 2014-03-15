@@ -1,0 +1,9 @@
+corrections:
+
+|    Before  |   After   |   Count    |
+|    enter   |   other  |    56   |
+|    other   |   aside  |    17   |
+|    exit   |   other  |    1   |
+|    aside   |   other  |    1   |
+|    other   |   enter  |    91   |
+|    other   |   exit  |    13   |
