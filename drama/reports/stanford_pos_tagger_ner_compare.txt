@@ -1,0 +1,74 @@
+Postagger: tg659.2.4===>Recha, und die Vorigen.
+NER: <I-PER>Recha</I-PER>, und die Vorigen.
+Postagger: tg660.2.4===>Nathan und der Derwisch.
+NER: <I-PER>Nathan</I-PER> und der Derwisch.
+Postagger: tg663.2.4===>Der Tempelherr und Daja, die den
+                           Tempelherrn schon eine Zeit lang von weiten beobachtet hatte, und sich
+                           nun ihm nähert.
+NER: Der Tempelherr und Daja, die den
+Postagger: tg665.2.4===>Die Szene: des Sultans Palast.
+NER: Die Szene: des Sultans Palast.
+Postagger: tg666.2.4===>Der Derwisch Al-Hafi. Saladin.
+                           Sittah.
+NER: Der Derwisch <I-PER>Al-Hafi</I-PER>. <I-PER>Saladin</I-PER>.
+Postagger: tg666.2.31.1===>das Spiel betrachtend.
+NER: das Spiel betrachtend.
+Postagger: tg667.2.4===>Sittah. Saladin.
+NER: Sittah. <I-PER>Saladin</I-PER>.
+Postagger: tg670.2.4===>Die Vorigen und Daja eilig.
+NER: Die Vorigen und Daja eilig.
+Postagger: tg671.2.4===>Nathan und der Tempelherr.
+NER: <I-PER>Nathan</I-PER> und der Tempelherr.
+Postagger: tg672.2.4===>Daja. Nathan.
+NER: <I-PER>Daja</I-PER>. <I-PER>Nathan</I-PER>.
+Postagger: tg673.2.4===>Nathan. Al-Hafi.
+NER: <I-PER>Nathan</I-PER>. Al-Hafi.
+Postagger: tg675.2.5===>Recha und Daja.
+NER: <I-PER>Recha</I-PER> und Daja.
+Postagger: tg676.2.4===>Recha. Daja und der Tempelherr, dem
+                           jemand von außen die Türe öffnet, mit den Worten.
+NER: <I-PER>Recha</I-PER>. <I-PER>Daja</I-PER> und der Tempelherr, dem
+Postagger: tg676.2.58.1===>Pause,
+                              unter der er, in Anschauung ihrer, sich wie verliert.
+NER: Pause,
+Postagger: tg677.2.4===>Recha und Daja.
+NER: <I-PER>Recha</I-PER> und Daja.
+Postagger: tg678.2.5===>Saladin und Sittah.
+NER: <I-PER>Saladin</I-PER> und Sittah.
+Postagger: tg679.2.4===>Saladin und Nathan.
+NER: <I-PER>Saladin</I-PER> und <I-PER>Nathan</I-PER>.
+Postagger: tg681.2.4===>Saladin und Nathan.
+NER: <I-PER>Saladin</I-PER> und <I-PER>Nathan</I-PER>.
+Postagger: tg683.2.4===>Nathan und der Tempelherr.
+NER: <I-PER>Nathan</I-PER> und der Tempelherr.
+Postagger: tg684.2.148.1===>Pause.
+NER: Pause.
+Postagger: tg689.2.4===>Der Tempelherr und Saladin.
+NER: Der Tempelherr und <I-PER>Saladin</I-PER>.
+Postagger: tg690.2.4===>Saladin und Sittah.
+NER: <I-PER>Saladin</I-PER> und Sittah.
+Postagger: tg691.2.5===>Ein Teil der Waren und Kostbarkeiten
+                           liegt ausgekramt, deren eben daselbst gedacht wird.
+NER: Ein Teil der Waren und Kostbarkeiten
+Postagger: tg691.2.6===>Nathan und Daja.
+NER: <I-PER>Nathan</I-PER> und Daja.
+Postagger: tg692.2.4===>Nathan und der Klosterbruder.
+NER: <I-PER>Nathan</I-PER> und der Klosterbruder.
+Postagger: tg693.2.4===>Daja und Nathan.
+NER: <I-PER>Daja</I-PER> und <I-PER>Nathan</I-PER>.
+Postagger: tg696.2.4===>Emir Mansor und Saladin.
+NER: Emir Mansor und <I-PER>Saladin</I-PER>.
+Postagger: tg698.2.4===>Nathan und der Klosterbruder.
+NER: <I-PER>Nathan</I-PER> und der Klosterbruder.
+Postagger: tg701.2.4===>Saladin und die Vorigen.
+NER: Saladin und die Vorigen.
+Postagger: tg702.2.245.1===>Recha
+                              um den Hals fallend.
+NER: <I-PER>Recha</I-PER>
+Postagger: tg702.2.262.1===>Indem
+                              er sich ihren Umarmungen überläßt, tritt Saladin mit unruhigem
+                              Erstaunen zu seiner Schwester.
+NER: Indem
+Postagger: tg702.2.277.1===>Indem
+                              Nathan zu ihm tritt, tritt Sittah zu dem
+NER: Indem

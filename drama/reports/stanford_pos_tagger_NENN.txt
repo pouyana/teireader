@@ -1,0 +1,42 @@
+tg659.2.4===>Recha, und die Vorigen.
+tg660.2.4===>Nathan und der Derwisch.
+tg663.2.4===>Der Tempelherr und Daja, die den
+                           Tempelherrn schon eine Zeit lang von weiten beobachtet hatte, und sich
+                           nun ihm nähert.
+tg665.2.4===>Die Szene: des Sultans Palast.
+tg666.2.4===>Der Derwisch Al-Hafi. Saladin.
+                           Sittah.
+tg666.2.31.1===>das Spiel betrachtend.
+tg667.2.4===>Sittah. Saladin.
+tg670.2.4===>Die Vorigen und Daja eilig.
+tg671.2.4===>Nathan und der Tempelherr.
+tg672.2.4===>Daja. Nathan.
+tg673.2.4===>Nathan. Al-Hafi.
+tg675.2.5===>Recha und Daja.
+tg676.2.4===>Recha. Daja und der Tempelherr, dem
+                           jemand von außen die Türe öffnet, mit den Worten.
+tg676.2.58.1===>Pause,
+                              unter der er, in Anschauung ihrer, sich wie verliert.
+tg677.2.4===>Recha und Daja.
+tg678.2.5===>Saladin und Sittah.
+tg679.2.4===>Saladin und Nathan.
+tg681.2.4===>Saladin und Nathan.
+tg683.2.4===>Nathan und der Tempelherr.
+tg684.2.148.1===>Pause.
+tg689.2.4===>Der Tempelherr und Saladin.
+tg690.2.4===>Saladin und Sittah.
+tg691.2.5===>Ein Teil der Waren und Kostbarkeiten
+                           liegt ausgekramt, deren eben daselbst gedacht wird.
+tg691.2.6===>Nathan und Daja.
+tg692.2.4===>Nathan und der Klosterbruder.
+tg693.2.4===>Daja und Nathan.
+tg696.2.4===>Emir Mansor und Saladin.
+tg698.2.4===>Nathan und der Klosterbruder.
+tg701.2.4===>Saladin und die Vorigen.
+tg702.2.245.1===>Recha
+                              um den Hals fallend.
+tg702.2.262.1===>Indem
+                              er sich ihren Umarmungen überläßt, tritt Saladin mit unruhigem
+                              Erstaunen zu seiner Schwester.
+tg702.2.277.1===>Indem
+                              Nathan zu ihm tritt, tritt Sittah zu dem

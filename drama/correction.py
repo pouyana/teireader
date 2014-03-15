@@ -12,7 +12,7 @@ def find_xml(txtfile):
     return xml_file_name
 
 tools = Tools()
-files_dir = "corfiles"
+files_dir = "corrected_machine_classified"
 file_list = os.listdir(files_dir)
 cn = 0
 stats={}

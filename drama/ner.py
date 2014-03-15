@@ -38,7 +38,7 @@ class Ner:
             name_count=0
             only_names = True
             for child in root.iter("word"):
-                if(re.match("^NE$",child.attrib["pos"])):
+                if(re.match("NE|NN",child.attrib["pos"])):
                     name_count = name_count + 1
                 if(re.match("(VV.*|PTK.*|PPER|ADV|APPR)",child.attrib["pos"])):
                     only_names = False
@@ -65,7 +65,7 @@ class Ner:
         if (set(words)==set(name_list)):
             return True
 #test case
-#text = Drama("files/LessiNathan_der_WDrame.xml")
+#text = Drama("hand_classified/LessiNathan_der_WDrame.xml")
 #ner = Ner()
 #collection_a = text.get_fix_stage()
 #for c in collection_a:
@@ -74,7 +74,8 @@ class Ner:
 #            stage["text"]=c["text"]
 #            stage["id"]=c["id"]
 #            c["text"] = "Herr Oronte. Frau Oronte. von Schlag. Peter. Lelio. Lisette. Herr Kräusel. Jungfer Ohldin."
-#            if(c["text"]):
+#            if(c["text"] is not None):
 #                if(re.match("\w+",c["text"])):
 #                    if(ner.only_names(c["text"])):
-#                        print c["id"]+"===>"+c["text"]
+#                        print "Postagger: " + c["id"]+"===>"+c["text"]
+#                        print "NER: "+ner.get_ner(c["text"])
