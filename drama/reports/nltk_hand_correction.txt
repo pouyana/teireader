@@ -1,0 +1,15 @@
+corrections:
+
+|    Before  |   After   |   Count    |
+|    enter   |   other  |    76   |
+|    aside   |   enter  |    1   |
+|    aside   |   dead  |    1   |
+|    aside   |   other  |    4   |
+|    other   |   dead  |    2   |
+|    enter   |   exit  |    3   |
+|    exit   |   other  |    12   |
+|    other   |   aside  |    21   |
+|    other   |   enter  |    274   |
+|    enter   |   aside  |    4   |
+|    other   |   exit  |    80   |
+|    exit   |   dead  |    2   |

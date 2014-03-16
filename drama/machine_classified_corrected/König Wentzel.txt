@@ -1,0 +1,213 @@
+{"id":"tg381.2.5.1.part1","text":"von zwölff Schäffern begleitet.","type":"other","source":"nltk"}
+{"id":"tg383.2.4","text":"Wentzel. Rudolf, ein junger Graff.","type":"enter","source":"NLP"}
+{"id":"tg384.2.4","text":"Die Vorigen. Girschick, des Königs kleiner Münch. Wazek, sein lustiger Diener.","type":"enter","source":"nltk"}
+{"id":"tg384.2.20.1.part2","text":"Ad spectatores.","type":"aside","source":"NLP"}
+{"id":"tg384.2.24.1","text":"Die mittelste Scene wird auffgezogen / doch Cunigunda bleibt stehen / biß sie ausgeredet haben.","type":"other","source":"nltk"}
+{"id":"tg385.2.4","text":"Cunigunda, Wentzel.","type":"enter","source":"NLP"}
+{"id":"tg385.2.26.1","text":"Sie setzet sich bey dem eusersten Theatro, daß die Action desto besser verstanden wird.","type":"other","source":"nltk"}
+{"id":"tg385.2.36.1.part2","text":"Sie sieht ihm in das Gesichte.","type":"other","source":"nltk"}
+{"id":"tg385.2.39.1.part2","text":"Er geht ab / und wirfft ihr noch etliche Küsse mit den Händen zu.","type":"exit","source":"nltk"}
+{"id":"tg386.2.4","text":"Cunigunda, Zabisch.","type":"enter","source":"NLP"}
+{"id":"tg386.2.44.1.part2","text":"Küsset ihn.","type":"other","source":"nltk"}
+{"id":"tg387.2.4","text":"Cunigunda. Hernach Bäbel, ein lustiger Gärtner.","type":"enter","source":"NLP"}
+{"id":"tg387.2.7.1.part1","text":"kömt gelauffen.","type":"enter","source":"nltk"}
+{"id":"tg387.2.14.1.part1","text":"ad spectatores.","type":"aside","source":"nltk"}
+{"id":"tg387.2.30.1.part1","text":"schlägt ihn.","type":"other","source":"nltk"}
+{"id":"tg387.2.31.1.part1","text":"ad spectatores.","type":"aside","source":"nltk"}
+{"id":"tg388.2.4","text":"Cunigunda. Hernach Czenko, Sbinko.","type":"enter","source":"NLP"}
+{"id":"tg388.2.18.1.part1","text":"seufftzet.","type":"other","source":"nltk"}
+{"id":"tg388.2.21.1.part1","text":"ad spectatores.","type":"aside","source":"nltk"}
+{"id":"tg388.2.23.1.part1","text":"ad spectatores.","type":"aside","source":"nltk"}
+{"id":"tg388.2.25.1.part1","text":"ad spectatores.","type":"aside","source":"nltk"}
+{"id":"tg388.2.27.1.part1","text":"ad spectatores.","type":"aside","source":"nltk"}
+{"id":"tg388.2.30.1.part1","text":"ad spectatores.","type":"aside","source":"nltk"}
+{"id":"tg388.2.32.1.part1","text":"ad spectatores.","type":"aside","source":"nltk"}
+{"id":"tg388.2.34.1.part1","text":"ad spectatores.","type":"aside","source":"nltk"}
+{"id":"tg389.2.4","text":"Cunigunda, Ludomilla, Wentzel, der in der mittlern Scene etliche Bilder besiehet.","type":"enter","source":"nltk"}
+{"id":"tg389.2.10.1.part2","text":"Küsset ihn.","type":"other","source":"nltk"}
+{"id":"tg389.2.25.1.part2","text":"Gehet hinein.","type":"exit","source":"nltk"}
+{"id":"tg389.2.49.1.part2","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg389.2.52.1.part1","text":"ad spectatores.","type":"aside","source":"nltk"}
+{"id":"tg389.2.54.1.part1","text":"ad spectatores.","type":"aside","source":"nltk"}
+{"id":"tg389.2.56.1.part1","text":"ad spectatores.","type":"aside","source":"nltk"}
+{"id":"tg389.2.58.1.part1","text":"ad spectatores.","type":"aside","source":"nltk"}
+{"id":"tg389.2.60.1.part1","text":"ad spectatores.","type":"aside","source":"nltk"}
+{"id":"tg389.2.63.1.part1","text":"ad spectatores.","type":"aside","source":"nltk"}
+{"id":"tg389.2.66.1.part2","text":"Er folget ihr singende und tantzende.","type":"exit","source":"nltk"}
+{"id":"tg390.2.4","text":"Woko. Bäbel, ein lustiger Gärtner.","type":"enter","source":"NLP"}
+{"id":"tg390.2.35.1.part2","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg391.2.4","text":"Zabisch. Czenko, Woko, seine Brüder.","type":"enter","source":"NLP"}
+{"id":"tg392.2.4","text":"Wazek, des Königs lustiger Diener. Rudolf, ein junger Graffe.","type":"enter","source":"NLP"}
+{"id":"tg393.2.4","text":"Poto, Sbinko, Landstände König Wentzeln zugethan. Rudolf.","type":"enter","source":"nltk"}
+{"id":"tg393.2.18.1.part2","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg394.2.4","text":"Hinko, des Königs Inspector. Bäbel, hernach Wazek.","type":"enter","source":"nltk"}
+{"id":"tg394.2.25.1.part2","text":"Läufft davon.","type":"exit","source":"nltk"}
+{"id":"tg394.2.28.1.part2","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg396.2.4","text":"Poto, Rudolf, hernach Girschick, des Königs kleiner Münch. Wazek, dessen lustiger Diener.","type":"enter","source":"nltk"}
+{"id":"tg396.2.37.1.part2","text":"Gehet ab.","type":"exit","source":"nltk"}
+{"id":"tg397.2.4","text":"Bäbel.","type":"enter","source":"nltk"}
+{"id":"tg397.2.5","text":"Er hat einen langen Trauer-Mantel um / und gehet gantz gravitætisch / alle drey spatziren bey ihm vorbey / und wenn sie den Hut abziehen / macht er eine gravitætische Complimente dagegen.","type":"other","source":"nltk"}
+{"id":"tg398.2.4","text":"Woko. Bäbel. Auff der Seite.","type":"enter","source":"NLP"}
+{"id":"tg398.2.22.1.part1","text":"redet gantz geschwinde.","type":"other","source":"nltk"}
+{"id":"tg398.2.23.1.part2","text":"Er deckt ihn auff.","type":"other","source":"nltk"}
+{"id":"tg399.2.4","text":"Zabisch. Czenko, Woko, seine Brüder.","type":"enter","source":"NLP"}
+{"id":"tg400.2.4","text":"Die Vorigen. Poto, Sbinko Landstände auff Wentzels Seite.","type":"enter","source":"nltk"}
+{"id":"tg401.2.4","text":"Die vorigen, Cunigunda.","type":"enter","source":"NLP"}
+{"id":"tg401.2.6.1.part1","text":"kömt gelauffen.","type":"enter","source":"nltk"}
+{"id":"tg401.2.10.1.part2","text":"Läufft hinein.","type":"exit","source":"nltk"}
+{"id":"tg401.2.11.1.part2","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg401.2.12.1.part2","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg401.2.14.1.part2","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg402.2.4","text":"Ludomilla, des Königs alte Kammerfrau. Bäbel, der lustige Gärtner.","type":"enter","source":"NLP"}
+{"id":"tg402.2.39.1.part2","text":"Er zehlet sie / und saget dazu: Leben / Sterben.","type":"other","source":"nltk"}
+{"id":"tg402.2.41.1.part2","text":"Er zehlet wieder: Leben / Sterben.","type":"other","source":"nltk"}
+{"id":"tg402.2.45.1.part2","text":"Er zehlet / daß der letzte auff Sterben kommt.","type":"enter","source":"nltk"}
+{"id":"tg402.2.53.1.part2","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg402.2.54.1.part2","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg403.2.4","text":"Zabisch, hernach Cunigunda.","type":"enter","source":"nltk"}
+{"id":"tg403.2.7.1.part1","text":"kömt.","type":"enter","source":"nltk"}
+{"id":"tg403.2.26.1.part2","text":"Küsset ihn.","type":"other","source":"nltk"}
+{"id":"tg404.2.4","text":"Cunigunda, Zabisch. Wentzel, Rudolf, ein junger Graf / kommen gelauffen.","type":"enter","source":"nltk"}
+{"id":"tg404.2.21.1.part2","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg404.2.28.1.part2","text":"Gehet ab.","type":"exit","source":"nltk"}
+{"id":"tg405.2.4","text":"Wentzel, Rudolf. Hernach Girschick, Wazek, Tobiasch, ein junger Bettler.","type":"enter","source":"NLP"}
+{"id":"tg405.2.32.1.part2","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg405.2.33.1.part2","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg405.2.34.1.part2","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg405.2.36.1.part2","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg407.2.4","text":"Tobiasch, hernach Hinko, des Königes Inspector.","type":"enter","source":"nltk"}
+{"id":"tg407.2.8.1.part1","text":"stellt sich elende.","type":"other","source":"nltk"}
+{"id":"tg407.2.12.1.part2","text":"Er fällt um / und stellt sich ungeberdig.","type":"other","source":"nltk"}
+{"id":"tg408.2.4","text":"Die Vorigen. Wentzel, Rudolf, ein junger Graff.","type":"enter","source":"NLP"}
+{"id":"tg408.2.13.1.part2","text":"Streicht ihn.","type":"other","source":"nltk"}
+{"id":"tg408.2.16.1.part1","text":"springt in der Raserey auff.","type":"other","source":"nltk"}
+{"id":"tg408.2.16.2.part2","text":"Er fällt nieder.","type":"dead","source":"nltk"}
+{"id":"tg408.2.22.1.part2","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg409.2.4","text":"Wentzel, Rudolf, Poto, Sbinko, Landstände auffs Königs Seite. Hinko, des Königes Inspector.","type":"enter","source":"NLP"}
+{"id":"tg409.2.47.1.part2","text":"Geht mit dem Könige und Hinko ab.","type":"exit","source":"nltk"}
+{"id":"tg410.2.4","text":"Bäbel, hernach Ludomilla.","type":"enter","source":"nltk"}
+{"id":"tg410.2.26.1.part1","text":"zehlet an den Knöpffen.","type":"other","source":"nltk"}
+{"id":"tg410.2.28.1.part2","text":"Sie will weggehen.","type":"other","source":"nltk"}
+{"id":"tg411.2.4","text":"Die Vorigen, Heyno, ein Soldate.","type":"enter","source":"NLP"}
+{"id":"tg411.2.12.1.part2","text":"Geht ab. Sie schaffen ihn hinein.","type":"exit","source":"nltk"}
+{"id":"tg411.2.15.1.part2","text":"Läufft davon.","type":"exit","source":"nltk"}
+{"id":"tg411.2.16.1.part2","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg412.2.4","text":"Cunigunda, Zabisch.","type":"enter","source":"NLP"}
+{"id":"tg413.2.4","text":"Cunigunda, Zabisch. Poto, Sbinko, Landstände auffs Königs Seite.","type":"enter","source":"NLP"}
+{"id":"tg414.2.4","text":"Die Vorigen. Czenko, Woko.","type":"enter","source":"NLP"}
+{"id":"tg414.2.18.1.part1","text":"umfasset sie.","type":"other","source":"nltk"}
+{"id":"tg414.2.22.1","text":"Czenko und Woko gehen grimmig ab.","type":"exit","source":"nltk"}
+{"id":"tg414.2.26.1","text":"Poto und Sbinko gehen ab.","type":"exit","source":"nltk"}
+{"id":"tg414.2.37.1.part2","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg415.2.4","text":"Lesko, Heyno, zwey Soldaten. Bäbel, der Gärtner.","type":"enter","source":"NLP"}
+{"id":"tg415.2.14.1.part1","text":"ad spectatores.","type":"aside","source":"nltk"}
+{"id":"tg415.2.24.1.part2","text":"Gehen ab.","type":"exit","source":"nltk"}
+{"id":"tg416.2.4","text":"Rudolf, Wazek.","type":"enter","source":"NLP"}
+{"id":"tg416.2.16.1","text":"Die Bauren præsentiren sich.","type":"other","source":"nltk"}
+{"id":"tg417.2.4","text":"Die Vorigen. Janku, Nikschi, Bauern.","type":"enter","source":"NLP"}
+{"id":"tg417.2.27.1.part2","text":"Sie gehen ab.","type":"exit","source":"nltk"}
+{"id":"tg418.2.4","text":"Hinko, des Königs Inspector. Antschku, Heuscha, der Bauern ihre Weiber.","type":"enter","source":"NLP"}
+{"id":"tg418.2.21.1.part2","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg419.2.4","text":"Wentzel, Rudolf, Girschick, Wazek, Janku, Nikschi, Antschku, Heuscha. Die Bauern bringen sie heraus gejagt.","type":"enter","source":"nltk"}
+{"id":"tg419.2.16.1.part2","text":"Sie schreyen alle.","type":"other","source":"nltk"}
+{"id":"tg419.2.23.1.part2","text":"Sie schreyen zusammen.","type":"other","source":"nltk"}
+{"id":"tg419.2.28.1.part2","text":"Sie schreyen.","type":"other","source":"nltk"}
+{"id":"tg419.2.30.1","text":"Sie jagen sie hinein.","type":"exit","source":"nltk"}
+{"id":"tg419.2.49.1.part2","text":"Die Weiber gehen ab.","type":"exit","source":"nltk"}
+{"id":"tg420.2.4","text":"Rudolf, Wentzel. Hernach Zbisla, ein Böhmischer Semmelkrämer, Jarosla, ein Böhmischer Wursthändler, Bruno, ein Münch von Zittau.","type":"enter","source":"nltk"}
+{"id":"tg420.2.12.1","text":"Sie gehen auff die Seite.","type":"other","source":"nltk"}
+{"id":"tg420.2.28.1.part2","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg420.2.30.1.part1","text":"kömt.","type":"enter","source":"nltk"}
+{"id":"tg420.2.36.1.part2","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg420.2.40.1.part1","text":"kömmt.","type":"enter","source":"nltk"}
+{"id":"tg420.2.50.1.part2","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg420.2.56.1.part2","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg420.2.57.1.part2","text":"Er legt sich nieder und entschläfft.","type":"exit","source":"nltk"}
+{"id":"tg421.2.4","text":"Marinka, eine Leimthändlerin vom jungen Buntzel.","type":"enter","source":"nltk"}
+{"id":"tg421.2.6.1.part2","text":"Sie siehet König Wentzeln.","type":"other","source":"nltk"}
+{"id":"tg422.2.4","text":"Wentzel, Lisel, eines Zittauischen Bürgers Tochter.","type":"enter","source":"NLP"}
+{"id":"tg422.2.15.1.part1","text":"isset begierig.","type":"other","source":"nltk"}
+{"id":"tg423.2.4","text":"Die Vorigen / auff der Seite. Martin, Berthold, Bürger von Zittau. Rosine, dessen Frau.","type":"enter","source":"nltk"}
+{"id":"tg423.2.48.1.part1","text":"kehrt sich um zu Martin.","type":"other","source":"nltk"}
+{"id":"tg423.2.53.1.part2","text":"Kehret sich um gegen den König.","type":"other","source":"nltk"}
+{"id":"tg423.2.58.1.part2","text":"Gehen ab.","type":"exit","source":"nltk"}
+{"id":"tg424.2.4","text":"Rudolf, Hinko, Girschick, Wazek.","type":"enter","source":"NLP"}
+{"id":"tg424.2.18.1.part2","text":"Gehet ab.","type":"exit","source":"nltk"}
+{"id":"tg424.2.22.1.part2","text":"Sie zancken sich poßirlich um den Vorgang biß zugezogen wird.","type":"exit","source":"nltk"}
+{"id":"tg426.2.4","text":"Berthold, ein Zittauischer Bürger. Rosine, seine Frau.","type":"enter","source":"NLP"}
+{"id":"tg427.2.4","text":"Berthold, Rosine, Wazek.","type":"enter","source":"NLP"}
+{"id":"tg427.2.19.1.part2","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg428.2.4","text":"Wazek, hernach Hinko, des Königs Inspector.","type":"enter","source":"nltk"}
+{"id":"tg428.2.18.1.part2","text":"Schlägt ihn.","type":"other","source":"nltk"}
+{"id":"tg428.2.19.1.part2","text":"Gehet ab.","type":"exit","source":"nltk"}
+{"id":"tg429.2.4","text":"Lisel, Girschick, der kleine Münch.","type":"enter","source":"NLP"}
+{"id":"tg429.2.28.1.part2","text":"Es erhebt sich ein Tumult.","type":"other","source":"nltk"}
+{"id":"tg430.2.4","text":"Berthold, Martin, Bürger von Zittau. Hinko, des Königs Inspector. Rudolf, ein junger Graff.","type":"enter","source":"nltk"}
+{"id":"tg430.2.10.1","text":"Er will allezeit reden / aber sie lassen ihn nicht dazu kommen.","type":"other","source":"nltk"}
+{"id":"tg430.2.21.1.part1","text":"kömmt.","type":"enter","source":"nltk"}
+{"id":"tg430.2.29.1.part2","text":"Sie gehen ab.","type":"exit","source":"nltk"}
+{"id":"tg431.2.4","text":"Bäbel, der lustige Gärtner. Marinka, eine Leimthändlerin von jungen Buntzel.","type":"enter","source":"nltk"}
+{"id":"tg431.2.9.1.part1","text":"ad spectatores.","type":"aside","source":"nltk"}
+{"id":"tg431.2.20.1.part1","text":"ad spectatores.","type":"aside","source":"nltk"}
+{"id":"tg431.2.28.1.part2","text":"Sie schlägt ihm den Topff auff den Kopffe entzwey / und läufft davon. Bäbel fällt über den Hauffen / endlich stehet er auff.","type":"other","source":"nltk"}
+{"id":"tg432.2.4","text":"Czenko, Woko Zabischens Brüder. Hernach Bäbel, der Gärtner.","type":"enter","source":"NLP"}
+{"id":"tg432.2.18.1.part2","text":"Gehen ab.","type":"exit","source":"nltk"}
+{"id":"tg433.2.4","text":"Janku, Nikschi, Bauern.","type":"enter","source":"NLP"}
+{"id":"tg434.2.4","text":"Die Vorigen, Czenko.","type":"enter","source":"NLP"}
+{"id":"tg435.2.4","text":"Woko, Bäbel. Antschku, Heuscha, der Bauern ihre Weiber.","type":"enter","source":"NLP"}
+{"id":"tg436.2.4","text":"Berthold, ein Zittauischer Bürger. Rudolf, Wentzels junger Graff.","type":"enter","source":"NLP"}
+{"id":"tg437.2.4","text":"Martin, ein Zittauischer Bürger. Hernach Bäbel, der Gärtner.","type":"enter","source":"NLP"}
+{"id":"tg437.2.23.1.part2","text":"Ad spectatores.","type":"aside","source":"NLP"}
+{"id":"tg437.2.23.2.part2","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg438.2.4","text":"Czenko, Bäbel.","type":"enter","source":"NLP"}
+{"id":"tg439.2.4","text":"Die Vorigen, Woko, Bruno, ein Münch.","type":"enter","source":"NLP"}
+{"id":"tg439.2.11.1.part1","text":"ad spectatores.","type":"aside","source":"nltk"}
+{"id":"tg439.2.28.1.part2","text":"Sie gehen ab.","type":"exit","source":"nltk"}
+{"id":"tg439.2.29.1.part1","text":"ad spectatores.","type":"aside","source":"nltk"}
+{"id":"tg439.2.29.2.part2","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg440.2.4","text":"Bruno, ein Münch. Rosine, eine Bürgers-Frau.","type":"enter","source":"NLP"}
+{"id":"tg440.2.37.1.part2","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg441.2.4","text":"Hinko, des Königs Inspector.","type":"enter","source":"NLP"}
+{"id":"tg442.2.4","text":"Wentzel, Lisel, Girschick, Wazek. Sie jagen einander herum / Lisel kützelt Wentzeln, daß er abscheulich lachen muß.","type":"enter","source":"nltk"}
+{"id":"tg442.2.32.1.part1","text":"er streichelt alle auff dem Backen mit denen er redet.","type":"other","source":"nltk"}
+{"id":"tg442.2.36.2.part2","text":"Er streichelt ihn / und beschwärtzt ihm das gantze Gesichte / Wentzel und Lisel lachen über die Massen sehr.","type":"other","source":"nltk"}
+{"id":"tg443.2.4","text":"Die Vorigen, Berthold, Martin, Zittauische Bürger. Hernach Czenko, Woko, Bäbel.","type":"enter","source":"NLP"}
+{"id":"tg443.2.8.1.part2","text":"Jaget sie hinein.","type":"exit","source":"nltk"}
+{"id":"tg443.2.25.1.part1","text":"ad spectatores.","type":"aside","source":"nltk"}
+{"id":"tg443.2.29.1.part2","text":"Er führet sie hinein / komt bald heraus gelauffen / und sagt heimlich zu Martin.","type":"other","source":"nltk"}
+{"id":"tg443.2.30.1.part2","text":"Sie gehen an unterschiedenen Orten ab.","type":"exit","source":"nltk"}
+{"id":"tg444.2.4","text":"Bäbel, Wazek mit dem geschwärtzten Gesichte hernach.","type":"enter","source":"nltk"}
+{"id":"tg444.2.17.1.part2","text":"Er unterläufft ihn / und schmeist ihn nieder / Bäbel kriegt ihm beym Kopffe und hält ihn feste / also fängt Wazek an zu schreien.","type":"other","source":"nltk"}
+{"id":"tg445.2.4","text":"Die Vorigen, Hinko, der Hofemeister.","type":"enter","source":"NLP"}
+{"id":"tg445.2.6.1.part2","text":"Er jaget ihm hinein.","type":"exit","source":"nltk"}
+{"id":"tg445.2.17.1.part2","text":"Gehet ab.","type":"exit","source":"nltk"}
+{"id":"tg446.2.4","text":"Czenko, Woko, Bäbel.","type":"enter","source":"NLP"}
+{"id":"tg446.2.14.1.part2","text":"Sie gehen ab.","type":"exit","source":"nltk"}
+{"id":"tg446.2.15.1.part1","text":"ad spectatores.","type":"aside","source":"nltk"}
+{"id":"tg447.2.2.1.part2","text":"Es wird sachte musicirt.","type":"other","source":"nltk"}
+{"id":"tg448.2.4","text":"Wentzel, schlaffende. Der Geist Ottocarus. Zabisch, Cunigunda hernach.","type":"enter","source":"nltk"}
+{"id":"tg448.2.6.1.part2","text":"Er tritt auff die Seite / die andern kommen.","type":"enter","source":"nltk"}
+{"id":"tg448.2.18.1.part2","text":"Sie küssen einander / und bleiben in dieser verliebten Positur.","type":"other","source":"nltk"}
+{"id":"tg448.2.19.1.part2","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg448.2.21.1","text":"Die beyden Verliebten ziehen sich sachte in die mittelste Scene, welche zufällt.","type":"exit","source":"nltk"}
+{"id":"tg450.2.4","text":"Poto, Sbinko, Landstände auff Wentzels Seite. Lesko, Heyno, Soldaten. Hernach Christoffel, der Heldermeister von Zittau.","type":"enter","source":"nltk"}
+{"id":"tg451.2.4","text":"Bäbel, der Gärtner. Janku, Nikschi, Bauern.","type":"enter","source":"NLP"}
+{"id":"tg452.2.4","text":"Berthold, Martin, zwey Bürger.","type":"enter","source":"NLP"}
+{"id":"tg453.2.4","text":"Czenko, Woko, Bäbel. Die Bauern. Rosine, die zum Fenster heraus siehet.","type":"enter","source":"nltk"}
+{"id":"tg453.2.22.1.part2","text":"Sie macht das Fenster zu.","type":"other","source":"nltk"}
+{"id":"tg454.2.4","text":"Die Vorigen. Hinko, des Königs Inspector.","type":"enter","source":"NLP"}
+{"id":"tg454.2.13.1.part2","text":"Gehen ab.","type":"exit","source":"nltk"}
+{"id":"tg455.2.4","text":"Die mittelste Scene öffnet sich. Martin, Berthold, Bürger. Rosine, dessen Frau. Lisel, dessen Tochter. Wentzel, der junge König. Rudolf, dessen junger Graff. Girschick, dessen kleiner Münch. Wazek, sein lustiger Diener.","type":"enter","source":"nltk"}
+{"id":"tg455.2.15.1.part2","text":"Das Getümmel wird grösser / sie schreyen zusammen: O wir sind verrathen.","type":"other","source":"nltk"}
+{"id":"tg456.2.4","text":"Die Vorigen. Czenko, Woko, Bäbel, Hinko und die Bauern.","type":"enter","source":"NLP"}
+{"id":"tg456.2.25.1","text":"Sie schreyen alle zusammen: Au weh! wir müssen sterben.","type":"other","source":"nltk"}
+{"id":"tg456.2.46","text":"Sie schreyen alle: O weh der König soll sterben!","type":"other","source":"nltk"}
+{"id":"tg457.2.4","text":"Die Vorigen. Poto, Sbinko, Landstände auffs Königs Seite. Lesko, Heyno, Soldaten. Christoffel, der Heldermeister von Zittau.","type":"enter","source":"nltk"}
+{"id":"tg457.2.6.1.part1","text":"zu Czenko.","type":"other","source":"nltk"}
+{"id":"tg457.2.8.1.part1","text":"zu Woko.","type":"other","source":"nltk"}
+{"id":"tg457.2.24.1.part1","text":"ad spectatorcs.","type":"aside","source":"nltk"}
+{"id":"tg457.2.24.2.part2","text":"Gehet ab.","type":"exit","source":"nltk"}
+{"id":"tg457.2.27.1.part2","text":"Er kniet vor Wentzeln.","type":"other","source":"nltk"}
+{"id":"tg457.2.32.1.part2","text":"Er wird weggeführet.","type":"exit","source":"nltk"}
+{"id":"tg457.2.38.1","text":"Alle fangen an zu schreyen: Vivat König Wentzel, Vivat König Wentzel, und unter solchem Geschrey können die vorigen Schäfer wieder zurücke kommen / und folgenden Glückwundsch anbringen.","type":"other","source":"nltk"}
+{"id":"tg457.2.69.1","text":"Sie ruffen dieses nach / unter Paucken und Trompeten / indessen zeucht sich König Wentzel herauß / daß er den Epilogum halten kan.","type":"other","source":"nltk"}

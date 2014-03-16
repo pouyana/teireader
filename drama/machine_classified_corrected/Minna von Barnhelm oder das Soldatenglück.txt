@@ -1,0 +1,302 @@
+{"id":"tg544.2.2.1.part1","text":"sitzet in einem Winkel, schlummert, und redet im Traume.","type":"other","source":"nltk"}
+{"id":"tg544.2.2.2.part2","text":"Er holt aus, und erwacht durch die Bewegung.","type":"other","source":"nltk"}
+{"id":"tg545.2.4","text":"Der Wirt. Just.","type":"enter","source":"nltk"}
+{"id":"tg545.2.13.1.part1","text":"kehrt sich um, und will gehen.","type":"other","source":"nltk"}
+{"id":"tg545.2.14.1.part1","text":"hält ihn.","type":"other","source":"nltk"}
+{"id":"tg545.2.23.1.part2","text":"Er ruft in die Szene.","type":"other","source":"nltk"}
+{"id":"tg545.2.23.2.part2","text":"Ein Junge kömmt.","type":"enter","source":"nltk"}
+{"id":"tg545.2.25.1.part1","text":"zu dem Jungen, der eine Flasche Liqueur und ein Glas bringt.","type":"other","source":"nltk"}
+{"id":"tg545.2.25.2.part2","text":"Er füllt, und reicht ihm zu.","type":"other","source":"nltk"}
+{"id":"tg545.2.26.1.part2","text":"Er nimmt und trinkt.","type":"other","source":"nltk"}
+{"id":"tg545.2.28.1.part1","text":"indem er das Gläschen wieder zurück gibt.","type":"other","source":"nltk"}
+{"id":"tg545.2.30.1.part1","text":"nachdem er getrunken.","type":"other","source":"nltk"}
+{"id":"tg545.2.35.1.part2","text":"Er trinkt.","type":"other","source":"nltk"}
+{"id":"tg546.2.4","text":"Von Tellheim. Der Wirt. Just.","type":"enter","source":"nltk"}
+{"id":"tg546.2.6.1.part1","text":"im Hereintreten.","type":"enter","source":"nltk"}
+{"id":"tg546.2.7.1.part1","text":"in der Meinung, daß ihn der Wirt nenne.","type":"other","source":"nltk"}
+{"id":"tg546.2.10.1.part1","text":"der den Major gewahr wird.","type":"other","source":"nltk"}
+{"id":"tg547.2.4","text":"Von Tellheim. Just.","type":"enter","source":"nltk"}
+{"id":"tg547.2.6.1.part1","text":"der mit dem Fuße stampft, und dem Wirte nachspuckt.","type":"other","source":"nltk"}
+{"id":"tg548.2.4","text":"Eine Dame in Trauer. Von Tellheim. Just.","type":"enter","source":"nltk"}
+{"id":"tg548.2.12.1.part1","text":"zu Just.","type":"other","source":"nltk"}
+{"id":"tg549.2.4","text":"Die Dame. Von Tellheim.","type":"enter","source":"nltk"}
+{"id":"tg549.2.15.1.part2","text":"Er ziehet sein Taschenbuch heraus, und sucht.","type":"other","source":"nltk"}
+{"id":"tg549.2.24.1.part2","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg550.2.2.1.part2","text":"Er nimmt aus seinem Taschenbuche Briefschaften, die er zerreißt.","type":"other","source":"nltk"}
+{"id":"tg551.2.4","text":"Just. Von Tellheim.","type":"enter","source":"nltk"}
+{"id":"tg551.2.7.1.part1","text":"indem er sich die Augen wischt.","type":"other","source":"nltk"}
+{"id":"tg551.2.15.1.part2","text":"Schlägt die Rechnung auf, und lieset.","type":"other","source":"nltk"}
+{"id":"tg551.2.17.1.part2","text":"Lieset.","type":"other","source":"NLP"}
+{"id":"tg551.2.25.1.part1","text":"bei Seite.","type":"other","source":"nltk"}
+{"id":"tg552.2.4","text":"Ein Bedienter. Von Tellheim. Just.","type":"enter","source":"nltk"}
+{"id":"tg553.2.4","text":"Von Tellheim. Just.","type":"enter","source":"nltk"}
+{"id":"tg553.2.8.1.part1","text":"kömmt wieder zurück.","type":"other","source":"nltk"}
+{"id":"tg553.2.10.1.part1","text":"kömmt nochmals zurück.","type":"other","source":"nltk"}
+{"id":"tg555.2.4","text":"Paul Werner. Just.","type":"enter","source":"NLP"}
+{"id":"tg555.2.15.1.part2","text":"Indem er sich schüchtern umsieht, ob ihn jemand behorcht.","type":"other","source":"nltk"}
+{"id":"tg557.2.4","text":"Minna von Barnhelm. Franziska.","type":"enter","source":"nltk"}
+{"id":"tg557.2.5","text":"Die Szene ist in dem Zimmer des Fräuleins.","type":"other","source":"nltk"}
+{"id":"tg557.2.7.1.part1","text":"im Negligee, nach ihrer Uhr sehend.","type":"other","source":"nltk"}
+{"id":"tg557.2.38.1.part1","text":"ängstlich und hitzig.","type":"other","source":"nltk"}
+{"id":"tg558.2.4","text":"Der Wirt. Die Vorigen.","type":"enter","source":"nltk"}
+{"id":"tg558.2.6.1.part1","text":"den Kopf voransteckend.","type":"other","source":"nltk"}
+{"id":"tg558.2.8.1.part1","text":"mit einer Feder hinter dem Ohre, ein Blatt Papier und Schreibzeug in der Hand.","type":"other","source":"nltk"}
+{"id":"tg558.2.8.2.part2","text":"Zur Franziska.","type":"other","source":"nltk"}
+{"id":"tg558.2.18.1.part2","text":"Indem er die Feder hinter dem Ohr hervorzieht.","type":"other","source":"nltk"}
+{"id":"tg558.2.24.1.part2","text":"Indem er an einen Tisch tritt, und sich fertig macht, zu schreiben.","type":"other","source":"nltk"}
+{"id":"tg558.2.26.1.part2","text":"Er schreibt.","type":"other","source":"nltk"}
+{"id":"tg558.2.28.1.part1","text":"schreibt.","type":"other","source":"nltk"}
+{"id":"tg558.2.30.1.part1","text":"schreibt.","type":"other","source":"nltk"}
+{"id":"tg558.2.34.1.part2","text":"Schreibt und liest.","type":"other","source":"nltk"}
+{"id":"tg558.2.61.1.part2","text":"Die Franziska mit einer bedeutenden Miene ansehend.","type":"other","source":"nltk"}
+{"id":"tg558.2.80.1.part2","text":"Indem er ihn aus dem Futteral heraus nimmt, und der Fräulein zureicht.","type":"other","source":"nltk"}
+{"id":"tg558.2.81.1.part1","text":"ihn betrachtend.","type":"other","source":"nltk"}
+{"id":"tg558.2.100.1.part2","text":"Indem sie Franziska auf den Tisch setzet, und öffnet.","type":"other","source":"nltk"}
+{"id":"tg558.2.110.1.part2","text":"Stößt ihn heraus.","type":"exit","source":"nltk"}
+{"id":"tg559.2.4","text":"Das Fräulein. Franziska.","type":"enter","source":"NLP"}
+{"id":"tg559.2.6.1.part2","text":"Sie faßt in die Schatulle.","type":"other","source":"nltk"}
+{"id":"tg559.2.6.2.part2","text":"Und gibt ihr Geld.","type":"other","source":"nltk"}
+{"id":"tg559.2.8.1.part2","text":"Sie zwingt ihr das Geld in die Hand.","type":"other","source":"nltk"}
+{"id":"tg559.2.8.2.part2","text":"Sie greift nochmals in die Schatulle nach Geld.","type":"other","source":"nltk"}
+{"id":"tg560.2.4","text":"Der Wirt. Das Fräulein. Franziska.","type":"enter","source":"NLP"}
+{"id":"tg560.2.11.1.part2","text":"Der Wirt geht ab.","type":"exit","source":"nltk"}
+{"id":"tg561.2.4","text":"Das Fräulein. Franziska.","type":"enter","source":"NLP"}
+{"id":"tg562.2.4","text":"Der Wirt. Just. Die Vorigen.","type":"enter","source":"nltk"}
+{"id":"tg562.2.30.1.part1","text":"zur Franziska.","type":"other","source":"nltk"}
+{"id":"tg562.2.31.1.part1","text":"die dem Just Geld in die Hand drücken will.","type":"other","source":"nltk"}
+{"id":"tg562.2.34.1.part2","text":"Will fortgehen.","type":"other","source":"nltk"}
+{"id":"tg562.2.40.1.part2","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg562.2.43.1.part2","text":"Der Wirt geht ab, und hierauf.","type":"exit","source":"nltk"}
+{"id":"tg563.2.4","text":"Das Fräulein und hierauf Franziska.","type":"enter","source":"NLP"}
+{"id":"tg563.2.6.1.part2","text":"Sie faltet die Hände.","type":"other","source":"nltk"}
+{"id":"tg563.2.6.2.part2","text":"Und blickt aufwärts.","type":"other","source":"nltk"}
+{"id":"tg563.2.6.3.part2","text":"Mit ausgebreiteten Armen.","type":"other","source":"nltk"}
+{"id":"tg563.2.11.1.part1","text":"nach einem kurzen Nachdenken.","type":"other","source":"nltk"}
+{"id":"tg564.2.4","text":"Von Tellheim. Der Wirt. Die Vorigen.","type":"enter","source":"nltk"}
+{"id":"tg564.2.6.1.part1","text":"tritt herein, und indem er sie erblickt, flieht er auf sie zu.","type":"other","source":"nltk"}
+{"id":"tg564.2.7.1.part1","text":"ihm entgegen fliehend.","type":"other","source":"nltk"}
+{"id":"tg564.2.8.1.part1","text":"stutzt auf einmal, und tritt wieder zurück.","type":"other","source":"nltk"}
+{"id":"tg564.2.9.1.part2","text":"Indem sie ihm näher tritt, und er mehr zurück weicht.","type":"other","source":"nltk"}
+{"id":"tg564.2.10.1.part2","text":"Sieht starr auf den Wirt, und zuckt die Schultern.","type":"other","source":"nltk"}
+{"id":"tg564.2.11.1.part1","text":"wird den Wirt gewahr, und winkt der Franziska.","type":"other","source":"nltk"}
+{"id":"tg564.2.17.1.part2","text":"Doch ohne von der Stelle zu gehn.","type":"other","source":"nltk"}
+{"id":"tg564.2.18.1.part1","text":"faßt ihn an.","type":"other","source":"nltk"}
+{"id":"tg564.2.20.1.part2","text":"Führet ihn mit Gewalt ab.","type":"exit","source":"nltk"}
+{"id":"tg565.2.4","text":"Von Tellheim. Das Fräulein.","type":"enter","source":"nltk"}
+{"id":"tg565.2.10.1.part2","text":"Mit offenen Armen auf ihn zugehend.","type":"other","source":"nltk"}
+{"id":"tg565.2.11.1.part1","text":"zurückweichend.","type":"other","source":"nltk"}
+{"id":"tg565.2.37.1.part2","text":"Indem sie ihn bei der Hand ergreift.","type":"other","source":"nltk"}
+{"id":"tg565.2.38.1.part1","text":"der die andere Hand mit dem Hute vor das Gesicht schlägt, und sich von ihr abwendet.","type":"other","source":"nltk"}
+{"id":"tg565.2.41.1.part2","text":"Indem sie seine Hand an ihre Brust zieht.","type":"other","source":"nltk"}
+{"id":"tg565.2.44.1.part2","text":"Reißt sich los, und ab.","type":"exit","source":"nltk"}
+{"id":"tg565.2.45.1.part1","text":"ihm nach.","type":"exit","source":"nltk"}
+{"id":"tg567.2.4","text":"Die Szene, der Saal.","type":"other","source":"nltk"}
+{"id":"tg567.2.6.1.part1","text":"einen Brief in der Hand.","type":"other","source":"nltk"}
+{"id":"tg568.2.4","text":"Franziska. Just.","type":"enter","source":"NLP"}
+{"id":"tg568.2.6.1.part1","text":"zur Türe herein, aus der sie kömmt.","type":"other","source":"nltk"}
+{"id":"tg568.2.10.1.part2","text":"Reißt ihm den Brief aus der Hand.","type":"other","source":"nltk"}
+{"id":"tg568.2.20.1.part2","text":"Will fortgehen.","type":"other","source":"nltk"}
+{"id":"tg568.2.68.1.part2","text":"Das Hängen pantomimisch anzeigend.","type":"other","source":"nltk"}
+{"id":"tg568.2.70.1.part2","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg569.2.4","text":"Franziska und hernach der Wirt.","type":"enter","source":"nltk"}
+{"id":"tg569.2.6.1.part1","text":"die ihm ernsthaft nachsieht.","type":"other","source":"nltk"}
+{"id":"tg570.2.4","text":"Paul Werner. Der Wirt. Franziska.","type":"enter","source":"NLP"}
+{"id":"tg570.2.10.1.part1","text":"der ihnen hinterwärts näher kömmt, und auf einmal der Franziska auf die Schulter klopft.","type":"other","source":"nltk"}
+{"id":"tg570.2.11.1.part1","text":"erschrickt.","type":"other","source":"nltk"}
+{"id":"tg570.2.12.1.part2","text":"Auf den Wirt zeigend.","type":"other","source":"nltk"}
+{"id":"tg570.2.21.1.part2","text":"Zur Franziska, als ins Ohr.","type":"other","source":"nltk"}
+{"id":"tg570.2.27.1.part2","text":"Zu ihr ins Ohr.","type":"other","source":"nltk"}
+{"id":"tg571.2.4","text":"Paul Werner. Franziska.","type":"enter","source":"NLP"}
+{"id":"tg571.2.12.1.part2","text":"Gegen die Seite, wo der Wirt abgegangen.","type":"other","source":"nltk"}
+{"id":"tg571.2.14.1.part2","text":"Das er aus der einen Tasche zieht.","type":"other","source":"nltk"}
+{"id":"tg571.2.14.2.part2","text":"Das er aus der andern zieht.","type":"other","source":"nltk"}
+{"id":"tg571.2.24.1.part1","text":"bei Seite.","type":"other","source":"nltk"}
+{"id":"tg571.2.28.1.part2","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg572.2.2.1.part2","text":"Geht in Gedanken ab, und stößt fast auf den Major, der ihm entgegen kömmt.","type":"exit","source":"nltk"}
+{"id":"tg573.2.4","text":"Von Tellheim. Paul Werner.","type":"enter","source":"nltk"}
+{"id":"tg573.2.10.1.part1","text":"lächelnd.","type":"other","source":"nltk"}
+{"id":"tg573.2.11.1.part2","text":"Reicht ihm die Rolle Dukaten.","type":"other","source":"nltk"}
+{"id":"tg573.2.16.1.part1","text":"bitter, indem er sich vor die Stirne schlägt, und mit dem Fuße auftritt.","type":"other","source":"nltk"}
+{"id":"tg573.2.27.1.part1","text":"der sich einen Augenblick besinnt.","type":"other","source":"nltk"}
+{"id":"tg573.2.35.2.part2","text":"Indem er auch den Beutel mit den Louisdoren heraus zieht, und ihm beides hinreicht.","type":"other","source":"nltk"}
+{"id":"tg573.2.37.1.part2","text":"Etwas ärgerlich.","type":"other","source":"nltk"}
+{"id":"tg573.2.54.1.part1","text":"indem er Werners Hand ergreift.","type":"other","source":"nltk"}
+{"id":"tg573.2.55.1.part2","text":"Will gehen.","type":"other","source":"nltk"}
+{"id":"tg573.2.56.1.part2","text":"Hält ihn zurück.","type":"other","source":"nltk"}
+{"id":"tg574.2.4","text":"Franziska aus dem Zimmer des Fräuleins. von Tellheim. Paul Werner.","type":"enter","source":"nltk"}
+{"id":"tg574.2.6.1.part1","text":"im Heraustreten.","type":"other","source":"nltk"}
+{"id":"tg574.2.6.2.part2","text":"Indem sie den Tellheim gewahr wird.","type":"other","source":"nltk"}
+{"id":"tg574.2.6.3.part2","text":"Geht geschwind wieder in das Zimmer.","type":"exit","source":"nltk"}
+{"id":"tg575.2.4","text":"Von Tellheim. Paul Werner.","type":"enter","source":"nltk"}
+{"id":"tg576.2.4","text":"Franziska wieder heraus, mit einem Brief in der Hand. von Tellheim. Paul Werner.","type":"enter","source":"nltk"}
+{"id":"tg576.2.10.1.part1","text":"vor sich.","type":"aside","source":"nltk"}
+{"id":"tg576.2.38.1.part2","text":"Als ob sie einen Ring geschwind ansteckte.","type":"other","source":"nltk"}
+{"id":"tg576.2.44.1.part2","text":"Indem er den Brief umkehrt, und ihr ihn zureichen will, wird er gewahr, daß er erbrochen ist.","type":"other","source":"nltk"}
+{"id":"tg576.2.46.1.part2","text":"Besieht ihn.","type":"other","source":"nltk"}
+{"id":"tg576.2.55.1.part2","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg577.2.4","text":"Paul Werner. Franziska.","type":"enter","source":"NLP"}
+{"id":"tg577.2.9.1.part2","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg577.2.10.1.part2","text":"Indem sie herein gehen will, kommt ihr das Fräulein entgegen.","type":"exit","source":"nltk"}
+{"id":"tg578.2.4","text":"Das Fräulein. Franziska.","type":"enter","source":"NLP"}
+{"id":"tg578.2.12.1.part2","text":"Sie gehen herein.","type":"exit","source":"nltk"}
+{"id":"tg580.2.4","text":"Die Szene, das Zimmer des Fräuleins.","type":"other","source":"nltk"}
+{"id":"tg580.2.5","text":"Das Fräulein völlig, und reich, aber mit Geschmack gekleidet. Franziska sie stehen vom Tische auf, den ein Bedienter abräumt.","type":"enter","source":"nltk"}
+{"id":"tg580.2.11.1.part2","text":"Ein andrer Bedienter trägt Kaffee auf.","type":"other","source":"nltk"}
+{"id":"tg580.2.15.1.part1","text":"sehr ernsthaft.","type":"other","source":"nltk"}
+{"id":"tg581.2.4","text":"Riccaut de la Marliniere. Das Fräulein. Franziska.","type":"enter","source":"NLP"}
+{"id":"tg581.2.6.1.part1","text":"noch innerhalb der Szene.","type":"other","source":"nltk"}
+{"id":"tg581.2.7.1.part2","text":"Gegen die Türe gehend.","type":"other","source":"nltk"}
+{"id":"tg581.2.13.1.part1","text":"die auf ihn zu kömmt.","type":"other","source":"nltk"}
+{"id":"tg581.2.43.1.part1","text":"nimmt die Franziska bei Seite.","type":"other","source":"nltk"}
+{"id":"tg581.2.49.1.part2","text":"Geht und langt Geld aus ihrer Schatulle.","type":"other","source":"nltk"}
+{"id":"tg581.2.66.1.part1","text":"verwundernd.","type":"other","source":"nltk"}
+{"id":"tg581.2.75.1.part2","text":"Eilends ab.","type":"exit","source":"nltk"}
+{"id":"tg581.2.76.1.part1","text":"die ihm mit Erstaunen und Verdruß nachsieht.","type":"other","source":"nltk"}
+{"id":"tg582.2.4","text":"Das Fräulein. Franziska.","type":"enter","source":"NLP"}
+{"id":"tg582.2.6.1.part1","text":"erbittert.","type":"other","source":"nltk"}
+{"id":"tg582.2.7.1.part2","text":"Nach einem kleinen Nachdenken, und gelassener.","type":"other","source":"nltk"}
+{"id":"tg582.2.10.1.part2","text":"Will fort.","type":"other","source":"nltk"}
+{"id":"tg582.2.13.1.part2","text":"Das Fräulein schenkt indes selbst ein.","type":"other","source":"nltk"}
+{"id":"tg582.2.13.2.part2","text":"Und reicht der Franziska eine Tasse.","type":"other","source":"nltk"}
+{"id":"tg582.2.13.3.part2","text":"Das Fräulein setzt sie wieder weg.","type":"other","source":"nltk"}
+{"id":"tg582.2.13.4.part2","text":"In dem Tone des Franzosen.","type":"other","source":"nltk"}
+{"id":"tg582.2.14.1.part1","text":"kalt und nachdenkend, indem sie trinkt.","type":"other","source":"nltk"}
+{"id":"tg582.2.14.2.part2","text":"Gibt ihr die Tasse.","type":"other","source":"nltk"}
+{"id":"tg583.2.4","text":"Paul Werner der in einer steifen Stellung, gleichsam im Dienste, hereintritt. Das Fräulein.","type":"enter","source":"nltk"}
+{"id":"tg583.2.5","text":"Franziska.","type":"enter","source":"NLP"}
+{"id":"tg583.2.10.1.part1","text":"geht, ohne auf die Franziska zu achten, an das Fräulein.","type":"other","source":"nltk"}
+{"id":"tg583.2.14.1.part2","text":"Im Begriffe wieder zu gehen.","type":"other","source":"nltk"}
+{"id":"tg583.2.17.1.part1","text":"sachte zur Franziska, und ernsthaft.","type":"other","source":"nltk"}
+{"id":"tg583.2.18.1.part2","text":"Werner macht eine steife Verbeugung, und geht ab.","type":"exit","source":"nltk"}
+{"id":"tg584.2.4","text":"Das Fräulein. Franziska.","type":"enter","source":"NLP"}
+{"id":"tg584.2.10.1.part2","text":"Sie zieht ihren Ring vom Finger.","type":"other","source":"nltk"}
+{"id":"tg584.2.12.1.part1","text":"indem Franziska den andern Ring holt.","type":"other","source":"nltk"}
+{"id":"tg585.2.4","text":"Von Tellheim in dem nämlichen Kleide, aber sonst so, wie es Franziska verlangt. Das Fräulein.","type":"enter","source":"nltk"}
+{"id":"tg585.2.5","text":"Franziska.","type":"enter","source":"NLP"}
+{"id":"tg585.2.8.1.part2","text":"Indem sie ihm lächelnd ins Gesicht sieht.","type":"other","source":"nltk"}
+{"id":"tg585.2.26.1.part2","text":"Indem sie ihn von oben bis unten betrachtet.","type":"other","source":"nltk"}
+{"id":"tg585.2.42.1.part2","text":"Auf sich weisend.","type":"other","source":"nltk"}
+{"id":"tg585.2.42.3.part2","text":"Der indes vertieft, und unbeweglich, mit starren Augen immer auf eine Stelle gesehen.","type":"other","source":"nltk"}
+{"id":"tg585.2.43.1.part1","text":"zerstreut.","type":"other","source":"nltk"}
+{"id":"tg585.2.44.1.part1","text":"erschrocken.","type":"other","source":"nltk"}
+{"id":"tg585.2.44.2.part2","text":"Indem sie ihn bei der Hand ergreift.","type":"other","source":"nltk"}
+{"id":"tg585.2.45.1.part1","text":"der sich von dem Fräulein los reißt und der Franziska nachgeht.","type":"other","source":"nltk"}
+{"id":"tg585.2.59.1.part1","text":"hitzig.","type":"other","source":"nltk"}
+{"id":"tg585.2.62.1.part2","text":"Indem sie ihm plötzlich den Rücken wendet.","type":"other","source":"nltk"}
+{"id":"tg585.2.64.1.part1","text":"bei Seite zur Franziska.","type":"other","source":"nltk"}
+{"id":"tg585.2.66.1.part1","text":"der sie zu unterbrechen kömmt.","type":"other","source":"nltk"}
+{"id":"tg585.2.67.1.part1","text":"höhnisch.","type":"other","source":"nltk"}
+{"id":"tg585.2.69.1.part1","text":"noch in diesem Tone.","type":"other","source":"nltk"}
+{"id":"tg585.2.69.2.part2","text":"Indem sie den Ring langsam vom Finger zieht.","type":"other","source":"nltk"}
+{"id":"tg585.2.73.1.part2","text":"Überreicht ihm den Ring.","type":"other","source":"nltk"}
+{"id":"tg585.2.77.1.part1","text":"indem er den Ring aus ihrer Hand nimmt.","type":"other","source":"nltk"}
+{"id":"tg585.2.78.1.part2","text":"Will fort.","type":"other","source":"nltk"}
+{"id":"tg585.2.82.1.part2","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg586.2.4","text":"Von Tellheim. Franziska.","type":"enter","source":"nltk"}
+{"id":"tg586.2.6.1.part2","text":"Will ihr nach.","type":"other","source":"nltk"}
+{"id":"tg586.2.7.1.part1","text":"die ihn zurückhält.","type":"other","source":"nltk"}
+{"id":"tg587.2.2.1.part2","text":"Eilends ab.","type":"exit","source":"nltk"}
+{"id":"tg589.2.4","text":"Die Szene, der Saal.","type":"other","source":"nltk"}
+{"id":"tg589.2.5","text":"Von Tellheim von der einen und Werner von der andern Seite.","type":"enter","source":"nltk"}
+{"id":"tg589.2.16.1.part2","text":"Gibt ihm beides.","type":"other","source":"nltk"}
+{"id":"tg589.2.29.1.part2","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg590.2.2.2.part2","text":"Will nach dem Zimmer des Fräuleins, aus dem ihm Franziska entgegen kömmt.","type":"other","source":"nltk"}
+{"id":"tg591.2.4","text":"Franziska. von Tellheim.","type":"enter","source":"nltk"}
+{"id":"tg591.2.13.1.part2","text":"Er sucht ihn.","type":"other","source":"nltk"}
+{"id":"tg591.2.14.1.part2","text":"Indem er ihn wieder einsteckt, bei Seite.","type":"other","source":"nltk"}
+{"id":"tg591.2.17.1.part1","text":"etwas verlegen.","type":"other","source":"nltk"}
+{"id":"tg591.2.21.1.part1","text":"bei Seite.","type":"other","source":"nltk"}
+{"id":"tg591.2.27.1.part2","text":"Geht herein.","type":"exit","source":"nltk"}
+{"id":"tg592.2.2.1.part1","text":"ihr nachrufend.","type":"other","source":"nltk"}
+{"id":"tg593.2.4","text":"Das Fräulein. Franziska. von Tellheim.","type":"enter","source":"nltk"}
+{"id":"tg593.2.6.1.part1","text":"im Heraustreten, als ob sie den Major nicht gewahr würde.","type":"other","source":"nltk"}
+{"id":"tg593.2.7.1.part1","text":"auf sie zu.","type":"other","source":"nltk"}
+{"id":"tg593.2.8.1.part1","text":"mit einer affektierten Kälte.","type":"other","source":"nltk"}
+{"id":"tg593.2.8.2.part2","text":"Will fort.","type":"other","source":"nltk"}
+{"id":"tg593.2.9.1.part1","text":"der ihr vortritt.","type":"other","source":"nltk"}
+{"id":"tg593.2.14.2.part2","text":"Zieht den Ring heraus.","type":"other","source":"nltk"}
+{"id":"tg593.2.18.1.part2","text":"Ergreift ihre Hand, um ihr den Ring anzustecken.","type":"other","source":"nltk"}
+{"id":"tg593.2.19.1.part2","text":"Auf ihren Ring zeigend.","type":"other","source":"nltk"}
+{"id":"tg593.2.21.1.part1","text":"indem er die Hand des Fräuleins fahren läßt.","type":"other","source":"nltk"}
+{"id":"tg593.2.22.1.part1","text":"in ihrem wahren Tone.","type":"other","source":"nltk"}
+{"id":"tg593.2.24.1.part1","text":"gerührt.","type":"other","source":"nltk"}
+{"id":"tg593.2.26.1.part1","text":"herausplatzend.","type":"other","source":"nltk"}
+{"id":"tg593.2.27.1.part1","text":"gebieterisch.","type":"other","source":"nltk"}
+{"id":"tg593.2.28.1.part1","text":"bei Seite und betroffen.","type":"other","source":"nltk"}
+{"id":"tg593.2.30.1.part2","text":"Ergreift ihre Hand nochmals, ihr den Ring anzustecken.","type":"other","source":"nltk"}
+{"id":"tg593.2.31.1.part1","text":"die ihre Hand zurück zieht.","type":"other","source":"nltk"}
+{"id":"tg594.2.4","text":"Ein Feldjäger. Von Tellheim. Das Fräulein. Franziska.","type":"enter","source":"nltk"}
+{"id":"tg594.2.6.1.part1","text":"indem sie den Feldjäger gewahr wird.","type":"other","source":"nltk"}
+{"id":"tg594.2.7.1.part1","text":"gegen den Feldjäger.","type":"other","source":"nltk"}
+{"id":"tg594.2.8.1.part2","text":"Das er aus seiner Brieftasche nimmt.","type":"other","source":"nltk"}
+{"id":"tg594.2.12.1.part1","text":"indem Tellheim den Brief nimmt.","type":"other","source":"nltk"}
+{"id":"tg594.2.17.1","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg595.2.4","text":"Von Tellheim. Das Fräulein. Franziska.","type":"enter","source":"nltk"}
+{"id":"tg595.2.8.1.part2","text":"Erbricht und lieset den Brief, indes daß der Wirt an die Szene geschlichen kömmt.","type":"other","source":"nltk"}
+{"id":"tg596.2.4","text":"Der Wirt. Die Vorigen.","type":"enter","source":"nltk"}
+{"id":"tg596.2.6.1.part1","text":"gegen die Franziska.","type":"other","source":"nltk"}
+{"id":"tg596.2.7.1.part1","text":"die sich ihm nähert.","type":"other","source":"nltk"}
+{"id":"tg596.2.9.1.part1","text":"die sich indes gleichfalls dem Wirte genähert.","type":"other","source":"nltk"}
+{"id":"tg596.2.13.1","text":"Der Wirt geht ab.","type":"exit","source":"nltk"}
+{"id":"tg597.2.4","text":"Von Tellheim. Das Fräulein. Franziska.","type":"enter","source":"nltk"}
+{"id":"tg597.2.8.1.part1","text":"nachdem er gelesen, mit der lebhaftesten Rührung.","type":"other","source":"nltk"}
+{"id":"tg597.2.8.2.part2","text":"Indem er wieder in den Brief sieht, als um sich nochmals zu überzeugen.","type":"other","source":"nltk"}
+{"id":"tg597.2.11.1.part2","text":"Sie nimmt den Brief und lieset.","type":"other","source":"nltk"}
+{"id":"tg597.2.16.1.part1","text":"indem sie den Brief wieder zusammenschlägt, und zurückgibt.","type":"other","source":"nltk"}
+{"id":"tg597.2.22.1.part1","text":"sich fassend.","type":"other","source":"nltk"}
+{"id":"tg597.2.23.1.part2","text":"Ergreift ihre Hand, sie zu küssen.","type":"other","source":"nltk"}
+{"id":"tg597.2.24.1.part1","text":"die ihre Hand zurück zieht.","type":"other","source":"nltk"}
+{"id":"tg597.2.28.1.part1","text":"auffahrend und wild um sich sehend.","type":"other","source":"nltk"}
+{"id":"tg597.2.34.1.part2","text":"Kalt.","type":"other","source":"nltk"}
+{"id":"tg597.2.34.3.part2","text":"Im Begriffe, ihn zu zerreißen.","type":"other","source":"nltk"}
+{"id":"tg597.2.35.1.part1","text":"das ihm in die Hände greift.","type":"other","source":"nltk"}
+{"id":"tg598.2.4","text":"Just. Die Vorigen.","type":"enter","source":"nltk"}
+{"id":"tg598.2.6.1.part1","text":"mit Ungestüm.","type":"other","source":"nltk"}
+{"id":"tg598.2.10.1.part2","text":"Redet ihm heimlich ins Ohr.","type":"other","source":"nltk"}
+{"id":"tg598.2.11.1.part1","text":"indes bei Seite zur Franziska.","type":"other","source":"nltk"}
+{"id":"tg598.2.13.1.part1","text":"zu Justen.","type":"other","source":"nltk"}
+{"id":"tg598.2.13.2.part2","text":"Indem er das Fräulein wild anblickt.","type":"other","source":"nltk"}
+{"id":"tg598.2.16.1.part1","text":"lächelnd.","type":"other","source":"nltk"}
+{"id":"tg598.2.17.1.part1","text":"heftig.","type":"other","source":"nltk"}
+{"id":"tg598.2.18.1.part1","text":"erschrocken.","type":"other","source":"nltk"}
+{"id":"tg598.2.23.1.part1","text":"vor sich.","type":"aside","source":"nltk"}
+{"id":"tg599.2.4","text":"Werner mit einem Beutel Gold. von Tellheim.","type":"enter","source":"nltk"}
+{"id":"tg599.2.5","text":"Das Fräulein. Franziska. Just.","type":"enter","source":"NLP"}
+{"id":"tg599.2.8.1.part1","text":"ohne ihn anzusehen.","type":"other","source":"nltk"}
+{"id":"tg599.2.21.1.part2","text":"Ärgerlich.","type":"other","source":"nltk"}
+{"id":"tg599.2.27.1.part1","text":"zornig.","type":"other","source":"nltk"}
+{"id":"tg599.2.29.1.part1","text":"zur Franziska.","type":"other","source":"nltk"}
+{"id":"tg599.2.29.2.part2","text":"Auf ihn zugehend.","type":"other","source":"nltk"}
+{"id":"tg599.2.30.1.part1","text":"die, ohne dem Fräulein zu antworten, sich Wernern nähert.","type":"other","source":"nltk"}
+{"id":"tg599.2.31.1.part1","text":"mürrisch.","type":"other","source":"nltk"}
+{"id":"tg599.2.33.1.part2","text":"Der vor Wut an den Fingern naget, das Gesicht wegwendet, und nichts höret.","type":"other","source":"nltk"}
+{"id":"tg600.2.4","text":"Zwei Bediente, nach einander, von verschiedenen Seiten über den Saal laufend. Die Vorigen.","type":"enter","source":"nltk"}
+{"id":"tg600.2.8.1.part1","text":"die ans Fenster gelaufen.","type":"other","source":"nltk"}
+{"id":"tg600.2.10.1.part1","text":"auf einmal zu sich selbst kommend.","type":"other","source":"nltk"}
+{"id":"tg600.2.13.2.part2","text":"Sie fällt ihm in die Arme.","type":"other","source":"nltk"}
+{"id":"tg600.2.20.1.part2","text":"Ihn herausziehend.","type":"other","source":"nltk"}
+{"id":"tg600.2.23.1.part2","text":"Reißt ihn ihm aus der Hand, und steckt ihn ihm selbst an den Finger.","type":"other","source":"nltk"}
+{"id":"tg600.2.24.1.part2","text":"Ihre Hand küssend.","type":"other","source":"nltk"}
+{"id":"tg601.2.4","text":"Der Graf von Bruchsall, von verschiedenen Bedienten und dem Wirte begleitet. Die Vorigen.","type":"enter","source":"nltk"}
+{"id":"tg601.2.6.1.part1","text":"im Hereintreten.","type":"other","source":"nltk"}
+{"id":"tg601.2.7.1.part1","text":"die ihm entgegen springt.","type":"other","source":"nltk"}
+{"id":"tg601.2.8.1.part2","text":"Sie umarmend.","type":"other","source":"nltk"}
+{"id":"tg601.2.8.2.part2","text":"Indem er den Tellheim gewahr wird.","type":"other","source":"nltk"}
+{"id":"tg601.2.11.1.part2","text":"Ihn dem Grafen zuführend.","type":"other","source":"nltk"}
+{"id":"tg601.2.15.1.part1","text":"sich ihm in die Arme werfend.","type":"other","source":"nltk"}
+{"id":"tg601.2.16.1.part2","text":"Auf Tellheims Uniform weisend.","type":"other","source":"nltk"}
+{"id":"tg601.2.21.1.part2","text":"Geht mit dem Wirte und den Bedienten ab.","type":"exit","source":"nltk"}
+{"id":"tg601.2.23.1.part2","text":"Gegen Wernern sich wendend.","type":"other","source":"nltk"}
+{"id":"tg601.2.24.1.part2","text":"Dem Grafen nach.","type":"other","source":"nltk"}
+{"id":"tg602.2.4","text":"Von Tellheim. Werner. Just. Franziska.","type":"enter","source":"nltk"}
+{"id":"tg602.2.6.1.part1","text":"auf den Beutel weisend, den Werner weggeworfen.","type":"other","source":"nltk"}
+{"id":"tg602.2.6.2.part2","text":"Just damit ab.","type":"exit","source":"nltk"}
+{"id":"tg602.2.7.1.part1","text":"der noch immer mürrisch im Winkel gestanden, und an nichts Teil zu nehmen geschienen; indem er das hört.","type":"other","source":"nltk"}
+{"id":"tg602.2.8.1.part1","text":"vertraulich, auf ihn zugehend.","type":"other","source":"nltk"}
+{"id":"tg602.2.9.1.part1","text":"auf einmal wieder in seiner guten Laune.","type":"other","source":"nltk"}
+{"id":"tg602.2.13.1.part2","text":"Ihm die Hand drückend.","type":"other","source":"nltk"}
+{"id":"tg602.2.13.2.part2","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg603.2.4","text":"Werner. Franziska.","type":"enter","source":"NLP"}
+{"id":"tg603.2.6.1.part1","text":"vor sich.","type":"aside","source":"nltk"}
+{"id":"tg603.2.6.3.part2","text":"Schüchtern und verschämt sich Wernern nähernd.","type":"other","source":"nltk"}
+{"id":"tg603.2.7.1.part1","text":"der sich die Augen wischt.","type":"other","source":"nltk"}

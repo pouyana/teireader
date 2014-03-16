@@ -12,12 +12,13 @@ def find_xml(txtfile):
     return xml_file_name
 
 tools = Tools()
-files_dir = "corrected_machine_classified"
+files_dir = "machine_classified_corrected"
 file_list = os.listdir(files_dir)
 cn = 0
 stats={}
 for f in file_list:
     if(re.match(".*\.txt",f)):
+#        print f
         xml_file = files_dir+"/"+find_xml(tools.unicode_safe(f))
         xml = Drama(xml_file)
         tree = xml.get_tree()
@@ -25,6 +26,7 @@ for f in file_list:
         save_file = files_dir+"/"+title+".cor.xml"
         lines = [line.strip() for line in open(files_dir+"/"+f)]
         for line in lines:
+#            print line
             jsondata = json.loads(line)
             stage = xml.get_content_by_id(jsondata["id"])
             if(stage is not None):

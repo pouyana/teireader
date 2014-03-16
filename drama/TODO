@@ -1,9 +1,4 @@
-* 1. Beispiel Stanford NER Probleme
-
 2. Anaphora Resolution NLTK-DRT
 https://www.duo.uio.no/bitstream/handle/10852/26326/397_Noeklestad_17x24.pdf?sequence=1
-
 3. Act/Scene
 Acts don't have a text child. (Search for a text child of a integer tagid.)
-
-* 5. NN|NE (||) NE diff

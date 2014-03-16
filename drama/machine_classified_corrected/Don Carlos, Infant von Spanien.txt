@@ -1,0 +1,731 @@
+{"id":"tg1132.2.4","text":"Carlos, Domingo.","type":"enter","source":"NLP"}
+{"id":"tg1132.2.16.1","text":"Carlos sieht zur Erde und schweigt.","type":"other","source":"nltk"}
+{"id":"tg1132.2.32.1","text":"Carlos wendet sich weg.","type":"other","source":"nltk"}
+{"id":"tg1132.2.42.1.part1","text":"dreht sich rasch um.","type":"other","source":"nltk"}
+{"id":"tg1132.2.48.1.part1","text":"besinnt sich und fährt mit der Hand über die Stirne.","type":"other","source":"nltk"}
+{"id":"tg1132.2.93.1","text":"Nach einigem Stillschweigen.","type":"other","source":"nltk"}
+{"id":"tg1132.2.101.1","text":"Ernsthaft und finster.","type":"other","source":"nltk"}
+{"id":"tg1132.2.118.1.part1","text":"stutzt.","type":"other","source":"nltk"}
+{"id":"tg1132.2.151.1.part1","text":"faßt ihn bei der Hand.","type":"other","source":"nltk"}
+{"id":"tg1132.2.184.1","text":"Domingo geht ab. Nach einem Stillschweigen.","type":"exit","source":"nltk"}
+{"id":"tg1133.2.4","text":"Carlos. Marquis von Posa.","type":"enter","source":"nltk"}
+{"id":"tg1133.2.89.1","text":"Marquis neigt sich über ihn in sprachloser Rührung.","type":"other","source":"nltk"}
+{"id":"tg1133.2.170.1.part1","text":"reicht ihm die Hand.","type":"other","source":"nltk"}
+{"id":"tg1133.2.291.1.part1","text":"nach einigem Stillschweigen.","type":"other","source":"nltk"}
+{"id":"tg1133.2.335.1","text":"Beide gehen ab zu verschiedenen Seiten.","type":"exit","source":"nltk"}
+{"id":"tg1134.2.4","text":"Die Königin. Die Herzogin von Olivarez. Die Prinzessin von Eboli und die Marquisin von Mondekar, welche die Allee heraufkommen.","type":"enter","source":"nltk"}
+{"id":"tg1134.2.6.1.part1","text":"zur Marquisin.","type":"other","source":"nltk"}
+{"id":"tg1134.2.82.1","text":"Zur Prinzessin.","type":"other","source":"nltk"}
+{"id":"tg1134.2.98.1.part1","text":"steht stumm und verwirrt, die Augen zur Erde geschlagen, endlich fällt sie der Königin zu Füßen.","type":"other","source":"nltk"}
+{"id":"tg1134.2.110.1.part1","text":"aufstehend.","type":"other","source":"nltk"}
+{"id":"tg1134.2.113.1.part1","text":"stutzt und sieht sie mit forschenden Augen an.","type":"other","source":"nltk"}
+{"id":"tg1134.2.116.1.part1","text":"mit einiger Heftigkeit.","type":"other","source":"nltk"}
+{"id":"tg1134.2.120.1.part1","text":"sehr ernsthaft.","type":"other","source":"nltk"}
+{"id":"tg1134.2.125.1","text":"Zu den andern Damen.","type":"other","source":"nltk"}
+{"id":"tg1134.2.130.1.part1","text":"sieht auf die Uhr.","type":"other","source":"nltk"}
+{"id":"tg1134.2.138.1","text":"Ein Page tritt auf und spricht leise mit der Oberhofmeisterin, welche sich darauf zur Königin wendet.","type":"enter","source":"nltk"}
+{"id":"tg1134.2.152.1.part1","text":"bedenklich.","type":"other","source":"nltk"}
+{"id":"tg1134.2.169.1","text":"Die Oberhofmeisterin geht ab, und die Königin gibt dem Pagen einen Wink, welcher sogleich hinausgeht.","type":"exit","source":"nltk"}
+{"id":"tg1135.2.4","text":"Königin. Prinzessin von Eboli. Marquisin von Mondekar und Marquis von Posa.","type":"enter","source":"nltk"}
+{"id":"tg1135.2.12.1.part1","text":"zu den beiden Damen.","type":"other","source":"nltk"}
+{"id":"tg1135.2.21.1","text":"Zum Marquis sich wendend.","type":"other","source":"nltk"}
+{"id":"tg1135.2.45.1.part1","text":"überreicht ihr die Briefe.","type":"other","source":"nltk"}
+{"id":"tg1135.2.73.1","text":"Zur Prinzessin von Eboli.","type":"other","source":"nltk"}
+{"id":"tg1135.2.79.1","text":"Die Prinzessin geht nach dem Platze. Die Königin etwas leiser zum Marquis.","type":"exit","source":"nltk"}
+{"id":"tg1135.2.90.1","text":"Die Prinzessin kommt mit der Blume zurück.","type":"enter","source":"nltk"}
+{"id":"tg1135.2.149.1","text":"Die Königin wird aufmerksamer. Der Marquis fährt nach einem kurzen Stillschweigen fort, die Erzählung, soweit es die Gegenwart der Königin erlaubt, mehr an die Prinzessin von Eboli gerichtet.","type":"other","source":"nltk"}
+{"id":"tg1135.2.198.1","text":"Ein allgemeines Stillschweigen.","type":"other","source":"nltk"}
+{"id":"tg1135.2.200.1.part1","text":"wendet sich zur Prinzessin von Eboli.","type":"other","source":"nltk"}
+{"id":"tg1135.2.205.1","text":"Diese entfernt sich. Der Marquis winkt einem Pagen, der sich im Hintergrunde zeigt und sogleich verschwindet. Die Königin erbricht die Briefe, die der Marquis ihr gegeben, und scheint überrascht zu werden. In dieser Zeit spricht der Marquis geheim und sehr angelegentlich mit der Marquisin von Mondekar. – Die Königin hat die Briefe gelesen und wendet sich mit einem ausforschenden Blicke zum Marquis.","type":"other","source":"nltk"}
+{"id":"tg1135.2.222.1.part1","text":"lebhaft einfallend.","type":"other","source":"nltk"}
+{"id":"tg1135.2.226.1.part1","text":"erschrocken.","type":"other","source":"nltk"}
+{"id":"tg1135.2.230.1.part1","text":"mit wachsender Verwirrung.","type":"other","source":"nltk"}
+{"id":"tg1136.2.4","text":"Die Königin. Carlos.","type":"enter","source":"NLP"}
+{"id":"tg1136.2.5","text":"Marquis von Posa und die Marquisin von Mondekar treten nach dem Hintergrunde zurück.","type":"other","source":"nltk"}
+{"id":"tg1136.2.7.1.part1","text":"vor der Königin niedergeworfen.","type":"other","source":"nltk"}
+{"id":"tg1136.2.33.1.part1","text":"steht auf.","type":"other","source":"nltk"}
+{"id":"tg1136.2.178.1","text":"Sie sieht ihn lange und durchdringend an – dann mit Würde und Ernst.","type":"other","source":"nltk"}
+{"id":"tg1136.2.196.1","text":"Er steht einen Augenblick starr und sprachlos.","type":"other","source":"nltk"}
+{"id":"tg1136.2.254.1.part1","text":"wirft sich, von Empfindung überwältigt, zu ihren Füßen.","type":"other","source":"nltk"}
+{"id":"tg1136.2.258.1","text":"Er steht auf.","type":"other","source":"nltk"}
+{"id":"tg1136.2.268.1.part1","text":"eilt aus der Allee.","type":"enter","source":"nltk"}
+{"id":"tg1136.2.282.1.part1","text":"zieht den Marquis am Arme.","type":"other","source":"nltk"}
+{"id":"tg1136.2.286.1","text":"Er geht und kommt noch einmal zurück.","type":"other","source":"nltk"}
+{"id":"tg1136.2.296.1","text":"Sie gibt ihm einige Briefe. Karl und der Marquis gehen ab. Die Königin sieht sich unruhig nach ihren Damen um, welche sich nirgends erblicken lassen. Wie sie nach dem Hintergrunde zurückgehen will, erscheint der König.","type":"other","source":"nltk"}
+{"id":"tg1137.2.4","text":"König. Königin. Herzog Alba. Graf Lerma. Domingo. Einige Damen und Granden, welche in der Entfernung zurückbleiben.","type":"enter","source":"nltk"}
+{"id":"tg1137.2.6.1.part1","text":"sieht mit Befremdung umher und schweigt eine Zeitlang.","type":"other","source":"nltk"}
+{"id":"tg1137.2.15.1","text":"Zum Gefolge.","type":"other","source":"nltk"}
+{"id":"tg1137.2.34.1.part1","text":"welche indessen zurückgekommen ist und sich unter die übrigen Damen gemischt hat, tritt hervor.","type":"enter","source":"nltk"}
+{"id":"tg1137.2.42.1","text":"Die Marquisin tritt mit weinenden Augen zurück. Allgemeines Stillschweigen. Alle Umstehenden sehen bestürzt auf die Königin.","type":"other","source":"nltk"}
+{"id":"tg1137.2.47.1","text":"Zum König.","type":"other","source":"nltk"}
+{"id":"tg1137.2.62.1","text":"Sie nimmt ihren Gürtel ab und überreicht ihn der Marquisin.","type":"other","source":"nltk"}
+{"id":"tg1137.2.71.1","text":"Sie lehnt sich an die Oberhofmeisterin und bedeckt das Gesicht.","type":"other","source":"nltk"}
+{"id":"tg1137.2.74.1.part1","text":"in einiger Bewegung.","type":"other","source":"nltk"}
+{"id":"tg1137.2.80.1","text":"Er wendet sich gegen die Grandezza.","type":"other","source":"nltk"}
+{"id":"tg1137.2.109.1","text":"Zu den Granden.","type":"other","source":"nltk"}
+{"id":"tg1137.2.115.1","text":"Niemand antwortet.","type":"other","source":"nltk"}
+{"id":"tg1137.2.144.1","text":"Er wendet sich gegen sein Gefolge.","type":"other","source":"nltk"}
+{"id":"tg1137.2.157.1","text":"Er führt die Königin hinweg, die übrigen folgen.","type":"exit","source":"nltk"}
+{"id":"tg1138.2.4","text":"Don Carlos mit Briefen in der Hand, Marquis von Posa kommen von der entgegengesetzten Seite.","type":"enter","source":"nltk"}
+{"id":"tg1139.2.4","text":"Vorige. Graf Lerma.","type":"enter","source":"NLP"}
+{"id":"tg1139.2.13.1.part1","text":"macht Miene, sich zu entfernen.","type":"other","source":"nltk"}
+{"id":"tg1139.2.21.1","text":"Zu Lerma, welcher noch wartet.","type":"other","source":"nltk"}
+{"id":"tg1139.2.25.1","text":"Graf Lerma geht ab.","type":"exit","source":"nltk"}
+{"id":"tg1140.2.4","text":"Don Carlos. Der Marquis.","type":"enter","source":"NLP"}
+{"id":"tg1140.2.121.1","text":"Sie gehen ab.","type":"exit","source":"nltk"}
+{"id":"tg1142.2.4","text":"König Philipp unter einem Thronhimmel. Herzog von Alba in einiger Entfernung von dem König, mit bedecktem Haupt. Carlos.","type":"enter","source":"nltk"}
+{"id":"tg1142.2.11.1","text":"Er tritt mit einer Verbeugung zurück.","type":"other","source":"nltk"}
+{"id":"tg1142.2.15.1.part1","text":"sich gegen Alba wendend.","type":"other","source":"nltk"}
+{"id":"tg1142.2.41.1.part1","text":"verläßt seinen Sitz mit einem zornigen Blick auf den Prinzen.","type":"other","source":"nltk"}
+{"id":"tg1142.2.44.1","text":"Dieser geht nach der Haupttüre, durch welche Carlos gekommen war; der König winkt ihm nach einer andern.","type":"exit","source":"nltk"}
+{"id":"tg1143.2.4","text":"König Philipp. Don Carlos.","type":"enter","source":"NLP"}
+{"id":"tg1143.2.6.1.part1","text":"geht, sobald der Herzog des Zimmer verlassen hat, auf den König zu und fällt vor ihm nieder, im Ausdruck der höchsten Empfindung.","type":"other","source":"nltk"}
+{"id":"tg1143.2.18.1.part1","text":"aufstehend.","type":"other","source":"nltk"}
+{"id":"tg1143.2.44.1","text":"Er fällt ihm zu Füßen.","type":"other","source":"nltk"}
+{"id":"tg1143.2.50.1.part1","text":"will sich von ihm losreißen.","type":"other","source":"nltk"}
+{"id":"tg1143.2.112.1.part1","text":"von diesen Worten ergriffen, steht nachdenkend und in sich gekehrt.","type":"other","source":"nltk"}
+{"id":"tg1143.2.114.1.part1","text":"mit Lebhaftigkeit und Wärme auf ihn zugehend.","type":"other","source":"nltk"}
+{"id":"tg1143.2.135.1.part1","text":"nicht ohne Rührung.","type":"other","source":"nltk"}
+{"id":"tg1143.2.212.1.part1","text":"den Infanten mit einem durchdringenden Blick betrachtend.","type":"other","source":"nltk"}
+{"id":"tg1143.2.221.1","text":"Nach einigem Nachdenken, mit gemildertem Ernst.","type":"other","source":"nltk"}
+{"id":"tg1143.2.260.1.part1","text":"mit erzwungener Gelassenheit.","type":"other","source":"nltk"}
+{"id":"tg1143.2.265.1.part1","text":"außer sich.","type":"other","source":"nltk"}
+{"id":"tg1143.2.267.1.part1","text":"der einen Schritt zurücktritt.","type":"other","source":"nltk"}
+{"id":"tg1143.2.271.1.part1","text":"mit schwankender Stimme.","type":"other","source":"nltk"}
+{"id":"tg1143.2.279.1","text":"Geht ab in heftiger Bewegung.","type":"exit","source":"nltk"}
+{"id":"tg1144.2.4","text":"Philipp bleibt eine Zeitlang in düstres Nachdenken versunken stehen – endlich geht er einige Schritte im Saale auf und nieder. Alba nähert sich verlegen.","type":"enter","source":"nltk"}
+{"id":"tg1144.2.23.1.part1","text":"nach einigem Auf- und Niedergehen.","type":"other","source":"nltk"}
+{"id":"tg1144.2.27.1","text":"Der König bleibt mit dem Aug auf ihm haften, finster.","type":"other","source":"nltk"}
+{"id":"tg1144.2.31.1","text":"verachtet.","type":"other","source":"nltk"}
+{"id":"tg1144.2.32.1.part1","text":"entfärbt sich und will auffahren.","type":"other","source":"nltk"}
+{"id":"tg1144.2.42.2","text":"ihn.","type":"other","source":"nltk"}
+{"id":"tg1144.2.46.1","text":"Der König begibt sich in das Kabinett. Der Herzog entfernt sich durch eine andere Türe.","type":"exit","source":"nltk"}
+{"id":"tg1145.2.4","text":"Don Carlos kommt im Gespräche mit einem Pagen durch die Mitteltüre. Die Hofleute, welche sich im Vorsaal befinden, zerstreuen sich bei seiner Ankunft in den angrenzenden Zimmern.","type":"enter","source":"nltk"}
+{"id":"tg1145.2.10.1.part1","text":"geheimnisvoll.","type":"other","source":"nltk"}
+{"id":"tg1145.2.14.1.part1","text":"zurückfahrend.","type":"other","source":"nltk"}
+{"id":"tg1145.2.17.1","text":"Indem er den Pagen genauer betrachtet.","type":"other","source":"nltk"}
+{"id":"tg1145.2.23.1.part1","text":"erschrocken auf ihn zugehend und ihm die Hand auf den Mund drückend.","type":"other","source":"nltk"}
+{"id":"tg1145.2.26.1","text":"Er reißt hastig das Siegel auf und triff an das äußerste Ende des Saals, den Brief zu lesen. Unterdessen kommt der Herzog von Alba und geht, ohne von dem Prinzen bemerkt zu werden, an ihm vorbei in der Königin Zimmer. Carlos fängt an, heftig zu zittern und wechselsweise zu erblassen und zu erröten. Nachdem er gelesen hat, steht er lange sprachlos, die Augen starr auf den Brief geheftet. – Endlich wendet er sich zu dem Pagen.","type":"other","source":"nltk"}
+{"id":"tg1145.2.40.1.part1","text":"sieht wieder in den Brief und betrachtet den Pagen mit zweifelhafter, forschender Miene.","type":"other","source":"nltk"}
+{"id":"tg1145.2.47.1.part1","text":"indem er ihn bei der Hand nimmt und die Augen bedeutend auf ihn heftet.","type":"other","source":"nltk"}
+{"id":"tg1145.2.49.1.part1","text":"empfindlich.","type":"other","source":"nltk"}
+{"id":"tg1145.2.52.1.part1","text":"liest den Brief.","type":"other","source":"nltk"}
+{"id":"tg1145.2.63.1","text":"Wie aus einer Betäubung erwachend.","type":"other","source":"nltk"}
+{"id":"tg1145.2.71.1","text":"Außer Fassung durchs Zimmer stürzend und die Arme zum Himmel emporgeworfen.","type":"other","source":"nltk"}
+{"id":"tg1145.2.84.1.part1","text":"will ihn fortführen.","type":"other","source":"nltk"}
+{"id":"tg1145.2.86.1.part1","text":"von einer plötzlichen Erstarrung ergriffen.","type":"other","source":"nltk"}
+{"id":"tg1145.2.89.1","text":"Er läßt die Arme sinken, blickt scheu umher und fängt an, sich zu sammeln.","type":"other","source":"nltk"}
+{"id":"tg1145.2.97.1","text":"Den Pagen bei der Hand fassend und beiseite führend.","type":"other","source":"nltk"}
+{"id":"tg1145.2.103.1.part1","text":"will fort.","type":"other","source":"nltk"}
+{"id":"tg1145.2.108.1","text":"Der Page kommt zurück. Carlos legt ihm eine Hand auf die Schulter und sieht ihm ernst und feierlich ins Gesicht.","type":"other","source":"nltk"}
+{"id":"tg1145.2.145.1","text":"Das Zimmer der Königin öffnet sich, und der Herzog von Alba tritt heraus.","type":"enter","source":"nltk"}
+{"id":"tg1145.2.152.1","text":"Ab.","type":"exit","source":"nltk"}
+{"id":"tg1146.2.4","text":"Don Carlos. Herzog von Alba.","type":"enter","source":"nltk"}
+{"id":"tg1146.2.6.1.part1","text":"ihm in den Weg tretend.","type":"other","source":"nltk"}
+{"id":"tg1146.2.11.1","text":"Er will gehen.","type":"other","source":"nltk"}
+{"id":"tg1146.2.58.1.part1","text":"nicht mit Ironie.","type":"other","source":"nltk"}
+{"id":"tg1146.2.72.1.part1","text":"nach einigem Stillschweigen, wie er sieht, daß der Herzog noch immer bleibt.","type":"other","source":"nltk"}
+{"id":"tg1146.2.83.1.part1","text":"mit Bedeutung.","type":"other","source":"nltk"}
+{"id":"tg1146.2.86.1.part1","text":"nach einigem Stillschweigen mit Würde und Stolz.","type":"other","source":"nltk"}
+{"id":"tg1146.2.94.1.part1","text":"ihm lächelnd die Hand reichend.","type":"other","source":"nltk"}
+{"id":"tg1146.2.174.1.part1","text":"auffahrend.","type":"other","source":"nltk"}
+{"id":"tg1146.2.179.1.part1","text":"nach dem Schwert greifend.","type":"other","source":"nltk"}
+{"id":"tg1146.2.182.1.part1","text":"kalt.","type":"other","source":"nltk"}
+{"id":"tg1146.2.184.1.part1","text":"heftig auf ihn eindringend.","type":"other","source":"nltk"}
+{"id":"tg1146.2.187.1.part1","text":"zieht.","type":"other","source":"nltk"}
+{"id":"tg1146.2.191.1","text":"Sie fechten.","type":"other","source":"nltk"}
+{"id":"tg1147.2.4","text":"Die Königin. Don Carlos. Herzog von Alba.","type":"enter","source":"nltk"}
+{"id":"tg1147.2.6.1.part1","text":"welche erschrocken aus ihrem Zimmer tritt.","type":"other","source":"nltk"}
+{"id":"tg1147.2.9.1","text":"Zum Prinzen, unwillig und mit gebietender Stimme.","type":"other","source":"nltk"}
+{"id":"tg1147.2.12.1.part1","text":"vom Anblick der Königin außer sich gesetzt, läßt den Arm sinken, steht ohne Bewegung und sinnlos, dann eilt er auf den Herzog zu und küßt ihn.","type":"other","source":"nltk"}
+{"id":"tg1147.2.15.1","text":"Er wirft sich stumm zu der Königin Füßen, steht dann rasch auf und eilt außer Fassung fort.","type":"other","source":"nltk"}
+{"id":"tg1147.2.17.1.part1","text":"der voll Erstaunen dasteht und kein Auge von ihnen verwendet.","type":"other","source":"nltk"}
+{"id":"tg1147.2.19.1.part1","text":"steht einige Augenblicke beunruhigt und zweifelhaft, dann geht sie langsam nach ihrem Zimmer, an der Türe dreht sie sich um.","type":"other","source":"nltk"}
+{"id":"tg1147.2.22.1","text":"Der Herzog folgt ihr in das Zimmer.","type":"exit","source":"nltk"}
+{"id":"tg1148.2.4","text":"Die Prinzessin, in einem idealischen Geschmack, schön, aber einfach gekleidet, spielt die Laute und singt. Darauf der Page der Königin.","type":"enter","source":"nltk"}
+{"id":"tg1148.2.6.1.part1","text":"springt schnell auf.","type":"other","source":"nltk"}
+{"id":"tg1148.2.8.1.part1","text":"eilfertig.","type":"other","source":"nltk"}
+{"id":"tg1148.2.20.1.part1","text":"zieht ihn voll Ungeduld an sich.","type":"other","source":"nltk"}
+{"id":"tg1148.2.60.1.part1","text":"befremdet.","type":"other","source":"nltk"}
+{"id":"tg1148.2.76.1.part1","text":"nach einigem Nachsinnen, voll Verwunderung.","type":"other","source":"nltk"}
+{"id":"tg1148.2.91.1.part1","text":"ärgerlich.","type":"other","source":"nltk"}
+{"id":"tg1148.2.112.1","text":"Page eilt hinaus.","type":"exit","source":"nltk"}
+{"id":"tg1149.2.4","text":"Die Prinzessin und bald nachher Don Carlos.","type":"enter","source":"nltk"}
+{"id":"tg1149.2.5","text":"Prinzessin hat sich in eine Ottomane geworfen und spielt.","type":"other","source":"nltk"}
+{"id":"tg1149.2.7.1.part1","text":"stürzt herein.","type":"enter","source":"nltk"}
+{"id":"tg1149.2.10.1.part1","text":"läßt die Laute fallen.","type":"other","source":"nltk"}
+{"id":"tg1149.2.34.1","text":"Indem er sich zweifelhaft umsieht.","type":"other","source":"nltk"}
+{"id":"tg1149.2.47.1","text":"Nach einigem Stillschweigen mit Bedeutung.","type":"other","source":"nltk"}
+{"id":"tg1149.2.52.1.part1","text":"treuherzig.","type":"other","source":"nltk"}
+{"id":"tg1149.2.65.1","text":"Er will gehen.","type":"other","source":"nltk"}
+{"id":"tg1149.2.67.1.part1","text":"überrascht und betroffen, doch sogleich wieder gefaßt.","type":"other","source":"nltk"}
+{"id":"tg1149.2.86.1","text":"Sie führt ihn zum Sofa und nimmt ihre Laute wieder.","type":"other","source":"nltk"}
+{"id":"tg1149.2.91.1.part1","text":"Er setzt sich, nicht ganz ohne Zwang, neben die Fürstin.","type":"other","source":"nltk"}
+{"id":"tg1149.2.107.1.part1","text":"ernsthaft.","type":"other","source":"nltk"}
+{"id":"tg1149.2.112.1","text":"Die Prinzessin stutzt; er bemerkt es und fährt mit einer leichten Galanterie fort.","type":"other","source":"nltk"}
+{"id":"tg1149.2.120.1.part1","text":"mit ihrer ganzen vorigen Munterkeit.","type":"other","source":"nltk"}
+{"id":"tg1149.2.125.1","text":"Ihn bei der Hand fassend, mit einschmeichelndem Interesse.","type":"other","source":"nltk"}
+{"id":"tg1149.2.151.1.part1","text":"der die ganze Zeit in die tiefste Zerstreuung versunken war, wird durch das Stillschweigen der Prinzessin plötzlich zu sich selbst gebracht und fährt in die Höhe.","type":"other","source":"nltk"}
+{"id":"tg1149.2.155.1.part1","text":"sieht ihn erstaunt an.","type":"other","source":"nltk"}
+{"id":"tg1149.2.158.1.part1","text":"springt auf.","type":"other","source":"nltk"}
+{"id":"tg1149.2.162.1.part1","text":"hält ihn zurück.","type":"other","source":"nltk"}
+{"id":"tg1149.2.164.1.part1","text":"in schrecklicher Beängstigung.","type":"other","source":"nltk"}
+{"id":"tg1149.2.169.1.part1","text":"hält ihn mit Gewalt zurück.","type":"other","source":"nltk"}
+{"id":"tg1149.2.173.1","text":"Carlos bleibt stehen und wird nachdenkend. Sie ergreift diesen Augenblick, ihn zu sich auf den Sofa zu ziehen.","type":"other","source":"nltk"}
+{"id":"tg1149.2.185.1.part1","text":"flüchtig, gedankenlos.","type":"other","source":"nltk"}
+{"id":"tg1149.2.188.1.part1","text":"freudig rasch.","type":"other","source":"nltk"}
+{"id":"tg1149.2.218.1","text":"Indem sie mit einer leichten Fingerbewegung seine Hemdkrause wegschnellt und eine Bandschleife, die da verborgen war, wegnimmt.","type":"other","source":"nltk"}
+{"id":"tg1149.2.221.1.part1","text":"mit Befremdung zurücktretend.","type":"other","source":"nltk"}
+{"id":"tg1149.2.242.1.part1","text":"etwas empfindlich und ernsthaft.","type":"other","source":"nltk"}
+{"id":"tg1149.2.259.1.part1","text":"mit ironischem Lächeln.","type":"other","source":"nltk"}
+{"id":"tg1149.2.287.1","text":"Carlos springt bestürzt auf.","type":"other","source":"nltk"}
+{"id":"tg1149.2.300.1.part1","text":"ihr rasch ins Wort fallend.","type":"other","source":"nltk"}
+{"id":"tg1149.2.305.1.part1","text":"vor Erstaunen von ihm weggehend und ihn eine Zeitlang aus der Entfernung beobachtend.","type":"other","source":"nltk"}
+{"id":"tg1149.2.309.1","text":"Sie schweigt einige Augenblicke.","type":"other","source":"nltk"}
+{"id":"tg1149.2.315.1","text":"Sie nähert sich dem Prinzen wieder und betrachtet ihn zweifelhaft.","type":"other","source":"nltk"}
+{"id":"tg1149.2.322.1.part1","text":"sie verläßt ihn schnell, geht einigemal stillschweigend im Kabinett auf und nieder und scheint über etwas Wichtiges nachzudenken.","type":"other","source":"nltk"}
+{"id":"tg1149.2.331.1","text":"Der Prinz rückt näher, mit erwartungsvollem, teilnehmendem Erstaunen.","type":"other","source":"nltk"}
+{"id":"tg1149.2.337.1.part1","text":"heftig ergriffen.","type":"other","source":"nltk"}
+{"id":"tg1149.2.347.1","text":"Carlos nimmt das Papier und hängt voll Ungeduld an ihrer Erzählung, ohne sich Zeit zu nehmen, es zu lesen.","type":"other","source":"nltk"}
+{"id":"tg1149.2.355.1.part1","text":"stolz und edel.","type":"other","source":"nltk"}
+{"id":"tg1149.2.404.1.part1","text":"voll Feuer auf sie zugehend.","type":"other","source":"nltk"}
+{"id":"tg1149.2.413.1.part1","text":"der sie voll Zärtlichkeit in die Arme schließt.","type":"other","source":"nltk"}
+{"id":"tg1149.2.429.1.part1","text":"mit dem vollen Blicke der Liebe.","type":"other","source":"nltk"}
+{"id":"tg1149.2.435.1","text":"Sie nimmt seine Hand und will sie küssen.","type":"other","source":"nltk"}
+{"id":"tg1149.2.437.1.part1","text":"der sie zurückzieht.","type":"other","source":"nltk"}
+{"id":"tg1149.2.440.1.part1","text":"mit Feinheit und Grazie, indem sie starr in seine Hand sieht.","type":"other","source":"nltk"}
+{"id":"tg1149.2.468.1.part1","text":"stutzt.","type":"other","source":"nltk"}
+{"id":"tg1149.2.478.1","text":"Nach einem dumpfen Besinnen.","type":"other","source":"nltk"}
+{"id":"tg1149.2.482.1","text":"Seine Knie wanken, er hält sich an einen Stuhl und verhüllt das Gesicht.","type":"other","source":"nltk"}
+{"id":"tg1149.2.484.1.part1","text":"eine lange Stille von beiden Seiten.","type":"other","source":"nltk"}
+{"id":"tg1149.2.486.1.part1","text":"sich aufrichtend, im Ausbruch des heftigsten Schmerzes.","type":"other","source":"nltk"}
+{"id":"tg1149.2.490.1.part1","text":"das Gesicht in das Kissen verbergend.","type":"other","source":"nltk"}
+{"id":"tg1149.2.492.1.part1","text":"vor ihr niedergeworfen.","type":"other","source":"nltk"}
+{"id":"tg1149.2.496.1.part1","text":"stößt ihn von sich.","type":"other","source":"nltk"}
+{"id":"tg1149.2.502.1.part1","text":"ihn mit Gewalt wegdrängend.","type":"other","source":"nltk"}
+{"id":"tg1149.2.507.1","text":"Carlos will gehen.","type":"other","source":"nltk"}
+{"id":"tg1149.2.517.1.part1","text":"zusammenschreckend.","type":"other","source":"nltk"}
+{"id":"tg1149.2.539.1.part1","text":"in Verzweiflung die Hände ringend.","type":"other","source":"nltk"}
+{"id":"tg1149.2.545.1","text":"Den Brief frohlockend emporhaltend.","type":"other","source":"nltk"}
+{"id":"tg1149.2.552.1","text":"Er geht.","type":"exit","source":"nltk"}
+{"id":"tg1149.2.554.1.part1","text":"wirft sich ihm in den Weg.","type":"other","source":"nltk"}
+{"id":"tg1150.2.4","text":"Die Prinzessin allein.","type":"aside","source":"nltk"}
+{"id":"tg1150.2.5","text":"Sie steht noch betäubt, außer Fassung; nachdem er hinaus ist, eilt sie ihm nach und will ihn zurückrufen.","type":"other","source":"nltk"}
+{"id":"tg1150.2.13.1","text":"Sie sinkt auf einen Sessel. Nach einer Pause.","type":"other","source":"nltk"}
+{"id":"tg1150.2.32.1","text":"Sie hält plötzlich ein, von einem Gedanken überrascht. – Zu gleicher Zeit reißt sie die Schleife, die ihr Carlos gegeben hat, von dem Busen, betrachtet sie schnell und erkennt sie.","type":"other","source":"nltk"}
+{"id":"tg1150.2.44.1","text":"Stillschweigen.","type":"other","source":"nltk"}
+{"id":"tg1150.2.81.1","text":"Nach einigem Besinnen.","type":"other","source":"nltk"}
+{"id":"tg1150.2.85.1","text":"Sie geht ab.","type":"exit","source":"nltk"}
+{"id":"tg1151.2.4","text":"Herzog von Alba. Pater Domingo.","type":"enter","source":"nltk"}
+{"id":"tg1151.2.28.1.part1","text":"nach einigem Stillschweigen.","type":"other","source":"nltk"}
+{"id":"tg1151.2.170.1","text":"Der Herzog von Alba geht ab.","type":"exit","source":"nltk"}
+{"id":"tg1152.2.4","text":"Die Prinzessin. Domingo.","type":"enter","source":"NLP"}
+{"id":"tg1152.2.9.1.part1","text":"dem Herzog neugierig nachsehend.","type":"other","source":"NLP"}
+{"id":"tg1152.2.33.1","text":"Pause, worin er ihre Antwort erwartet.","type":"other","source":"nltk"}
+{"id":"tg1152.2.116.1","text":"Er geht hinaus.","type":"exit","source":"nltk"}
+{"id":"tg1152.2.118.1.part1","text":"erstaunt.","type":"other","source":"nltk"}
+{"id":"tg1153.2.4","text":"Die Prinzessin. Herzog Alba. Domingo.","type":"enter","source":"NLP"}
+{"id":"tg1153.2.6.1.part1","text":"der den Herzog hereinführt.","type":"other","source":"nltk"}
+{"id":"tg1153.2.54.1.part1","text":"sich nach einigem Überlegen zur Fürstin kehrend.","type":"other","source":"nltk"}
+{"id":"tg1153.2.69.1.part1","text":"nachdenkend.","type":"other","source":"nltk"}
+{"id":"tg1153.2.83.1","text":"einen.","type":"other","source":"nltk"}
+{"id":"tg1153.2.95.1.part1","text":"rasch einfallend.","type":"other","source":"nltk"}
+{"id":"tg1153.2.102.1","text":"Zum Herzog.","type":"other","source":"nltk"}
+{"id":"tg1153.2.111.1.part1","text":"sie auf die Seite führend.","type":"other","source":"nltk"}
+{"id":"tg1153.2.130.1","text":"Sie eilt ab.","type":"exit","source":"nltk"}
+{"id":"tg1154.2.4","text":"Alba. Domingo.","type":"enter","source":"NLP"}
+{"id":"tg1154.2.6.1.part1","text":"nach einer Pause, worin er die Prinzessin mit den Augen begleitet hat.","type":"other","source":"nltk"}
+{"id":"tg1154.2.13.1","text":"Sie gehen ab.","type":"exit","source":"nltk"}
+{"id":"tg1155.2.4","text":"Don Carlos. Der Prior.","type":"enter","source":"NLP"}
+{"id":"tg1155.2.6.1.part1","text":"zum Prior, indem er hereintritt.","type":"other","source":"nltk"}
+{"id":"tg1155.2.16.1.part1","text":"an ein Fenster und sich in der Gegend umsehend.","type":"other","source":"nltk"}
+{"id":"tg1155.2.31.1","text":"geheim.","type":"other","source":"nltk"}
+{"id":"tg1155.2.60.1.part1","text":"mit Wärme.","type":"other","source":"nltk"}
+{"id":"tg1155.2.75.1","text":"Der Prior geht ab.","type":"exit","source":"nltk"}
+{"id":"tg1156.2.4","text":"Don Carlos. Der Marquis von Posa tritt herein.","type":"enter","source":"nltk"}
+{"id":"tg1156.2.58.1","text":"Den Brief des Königs an die Fürstin Eboli hervorziehend.","type":"other","source":"nltk"}
+{"id":"tg1156.2.64.1.part1","text":"den Brief eröffnend.","type":"other","source":"nltk"}
+{"id":"tg1156.2.68.1","text":"Nachdem er ihn gelesen.","type":"other","source":"nltk"}
+{"id":"tg1156.2.115.1.part1","text":"zuversichtlich.","type":"other","source":"nltk"}
+{"id":"tg1156.2.146.1","text":"wußte.","type":"other","source":"nltk"}
+{"id":"tg1156.2.162.1.part1","text":"mit einiger Heftigkeit.","type":"other","source":"nltk"}
+{"id":"tg1156.2.165.1","text":"Nachdem er heftig auf und nieder gegangen.","type":"other","source":"nltk"}
+{"id":"tg1156.2.188.1.part1","text":"mit Heftigkeit aufstehend.","type":"other","source":"nltk"}
+{"id":"tg1156.2.207.1.part1","text":"mit Bedeutung.","type":"other","source":"nltk"}
+{"id":"tg1156.2.212.1","text":"Carlos sieht zur Erde und schweigt.","type":"other","source":"nltk"}
+{"id":"tg1156.2.221.1","text":"Carlos gibt ihm den Brief. Der Marquis zerreißt ihn.","type":"other","source":"nltk"}
+{"id":"tg1156.2.226.1","text":"Mit gemäßigter Empfindlichkeit.","type":"other","source":"nltk"}
+{"id":"tg1156.2.234.1","text":"Der Marquis ruht mit einem durchdringenden Blick auf dem Prinzen, der ihn zweifelhaft ansieht. Langes Stillschweigen.","type":"other","source":"nltk"}
+{"id":"tg1156.2.260.1.part1","text":"wirft sich in einen Sessel.","type":"other","source":"nltk"}
+{"id":"tg1156.2.279.1","text":"Hoffnung.","type":"other","source":"nltk"}
+{"id":"tg1156.2.281.1.part1","text":"gerührt.","type":"other","source":"nltk"}
+{"id":"tg1156.2.293.1.part1","text":"ihm um den Hals fallend.","type":"other","source":"nltk"}
+{"id":"tg1156.2.311.1.part1","text":"geht an ein Fenster.","type":"other","source":"nltk"}
+{"id":"tg1156.2.314.1","text":"Sie umarmen sich.","type":"other","source":"nltk"}
+{"id":"tg1156.2.335.1.part1","text":"nach einigem Stillschweigen.","type":"other","source":"nltk"}
+{"id":"tg1156.2.339.1","text":"Sie gehen ab zu verschiedenen Türen.","type":"exit","source":"nltk"}
+{"id":"tg1158.2.4","text":"Auf dem Nachttische zwei brennende Lichter. Im Hintergrunde des Zimmers einige Pagen auf den Knien, eingeschlafen. Der König, von oben herab halb ausgekleidet, steht vor dem Tische, einen Arm über den Sessel gebeugt, in einer nachdenkenden Stellung. Vor ihm liegt ein Medaillon und Papiere.","type":"enter","source":"nltk"}
+{"id":"tg1158.2.12.1","text":"Hier macht er eine Bewegung, die ihn zu sich selbst bringt. Er sieht mit Befremdung auf.","type":"other","source":"nltk"}
+{"id":"tg1158.2.22.1","text":"Er löscht die Lichter aus und öffnet eine Fenstergardine. – Indem er auf und nieder geht, bemerkt er die schlafenden Knaben und bleibt eine Zeitlang schweigend vor ihnen stehen; darauf zieht er die Glocke.","type":"other","source":"nltk"}
+{"id":"tg1159.2.4","text":"Der König. Graf Lerma.","type":"enter","source":"NLP"}
+{"id":"tg1159.2.6.1.part1","text":"mit Bestürzung, da er den König gewahr wird.","type":"other","source":"nltk"}
+{"id":"tg1159.2.37.1.part1","text":"mit zerstörten Blicken.","type":"other","source":"nltk"}
+{"id":"tg1159.2.47.1","text":"Zu den Pagen, welche sich unterdessen ermuntert haben.","type":"other","source":"nltk"}
+{"id":"tg1159.2.51.1","text":"Pagen gehen.","type":"exit","source":"nltk"}
+{"id":"tg1159.2.56.1","text":"Er bleibt forschend vor dem Grafen stehen.","type":"other","source":"nltk"}
+{"id":"tg1159.2.64.1.part1","text":"zurückfahrend.","type":"other","source":"nltk"}
+{"id":"tg1159.2.76.1","text":"Der Graf will sich entfernen, er ruft ihn noch einmal zurück.","type":"other","source":"nltk"}
+{"id":"tg1159.2.95.1.part1","text":"mit Hitze.","type":"other","source":"nltk"}
+{"id":"tg1159.2.111.1","text":"Im Begriff zu gehen.","type":"other","source":"nltk"}
+{"id":"tg1159.2.113.1.part1","text":"mit gemildertem Tone.","type":"other","source":"nltk"}
+{"id":"tg1159.2.120.1","text":"Er reicht ihm die Hand zum Kusse. Lerma geht und öffnet dem Herzog von Alba die Türe.","type":"exit","source":"nltk"}
+{"id":"tg1160.2.4","text":"Der König und Herzog von Alba.","type":"enter","source":"nltk"}
+{"id":"tg1160.2.6.1.part1","text":"nähert sich dem König mit ungewisser Miene.","type":"other","source":"nltk"}
+{"id":"tg1160.2.10.1","text":"Er stutzt, wie er den König genauer betrachtet.","type":"other","source":"nltk"}
+{"id":"tg1160.2.13.1.part1","text":"hat sich niedergesetzt und das Medaillon auf dem Tische ergriffen.","type":"other","source":"nltk"}
+{"id":"tg1160.2.16.1.part1","text":"steht betreten still.","type":"other","source":"nltk"}
+{"id":"tg1160.2.21.1.part1","text":"mit einem Blick des Erstaunens.","type":"other","source":"nltk"}
+{"id":"tg1160.2.25.1.part1","text":"zeigt ihm die Briefe.","type":"other","source":"nltk"}
+{"id":"tg1160.2.30.1.part1","text":"Pause, worin er den Herzog scharf beobachtet.","type":"other","source":"nltk"}
+{"id":"tg1160.2.42.1.part1","text":"nach einigem Stillschweigen mit verschlossener Miene.","type":"other","source":"nltk"}
+{"id":"tg1160.2.56.1.part1","text":"gibt ihm die Briefe.","type":"other","source":"nltk"}
+{"id":"tg1160.2.59.1.part1","text":"liest und wendet sich erschrocken gegen den König.","type":"other","source":"nltk"}
+{"id":"tg1160.2.67.1.part1","text":"betroffen zurücktretend.","type":"other","source":"nltk"}
+{"id":"tg1160.2.71.1.part1","text":"nach einigem Bedenken.","type":"other","source":"nltk"}
+{"id":"tg1160.2.75.1.part1","text":"aufstehend in einer schrecklichen Bewegung.","type":"other","source":"nltk"}
+{"id":"tg1160.2.84.1.part1","text":"wirft sich dem König zu Füßen.","type":"other","source":"nltk"}
+{"id":"tg1160.2.97.1.part1","text":"rasch und heftig.","type":"other","source":"nltk"}
+{"id":"tg1160.2.102.1.part1","text":"aufstehend.","type":"other","source":"nltk"}
+{"id":"tg1160.2.120.1.part1","text":"schrecklich auffahrend.","type":"other","source":"nltk"}
+{"id":"tg1160.2.133.1.part1","text":"aus einem finstern Nachsinnen zurückkommend.","type":"other","source":"nltk"}
+{"id":"tg1160.2.140.1","text":"Eine lange und tiefe Stille. Er setzt sich nieder und verhüllt das Gesicht.","type":"other","source":"nltk"}
+{"id":"tg1160.2.148.1.part1","text":"nach den Papieren greifend.","type":"other","source":"nltk"}
+{"id":"tg1160.2.179.1.part1","text":"beleidigt und mit Bitterkeit.","type":"other","source":"nltk"}
+{"id":"tg1160.2.184.1","text":"Aufstehend, kalt und stolz.","type":"other","source":"nltk"}
+{"id":"tg1160.2.194.1","text":"Er zieht die Glocke.","type":"other","source":"nltk"}
+{"id":"tg1160.2.203.1.part1","text":"zu einem Pagen, der hereintritt.","type":"enter","source":"nltk"}
+{"id":"tg1160.2.207.1","text":"Der Page geht ab.","type":"exit","source":"nltk"}
+{"id":"tg1160.2.214.1","text":"Alba entfernt sich.","type":"exit","source":"nltk"}
+{"id":"tg1161.2.4","text":"Der König. Domingo.","type":"enter","source":"NLP"}
+{"id":"tg1161.2.5","text":"König geht einigemal auf und ab, sich zusammeln.","type":"other","source":"nltk"}
+{"id":"tg1161.2.7.1.part1","text":"tritt einige Minuten nach dem Herzog herein, nähert sich dem König, den er eine Zeitlang mit feierlicher Stille betrachtet.","type":"other","source":"nltk"}
+{"id":"tg1161.2.23.1.part1","text":"finster.","type":"other","source":"nltk"}
+{"id":"tg1161.2.86.1","text":"Er ruht mit ungewissem Blick auf Domingo. Nach einigem Stillschweigen.","type":"other","source":"nltk"}
+{"id":"tg1161.2.114.1.part1","text":"dem Herzog Alba entgegengehend.","type":"enter","source":"NLP"}
+{"id":"tg1161.2.117.1.part1","text":"er und Herzog Alba geben sich verlegene Blicke.","type":"other","source":"nltk"}
+{"id":"tg1161.2.175.1.part1","text":"nach einer großen Pause, ernst und feierlich zu Domingo sich wendend.","type":"other","source":"nltk"}
+{"id":"tg1161.2.187.1.part1","text":"der stillschweigend in der Ferne gestanden, kalt und ruhig.","type":"other","source":"nltk"}
+{"id":"tg1161.2.189.1.part1","text":"dreht sich erstaunt um und sieht den Herzog eine Zeitlang starr an.","type":"other","source":"nltk"}
+{"id":"tg1161.2.202.1","text":"Beide gehen ab.","type":"exit","source":"nltk"}
+{"id":"tg1162.2.4","text":"Der König allein.","type":"aside","source":"nltk"}
+{"id":"tg1162.2.28","text":"Er öffnet eine Schatulle und nimmt eine Schreibtafel ","type":"other","source":"nltk"}
+{"id":"tg1162.2.29.1","text":"heraus. Nachdem er eine Zeitlang darin geblättert.","type":"other","source":"nltk"}
+{"id":"tg1162.2.41.1","text":"Liest weiter.","type":"other","source":"nltk"}
+{"id":"tg1162.2.47.1","text":"Er löscht diesen Namen aus und schreibt ihn auf die andre Tafel. Nachdem er weitergelesen.","type":"other","source":"nltk"}
+{"id":"tg1162.2.63.1","text":"Er geht ab.","type":"exit","source":"nltk"}
+{"id":"tg1163.2.4","text":"Don Carlos im Gespräch mit dem Prinzen von Parma. Die Herzoge von Alba, Feria und Medina Sidonia. Graf von Lerma und noch andere Granden mit Schriften in der Hand. Alle den König erwartend.","type":"enter","source":"nltk"}
+{"id":"tg1163.2.6.1.part1","text":"von allen Umstehenden sichtbar vermieden, wendet sich zum Herzog von Alba, der allein und in sich gekehrt auf und ab geht.","type":"other","source":"nltk"}
+{"id":"tg1163.2.17.1","text":"Carlos, der mit stiller Teilnahme auf ihn geblickt hat, nähert sich ihm jetzt und drückt ihm die Hand.","type":"other","source":"nltk"}
+{"id":"tg1164.2.4","text":"Der König kommt angekleidet heraus. Die Vorigen.","type":"enter","source":"nltk"}
+{"id":"tg1164.2.5","text":"Alle nehmen die Hüte ab und weichen zu beiden Seiten aus, indem sie einen halben Kreis um ihn bilden. Stillschweigen.","type":"other","source":"nltk"}
+{"id":"tg1164.2.7.1.part1","text":"den ganzen Kreis flüchtig durchschauend.","type":"other","source":"nltk"}
+{"id":"tg1164.2.10.1","text":"Don Carlos und der Prinz von Parma nähern sich zuerst und küssen dem König die Hand. Er wendet sich mit einiger Freundlichkeit zu dem letztern, ohne seinen Sohn bemerken zu wollen.","type":"other","source":"nltk"}
+{"id":"tg1164.2.23.1","text":"Zum Herzog von Feria.","type":"other","source":"nltk"}
+{"id":"tg1164.2.26.1.part1","text":"ein Knie vor dem König beugend.","type":"other","source":"nltk"}
+{"id":"tg1164.2.30.1.part1","text":"nimmt den Orden und sieht im ganzen Zirkel herum.","type":"other","source":"nltk"}
+{"id":"tg1164.2.34.1","text":"Er winkt Alba zu sich, welcher sich vor ihm auf ein Knie niederläßt, und hängt ihm den Orden um.","type":"other","source":"nltk"}
+{"id":"tg1164.2.40.1","text":"Er wird den Herzog von Medina Sidonia gewahr.","type":"other","source":"nltk"}
+{"id":"tg1164.2.43.1.part1","text":"nähert sich wankend und kniet vor dem Könige nieder, mit gesenktem Haupt.","type":"other","source":"nltk"}
+{"id":"tg1164.2.47.1.part1","text":"nach einem langen Stillschweigen.","type":"other","source":"nltk"}
+{"id":"tg1164.2.53.1","text":"Er reicht ihm die Hand zum Kusse.","type":"other","source":"nltk"}
+{"id":"tg1164.2.60.1","text":"Er gibt ihm einen Wink, aufzustehen und sich zu bedecken – dann wendet er sich gegen die andern.","type":"other","source":"nltk"}
+{"id":"tg1164.2.64.1","text":"Zu Don Carlos und dem Prinzen von Parma.","type":"other","source":"nltk"}
+{"id":"tg1164.2.68.1","text":"Diese treten ab. Die noch übrigen Granden nähern sich und überreichen dem König kniend ihre Papiere. Er durchsieht sie flüchtig und reicht sie dem Herzog von Alba.","type":"other","source":"nltk"}
+{"id":"tg1164.2.123.1","text":"Zum Herzog Alba.","type":"other","source":"nltk"}
+{"id":"tg1164.2.128.1","text":"Der Herzog geht ab. Der König ruft Feria.","type":"exit","source":"nltk"}
+{"id":"tg1164.2.133.1","text":"Er geht ab.","type":"exit","source":"nltk"}
+{"id":"tg1164.2.153.1.part1","text":"im Abgehen zu Medina Sidonia.","type":"other","source":"nltk"}
+{"id":"tg1164.2.156.1","text":"Alle gehen ab.","type":"exit","source":"nltk"}
+{"id":"tg1165.2.4","text":"Marquis von Posa und Herzog von Alba.","type":"enter","source":"nltk"}
+{"id":"tg1165.2.6.1.part1","text":"im Hereintreten.","type":"other","source":"nltk"}
+{"id":"tg1165.2.24.1","text":"Er entfernt sich.","type":"exit","source":"nltk"}
+{"id":"tg1166.2.4","text":"Der Marquis allein.","type":"aside","source":"nltk"}
+{"id":"tg1166.2.12","text":"Nach einigem Auf- und Niedergehen.","type":"other","source":"nltk"}
+{"id":"tg1166.2.34","text":"Er macht einige Gänge durch das Zimmer und bleibt endlich in ruhiger Betrachtung vor einem Gemälde stehen. Der König erscheint in dem angrenzenden Zimmer, wo er einige Befehle gibt. Alsdann tritt er herein, steht an der Türe still und sieht dem Marquis eine Zeitlang zu, ohne von ihm bemerkt zu werden.","type":"other","source":"nltk"}
+{"id":"tg1167.2.4","text":"Der König und Marquis von Posa.","type":"enter","source":"nltk"}
+{"id":"tg1167.2.5","text":"Dieser geht dem König, sobald er ihn gewahr wird, entgegen und läßt sich vor ihm auf ein Knie nieder, steht auf und bleibt ohne Zeichen der Verwirrung vor ihm stehen.","type":"other","source":"nltk"}
+{"id":"tg1167.2.7.1.part1","text":"betrachtet ihn mit einem Blick der Verwunderung.","type":"other","source":"nltk"}
+{"id":"tg1167.2.34.1.part1","text":"vor sich.","type":"aside","source":"nltk"}
+{"id":"tg1167.2.59.1","text":"Er hält inne.","type":"other","source":"nltk"}
+{"id":"tg1167.2.85.1.part1","text":"mit erwartender Miene.","type":"other","source":"nltk"}
+{"id":"tg1167.2.90.1","text":"Der König sieht ihn mit Erstaunen an.","type":"other","source":"nltk"}
+{"id":"tg1167.2.143.1.part1","text":"etwas rasch.","type":"other","source":"nltk"}
+{"id":"tg1167.2.146.1.part1","text":"nach einigem Bedenken.","type":"other","source":"nltk"}
+{"id":"tg1167.2.150.1","text":"Nach einer Pause.","type":"other","source":"nltk"}
+{"id":"tg1167.2.162.1","text":"Die Hand auf die Brust gelegt.","type":"other","source":"nltk"}
+{"id":"tg1167.2.178.1.part1","text":"steht auf, macht einige Schritte und bleibt dem Marquis gegenüber stehen.","type":"other","source":"nltk"}
+{"id":"tg1167.2.241.1","text":"Der Graf von Lerma tritt herein und spricht einige Worte leise mit dem König. Dieser gibt ihm einen Wink, sich zu entfernen, und bleibt in seiner vorigen Stellung sitzen.","type":"enter","source":"nltk"}
+{"id":"tg1167.2.243.1.part1","text":"zum Marquis, nachdem Lerma weggegangen.","type":"other","source":"nltk"}
+{"id":"tg1167.2.245.1.part1","text":"nach einigem Stillschweigen.","type":"other","source":"nltk"}
+{"id":"tg1167.2.260.1","text":"Hier schweigt er still; seine Augen ruhen auf dem König, der es versucht, diesen Blick zu erwidern, aber betroffen und verwirrt zur Erde sieht.","type":"other","source":"nltk"}
+{"id":"tg1167.2.282.1.part1","text":"schnell.","type":"other","source":"nltk"}
+{"id":"tg1167.2.303.1","text":"Der König ist bewegt; der Marquis bemerkt es und tritt einige Schritte näher.","type":"other","source":"nltk"}
+{"id":"tg1167.2.321.1.part1","text":"mit Feuer.","type":"other","source":"nltk"}
+{"id":"tg1167.2.349.1","text":"Sich ihm zu Fußen werfend.","type":"other","source":"nltk"}
+{"id":"tg1167.2.351.1.part1","text":"überrascht, das Gesicht weggewandt und dann wieder auf den Marquis geheftet.","type":"other","source":"nltk"}
+{"id":"tg1167.2.370.2","text":"ihn.","type":"other","source":"nltk"}
+{"id":"tg1167.2.394.1.part1","text":"nach einem großen Stillschweigen.","type":"other","source":"nltk"}
+{"id":"tg1167.2.416.1.part1","text":"in seinem Anblick verloren.","type":"other","source":"nltk"}
+{"id":"tg1167.2.425.1.part1","text":"rasch.","type":"other","source":"nltk"}
+{"id":"tg1167.2.444.1.part1","text":"mit gemildertem Ernst.","type":"other","source":"nltk"}
+{"id":"tg1167.2.461.1","text":"Nach einer Pause.","type":"other","source":"nltk"}
+{"id":"tg1167.2.469.1","text":"Da sich der Marquis zu bedenken scheint.","type":"other","source":"nltk"}
+{"id":"tg1167.2.481.1.part1","text":"mit finstrer Miene.","type":"other","source":"nltk"}
+{"id":"tg1167.2.486.1","text":"Mit einem Blicke der Wehmut auf dem Marquis verweilend.","type":"other","source":"nltk"}
+{"id":"tg1167.2.528.1.part1","text":"überrascht und erschrocken.","type":"other","source":"nltk"}
+{"id":"tg1167.2.540.1","text":"Er zieht eine Glocke.","type":"other","source":"nltk"}
+{"id":"tg1167.2.547.1.part1","text":"reicht ihm die Hand zum Kusse.","type":"other","source":"nltk"}
+{"id":"tg1167.2.551.1","text":"Der Marquis steht auf und geht. Graf Lerma tritt herein.","type":"exit","source":"nltk"}
+{"id":"tg1169.2.4","text":"Die Königin. Die Herzogin Olivarez. Die Prinzessin von Eboli. Die Gräfin Fuentes und noch andere Damen.","type":"enter","source":"nltk"}
+{"id":"tg1169.2.6.1.part1","text":"zur Oberhofmeisterin, indem sie aufsteht.","type":"other","source":"nltk"}
+{"id":"tg1169.2.11.1","text":"Da sie die Prinzessin von Eboli gewahr wird, welche sich ihr nähert und ihr die Hand küßt.","type":"other","source":"nltk"}
+{"id":"tg1169.2.16.1.part1","text":"etwas tückisch.","type":"other","source":"nltk"}
+{"id":"tg1169.2.42.1","text":"Sie geht ab.","type":"exit","source":"nltk"}
+{"id":"tg1169.2.48.1","text":"Ein Page tritt herein und spricht mit der Herzogin, welche sich alsdann zur Königin wendet.","type":"enter","source":"nltk"}
+{"id":"tg1169.2.58.1","text":"Der Page geht ab und öffnet dem Marquis die Türe.","type":"exit","source":"nltk"}
+{"id":"tg1170.2.4","text":"Marquis von Posa. Die Vorigen.","type":"enter","source":"nltk"}
+{"id":"tg1170.2.5","text":"Der Marquis läßt sich auf ein Knie vor der Königin nieder, welche ihm einen Wink gibt aufzustehen.","type":"other","source":"nltk"}
+{"id":"tg1170.2.14.1","text":"Die Damen entfernen sich auf einen Wink der Königin.","type":"exit","source":"nltk"}
+{"id":"tg1171.2.4","text":"Die Königin. Marquis von Posa.","type":"enter","source":"nltk"}
+{"id":"tg1171.2.6.1.part1","text":"voll Verwunderung.","type":"other","source":"nltk"}
+{"id":"tg1171.2.119.1","text":"Er gibt der Königin einen Brief.","type":"other","source":"nltk"}
+{"id":"tg1171.2.121.1.part1","text":"nachdem sie ihn gelesen.","type":"other","source":"nltk"}
+{"id":"tg1171.2.180.1.part1","text":"nach einer Pause.","type":"other","source":"nltk"}
+{"id":"tg1171.2.198.1.part1","text":"mit Lebhaftigkeit.","type":"other","source":"nltk"}
+{"id":"tg1171.2.221.1","text":"Seine Schreibtafel der Königin reichend.","type":"other","source":"nltk"}
+{"id":"tg1171.2.224.1.part1","text":"nachdem sie geschrieben.","type":"other","source":"nltk"}
+{"id":"tg1171.2.236.1.part1","text":"abbrechend.","type":"other","source":"nltk"}
+{"id":"tg1171.2.242.1.part1","text":"mit Feuer.","type":"other","source":"nltk"}
+{"id":"tg1171.2.248.1.part1","text":"fremd zum Marquis.","type":"other","source":"nltk"}
+{"id":"tg1171.2.254.1","text":"Sie gibt ihm einen Wink. Der Marquis, geht ab.","type":"exit","source":"nltk"}
+{"id":"tg1172.2.4","text":"Don Carlos und Graf Lerma.","type":"enter","source":"NLP"}
+{"id":"tg1172.2.12.1.part1","text":"stutzt.","type":"other","source":"nltk"}
+{"id":"tg1172.2.58.1.part1","text":"tritt bestürzt zurück.","type":"other","source":"nltk"}
+{"id":"tg1172.2.73.1.part1","text":"tritt zurück.","type":"other","source":"nltk"}
+{"id":"tg1172.2.116.1","text":"Er will gehen.","type":"other","source":"nltk"}
+{"id":"tg1172.2.118.1.part1","text":"folgt ihm gerührt und drückt ihm die Hand.","type":"other","source":"nltk"}
+{"id":"tg1172.2.124.1","text":"Lerma geht ab.","type":"exit","source":"nltk"}
+{"id":"tg1173.2.4","text":"Marquis von Posa kommt durch die Galerie. Carlos.","type":"enter","source":"nltk"}
+{"id":"tg1173.2.12.1","text":"Er will fort.","type":"other","source":"nltk"}
+{"id":"tg1173.2.26.1.part1","text":"voll Erwartung.","type":"other","source":"nltk"}
+{"id":"tg1173.2.57.1","text":"Er zieht sein Souvenir heraus und gibt es dem Prinzen.","type":"other","source":"nltk"}
+{"id":"tg1173.2.62.1.part1","text":"liest sehr zerstreut, steckt die Schreibtafel ein und will gehen.","type":"other","source":"nltk"}
+{"id":"tg1173.2.68.1.part1","text":"mit erkünsteltem Lächeln.","type":"other","source":"nltk"}
+{"id":"tg1173.2.85.1.part1","text":"liest das Geschriebene noch einmal.","type":"other","source":"nltk"}
+{"id":"tg1173.2.125.1.part1","text":"sehr unruhig.","type":"other","source":"nltk"}
+{"id":"tg1173.2.134.1.part1","text":"gibt ihm die Brieftasche.","type":"other","source":"nltk"}
+{"id":"tg1173.2.138.1.part1","text":"sieht ihn bedeutend an.","type":"other","source":"nltk"}
+{"id":"tg1173.2.146.1","text":"Er will gehen.","type":"other","source":"nltk"}
+{"id":"tg1173.2.148.1.part1","text":"kämpft zweifelhaft mit sich selbst – endlich ruft er ihn zurück.","type":"other","source":"nltk"}
+{"id":"tg1173.2.158.1","text":"Er nimmt ihn heraus und gibt ihm die Brieftasche zurück.","type":"other","source":"nltk"}
+{"id":"tg1173.2.166.1","text":"Er geht langsam und still weg, an der Türe bleibt er einen Augenblick stehen, kehrt wieder um und bringt ihm den Brief.","type":"other","source":"nltk"}
+{"id":"tg1173.2.170.1","text":"Seine Hand zittert. Tränen stürzen aus seinen Augen, er fällt dem Marquis um den Hals und drückt sein Gesicht wider dessen Brust.","type":"other","source":"nltk"}
+{"id":"tg1173.2.175.1","text":"Er geht schnell fort.","type":"exit","source":"nltk"}
+{"id":"tg1174.2.4","text":"Marquis sieht ihm erstaunt nach.","type":"aside","source":"nltk"}
+{"id":"tg1174.2.29.1","text":"Er geht ab.","type":"exit","source":"nltk"}
+{"id":"tg1175.2.4","text":"Der König in einem Sessel – neben ihm die Infantin Klara Eugenia.","type":"enter","source":"nltk"}
+{"id":"tg1175.2.6.1.part1","text":"nach einem tiefen Stillschweigen.","type":"other","source":"nltk"}
+{"id":"tg1175.2.14.1","text":"Er stutzt und hält inne.","type":"other","source":"nltk"}
+{"id":"tg1175.2.20.1","text":"Er hat das Medaillon in die Hand genommen und sieht wechselsweise auf das Bild und in einen gegenüberstehenden Spiegel – endlich wirft er es zur Erde, steht schnell auf und drückt die Infantin von sich.","type":"other","source":"nltk"}
+{"id":"tg1176.2.4","text":"Graf Lerma. Der König.","type":"enter","source":"NLP"}
+{"id":"tg1176.2.23.1","text":"Er geht ab.","type":"exit","source":"nltk"}
+{"id":"tg1177.2.4","text":"Der König. Die Königin tritt herein. Die Infantin.","type":"enter","source":"nltk"}
+{"id":"tg1177.2.5","text":"Die letztere fliegt ihr entgegen und schmiegt sich an sie an. Sie fällt vor dem König nieder, welcher stumm und verwirrt steht.","type":"other","source":"nltk"}
+{"id":"tg1177.2.42.1.part1","text":"steht auf.","type":"other","source":"nltk"}
+{"id":"tg1177.2.84.1","text":"Sieht die Bewegung des Königs.","type":"other","source":"nltk"}
+{"id":"tg1177.2.88.1.part1","text":"welche unterdessen das Medaillon auf dem Boden gefunden und damit gespielt hat, bringt es der Königin.","type":"other","source":"nltk"}
+{"id":"tg1177.2.94.1","text":"Sie erkennt das Medaillon und bleibt in sprachloser Erstarrung stehen. Beide sehen einander mit unverwandten Augen an. Nach einem langen Stillschweigen.","type":"other","source":"nltk"}
+{"id":"tg1177.2.200.1.part1","text":"nimmt ihre Hand.","type":"other","source":"nltk"}
+{"id":"tg1177.2.207.1","text":"Er läßt ihre Hand los.","type":"other","source":"nltk"}
+{"id":"tg1177.2.228.1.part1","text":"außer Fassung.","type":"other","source":"nltk"}
+{"id":"tg1177.2.231.1.part1","text":"hängt sich erschrocken an ihre Mutter.","type":"other","source":"nltk"}
+{"id":"tg1177.2.235.1","text":"König stößt das Kind unsanft von der Königin.","type":"other","source":"nltk"}
+{"id":"tg1177.2.237.1.part1","text":"mit Sanftmut und Würde, aber mit zitternder Stimme.","type":"other","source":"nltk"}
+{"id":"tg1177.2.242.1","text":"Sie nimmt sie auf den Arm.","type":"other","source":"nltk"}
+{"id":"tg1177.2.249.1","text":"Sie will gehen.","type":"other","source":"nltk"}
+{"id":"tg1177.2.251.1.part1","text":"betreten.","type":"other","source":"nltk"}
+{"id":"tg1177.2.258.1.part1","text":"hinzueilend, voll Bestürzung.","type":"other","source":"nltk"}
+{"id":"tg1177.2.260.1.part1","text":"ruft voll Schrecken.","type":"other","source":"nltk"}
+{"id":"tg1177.2.263.1","text":"Sie eilt hinaus.","type":"exit","source":"nltk"}
+{"id":"tg1177.2.265.1.part1","text":"ängstlich um sie beschäftigt.","type":"other","source":"nltk"}
+{"id":"tg1177.2.273.1","text":"Sie richtet sich auf, von dem König unterstützt.","type":"other","source":"nltk"}
+{"id":"tg1178.2.4","text":"Die Vorigen. Alba, Domingo treten erschrocken herein. Damen folgen.","type":"enter","source":"nltk"}
+{"id":"tg1178.2.10.1","text":"Die Königin geht ab, begleitet von den Damen. Alba und Domingo treten näher.","type":"other","source":"nltk"}
+{"id":"tg1178.2.32.1.part1","text":"noch außerhalb der Szene.","type":"other","source":"nltk"}
+{"id":"tg1179.2.4","text":"Marquis von Posa. Die Vorigen.","type":"other","source":"nltk"}
+{"id":"tg1179.2.6.1.part1","text":"bei dieser Stimme lebhaft auffahrend und dem Marquis einige Schritte entgegengehend.","type":"other","source":"nltk"}
+{"id":"tg1179.2.11.1","text":"Alba und Domingo sehen einander mit stummer Verwunderung an und gehen.","type":"exit","source":"nltk"}
+{"id":"tg1180.2.4","text":"Der König und Marquis von Posa.","type":"enter","source":"nltk"}
+{"id":"tg1180.2.13.3","text":"mir.","type":"other","source":"nltk"}
+{"id":"tg1180.2.50.1","text":"Er gibt Carlos' Brieftasche dem König.","type":"other","source":"nltk"}
+{"id":"tg1180.2.52.1.part1","text":"durchsucht sie begierig.","type":"other","source":"nltk"}
+{"id":"tg1180.2.57.1","text":"Er liest es durch, legt es beiseite und eilt zu den andern Papieren.","type":"other","source":"nltk"}
+{"id":"tg1180.2.64.1","text":"Er liest aufmerksam, bald laut, bald leise.","type":"other","source":"nltk"}
+{"id":"tg1180.2.82.1.part1","text":"des Marquis Hand fassend, in heftiger Bewegung.","type":"other","source":"nltk"}
+{"id":"tg1180.2.126.1.part1","text":"nach einigem Bedenken.","type":"other","source":"nltk"}
+{"id":"tg1180.2.143.1","text":"Zu Lerma, der bei den letzten Worten hereintritt.","type":"enter","source":"nltk"}
+{"id":"tg1180.2.150.1","text":"Er sieht den Marquis mit zweideutigen Blicken an und geht.","type":"exit","source":"nltk"}
+{"id":"tg1180.2.152.1.part1","text":"nach einer Pause zum König.","type":"other","source":"nltk"}
+{"id":"tg1180.2.170.1","text":"Wie sich der König zu bedenken scheint.","type":"other","source":"nltk"}
+{"id":"tg1180.2.175.1.part1","text":"zum Schreibpult gehend und den Verhaftsbefehl niederschreibend.","type":"other","source":"nltk"}
+{"id":"tg1180.2.180.1.part1","text":"empfängt den Verhaftsbefehl.","type":"other","source":"nltk"}
+{"id":"tg1180.2.182.1.part1","text":"legt die Hand auf seine Schulter.","type":"other","source":"nltk"}
+{"id":"tg1180.2.187.1","text":"Beide gehen ab zu verschiedenen Seiten.","type":"exit","source":"nltk"}
+{"id":"tg1181.2.4","text":"Carlos kommt in der größten Beängstigung. Graf Lerma ihm entgegen.","type":"enter","source":"nltk"}
+{"id":"tg1181.2.51.1.part1","text":"etwas bestürzt.","type":"other","source":"nltk"}
+{"id":"tg1181.2.64.1.part1","text":"nach einem kurzen erstarrenden Stillschweigen, heftig.","type":"other","source":"nltk"}
+{"id":"tg1181.2.67.1.part1","text":"empfindlich.","type":"other","source":"nltk"}
+{"id":"tg1181.2.69.1.part1","text":"sieht ihn lange an.","type":"other","source":"nltk"}
+{"id":"tg1181.2.73.1.part1","text":"geht in schrecklicher Bewegung auf und nieder und bleibt endlich vor ihm stehen.","type":"other","source":"nltk"}
+{"id":"tg1181.2.97.1.part1","text":"in tiefes Grübeln verloren.","type":"other","source":"nltk"}
+{"id":"tg1181.2.117.1","text":"Er geht seitwärts und verhüllt das Gesicht.","type":"other","source":"nltk"}
+{"id":"tg1181.2.119.1.part1","text":"nach einigem Stillschweigen.","type":"other","source":"nltk"}
+{"id":"tg1181.2.121.1.part1","text":"ohne ihn anzusehen.","type":"other","source":"nltk"}
+{"id":"tg1181.2.127.1.part1","text":"stützt sich auf das Geländer und sieht starr vor sich hinaus.","type":"other","source":"nltk"}
+{"id":"tg1181.2.130.1.part1","text":"nähert sich ihm mit teilnehmender Rührung.","type":"other","source":"nltk"}
+{"id":"tg1181.2.137.1.part1","text":"fährt auf.","type":"other","source":"nltk"}
+{"id":"tg1181.2.142.1","text":"Er geht, heftig die Hände ringend, auf und nieder.","type":"other","source":"nltk"}
+{"id":"tg1181.2.148.1","text":"Rasch entschlossen.","type":"other","source":"nltk"}
+{"id":"tg1181.2.156.1","text":"Schnell ab.","type":"exit","source":"nltk"}
+{"id":"tg1181.2.158.1.part1","text":"folgt ihm und ruft ihm nach.","type":"other","source":"nltk"}
+{"id":"tg1181.2.161.1","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg1182.2.4","text":"Die Königin. Alba. Domingo.","type":"enter","source":"NLP"}
+{"id":"tg1182.2.23.1.part1","text":"sieht sie verwundernd an.","type":"other","source":"nltk"}
+{"id":"tg1182.2.71.1.part1","text":"nach einigem Nachdenken.","type":"other","source":"nltk"}
+{"id":"tg1182.2.78.1","text":"Indem sie einen durchdringenden Blick auf beide heftet.","type":"other","source":"nltk"}
+{"id":"tg1182.2.89.1.part1","text":"noch immer die Augen fest auf sie gerichtet.","type":"other","source":"nltk"}
+{"id":"tg1182.2.107.1","text":"Mit Stolz und Ernst.","type":"other","source":"nltk"}
+{"id":"tg1182.2.124.1","text":"Sie macht ihnen eine Verbeugung und geht ab; jene entfernen, sich nach einer andern Seite.","type":"exit","source":"nltk"}
+{"id":"tg1183.2.4","text":"Prinzessin von Eboli. Gleich darauf Carlos.","type":"enter","source":"nltk"}
+{"id":"tg1183.2.9.1.part1","text":"tritt herein.","type":"enter","source":"nltk"}
+{"id":"tg1183.2.19.1.part1","text":"dringender.","type":"other","source":"nltk"}
+{"id":"tg1183.2.26.1.part1","text":"ihre Hand mit Heftigkeit fassend.","type":"other","source":"nltk"}
+{"id":"tg1183.2.29.1.part1","text":"will sich losmachen.","type":"other","source":"nltk"}
+{"id":"tg1183.2.50.1.part1","text":"wendet das Gesicht ab.","type":"other","source":"nltk"}
+{"id":"tg1183.2.77.1","text":"Er wirft sich vor ihr nieder.","type":"other","source":"nltk"}
+{"id":"tg1184.2.4","text":"Die Vorigen. Marquis von Posa stürzt herein, hinter ihm zwei Offiziere der königlichen Leibwache.","type":"enter","source":"nltk"}
+{"id":"tg1184.2.6.1.part1","text":"atemlos, außer sich dazwischentretend.","type":"other","source":"nltk"}
+{"id":"tg1184.2.9.1.part1","text":"noch auf den Knien, mit erhobner Stimme.","type":"other","source":"nltk"}
+{"id":"tg1184.2.12.1.part1","text":"unterbricht ihn mit Heftigkeit.","type":"other","source":"nltk"}
+{"id":"tg1184.2.15.1.part1","text":"lauter, dringender.","type":"other","source":"nltk"}
+{"id":"tg1184.2.18.1.part1","text":"zieht die Prinzessin mit Gewalt von ihm.","type":"other","source":"nltk"}
+{"id":"tg1184.2.22.1","text":"Zu einem von den Offizieren.","type":"other","source":"nltk"}
+{"id":"tg1184.2.27.1","text":"Er zeigt den Verhaftsbefehl.","type":"other","source":"nltk"}
+{"id":"tg1184.2.31.1","text":"Carlos steht erstarrt, wie vom Donner gerührt. Die Prinzessin stößt einen Laut des Schreckens aus und will fliehen, die Offiziere erstaunen. Eine lange und tiefe Pause. Man sieht den Marquis sehr heftig zittern und mit Mühe seine Fassung behalten. Zum Prinzen.","type":"other","source":"nltk"}
+{"id":"tg1184.2.37.1","text":"Zu dem Offizier.","type":"other","source":"nltk"}
+{"id":"tg1184.2.43.1","text":"Er spricht noch einiges leise mit dem Offizier, darauf wendet er sich zum andern.","type":"other","source":"nltk"}
+{"id":"tg1184.2.54.1","text":"Carlos läßt sich ohne Zeichen des Bewußtseins hinwegführen. – Nur im Vorübergehen läßt er einen matten, sterbenden Blick auf den Marquis fallen, der sein Gesicht verhüllt. Die Prinzessin versucht es noch einmal zu entfliehen; der Marquis führt sie beim Arme zurück.","type":"exit","source":"nltk"}
+{"id":"tg1185.2.4","text":"Prinzessin von Eboli. Marquis von Posa.","type":"enter","source":"nltk"}
+{"id":"tg1185.2.9.1.part1","text":"führt sie ganz vor, mit fürchterlichem Ernst.","type":"other","source":"nltk"}
+{"id":"tg1185.2.14.1.part1","text":"hält sie mit Gewalt zurück.","type":"other","source":"nltk"}
+{"id":"tg1185.2.18.1.part1","text":"sieht ihm erschrocken ins Gesicht.","type":"other","source":"nltk"}
+{"id":"tg1185.2.22.1.part1","text":"zieht einen Dolch.","type":"other","source":"nltk"}
+{"id":"tg1185.2.29.1.part1","text":"zum Himmel sehend, den Dolch auf ihre Brust gesetzt.","type":"other","source":"nltk"}
+{"id":"tg1185.2.36.1","text":"Er bleibt in dieser Stellung zweifelhaft ruhen.","type":"other","source":"nltk"}
+{"id":"tg1185.2.38.1.part1","text":"ist an ihm niedergesunken und sieht ihm fest ins Gesicht.","type":"other","source":"nltk"}
+{"id":"tg1185.2.42.1.part1","text":"läßt die Hand langsam sinken.","type":"other","source":"nltk"}
+{"id":"tg1185.2.47.1","text":"Er läßt den Dolch fallen und eilt hinaus. Die Prinzessin stürzt fort durch eine andere Türe.","type":"exit","source":"nltk"}
+{"id":"tg1186.2.4","text":"Die Königin zur Gräfin Fuentes.","type":"enter","source":"nltk"}
+{"id":"tg1186.2.11","text":"Die Gräfin Fuentes geht ab, und hereinstürzt die Prinzessin von Eboli.","type":"other","source":"nltk"}
+{"id":"tg1187.2.4","text":"Königin. Prinzessin von Eboli.","type":"other","source":"nltk"}
+{"id":"tg1187.2.6.1.part1","text":"atemlos, bleich und entstellt, vor der Königin niedergesunken.","type":"other","source":"nltk"}
+{"id":"tg1187.2.57.1.part1","text":"nimmt sie gütig bei der Hand.","type":"other","source":"nltk"}
+{"id":"tg1187.2.105.1.part1","text":"nach einem Stillschweigen.","type":"other","source":"nltk"}
+{"id":"tg1187.2.111.1","text":"Sie reicht ihr den Arm.","type":"other","source":"nltk"}
+{"id":"tg1187.2.117.1.part1","text":"aufmerksam.","type":"other","source":"nltk"}
+{"id":"tg1187.2.127.1","text":"Sie drückt ihr glühendes Gesicht aus den Boden. Die Königin geht ab. Große Pause. Die Herzogin von Olivarez kommt nach einigen Minuten aus dem Kabinett, in welches die Königin gegangen war, und findet die Fürstin noch in der vorigen Stellung liegen. Sie nähert sich ihr still schweigend; auf das Geräusch richtet sich die letztere auf und fährt wie eine Rasende in die Höhe, da sie die Königin nicht mehr gewahr wird.","type":"exit","source":"nltk"}
+{"id":"tg1188.2.4","text":"Prinzessin von Eboli. Herzogin von Olivarez.","type":"enter","source":"nltk"}
+{"id":"tg1188.2.9.1.part1","text":"tritt ihr näher.","type":"other","source":"nltk"}
+{"id":"tg1188.2.19.1.part1","text":"nimmt ein goldnes Ordenskreuz vom Busen und gibt es in die Hände der Herzogin.","type":"other","source":"nltk"}
+{"id":"tg1188.2.26.1.part1","text":"unter hervorstürzenden Tränen.","type":"other","source":"nltk"}
+{"id":"tg1188.2.30.1.part1","text":"umarmt sie mit abgewandtem Gesicht.","type":"other","source":"nltk"}
+{"id":"tg1188.2.33.1","text":"Sie geht schnell fort. Die Prinzessin folgt ihr bis an die Türe des Kabinetts, welche sogleich hinter der Herzogin verschlossen wird. Einige Minuten bleibt sie stumm und unbeweglich auf den Knien davor liegen, dann rafft sie sich auf und eilt hinweg mit verhülltem Gesicht.","type":"exit","source":"nltk"}
+{"id":"tg1189.2.4","text":"Die Königin. Marquis von Posa.","type":"enter","source":"nltk"}
+{"id":"tg1189.2.8.1.part1","text":"bleich, mit zerstörtem Gesicht, bebender Stimme und durch diesen ganzen Auftritt in feierlicher, tiefer Bewegung.","type":"other","source":"nltk"}
+{"id":"tg1189.2.14.1","text":"Indem sie ihn genauer ansieht und erschrocken zurücktritt.","type":"other","source":"nltk"}
+{"id":"tg1189.2.34.1.part1","text":"sieht ihn einige Augenblicke zweifelhaft an.","type":"other","source":"nltk"}
+{"id":"tg1189.2.114.1","text":"Er wendet sich ab, Tränen ersticken seine Stimme.","type":"other","source":"nltk"}
+{"id":"tg1189.2.121.1.part1","text":"hat sich zu sammeln gesucht und fährt mit festerem Tone fort.","type":"other","source":"nltk"}
+{"id":"tg1189.2.166.1","text":"Er hält inne und sieht einige Augenblicke stillschweigend auf die Königin.","type":"other","source":"nltk"}
+{"id":"tg1189.2.194.1","text":"Nach einigem Stillschweigen.","type":"other","source":"nltk"}
+{"id":"tg1189.2.251.1.part1","text":"zieht seine Hand zurück.","type":"other","source":"nltk"}
+{"id":"tg1189.2.255.1","text":"Er neigt sich gegen die Königin und will gehen.","type":"other","source":"nltk"}
+{"id":"tg1189.2.257.1.part1","text":"begleitet ihn schweigend mit den Augen.","type":"other","source":"nltk"}
+{"id":"tg1189.2.260.1.part1","text":"kommt noch einmal zurück, das Gesicht abgewendet.","type":"enter","source":"nltk"}
+{"id":"tg1189.2.278.1.part1","text":"betroffen, vor sich.","type":"aside","source":"nltk"}
+{"id":"tg1189.2.281.1.part1","text":"nach einem Stillschweigen.","type":"other","source":"nltk"}
+{"id":"tg1189.2.302.1.part1","text":"verläßt ihn und verhüllt das Gesicht.","type":"other","source":"nltk"}
+{"id":"tg1189.2.305.1.part1","text":"in der heftigsten Bewegung vor ihr niedergeworfen.","type":"other","source":"nltk"}
+{"id":"tg1189.2.309.1","text":"Er springt auf und geht schnell fort. Die Königin in ihr Kabinett.","type":"exit","source":"nltk"}
+{"id":"tg1190.2.4","text":"Herzog von Alba und Domingo gehen stillschweigend und abgesondert auf und nieder. Graf Lerma kommt aus dem Kabinett des Königs, alsdann Don Raimond von Taxis, der Oberpostmeister.","type":"enter","source":"nltk"}
+{"id":"tg1190.2.11.1","text":"Lerma will wieder hineingehen.","type":"other","source":"nltk"}
+{"id":"tg1190.2.13.1.part1","text":"tritt auf.","type":"enter","source":"nltk"}
+{"id":"tg1190.2.23.1","text":"Lerma geht ins Kabinett.","type":"exit","source":"nltk"}
+{"id":"tg1190.2.25.1.part1","text":"tritt zum Oberpostmeister.","type":"other","source":"nltk"}
+{"id":"tg1190.2.44.1.part1","text":"aufmerksam.","type":"other","source":"nltk"}
+{"id":"tg1190.2.52.1.part1","text":"tritt dazu.","type":"other","source":"nltk"}
+{"id":"tg1190.2.78.1.part1","text":"kommt aus dem Kabinett.","type":"enter","source":"nltk"}
+{"id":"tg1190.2.81.1","text":"Taxis geht hinein.","type":"exit","source":"nltk"}
+{"id":"tg1190.2.100.1","text":"Geräusch im Kabinett.","type":"other","source":"nltk"}
+{"id":"tg1190.2.104.1.part1","text":"aus dem Kabinett.","type":"enter","source":"nltk"}
+{"id":"tg1190.2.107.1","text":"Beide hinein.","type":"exit","source":"nltk"}
+{"id":"tg1190.2.109.1.part1","text":"zu Domingo.","type":"other","source":"nltk"}
+{"id":"tg1190.2.125.1.part1","text":"hat sich leise der Kabinettstüre genähert und bleibt lauschend davor stehen.","type":"other","source":"nltk"}
+{"id":"tg1190.2.127.1.part1","text":"nach einer Pause.","type":"other","source":"nltk"}
+{"id":"tg1190.2.134.1.part1","text":"verläßt die Türe.","type":"other","source":"nltk"}
+{"id":"tg1191.2.4","text":"Der Prinz von Parma, die Herzoge von Feria und Medina Sidonia mit noch einigen andern Granden treten auf. Die Vorigen.","type":"enter","source":"nltk"}
+{"id":"tg1191.2.52.1.part1","text":"stürzt aus dem Kabinett.","type":"enter","source":"nltk"}
+{"id":"tg1191.2.58.1","text":"Alba eilt hinein.","type":"exit","source":"nltk"}
+{"id":"tg1191.2.60.1.part1","text":"atemlos, in großer Bewegung.","type":"other","source":"nltk"}
+{"id":"tg1191.2.64.1.part1","text":"zu Lerma, indem sich alle übrigen voll neugieriger Erwartung um ihn versammeln.","type":"other","source":"nltk"}
+{"id":"tg1191.2.67.1.part1","text":"will forteilen.","type":"other","source":"nltk"}
+{"id":"tg1191.2.75.1.part1","text":"zugleich.","type":"other","source":"nltk"}
+{"id":"tg1191.2.82.1.part1","text":"zugleich, mit betretnem Erstaunen.","type":"other","source":"nltk"}
+{"id":"tg1191.2.85.1","text":"Man hört eine Glocke im Kabinett. Graf Lerma eilt hinein.","type":"exit","source":"nltk"}
+{"id":"tg1191.2.87.1.part1","text":"ihm nach, will ihn zurückhalten.","type":"exit","source":"nltk"}
+{"id":"tg1192.2.4","text":"Prinzessin von Eboli. Feria. Medina Sidonia. Parma. Domingo und übrige Granden.","type":"enter","source":"nltk"}
+{"id":"tg1192.2.6.1.part1","text":"eilig, außer sich.","type":"other","source":"nltk"}
+{"id":"tg1192.2.9.1","text":"Zu Feria.","type":"other","source":"nltk"}
+{"id":"tg1192.2.22.1.part1","text":"gibt ihr von ferne einen bedeutenden Wink.","type":"other","source":"nltk"}
+{"id":"tg1192.2.24.1.part1","text":"geht auf ihn zu.","type":"other","source":"nltk"}
+{"id":"tg1192.2.28","text":"Sie ergreift seine Hand und will ihn ins Kabinett mit ","type":"other","source":"nltk"}
+{"id":"tg1192.2.29.1","text":"fortreißen.","type":"other","source":"nltk"}
+{"id":"tg1192.2.48.1","text":"Wie sie ins Kabinett will, stürzt heraus.","type":"enter","source":"nltk"}
+{"id":"tg1192.2.50.1.part1","text":"seine Augen funkeln, Triumph ist in seinem Gang.","type":"other","source":"nltk"}
+{"id":"tg1192.2.56.1.part1","text":"zu Domingo und den übrigen Granden.","type":"other","source":"nltk"}
+{"id":"tg1194.2.4","text":"Carlos an einem Tische sitzend, den Kopf vorwärts auf die Arme gelegt, als wenn er schlummerte. Im Hintergrunde des Zimmers einige Offiziere, die mit ihm eingeschlossen sind. Marquis von Posa tritt herein, ohne von ihm bemerkt zu werden, und spricht leise mit den Offizieren, welche sich sogleich entfernen. Er selbst tritt ganz nahe vor Carlos und betrachtet ihn einige Augenblicke schweigend und traurig. Endlich macht er eine Bewegung, welche diesen aus seiner Betäubung erweckt.","type":"enter","source":"nltk"}
+{"id":"tg1194.2.5","text":"Carlos steht auf, wird den Marquis gewahr und fährt erschrocken zusammen. Dann sieht er ihn eine Weile mit großen, starren Augen an und streicht mit der Hand über die Stirne, als ob er sich auf etwas besinnen wollte.","type":"other","source":"nltk"}
+{"id":"tg1194.2.9.1.part1","text":"gibt ihm die Hand.","type":"other","source":"nltk"}
+{"id":"tg1194.2.79.1","text":"Er nimmt sein Portefeuille heraus.","type":"other","source":"nltk"}
+{"id":"tg1194.2.85.1.part1","text":"sieht mit Verwunderung bald die Briefe, bald den Marquis an.","type":"other","source":"nltk"}
+{"id":"tg1194.2.102.1.part1","text":"äußerst erstaunt.","type":"other","source":"nltk"}
+{"id":"tg1194.2.111.1.part1","text":"sieht ihn lange mit sprachlosem Erstaunen an.","type":"other","source":"nltk"}
+{"id":"tg1194.2.119.1.part1","text":"wie aus einem Traume erwacht.","type":"other","source":"nltk"}
+{"id":"tg1194.2.122.1.part1","text":"geht nach der Türe.","type":"exit","source":"nltk"}
+{"id":"tg1195.2.4","text":"Herzog Alba. Die Vorigen.","type":"enter","source":"NLP"}
+{"id":"tg1195.2.6.1.part1","text":"nähert sich ehrerbietig dem Prinzen, dem Marquis durch diesen ganzen Auftritt den Rücken zuwendend.","type":"other","source":"nltk"}
+{"id":"tg1195.2.10.1","text":"Carlos sieht den Marquis verwundernd an. Alle schweigen still.","type":"other","source":"nltk"}
+{"id":"tg1195.2.15.1.part1","text":"bemerkt beide mit äußerster Verwunderung.","type":"other","source":"nltk"}
+{"id":"tg1195.2.36.1","text":"Er sucht die Augen des Marquis und beobachtet eine stolze Herabsetzung gegen den Herzog.","type":"other","source":"nltk"}
+{"id":"tg1195.2.57.1","text":"Alba entfernt sich. Man sieht ihn noch eine Zeitlang im Vorhofe verweilen und Befehle austeilen.","type":"exit","source":"nltk"}
+{"id":"tg1196.2.4","text":"Carlos und Marquis von Posa.","type":"enter","source":"nltk"}
+{"id":"tg1196.2.6.1.part1","text":"nachdem der Herzog hinaus ist, voll Erwartung und Erstaunen zum Marquis.","type":"other","source":"nltk"}
+{"id":"tg1196.2.12.1","text":"Auf ihn zugehend, mit großer Bewegung.","type":"other","source":"nltk"}
+{"id":"tg1196.2.21.1.part1","text":"ergreift seine Hand.","type":"other","source":"nltk"}
+{"id":"tg1196.2.25.1","text":"Er hält inne.","type":"other","source":"nltk"}
+{"id":"tg1196.2.51.1","text":"Carlos zieht seine Hand zurück, sieht ihn starr an und antwortet nichts.","type":"other","source":"nltk"}
+{"id":"tg1196.2.61.1","text":"Er rückt nahe an Carlos, der noch immer in einer toten Erstarrung ist und sich unwillkürlich von ihm niederziehen läßt.","type":"other","source":"nltk"}
+{"id":"tg1196.2.75.1","text":"Er hält inne, Carlos' Antwort zu erfahren; dieser verharrt in seinem Stillschweigen.","type":"other","source":"nltk"}
+{"id":"tg1196.2.102.1","text":"Hier schweigt er. Carlos geht aus seiner Versteinerung in lebhafte Bewegungen über.","type":"exit","source":"nltk"}
+{"id":"tg1196.2.121.1","text":"Carlos steht auf.","type":"other","source":"nltk"}
+{"id":"tg1196.2.166.1.part1","text":"fällt ihm erschrocken ins Wort.","type":"other","source":"nltk"}
+{"id":"tg1196.2.186.1.part1","text":"sieht ihm starr ins Gesicht.","type":"other","source":"nltk"}
+{"id":"tg1196.2.190.1","text":"Er will fort.","type":"other","source":"nltk"}
+{"id":"tg1196.2.207.1","text":"Er will wieder fort. Der Marquis nimmt ihn beim Arme und sieht ihn bedeutend an.","type":"other","source":"nltk"}
+{"id":"tg1196.2.213.1.part1","text":"bleibt gerührt und voll Bewunderung vor ihm stehen.","type":"other","source":"nltk"}
+{"id":"tg1196.2.219.1.part1","text":"geht auf ihn zu und nimmt ihn bei der Hand, voll der innigsten Empfindung.","type":"other","source":"nltk"}
+{"id":"tg1196.2.232.1","text":"Es geschieht ein Schuß durch die Gittertüre. Carlos springt auf.","type":"other","source":"nltk"}
+{"id":"tg1196.2.238.1","text":"Er sinkt nieder.","type":"other","source":"nltk"}
+{"id":"tg1196.2.240.1.part1","text":"fällt mit einem Schrei des Schmerzes neben ihm zu Boden.","type":"other","source":"nltk"}
+{"id":"tg1196.2.243.1.part1","text":"mit brechender Stimme.","type":"other","source":"nltk"}
+{"id":"tg1197.2.4","text":"Der König. Carlos. Die Herzoge von Alba, Feria und Medina Sidonia. Der Prinz von Parma. Graf Lerma. Domingo und viele Granden.","type":"enter","source":"nltk"}
+{"id":"tg1197.2.6.1.part1","text":"mit gütigem Ton.","type":"other","source":"nltk"}
+{"id":"tg1197.2.12.1","text":"Carlos blickt auf und sieht um sich her, wie einer, der aus dem Traum erwacht. Seine Augen heften sich bald auf den König, bald auf den Toten. Er antwortet nicht.","type":"other","source":"nltk"}
+{"id":"tg1197.2.17.1","text":"Er nähert sich ihm, reicht ihm die Hand und hilft ihm sich aufrichten.","type":"other","source":"nltk"}
+{"id":"tg1197.2.21.1.part1","text":"empfängt ohne Bewußtsein die Arme des Königs – besinnt sich aber plötzlich, hält inne und sieht ihn genauer an.","type":"other","source":"nltk"}
+{"id":"tg1197.2.25.1","text":"Er stößt ihn zurück, alle Granden kommen in Bewegung.","type":"other","source":"nltk"}
+{"id":"tg1197.2.33.1.part1","text":"bricht schnell auf.","type":"other","source":"nltk"}
+{"id":"tg1197.2.39.1","text":"Er hält ihn gewaltsam mit beiden Händen und bekommt mit der einen das Schwert zu fassen, das der König mitgebracht hat.","type":"other","source":"nltk"}
+{"id":"tg1197.2.40.1","text":"Es fährt aus der Scheide.","type":"other","source":"nltk"}
+{"id":"tg1197.2.45.1.part1","text":"ziehen die ihrigen.","type":"other","source":"nltk"}
+{"id":"tg1197.2.47.1.part1","text":"den König fest an der einen Hand, das bloße Schwert in der andern.","type":"other","source":"nltk"}
+{"id":"tg1197.2.60.1.part1","text":"zu den Granden, welche sich besorgt um ihn herumdrängen wollen.","type":"other","source":"nltk"}
+{"id":"tg1197.2.82.1.part1","text":"mit gelindem Tone.","type":"other","source":"nltk"}
+{"id":"tg1197.2.121.1","text":"Der König steht ohne Bewegung, den Blick starr auf den Boden geheftet. Alle Granden sehen betreten und furchtsam auf ihn.","type":"other","source":"nltk"}
+{"id":"tg1197.2.136.1.part1","text":"hat den König bis jetzt nicht aus den Augen gelassen und mit sichtbarer Unruhe die Bewegungen beobachtet, welche in seinem Gesichte arbeiten.","type":"other","source":"nltk"}
+{"id":"tg1197.2.151.1","text":"Ein tiefes Schweigen. Viele von den Granden sehen weg ","type":"other","source":"nltk"}
+{"id":"tg1197.2.161.1","text":"Er wendet sich zum König mit mehr Fassung und Gelassenheit.","type":"other","source":"nltk"}
+{"id":"tg1197.2.175","text":"Er sinkt an dem Leichnam nieder und nimmt an dem Folgenden keinen Anteil mehr. Man hört unterdessen von ferne ein verworrenes Getöse von ","type":"other","source":"nltk"}
+{"id":"tg1197.2.176.1","text":"Stimmen und ein Gedränge vieler Menschen. Um den König herum ist eine tiefe Stille. Seine Augen durchlaufen den ganzen Kreis, aber niemand begegnet seinen Blicken.","type":"other","source":"nltk"}
+{"id":"tg1197.2.186.1","text":"Das vorige Stillschweigen. – Der Tumult kommt näher und wird lauter. Durch die umstehenden Granden läuft ein Gemurmel, sie geben sich untereinander verlegene Winke; Graf Lerma stößt endlich leise den Herzog von Alba an.","type":"other","source":"nltk"}
+{"id":"tg1197.2.191.1.part1","text":"leise.","type":"other","source":"nltk"}
+{"id":"tg1198.2.4","text":"Ein Offizier von der Leibwache. Die Vorigen.","type":"enter","source":"nltk"}
+{"id":"tg1198.2.6.1.part1","text":"dringend.","type":"other","source":"nltk"}
+{"id":"tg1198.2.10.1","text":"Er arbeitet sich durch die Menge und dringt bis zum König.","type":"other","source":"nltk"}
+{"id":"tg1198.2.19.1.part1","text":"in Bewegung.","type":"other","source":"nltk"}
+{"id":"tg1198.2.22.1.part1","text":"zum König, der ruhig und unbeweglich steht.","type":"other","source":"nltk"}
+{"id":"tg1198.2.26.1.part1","text":"erwacht aus seiner Betäubung, richtet sich auf und tritt mit Majestät unter sie.","type":"other","source":"nltk"}
+{"id":"tg1198.2.46.1","text":"Alle drängen sich um den König herum und knien mit gezogenen Schwertern vor ihm nieder. Carlos bleibt allein und von allen verlassen bei dem Leichnam.","type":"other","source":"nltk"}
+{"id":"tg1198.2.48.1.part1","text":"reißt seinen Mantel ab und wirft ihn von sich.","type":"other","source":"nltk"}
+{"id":"tg1198.2.53.1","text":"Er bleibt ohnmächtig in Albas und Lermas Armen.","type":"other","source":"nltk"}
+{"id":"tg1198.2.61.1.part1","text":"läßt den König in Lermas und Ferias Händen.","type":"other","source":"nltk"}
+{"id":"tg1198.2.66.1","text":"Er geht ab. Der König wird weggetragen, und alle Granden begleiten ihn.","type":"exit","source":"nltk"}
+{"id":"tg1199.2.4","text":"Carlos bleibt allein bei dem Leichnam zurück. Nach einigen Augenblicken erscheint Ludwig Merkado, sieht sich schüchtern um und steht eine Zeitlang stillschweigend hinter dem Prinzen, der ihn nicht bemerkt.","type":"enter","source":"nltk"}
+{"id":"tg1199.2.10.1","text":"Carlos sieht wieder weg und gibt ihm keine Antwort.","type":"other","source":"nltk"}
+{"id":"tg1199.2.16.1","text":"Er zeigt dem Prinzen einen Siegelring – dieser verharrt in seinem Stillschweigen.","type":"other","source":"nltk"}
+{"id":"tg1199.2.28.1.part1","text":"steht schnell auf.","type":"other","source":"nltk"}
+{"id":"tg1199.2.32.1","text":"Er will mit ihm gehen.","type":"other","source":"nltk"}
+{"id":"tg1199.2.79.1","text":"Merkado geht ab.","type":"exit","source":"nltk"}
+{"id":"tg1200.2.4","text":"Carlos. Graf Lerma.","type":"enter","source":"NLP"}
+{"id":"tg1200.2.28.1","text":"Er gibt ihm einen Dolch und Terzerolen.","type":"other","source":"nltk"}
+{"id":"tg1200.2.48.1","text":"Er läßt sich auf ein Knie vor ihm nieder.","type":"other","source":"nltk"}
+{"id":"tg1200.2.50.1.part1","text":"will ihn zurückhalten.","type":"other","source":"nltk"}
+{"id":"tg1200.2.54.1.part1","text":"küßt seine Hand mit Empfindung.","type":"other","source":"nltk"}
+{"id":"tg1200.2.69.1","text":"Er geht schnell weg. Carlos ist im Begriff, auf einem andern Wege fort zueilen, kehrt aber plötzlich um und wirft sich vor dem Leichnam des Marquis nieder, den er noch einmal in seine Arme schließt. Dann verläßt er schnell das Zimmer.","type":"exit","source":"nltk"}
+{"id":"tg1201.2.4","text":"Herzog von Alba und Herzog von Feria kommen im Gespräch.","type":"enter","source":"nltk"}
+{"id":"tg1202.2.4","text":"König zu den Vorigen.","type":"enter","source":"nltk"}
+{"id":"tg1202.2.5","text":"Alle erschrecken über seinen Anblick, weichen zurück und lassen ihn ehrerbietig mitten durch. Er kommt in einem wachen Traume, wie eines Nachtwandlers. – Sein Anzug und seine Gestalt zeigen noch die Unordnung, worein ihn die gehabte Ohnmacht versetzt hat. Mit langsamen Schritten geht er an den anwesenden Granden vorbei, sieht jeden starr an, ohne einen einzigen wahrzunehmen. Endlich bleibt er gedankenvoll stehen, die Augen zur Erde gesenkt, bis seine Gemütsbewegung nach und nach laut wird.","type":"other","source":"nltk"}
+{"id":"tg1202.2.10.1.part1","text":"leise zum Herzog von Alba.","type":"other","source":"nltk"}
+{"id":"tg1202.2.12.1.part1","text":"wie oben.","type":"enter","source":"nltk"}
+{"id":"tg1202.2.16.1.part1","text":"nähert sich mit Furcht.","type":"other","source":"nltk"}
+{"id":"tg1202.2.21.1","text":"Er sieht lange im Kreis herum.","type":"other","source":"nltk"}
+{"id":"tg1202.2.60.1.part1","text":"er setzt sich nieder, den Kopf auf den Arm gestützt.","type":"other","source":"nltk"}
+{"id":"tg1202.2.93.1.part1","text":"steht auf.","type":"other","source":"nltk"}
+{"id":"tg1202.2.110.1","text":"Zum Herzog von Alba.","type":"other","source":"nltk"}
+{"id":"tg1202.2.120.1.part1","text":"durchläuft die Papiere, wobei er von allen Umstehenden scharf beobachtet wird.","type":"other","source":"nltk"}
+{"id":"tg1202.2.125.1","text":"Einer von den Granden geht hinaus. Der König nimmt die Papiere wieder, liest fort und legt sie abermals weg.","type":"other","source":"nltk"}
+{"id":"tg1202.2.155.1","text":"Ein Offizier von der Leibwache tritt herein, zieht den Herzog von Feria auf die Seite und spricht leise mit ihm. Dieser wendet sich betreten zum Herzog von Alba, andre drängen sich hinzu, und es entsteht ein Gemurmel.","type":"enter","source":"nltk"}
+{"id":"tg1202.2.157.1","text":"zugleich.","type":"other","source":"nltk"}
+{"id":"tg1202.2.211.1","text":"Allgemeines Stillschweigen.","type":"other","source":"nltk"}
+{"id":"tg1202.2.214.1.part1","text":"wendet sich schnell um.","type":"other","source":"nltk"}
+{"id":"tg1202.2.218.1.part1","text":"nach einigem Besinnen zu dem Offizier.","type":"other","source":"nltk"}
+{"id":"tg1202.2.224.1","text":"Der Offizier geht ab. Gleich darauf ein Page.","type":"exit","source":"nltk"}
+{"id":"tg1202.2.229.1.part1","text":"zu den Anwesenden.","type":"other","source":"nltk"}
+{"id":"tg1202.2.232.1","text":"Der Kardinal Großinquisitor, ein Greis von neunzig Jahren und blind, auf einen Stab gestützt und von zwei Dominikanern geführt. Wie er durch ihre Reihen geht, werfen sich alle Granden vor ihm nieder und berühren den Saum seines Kleides. Er erteilt ihnen den Segen. Alle entfernen sich.","type":"exit","source":"nltk"}
+{"id":"tg1203.2.4","text":"Der König und der Großinquisitor.","type":"enter","source":"nltk"}
+{"id":"tg1203.2.5","text":"Ein langes Stillschweigen.","type":"other","source":"nltk"}
+{"id":"tg1203.2.38.1.part1","text":"mit Befremdung.","type":"other","source":"nltk"}
+{"id":"tg1203.2.54.1.part1","text":"geht unwillig auf und nieder.","type":"other","source":"nltk"}
+{"id":"tg1203.2.96.1","text":"Mit unwilligem Kopfschütteln.","type":"other","source":"nltk"}
+{"id":"tg1203.2.151.1.part1","text":"wirft sich in den Sessel.","type":"other","source":"nltk"}
+{"id":"tg1203.2.160.1","text":"Er hält inne. Der König schweigt.","type":"other","source":"nltk"}
+{"id":"tg1203.2.190.1.part1","text":"nach einer Pause.","type":"other","source":"nltk"}
+{"id":"tg1203.2.235.1.part1","text":"steht auf.","type":"other","source":"nltk"}
+{"id":"tg1203.2.242.1","text":"Er führt ihn hinweg.","type":"exit","source":"nltk"}
+{"id":"tg1204.2.4","text":"Carlos. Die Königin. Zuletzt der König mit Gefolge.","type":"enter","source":"nltk"}
+{"id":"tg1204.2.6.1.part1","text":"in einem Mönchsgewand, eine Maske vor dem Gesichte, die er eben jetzt abnimmt, unter dem Arme ein bloßes Schwert.","type":"other","source":"nltk"}
+{"id":"tg1204.2.8.1.part1","text":"mit stiller Wehmut auf seinem Anblick verweilend.","type":"other","source":"nltk"}
+{"id":"tg1204.2.14.1","text":"Stillschweigen.","type":"other","source":"nltk"}
+{"id":"tg1204.2.16.1.part1","text":"sucht sich zu fassen.","type":"other","source":"nltk"}
+{"id":"tg1204.2.29.1.part1","text":"mit Begeisterung.","type":"other","source":"nltk"}
+{"id":"tg1204.2.60.1","text":"Nach einem Stillschweigen ihre Hand fassend.","type":"other","source":"nltk"}
+{"id":"tg1204.2.72.1","text":"Er nähert sich der Königin, welche das Gesicht verhüllt.","type":"other","source":"nltk"}
+{"id":"tg1204.2.90.1","text":"Der König, begleitet vom Großinquisitor und seinen Granden, erscheint im Hintergrunde, ohne bemerkt zu werden.","type":"enter","source":"nltk"}
+{"id":"tg1204.2.104.1","text":"Er küßt sie.","type":"other","source":"nltk"}
+{"id":"tg1204.2.117.1","text":"Er verläßt sie.","type":"other","source":"nltk"}
+{"id":"tg1204.2.123.1","text":"Eine Uhr schlägt.","type":"other","source":"nltk"}
+{"id":"tg1204.2.139.1","text":"Er will nach der Maske greifen. Der König steht zwischen ihnen.","type":"other","source":"nltk"}
+{"id":"tg1204.2.144.1","text":"Die Königin fällt ohnmächtig nieder.","type":"other","source":"nltk"}
+{"id":"tg1204.2.146.1.part1","text":"eilt auf sie zu und empfängt sie mit den Armen.","type":"other","source":"nltk"}
+{"id":"tg1204.2.149.1.part1","text":"kalt und still zum Großinquisitor.","type":"other","source":"nltk"}
+{"id":"tg1204.2.153.1","text":"Er geht ab.","type":"exit","source":"nltk"}

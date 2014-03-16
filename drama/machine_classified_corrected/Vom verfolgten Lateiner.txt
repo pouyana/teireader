@@ -1,0 +1,151 @@
+{"id":"tg262.2.4","text":"Cyriax. Petronella. Urselchen.","type":"enter","source":"NLP"}
+{"id":"tg262.2.53.1","text":"Er ficht ihr vor den Augen.","type":"other","source":"nltk"}
+{"id":"tg262.2.60.1","text":"Er ficht wieder.","type":"other","source":"nltk"}
+{"id":"tg263.2.4","text":"Cyriax. Petronella. Urselchen. Storax.","type":"enter","source":"NLP"}
+{"id":"tg263.2.9.2.part2","text":"Respect.","type":"other","source":"NLP"}
+{"id":"tg263.2.10.1.part2","text":"Volant.","type":"other","source":"nltk"}
+{"id":"tg263.2.14.1","text":"Sie springt zurücke.","type":"other","source":"nltk"}
+{"id":"tg264.2.4","text":"Lampert. Blandina. Villenchen.","type":"enter","source":"NLP"}
+{"id":"tg265.2.4","text":"Lampert. Blandina. Villenchen. Urselchen.","type":"enter","source":"NLP"}
+{"id":"tg266.2.7.1.part2","text":"Hier empfangen sie einander und schnattern vielerley zusammen.","type":"other","source":"nltk"}
+{"id":"tg266.2.12.1","text":"Sie setzen sich / die Männer / die Weiber / die Jungfern zusammen.","type":"other","source":"nltk"}
+{"id":"tg266.2.24.1","text":"Sie geht und kömt bald wieder.","type":"other","source":"nltk"}
+{"id":"tg266.2.36.1","text":"Geht hinaus.","type":"exit","source":"nltk"}
+{"id":"tg267.2.4","text":"Die Vorigen. Balduin. Donat.","type":"enter","source":"NLP"}
+{"id":"tg267.2.9.1.part2","text":"Sie stehen allerseits auff und fangen wieder mit einander an zu schnattern.","type":"other","source":"nltk"}
+{"id":"tg267.2.11.1.part2","text":"offeriren.","type":"other","source":"nltk"}
+{"id":"tg267.2.18.1","text":"Sie setzen sich.","type":"other","source":"nltk"}
+{"id":"tg267.2.24.1.part2","text":"Fortun.","type":"other","source":"nltk"}
+{"id":"tg267.2.32.1.part2","text":"Münsteri Cosmograpfie.","type":"enter","source":"NLP"}
+{"id":"tg267.2.38.1.part2","text":"Scanderbeg.","type":"other","source":"nltk"}
+{"id":"tg267.2.47.2.part2","text":"Politici.","type":"enter","source":"NLP"}
+{"id":"tg267.2.58.1.part1","text":"zeucht Petronella auf die Seite.","type":"other","source":"nltk"}
+{"id":"tg267.2.67.1","text":"Sie gehen ab. Donat geht mit Urselchen auch ab.","type":"exit","source":"nltk"}
+{"id":"tg268.2.4","text":"Balduin. Villenchen.","type":"enter","source":"NLP"}
+{"id":"tg269.2.4","text":"Balduin. Villenchen. Donat. Urselchen.","type":"enter","source":"NLP"}
+{"id":"tg269.2.7.1.part1","text":"zeucht ihn auff die Seite.","type":"other","source":"nltk"}
+{"id":"tg269.2.27.1.part1","text":"ad Spect.","type":"aside","source":"nltk"}
+{"id":"tg269.2.46.1.part1","text":"ad Spect.","type":"aside","source":"nltk"}
+{"id":"tg270.2.4","text":"Die Vorigen. Blandina.","type":"enter","source":"NLP"}
+{"id":"tg270.2.11.1","text":"Villenchen und Urselchen gehn ab.","type":"exit","source":"nltk"}
+{"id":"tg270.2.25.1","text":"Er umfasset sie.","type":"other","source":"nltk"}
+{"id":"tg270.2.27.1.part1","text":"weinet.","type":"other","source":"nltk"}
+{"id":"tg270.2.29.1","text":"Sie will sich die Augen wischen / und läst das Schnuptuch fallen: Balduin greifft darnach.","type":"other","source":"nltk"}
+{"id":"tg270.2.37.1.part1","text":"ad Spect.","type":"aside","source":"nltk"}
+{"id":"tg270.2.44.1.part2","text":"Sie geht ab.","type":"exit","source":"nltk"}
+{"id":"tg270.2.53.1","text":"Sie gehn ab.","type":"exit","source":"nltk"}
+{"id":"tg271.2.4","text":"Pomponius. Storax.","type":"enter","source":"NLP"}
+{"id":"tg271.2.38.1.part2","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg271.2.41.1","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg273.2.4","text":"Cyriax. Lampert.","type":"enter","source":"NLP"}
+{"id":"tg274.2.4","text":"Roland. Cyriax. Lampert.","type":"enter","source":"NLP"}
+{"id":"tg274.2.6.1.part1","text":"sitzet auff dem Stuhle.","type":"other","source":"nltk"}
+{"id":"tg275.2.4","text":"Roland. Cyriax. Lampert. Storax. Pomponius und andere Beysitzer die nichts zu reden haben.","type":"enter","source":"nltk"}
+{"id":"tg275.2.15.1","text":"Sie schreyen alle miteinander / ja ja / es ist ihm vergönnet.","type":"other","source":"nltk"}
+{"id":"tg275.2.20.1","text":"Sie schreyen alle / nach alten Gebrauch und Herkommen ist ihm vergönnet zu reden.","type":"other","source":"nltk"}
+{"id":"tg275.2.25.1","text":"Sie schreyen alle zusammen: Ja / ja mit Gunst etc.","type":"other","source":"nltk"}
+{"id":"tg275.2.35.1","text":"Sie fangen alle an zu schreyen: Ja ja es muß jemand gut davor seyn.","type":"other","source":"nltk"}
+{"id":"tg275.2.48","text":"Sie schreyen alle: Des lieben Lateinischen wegen sollen sie warten biß über acht Tage. Der Herr ","type":"other","source":"nltk"}
+{"id":"tg275.2.49.1","text":"Kirch-Schreiber wird sie schon berichten.","type":"other","source":"nltk"}
+{"id":"tg275.2.53.1","text":"Die Beysitzer werden in der Scene verborgen.","type":"other","source":"nltk"}
+{"id":"tg276.2.4","text":"Pomponius. Balduin. Donat.","type":"enter","source":"NLP"}
+{"id":"tg276.2.13.2.part2","text":"Qui habet in nummis.","type":"other","source":"nltk"}
+{"id":"tg276.2.14.1.part1","text":"ad Spect.","type":"aside","source":"nltk"}
+{"id":"tg276.2.25.1.part2","text":"Semper honos nomenque tuum laudesque manebunt.","type":"other","source":"NLP"}
+{"id":"tg276.2.27.1.part2","text":"Semper honos nomenque tuum laudesque manebunt.","type":"other","source":"NLP"}
+{"id":"tg277.2.4","text":"Pomponius. Hernach Storax.","type":"enter","source":"NLP"}
+{"id":"tg277.2.6.1.part2","text":"Semper, hans, numme, laus.","type":"other","source":"nltk"}
+{"id":"tg277.2.18.1","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg278.2.4","text":"Storax. Hahnenfuss. Ziegenbein.","type":"enter","source":"NLP"}
+{"id":"tg279.2.4","text":"Hahnenfuss. Ziegenbein. Pomponius als ein Ziegeuner.","type":"enter","source":"nltk"}
+{"id":"tg280.2.4","text":"Pomponius. Cyriax. Lampert.","type":"enter","source":"NLP"}
+{"id":"tg280.2.23.1","text":"Er kriegt ein Blaserohr.","type":"other","source":"nltk"}
+{"id":"tg280.2.28.1.part1","text":"ad Lampert.","type":"other","source":"NLP"}
+{"id":"tg280.2.32.1","text":"Er redet durch das Rohr.","type":"other","source":"nltk"}
+{"id":"tg280.2.41.1","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg280.2.46.1","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg281.2.4","text":"Ziegenbein. Urselchen.","type":"enter","source":"nltk"}
+{"id":"tg281.2.26.1","text":"Gehet ab.","type":"exit","source":"nltk"}
+{"id":"tg282.2.4","text":"Urselchen. Villenchen.","type":"enter","source":"nltk"}
+{"id":"tg283.2.4","text":"Pomponius. Villenchen. Urselchen.","type":"enter","source":"NLP"}
+{"id":"tg283.2.10.1.part2","text":"Villenchen.","type":"other","source":"nltk"}
+{"id":"tg283.2.25.1","text":"Er siehet ihnen in die Hände / er mist ihnen die Nasen und das Maul mit einem Faden / und macht allerhand Striche auf ein Papier.","type":"other","source":"nltk"}
+{"id":"tg283.2.29.1","text":"Sie schreyen zusammen: Ja ja.","type":"other","source":"nltk"}
+{"id":"tg283.2.31.3.part2","text":"Donat.","type":"enter","source":"NLP"}
+{"id":"tg283.2.60.1","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg283.2.64.1","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg285.2.4","text":"Roland. Balduin.","type":"enter","source":"NLP"}
+{"id":"tg285.2.8.1","text":"Die Scene eröffnet sich da der Richter sitzt.","type":"other","source":"nltk"}
+{"id":"tg285.2.27.5.part2","text":"prosit.","type":"other","source":"nltk"}
+{"id":"tg285.2.38.1","text":"Die Scene fält zu wo der Richter ist.","type":"other","source":"nltk"}
+{"id":"tg286.2.4","text":"Balduin. Donat.","type":"enter","source":"NLP"}
+{"id":"tg286.2.13.1.part2","text":"cuschi.","type":"other","source":"nltk"}
+{"id":"tg287.2.4","text":"Petronella. Blandina. Balduin. Donat.","type":"enter","source":"NLP"}
+{"id":"tg288.2.4","text":"Balduin. Donat. Storax.","type":"enter","source":"NLP"}
+{"id":"tg288.2.9.1","text":"Sie stehen tieff in Gedancken.","type":"other","source":"nltk"}
+{"id":"tg288.2.26.1","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg289.2.4","text":"Balduin. Donat. Hahnenfuss. Ziegenbein.","type":"enter","source":"NLP"}
+{"id":"tg289.2.11.1.part2","text":"Revengen.","type":"other","source":"nltk"}
+{"id":"tg289.2.16.1","text":"Die Feuermauer-Kehrer kommen.","type":"enter","source":"nltk"}
+{"id":"tg289.2.36.1","text":"Gehen ab.","type":"exit","source":"nltk"}
+{"id":"tg291.2.4","text":"Petronella. Blandina.","type":"enter","source":"NLP"}
+{"id":"tg292.2.4","text":"Petronella. Blandina. Cyriax. Lampert. Hernach Urselchen.","type":"enter","source":"NLP"}
+{"id":"tg292.2.27.1.part1","text":"kömmt gelauffen.","type":"enter","source":"nltk"}
+{"id":"tg292.2.34.1","text":"Gehet ab.","type":"exit","source":"nltk"}
+{"id":"tg293.2.4","text":"Die Vorigen.","type":"other","source":"nltk"}
+{"id":"tg293.2.5","text":"Villenchen. Urselchen. Hahnenfuss. Ziegenbein in Grafen Habit.","type":"enter","source":"nltk"}
+{"id":"tg293.2.10.1","text":"Sie schreyen alle: Die Ehrenvesten Hochweisen /Ehr- und Tugendsame Grafen seyn willkommen. Ihre Pestilenz seyn willkommen.","type":"other","source":"nltk"}
+{"id":"tg293.2.13.1.part2","text":"Ad Ziegenbein.","type":"other","source":"NLP"}
+{"id":"tg293.2.18.1.part1","text":"stöst ihn in die Seite.","type":"other","source":"nltk"}
+{"id":"tg293.2.20.1.part1","text":"ad Ziegenbein.","type":"other","source":"nltk"}
+{"id":"tg293.2.25.1.part1","text":"ad spect.","type":"aside","source":"nltk"}
+{"id":"tg293.2.28.1.part1","text":"stöst ihn.","type":"other","source":"nltk"}
+{"id":"tg293.2.28.3.part2","text":"Ziegenbeinicœlkoribicirkilausimusky.","type":"other","source":"NLP"}
+{"id":"tg293.2.34.1","text":"Cyriax, Lampert, Petronella, Blandina gehen ab.","type":"exit","source":"nltk"}
+{"id":"tg294.2.4","text":"Villenchen. Urselchen, Hahnenfuss. Ziegenbein.","type":"enter","source":"nltk"}
+{"id":"tg294.2.8.1.part2","text":"Ad Spect.","type":"aside","source":"nltk"}
+{"id":"tg294.2.12.2.part2","text":"Logiamente.","type":"other","source":"nltk"}
+{"id":"tg294.2.13.1.part1","text":"stöst ihn.","type":"other","source":"nltk"}
+{"id":"tg294.2.17.1.part2","text":"Ad Ziegenbein.","type":"other","source":"NLP"}
+{"id":"tg294.2.18.1.part1","text":"stöst ihn.","type":"other","source":"nltk"}
+{"id":"tg294.2.24.1.part1","text":"fängt an zu singen.","type":"other","source":"nltk"}
+{"id":"tg294.2.25.1.part1","text":"stöst ihn.","type":"other","source":"nltk"}
+{"id":"tg294.2.30.1.part1","text":"Stöst ihn.","type":"other","source":"nltk"}
+{"id":"tg295.2.4","text":"Die Vorigen.","type":"other","source":"nltk"}
+{"id":"tg295.2.5","text":"Cyriax. Lampert. Petronella. Blandina. Hernach Roland. Storax. Pomponius.","type":"enter","source":"NLP"}
+{"id":"tg295.2.14.1","text":"Der Ort eröfnet sich wo der Richter sitzt. Cyriax und Lampert setzen sich darzu. Die Weiber bringen den Grafen Stüle / daß sie sich auch setzen. Ein iedweder Grafe nimmt seine Jungfer auff die Schoß.","type":"other","source":"nltk"}
+{"id":"tg295.2.17.1.part2","text":"Hanefusicolpilaminosicofscy.","type":"other","source":"NLP"}
+{"id":"tg295.2.19.1.part1","text":"muß ihn buchstabieren.","type":"other","source":"nltk"}
+{"id":"tg295.2.25.1","text":"Die Grafen stehen auff.","type":"other","source":"nltk"}
+{"id":"tg296.2.4","text":"Die Vorigen.","type":"other","source":"nltk"}
+{"id":"tg296.2.5","text":"Balduin. Donat.","type":"enter","source":"NLP"}
+{"id":"tg296.2.11.1","text":"Ad Hahnenfuß.","type":"other","source":"NLP"}
+{"id":"tg296.2.12.1.part1","text":"ad Ziegenbein.","type":"other","source":"nltk"}
+{"id":"tg296.2.15.1","text":"Die Weiber schreyen alle mit einander.","type":"other","source":"nltk"}
+{"id":"tg296.2.20.1","text":"Er zeucht sich aus.","type":"other","source":"nltk"}
+{"id":"tg296.2.29.1","text":"Gehen ab.","type":"exit","source":"nltk"}
+{"id":"tg296.2.34.1.part1","text":"ergreifft Urselchen.","type":"other","source":"nltk"}
+{"id":"tg296.2.40.1","text":"Er weiset einem iedweden die Wege hinein.","type":"exit","source":"nltk"}
+{"id":"tg297.2.4","text":"Roland. Storax. Cyriax. Lampert. Pomponius.","type":"enter","source":"NLP"}
+{"id":"tg297.2.12.1.part1","text":"lieset.","type":"other","source":"nltk"}
+{"id":"tg297.2.20.1.part2","text":"M.","type":"other","source":"NLP"}
+{"id":"tg297.2.21.1.part2","text":"O.","type":"other","source":"NLP"}
+{"id":"tg297.2.22.1.part2","text":"m.o. mo.","type":"other","source":"nltk"}
+{"id":"tg297.2.23.1.part2","text":"D.","type":"other","source":"nltk"}
+{"id":"tg297.2.23.2.part2","text":"i.d.i. di.","type":"other","source":"NLP"}
+{"id":"tg297.2.32.1","text":"Gehet ab.","type":"exit","source":"nltk"}
+{"id":"tg297.2.33.1","text":"Die Scene verbirget den Richter.","type":"other","source":"nltk"}
+{"id":"tg299.2.4","text":"Balduin. Donat. Hernach Storax.","type":"enter","source":"NLP"}
+{"id":"tg299.2.10.1.part1","text":"kommt.","type":"enter","source":"nltk"}
+{"id":"tg299.2.26.1","text":"Giebt ihm den Brieff.","type":"other","source":"nltk"}
+{"id":"tg299.2.28.1.part2","text":"modicum & bonum.","type":"other","source":"nltk"}
+{"id":"tg299.2.37.1","text":"Gehen ab.","type":"exit","source":"nltk"}
+{"id":"tg300.2.4","text":"Hahnenfuss. Ziegenbein.","type":"enter","source":"nltk"}
+{"id":"tg300.2.13.1","text":"Sie treten auff die Seite.","type":"exit","source":"nltk"}
+{"id":"tg301.2.4","text":"Pomponius.","type":"enter","source":"NLP"}
+{"id":"tg301.2.6.1.part2","text":"Num.","type":"other","source":"nltk"}
+{"id":"tg301.2.6.2.part2","text":"Num.","type":"other","source":"nltk"}
+{"id":"tg301.2.6.3.part2","text":"Num.","type":"other","source":"nltk"}
+{"id":"tg301.2.6.4.part2","text":"Num.","type":"other","source":"nltk"}
+{"id":"tg301.2.8.1","text":"Er springt herunter und setzt sich vor das Theatrum auff ein Stülchen.","type":"other","source":"nltk"}
+{"id":"tg302.2.4","text":"Roland. Storax. Cyriax. Petronella. Donat. Urselchen. Hahnenfuss. Lampert. Blandina. Balduin. Villenchen. Ziegenbein. Pomponius.","type":"enter","source":"NLP"}

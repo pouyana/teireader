@@ -1,0 +1,533 @@
+{"id":"tg982.2.4","text":"Franken. Saal im Moorischen Schloß.","type":"other","source":"nltk"}
+{"id":"tg982.2.5","text":"Franz. Der alte Moor.","type":"enter","source":"NLP"}
+{"id":"tg982.2.10.1.part1","text":"begierig.","type":"other","source":"nltk"}
+{"id":"tg982.2.13.1.part2","text":"Halb vor sich.","type":"aside","source":"nltk"}
+{"id":"tg982.2.18.2.part2","text":"Indem er sich niedersetzt.","type":"other","source":"nltk"}
+{"id":"tg982.2.19.1.part1","text":"nimmt den Brief aus der Tasche.","type":"other","source":"nltk"}
+{"id":"tg982.2.21.1.part1","text":"liest.","type":"other","source":"nltk"}
+{"id":"tg982.2.21.2.part2","text":"Der alte Moor verbirgt sein Gesicht.","type":"other","source":"nltk"}
+{"id":"tg982.2.25.1.part2","text":"Zerreißt den Brief.","type":"other","source":"nltk"}
+{"id":"tg982.2.26.1.part1","text":"weint bitterlich.","type":"other","source":"nltk"}
+{"id":"tg982.2.27.1.part1","text":"fällt ihm um den Hals.","type":"other","source":"nltk"}
+{"id":"tg982.2.40.1.part1","text":"auffahrend.","type":"other","source":"nltk"}
+{"id":"tg982.2.55.1.part1","text":"zärtlich.","type":"other","source":"nltk"}
+{"id":"tg982.2.60.1.part1","text":"schnell.","type":"other","source":"nltk"}
+{"id":"tg982.2.63.1.part2","text":"Geht traurig ab.","type":"exit","source":"nltk"}
+{"id":"tg982.2.64.1.part1","text":"mit Lachen ihm nachsehend.","type":"other","source":"nltk"}
+{"id":"tg982.2.64.3.part2","text":"Er liest die zerrißenen Briefstücke zusammen.","type":"other","source":"nltk"}
+{"id":"tg982.2.71.3","text":"Ab.","type":"exit","source":"nltk"}
+{"id":"tg983.2.4","text":"Schenke an den Grenzen von Sachsen. Karl von Moor in ein Buch vertieft.","type":"other","source":"nltk"}
+{"id":"tg983.2.5","text":"Spiegelberg trinkend am Tisch.","type":"other","source":"nltk"}
+{"id":"tg983.2.7.1.part1","text":"legt das Buch weg.","type":"other","source":"nltk"}
+{"id":"tg983.2.8.1.part1","text":"stellt ihm ein Glas hin und trinkt.","type":"other","source":"nltk"}
+{"id":"tg983.2.9.2.part2","text":"Kraft.","type":"other","source":"nltk"}
+{"id":"tg983.2.12.1.part1","text":"trinkt.","type":"other","source":"nltk"}
+{"id":"tg983.2.15.1.part2","text":"Auf den Boden stampfend.","type":"other","source":"nltk"}
+{"id":"tg983.2.18.1.part2","text":"Er wirft den Degen auf den Tisch und steht auf.","type":"other","source":"nltk"}
+{"id":"tg983.2.19.1.part1","text":"aufspringend.","type":"other","source":"nltk"}
+{"id":"tg983.2.20.1.part1","text":"lacht aus vollem Halse.","type":"other","source":"nltk"}
+{"id":"tg983.2.22.1.part1","text":"nimmt ihn lächelnd bei der Hand.","type":"other","source":"nltk"}
+{"id":"tg983.2.23.1.part1","text":"stutzig.","type":"other","source":"nltk"}
+{"id":"tg983.2.29.1.part1","text":"schüttelt den Kopf.","type":"other","source":"nltk"}
+{"id":"tg983.2.33.1.part1","text":"ärgerlich.","type":"other","source":"nltk"}
+{"id":"tg983.2.35.1.part1","text":"zerstreut.","type":"other","source":"nltk"}
+{"id":"tg983.2.36.1.part2","text":"Steht auf, hitzig.","type":"other","source":"nltk"}
+{"id":"tg983.2.38.1.part1","text":"hitziger.","type":"other","source":"nltk"}
+{"id":"tg983.2.42.1","text":"Schweizer, Grimm, Roller, Schufterle, Razmann treten auf.","type":"enter","source":"nltk"}
+{"id":"tg983.2.48.1.part2","text":"Will eilig fort.","type":"other","source":"nltk"}
+{"id":"tg983.2.52.1","text":"Schwarz tritt auf.","type":"enter","source":"nltk"}
+{"id":"tg983.2.54.1.part1","text":"fliegt ihm entgegen.","type":"other","source":"nltk"}
+{"id":"tg983.2.55.1.part1","text":"gibt ihm den Brief, den er hastig aufbricht.","type":"other","source":"nltk"}
+{"id":"tg983.2.61.1.part1","text":"schüttelt ihn.","type":"other","source":"nltk"}
+{"id":"tg983.2.62.1.part1","text":"der sich die ganze Zeit über mit den Pantomimen eines Projektmachers im Stubeneck abgearbeitet hat, springt wild auf.","type":"other","source":"nltk"}
+{"id":"tg983.2.62.3.part2","text":"Und packt Schweizern an der Gurgel, der ihn gelaßen an die Wand wirft.  Moor läßt den Brief fallen und rennt hinaus. Alle fahren auf.","type":"other","source":"nltk"}
+{"id":"tg983.2.63.1.part1","text":"ihm nach.","type":"exit","source":"nltk"}
+{"id":"tg983.2.66.1.part1","text":"nimmt den Brief von der Erde und liest.","type":"other","source":"nltk"}
+{"id":"tg983.2.69.1.part1","text":"sachte herbeischleichend.","type":"other","source":"nltk"}
+{"id":"tg983.2.73.1.part1","text":"mit einem stolzen Gelächter.","type":"other","source":"nltk"}
+{"id":"tg983.2.76.1.part2","text":"mich.","type":"other","source":"nltk"}
+{"id":"tg983.2.83.1.part2","text":"Er stellt sich mitten unter sie mit beschwörendem Ton.","type":"other","source":"nltk"}
+{"id":"tg983.2.91.1.part1","text":"steht auf und gibt Spiegelberg die Hand.","type":"other","source":"nltk"}
+{"id":"tg983.2.98.1.part1","text":"klopft ihn auf die Achsel.","type":"other","source":"nltk"}
+{"id":"tg983.2.103.1.part2","text":"Gibt Spiegelberg die rechte Hand.","type":"other","source":"nltk"}
+{"id":"tg983.2.104.1.part2","text":"Aufgesprungen.","type":"other","source":"nltk"}
+{"id":"tg983.2.106.1.part1","text":"giftig.","type":"other","source":"nltk"}
+{"id":"tg983.2.108.1.part1","text":"geschmeidig.","type":"other","source":"nltk"}
+{"id":"tg983.2.113.1.part1","text":"unwillig von ihm weg.","type":"other","source":"nltk"}
+{"id":"tg983.2.114.1.part1","text":"tritt herein in wilder Bewegung und läuft heftig im Zimmer auf und nieder, mit sich selber.","type":"enter","source":"nltk"}
+{"id":"tg983.2.121.1.part2","text":"Schäumend auf die Erde stampfend.","type":"other","source":"nltk"}
+{"id":"tg983.2.123.1.part2","text":"Moor stiert ihn an.","type":"other","source":"nltk"}
+{"id":"tg983.2.125.1.part1","text":"wirft sich wild in einen Seßel.","type":"other","source":"nltk"}
+{"id":"tg983.2.127.1.part1","text":"mit lärmendem Geschrei.","type":"other","source":"nltk"}
+{"id":"tg983.2.128.1.part1","text":"aufspringend, vor sich.","type":"aside","source":"nltk"}
+{"id":"tg983.2.130.1.part1","text":"geben ihm die Hand.","type":"other","source":"nltk"}
+{"id":"tg983.2.133.1","text":"Spiegelberg läuft wütend auf und nieder.","type":"other","source":"nltk"}
+{"id":"tg983.2.135.1.part1","text":"mit aufgeworfenen Hüten.","type":"other","source":"nltk"}
+{"id":"tg983.2.136.1.part2","text":"Sie gehen ab.","type":"exit","source":"nltk"}
+{"id":"tg983.2.137.1.part1","text":"ihnen nachsehend, nach einer Pause.","type":"other","source":"nltk"}
+{"id":"tg983.2.137.2.part2","text":"Ab.","type":"exit","source":"nltk"}
+{"id":"tg984.2.4","text":"Im Moorischen Schloß, Amaliens Zimmer.","type":"other","source":"nltk"}
+{"id":"tg984.2.5","text":"Franz. Amalia.","type":"enter","source":"NLP"}
+{"id":"tg984.2.16.1.part2","text":"Stolz.","type":"other","source":"nltk"}
+{"id":"tg984.2.17.1.part2","text":"Ihr auf die Brust klopfend.","type":"other","source":"nltk"}
+{"id":"tg984.2.18.1.part1","text":"bewegt.","type":"other","source":"nltk"}
+{"id":"tg984.2.20.1.part1","text":"auffahrend.","type":"other","source":"nltk"}
+{"id":"tg984.2.22.1.part1","text":"aufgebracht.","type":"other","source":"nltk"}
+{"id":"tg984.2.24.1.part1","text":"heftig.","type":"other","source":"nltk"}
+{"id":"tg984.2.27.1.part2","text":"Wie vor sich, aber laut.","type":"other","source":"nltk"}
+{"id":"tg984.2.28.1.part1","text":"schlägt ihn.","type":"other","source":"nltk"}
+{"id":"tg984.2.31.1","text":"Amalia wendet ihr Gesicht ab.","type":"other","source":"nltk"}
+{"id":"tg984.2.33.1.part2","text":"Boshaft lächelnd.","type":"other","source":"nltk"}
+{"id":"tg984.2.35.1.part1","text":"froh aufspringend.","type":"other","source":"nltk"}
+{"id":"tg984.2.35.2.part2","text":"Franz steht einige Zeit tiefsinnig, dann dreht er sich plötzlich, um zu gehen.","type":"other","source":"nltk"}
+{"id":"tg984.2.36.1.part1","text":"mit verhülltem Gesicht.","type":"other","source":"nltk"}
+{"id":"tg984.2.37.1.part1","text":"fällt ihm um den Hals.","type":"other","source":"nltk"}
+{"id":"tg984.2.41.1.part1","text":"schüttelt den Kopf.","type":"other","source":"nltk"}
+{"id":"tg984.2.44.1","text":"Amalia sieht ihn verwundernd an.","type":"other","source":"nltk"}
+{"id":"tg984.2.46.1.part2","text":"Er stürzt vor ihr nieder und küßt ihr die Hand mit Heftigkeit.","type":"other","source":"nltk"}
+{"id":"tg984.2.47.1.part1","text":"zurückspringend.","type":"other","source":"nltk"}
+{"id":"tg984.2.55.1.part1","text":"mit den Füßen stampfend.","type":"other","source":"nltk"}
+{"id":"tg984.2.55.2.part2","text":"Zornig ab.","type":"exit","source":"nltk"}
+{"id":"tg984.2.56.1.part2","text":"Sie reißt sich die Perlen vom Hals.","type":"other","source":"nltk"}
+{"id":"tg984.2.56.2.part2","text":"Ab.","type":"exit","source":"nltk"}
+{"id":"tg986.2.2.1.part1","text":"nachdenkend in seinem Zimmer.","type":"enter","source":"nltk"}
+{"id":"tg986.2.5.5","text":"Tiefsinnend.","type":"other","source":"nltk"}
+{"id":"tg986.2.5.6","text":"Auffahrend.","type":"other","source":"nltk"}
+{"id":"tg986.2.5.17","text":"Spöttisch.","type":"other","source":"nltk"}
+{"id":"tg986.2.6.1","text":"Entschloßen.","type":"other","source":"nltk"}
+{"id":"tg986.2.6.2","text":"Hermann tritt auf.","type":"enter","source":"nltk"}
+{"id":"tg986.2.8.1.part1","text":"gibt ihm die Hand.","type":"other","source":"nltk"}
+{"id":"tg986.2.25.1.part1","text":"wild.","type":"other","source":"nltk"}
+{"id":"tg986.2.29.1.part1","text":"stampft auf den Boden.","type":"other","source":"nltk"}
+{"id":"tg986.2.30.1.part1","text":"klopft ihm auf die Achsel.","type":"other","source":"nltk"}
+{"id":"tg986.2.35.1.part1","text":"näher kommend.","type":"other","source":"nltk"}
+{"id":"tg986.2.36.1.part2","text":"Lachend.","type":"other","source":"nltk"}
+{"id":"tg986.2.39.1.part1","text":"in Hitze.","type":"other","source":"nltk"}
+{"id":"tg986.2.47.1.part1","text":"streichelt ihm die Backen.","type":"other","source":"nltk"}
+{"id":"tg986.2.48.1.part2","text":"Frohlockend.","type":"other","source":"nltk"}
+{"id":"tg986.2.49.1.part1","text":"ihm nachrufend.","type":"other","source":"nltk"}
+{"id":"tg986.2.49.2.part2","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg987.2.4","text":"Des alten Moors Schlafzimmer.","type":"other","source":"NLP"}
+{"id":"tg987.2.5","text":"Der alte Moor schlafend in einem Lehnseßel. Amalia.","type":"enter","source":"nltk"}
+{"id":"tg987.2.7.1.part1","text":"sachte herbeischleichend.","type":"other","source":"nltk"}
+{"id":"tg987.2.7.2.part2","text":"Sie stellt sich vor den Schlafenden.","type":"other","source":"nltk"}
+{"id":"tg987.2.9.1.part1","text":"träumend.","type":"other","source":"nltk"}
+{"id":"tg987.2.11.1.part1","text":"ergreift seine Hand.","type":"other","source":"nltk"}
+{"id":"tg987.2.13.1.part1","text":"weckt ihn schnell.","type":"other","source":"nltk"}
+{"id":"tg987.2.14.1.part1","text":"halb wach.","type":"other","source":"nltk"}
+{"id":"tg987.2.16.1.part1","text":"ermuntert sich.","type":"other","source":"nltk"}
+{"id":"tg987.2.21.1.part1","text":"küßt seine Hand mit Zärtlichkeit.","type":"other","source":"nltk"}
+{"id":"tg987.2.25.1.part1","text":"immer das Aug auf das Bild geheftet.","type":"other","source":"nltk"}
+{"id":"tg987.2.25.2.part2","text":"Auf Herz und Stirne zeigend.","type":"other","source":"nltk"}
+{"id":"tg987.2.29.1.part1","text":"schwärmend.","type":"other","source":"nltk"}
+{"id":"tg987.2.29.2.part2","text":"Aufspringend, entzückt.","type":"other","source":"nltk"}
+{"id":"tg987.2.29.3.part2","text":"Pause. Sie geht ans Klavier und spielt.","type":"other","source":"nltk"}
+{"id":"tg987.2.39.1.part2","text":"Spielt fort.","type":"other","source":"nltk"}
+{"id":"tg987.2.48.1","text":"Daniel.","type":"enter","source":"NLP"}
+{"id":"tg987.2.53.1.part2","text":"Daniel ab.","type":"exit","source":"nltk"}
+{"id":"tg987.2.55.1.part1","text":"spielt fort.","type":"other","source":"nltk"}
+{"id":"tg987.2.70.1","text":"Franz. Hermann verkappt. Daniel.","type":"enter","source":"nltk"}
+{"id":"tg987.2.74.1.part1","text":"mit veränderter Stimme.","type":"other","source":"nltk"}
+{"id":"tg987.2.77.1.part1","text":"auffahrend.","type":"other","source":"nltk"}
+{"id":"tg987.2.77.2.part2","text":"Will hinwegrennen.","type":"other","source":"nltk"}
+{"id":"tg987.2.83.1.part1","text":"verhüllt sein Haupt in das Kißen.","type":"other","source":"nltk"}
+{"id":"tg987.2.85.1.part1","text":"in Entzückung.","type":"other","source":"nltk"}
+{"id":"tg987.2.87.1.part1","text":"wild auf Hermann losgehend.","type":"other","source":"nltk"}
+{"id":"tg987.2.89.1.part1","text":"wie aus einem Todeßchlummer aufgejagt.","type":"other","source":"nltk"}
+{"id":"tg987.2.90.1.part1","text":"gräßlich schreiend, sich die Haare ausraufend.","type":"other","source":"nltk"}
+{"id":"tg987.2.91.1.part1","text":"umherirrend im Zimmer.","type":"other","source":"nltk"}
+{"id":"tg987.2.93.1.part1","text":"wie erstaunt.","type":"other","source":"nltk"}
+{"id":"tg987.2.94.1.part1","text":"heftig auf Hermann losgehend.","type":"other","source":"nltk"}
+{"id":"tg987.2.94.2.part2","text":"Faßt ihn hart an.","type":"other","source":"nltk"}
+{"id":"tg987.2.97.1.part1","text":"gibt ihm das Bild zurück.","type":"other","source":"nltk"}
+{"id":"tg987.2.98.1.part1","text":"schreiend, sein Gesicht zerfleischend.","type":"other","source":"nltk"}
+{"id":"tg987.2.100.1.part1","text":"lallend.","type":"other","source":"nltk"}
+{"id":"tg987.2.101.1.part2","text":"Leise zu Franz.","type":"other","source":"nltk"}
+{"id":"tg987.2.101.2.part2","text":"Geht schnell ab.","type":"other","source":"nltk"}
+{"id":"tg987.2.102.1.part1","text":"aufspringend, ihm nach.","type":"other","source":"nltk"}
+{"id":"tg987.2.103.1.part1","text":"zurückrufend.","type":"other","source":"nltk"}
+{"id":"tg987.2.103.2.part2","text":"Ab.","type":"exit","source":"nltk"}
+{"id":"tg987.2.105.1.part2","text":"Hin und her taumelnd, bis sie umsinkt.","type":"other","source":"nltk"}
+{"id":"tg987.2.109.1.part2","text":"Schnell ab.","type":"exit","source":"nltk"}
+{"id":"tg987.2.110.1.part1","text":"auf den Boden stampfend.","type":"other","source":"nltk"}
+{"id":"tg987.2.113.1.part1","text":"schlägt mit geballter Faust wider Brust und Stirn.","type":"other","source":"nltk"}
+{"id":"tg987.2.113.2.part2","text":"Wütet wider sich selber.","type":"other","source":"nltk"}
+{"id":"tg987.2.114.1.part2","text":"Höhnisch lachend.","type":"other","source":"nltk"}
+{"id":"tg987.2.118.1.part2","text":"Fährt aus dem Seßel, will Franzen an der Gurgel faßen, der ihn zurückschleudert.","type":"other","source":"nltk"}
+{"id":"tg987.2.119.1.part2","text":"Ab.","type":"exit","source":"nltk"}
+{"id":"tg987.2.120.1.part2","text":"Voll Verzweiflung hin und her geworfen im Seßel.","type":"other","source":"nltk"}
+{"id":"tg987.2.122.1","text":"Amalia mit verweinten Augen.","type":"enter","source":"nltk"}
+{"id":"tg987.2.125.1.part1","text":"mit sanfterem Ton.","type":"other","source":"nltk"}
+{"id":"tg987.2.134.1","text":"Franz tritt auf.","type":"enter","source":"nltk"}
+{"id":"tg987.2.141.1.part2","text":"Nimmt die Bibel und blättert.","type":"other","source":"nltk"}
+{"id":"tg987.2.143.1.part1","text":"liest.","type":"other","source":"nltk"}
+{"id":"tg987.2.143.2.part2","text":"Franz geht plötzlich hinweg.","type":"exit","source":"nltk"}
+{"id":"tg987.2.144.1.part1","text":"fällt aufs Kißen zurück.","type":"other","source":"nltk"}
+{"id":"tg987.2.145.1.part1","text":"liest weiter.","type":"other","source":"nltk"}
+{"id":"tg987.2.148.1.part1","text":"hinzuspringend, läßt das Buch fallen.","type":"other","source":"nltk"}
+{"id":"tg987.2.152.1.part1","text":"mit einem plötzlichen Schrei.","type":"other","source":"nltk"}
+{"id":"tg987.2.152.2.part2","text":"Ab in Verzweiflung.","type":"other","source":"nltk"}
+{"id":"tg987.2.154.1","text":"Franz hüpft frohlockend herein.","type":"enter","source":"nltk"}
+{"id":"tg987.2.156.2.part2","text":"Herr.","type":"other","source":"nltk"}
+{"id":"tg987.2.156.4.part2","text":"Er drückt ihm die Augen zu.","type":"other","source":"nltk"}
+{"id":"tg987.2.156.6.part2","text":"Er geht ab.","type":"exit","source":"nltk"}
+{"id":"tg988.2.4","text":"Die böhmischen Wälder.","type":"other","source":"nltk"}
+{"id":"tg988.2.5","text":"Spiegelberg, Razmann, Räuberhaufen.","type":"enter","source":"nltk"}
+{"id":"tg988.2.9.1.part1","text":"lacht.","type":"other","source":"nltk"}
+{"id":"tg988.2.11.1.part1","text":"auf den Boden stampfend.","type":"other","source":"nltk"}
+{"id":"tg988.2.18.2.part2","text":"Aufspringend.","type":"other","source":"nltk"}
+{"id":"tg988.2.39.1","text":"Schwarz in vollem Lauf.","type":"other","source":"nltk"}
+{"id":"tg988.2.50.1.part2","text":"Trillert ein Liedchen.","type":"other","source":"nltk"}
+{"id":"tg988.2.57.1.part1","text":"aufspringend.","type":"other","source":"nltk"}
+{"id":"tg988.2.57.2.part2","text":"Schießen und Lärmen.","type":"other","source":"nltk"}
+{"id":"tg988.2.61.1","text":"Hinter der Szene gesungen.","type":"other","source":"nltk"}
+{"id":"tg988.2.64.1","text":"Da Capo.","type":"other","source":"nltk"}
+{"id":"tg988.2.66.1.part2","text":"hinter der Szene.","type":"other","source":"nltk"}
+{"id":"tg988.2.68.1.part2","text":"hinter der Szene.","type":"other","source":"nltk"}
+{"id":"tg988.2.69.1.part2","text":"Fliegen ihm entgegen.","type":"other","source":"nltk"}
+{"id":"tg988.2.71.1","text":"Räuber Moor zu Pferd, Schweizer, Roller, Grimm, Schufterle, Räubertrupp mit Kot und Staub bedeckt, treten auf.","type":"other","source":"nltk"}
+{"id":"tg988.2.73.1.part1","text":"vom Pferd springend.","type":"other","source":"nltk"}
+{"id":"tg988.2.73.2.part2","text":"Wirft sich auf die Erde.","type":"other","source":"nltk"}
+{"id":"tg988.2.74.1.part1","text":"zu Roller.","type":"other","source":"nltk"}
+{"id":"tg988.2.76.1.part1","text":"in Atem.","type":"other","source":"nltk"}
+{"id":"tg988.2.80.1.part1","text":"stürzt eine Flasche Branntenwein hinunter.","type":"other","source":"nltk"}
+{"id":"tg988.2.87.1.part1","text":"lacht.","type":"other","source":"nltk"}
+{"id":"tg988.2.87.2.part2","text":"Trinkt ihm zu.","type":"other","source":"nltk"}
+{"id":"tg988.2.88.1.part1","text":"wirft sein Glas weg.","type":"other","source":"nltk"}
+{"id":"tg988.2.98.1.part1","text":"sehr ernst.","type":"other","source":"nltk"}
+{"id":"tg988.2.102.2.part2","text":"Sie gehn zitternd ab.","type":"exit","source":"nltk"}
+{"id":"tg988.2.104.1","text":"Moor allein, heftig auf und ab gehend.","type":"other","source":"nltk"}
+{"id":"tg988.2.107.1.part1","text":"eilig.","type":"other","source":"nltk"}
+{"id":"tg988.2.109.1.part2","text":"Moor geht ab.","type":"exit","source":"nltk"}
+{"id":"tg988.2.111.1","text":"Schweizer. Grimm. Roller. Schwarz. Schufterle. Spiegelberg. Razmann. Räubertrupp.","type":"enter","source":"NLP"}
+{"id":"tg988.2.123.1","text":"Moor, langsam, vor sich.","type":"aside","source":"nltk"}
+{"id":"tg988.2.125.1.part2","text":"Laut.","type":"other","source":"nltk"}
+{"id":"tg988.2.128.1.part1","text":"springt auf.","type":"other","source":"nltk"}
+{"id":"tg988.2.135.1.part2","text":"Schufterle zupft Schweizern, dieser nimmt den Hauptmann beiseit und spricht leise mit ihm.","type":"other","source":"nltk"}
+{"id":"tg988.2.141.1","text":"Pater tritt auf.","type":"enter","source":"nltk"}
+{"id":"tg988.2.143.1.part1","text":"vor sich, stutzt.","type":"aside","source":"nltk"}
+{"id":"tg988.2.154.1.part1","text":"im Eifer.","type":"other","source":"nltk"}
+{"id":"tg988.2.154.2.part2","text":"Mit zusammengeschlagenen Händen.","type":"other","source":"nltk"}
+{"id":"tg988.2.158.1.part2","text":"bei dem Rade bewenden.","type":"other","source":"nltk"}
+{"id":"tg988.2.161.1.part2","text":"Pater schreit.","type":"other","source":"nltk"}
+{"id":"tg988.2.163.1.part2","text":"Zum Pater, indem er seinen Degen zieht.","type":"other","source":"nltk"}
+{"id":"tg988.2.163.2.part2","text":"Er streckt seine rechte Hand aus.","type":"other","source":"nltk"}
+{"id":"tg988.2.167.1.part2","text":"Er kehrt ihm den Rücken zu.","type":"other","source":"nltk"}
+{"id":"tg988.2.168.1.part2","text":"Wendet sich zu der Bande.","type":"other","source":"nltk"}
+{"id":"tg988.2.168.2.part2","text":"Mit triumphierendem Lächeln.","type":"other","source":"nltk"}
+{"id":"tg988.2.171.1.part1","text":"vor sich.","type":"aside","source":"nltk"}
+{"id":"tg988.2.171.2.part2","text":"Er gibt Schweizern ein Papier.","type":"other","source":"nltk"}
+{"id":"tg988.2.175.1.part1","text":"äußerst erstaunt.","type":"other","source":"nltk"}
+{"id":"tg988.2.177.1.part1","text":"in wilder Bewegung.","type":"other","source":"nltk"}
+{"id":"tg988.2.177.2.part2","text":"Schwenkt seinen Degen.","type":"other","source":"nltk"}
+{"id":"tg988.2.178.1.part1","text":"zerreißt den Pardon und wirft die Stücke dem Pater ins Gesicht.","type":"other","source":"nltk"}
+{"id":"tg988.2.179.1.part1","text":"lärmen.","type":"other","source":"nltk"}
+{"id":"tg988.2.180.1.part1","text":"sich losreißend, freudig.","type":"other","source":"nltk"}
+{"id":"tg988.2.182.1","text":"Man bläst zum Angriff. Lärm und Getümmel. Sie gehen ab mit gezogenem Degen.","type":"exit","source":"nltk"}
+{"id":"tg990.2.2.1.part1","text":"im Garten, spielt auf der Laute.","type":"enter","source":"nltk"}
+{"id":"tg990.2.28.1","text":"Franz tritt auf.","type":"enter","source":"nltk"}
+{"id":"tg990.2.41.2.part2","text":"fehlen.","type":"other","source":"nltk"}
+{"id":"tg990.2.46.1.part1","text":"gibt ihm eine Maulschelle.","type":"other","source":"nltk"}
+{"id":"tg990.2.47.1.part1","text":"aufgebracht.","type":"other","source":"nltk"}
+{"id":"tg990.2.47.2.part2","text":"Will sie fortreißen.","type":"other","source":"nltk"}
+{"id":"tg990.2.48.1.part1","text":"fällt ihm um den Hals.","type":"other","source":"nltk"}
+{"id":"tg990.2.48.2.part2","text":"Wie er sie umarmen will, reißt sie ihm den Degen von der Seite und tritt hastig zurück.","type":"other","source":"nltk"}
+{"id":"tg990.2.50.1","text":"Amalia.","type":"enter","source":"NLP"}
+{"id":"tg990.2.52.2","text":"Sie will gehn.","type":"other","source":"nltk"}
+{"id":"tg990.2.54.1","text":"Hermann tritt schüchtern herein.","type":"enter","source":"nltk"}
+{"id":"tg990.2.58.1.part2","text":"Wirft sich vor ihr nieder.","type":"other","source":"nltk"}
+{"id":"tg990.2.59.1.part2","text":"Will fort.","type":"other","source":"nltk"}
+{"id":"tg990.2.60.1.part1","text":"der sie zurückhält.","type":"other","source":"nltk"}
+{"id":"tg990.2.61.1.part2","text":"Will hinwegeilen.","type":"other","source":"nltk"}
+{"id":"tg990.2.63.1.part1","text":"kommt zurück und blickt ihn verwundernd an.","type":"other","source":"nltk"}
+{"id":"tg990.2.65.1.part1","text":"mit Mitleiden, seine Hand ergreifend.","type":"other","source":"nltk"}
+{"id":"tg990.2.66.1.part1","text":"steht auf.","type":"other","source":"nltk"}
+{"id":"tg990.2.67.1.part1","text":"schreiend.","type":"other","source":"nltk"}
+{"id":"tg990.2.69.1.part1","text":"gegen ihn herstürzend.","type":"other","source":"nltk"}
+{"id":"tg990.2.74.1.part2","text":"Eilt hinaus.","type":"exit","source":"nltk"}
+{"id":"tg990.2.75.1.part1","text":"steht lang wie versteinert.","type":"other","source":"nltk"}
+{"id":"tg991.2.4","text":"Gegend an der Donau.","type":"other","source":"nltk"}
+{"id":"tg991.2.5","text":"Die Räuber, gelagert auf einer Anhöhe unter Bäumen, die Pferde weiden am Hügel hinunter.","type":"enter","source":"nltk"}
+{"id":"tg991.2.7.1.part2","text":"Wirft sich auf die Erde.","type":"other","source":"nltk"}
+{"id":"tg991.2.7.2.part2","text":"Schweizer verliert sich unvermerkt.","type":"other","source":"nltk"}
+{"id":"tg991.2.18.1.part1","text":"in den Anblick verschwemmt.","type":"other","source":"nltk"}
+{"id":"tg991.2.20.3.part2","text":"Mit verbißnem Schmerz.","type":"other","source":"nltk"}
+{"id":"tg991.2.22.1.part1","text":"drückt den Hut übers Gesicht.","type":"other","source":"nltk"}
+{"id":"tg991.2.27.1.part1","text":"legt sein Haupt auf Grimms Brust.","type":"other","source":"nltk"}
+{"id":"tg991.2.36.1.part1","text":"zurückgesunken.","type":"other","source":"nltk"}
+{"id":"tg991.2.38.4.part2","text":"Wild zurückfahrend.","type":"other","source":"nltk"}
+{"id":"tg991.2.39.1.part1","text":"zu den übrigen.","type":"other","source":"nltk"}
+{"id":"tg991.2.40.1.part1","text":"mit Wehmut.","type":"other","source":"nltk"}
+{"id":"tg991.2.41.1.part1","text":"zu den andern.","type":"other","source":"nltk"}
+{"id":"tg991.2.44.1","text":"Schweizer mit Waßer im Hut.","type":"other","source":"nltk"}
+{"id":"tg991.2.49.1.part1","text":"gibt ihm den Hut zurück und wischt ihm sein Gesicht ab.","type":"other","source":"nltk"}
+{"id":"tg991.2.51.2.part2","text":"Er wischt sich die Augen.","type":"other","source":"nltk"}
+{"id":"tg991.2.53.1.part2","text":"Er entblößt das Haupt.","type":"other","source":"nltk"}
+{"id":"tg991.2.53.3.part2","text":"verlaßen.","type":"other","source":"nltk"}
+{"id":"tg991.2.55.3.part2","text":"verlaßen.","type":"other","source":"nltk"}
+{"id":"tg991.2.57.1","text":"Kosinsky kommt.","type":"enter","source":"nltk"}
+{"id":"tg991.2.59.1.part1","text":"vor sich.","type":"aside","source":"nltk"}
+{"id":"tg991.2.66.1.part1","text":"zum Hauptmann.","type":"other","source":"nltk"}
+{"id":"tg991.2.69.1.part1","text":"gibt ihm die Hand, mit Wärme.","type":"other","source":"nltk"}
+{"id":"tg991.2.70.1.part1","text":"näherkommend.","type":"other","source":"nltk"}
+{"id":"tg991.2.71.2.part2","text":"Starrt ihn lang an.","type":"other","source":"nltk"}
+{"id":"tg991.2.77.1.part1","text":"mit einem Sprung.","type":"other","source":"nltk"}
+{"id":"tg991.2.90.1.part1","text":"unwillig auf und ab gehend.","type":"other","source":"nltk"}
+{"id":"tg991.2.92.2.part2","text":"Er nimmt seine Hand.","type":"other","source":"nltk"}
+{"id":"tg991.2.100.1","text":"Moor steht schnell auf.","type":"other","source":"nltk"}
+{"id":"tg991.2.106.1.part2","text":"Lachend.","type":"other","source":"nltk"}
+{"id":"tg991.2.109.1.part1","text":"stampft auf den Boden.","type":"other","source":"nltk"}
+{"id":"tg991.2.111.1.part1","text":"aufstehend, seinen Degen wetzend.","type":"other","source":"nltk"}
+{"id":"tg991.2.112.1.part1","text":"der bisher in heftigen Bewegungen hin- und hergegangen, springt rasch auf, zu den Räubern.","type":"other","source":"nltk"}
+{"id":"tg991.2.114.1.part2","text":"Heftig zu Schweizern.","type":"other","source":"nltk"}
+{"id":"tg991.2.116.1.part1","text":"fällt ihm um den Hals.","type":"other","source":"nltk"}
+{"id":"tg991.2.116.2.part2","text":"Sie gehen ab.","type":"exit","source":"nltk"}
+{"id":"tg993.2.4","text":"Ländliche Gegend um das Moorische Schloß.","type":"other","source":"nltk"}
+{"id":"tg993.2.5","text":"Räuber Moor, Kosinsky in der Ferne.","type":"enter","source":"nltk"}
+{"id":"tg993.2.8.1.part2","text":"Ab.","type":"exit","source":"nltk"}
+{"id":"tg993.2.9.1.part2","text":"Er küßt die Erde.","type":"other","source":"nltk"}
+{"id":"tg993.2.9.2.part2","text":"Er kommt näher.","type":"other","source":"nltk"}
+{"id":"tg993.2.9.3.part2","text":"Er lächelt.","type":"other","source":"nltk"}
+{"id":"tg993.2.9.4.part2","text":"Er fährt auf.","type":"other","source":"nltk"}
+{"id":"tg993.2.9.6.part2","text":"Er dreht sich schnell nach dem äußersten Ende der Gegend, allwo er plötzlich stille steht und nach dem Schloß mit Wehmut herüberblickt.","type":"other","source":"nltk"}
+{"id":"tg993.2.9.7.part2","text":"Er kehrt um.","type":"other","source":"nltk"}
+{"id":"tg993.2.9.9.part2","text":"Er geht schnell auf das Schloß zu.","type":"other","source":"nltk"}
+{"id":"tg993.2.9.10.part2","text":"Er steht an der Pforte.","type":"other","source":"nltk"}
+{"id":"tg993.2.9.11.part2","text":"Er geht hinein.","type":"exit","source":"nltk"}
+{"id":"tg994.2.4","text":"Galerie im Schloß. Räuber Moor, Amalia treten auf.","type":"enter","source":"nltk"}
+{"id":"tg994.2.7.1.part2","text":"An den Gemälden herumgehend.","type":"other","source":"nltk"}
+{"id":"tg994.2.9.1.part1","text":"immer an den Gemälden.","type":"other","source":"nltk"}
+{"id":"tg994.2.13.1.part1","text":"schnell, mit einer fliegenden Röte.","type":"other","source":"nltk"}
+{"id":"tg994.2.13.3.part2","text":"Er steht wie vom Blitz gerührt.","type":"other","source":"nltk"}
+{"id":"tg994.2.16.1.part1","text":"in seinen Anblick versunken.","type":"other","source":"nltk"}
+{"id":"tg994.2.16.2.part2","text":"Er wischt sich die Augen.","type":"other","source":"nltk"}
+{"id":"tg994.2.19.1.part2","text":"Sanft seine Hand ergreifend.","type":"other","source":"nltk"}
+{"id":"tg994.2.30.1","text":"Amalia schnell ab.","type":"exit","source":"nltk"}
+{"id":"tg994.2.32.1.part2","text":"Ergriffen vom Anblick seines Vaters.","type":"other","source":"nltk"}
+{"id":"tg994.2.32.2.part2","text":"Er rennt davon.","type":"exit","source":"nltk"}
+{"id":"tg994.2.33.1.part1","text":"in tiefen Gedanken.","type":"enter","source":"nltk"}
+{"id":"tg994.2.33.3.part2","text":"Er steht forschend dem Porträt Karls gegenüber.","type":"other","source":"nltk"}
+{"id":"tg994.2.33.4.part2","text":"Plötzlich zusammenfahrend.","type":"other","source":"nltk"}
+{"id":"tg994.2.33.6.part2","text":"Auf und ab mit heftigen Schritten.","type":"exit","source":"nltk"}
+{"id":"tg994.2.33.9.part2","text":"Er schellt.","type":"other","source":"nltk"}
+{"id":"tg994.2.35.1","text":"Daniel kommt.","type":"enter","source":"nltk"}
+{"id":"tg994.2.38.1.part2","text":"Daniel ab.","type":"exit","source":"nltk"}
+{"id":"tg994.2.40.1","text":"Daniel mit Wein.","type":"enter","source":"nltk"}
+{"id":"tg994.2.48.1.part1","text":"greift ihn hart an.","type":"other","source":"nltk"}
+{"id":"tg994.2.61.1.part1","text":"blaß.","type":"other","source":"nltk"}
+{"id":"tg994.2.62.1.part1","text":"betroffen.","type":"other","source":"nltk"}
+{"id":"tg994.2.68.1.part1","text":"schlägt die Hände zusammen.","type":"other","source":"nltk"}
+{"id":"tg994.2.79.1.part1","text":"im Begriff zu gehen.","type":"other","source":"nltk"}
+{"id":"tg994.2.79.2.part2","text":"Daniel hält ihn auf und fällt vor ihm nieder.","type":"other","source":"nltk"}
+{"id":"tg994.2.82.1.part2","text":"Umfaßt seine Knie heftig.","type":"other","source":"nltk"}
+{"id":"tg994.2.90.1.part1","text":"nach einigem Nachdenken.","type":"other","source":"nltk"}
+{"id":"tg994.2.90.2.part2","text":"Ab.","type":"exit","source":"nltk"}
+{"id":"tg994.2.91.5.part2","text":"Er geht ab.","type":"exit","source":"nltk"}
+{"id":"tg995.2.4","text":"Andres Zimmer im Schloß.","type":"other","source":"nltk"}
+{"id":"tg995.2.5","text":"Räuber Moor von der einen Seite, Daniel von der andern.","type":"enter","source":"nltk"}
+{"id":"tg995.2.7.1.part1","text":"hastig.","type":"other","source":"nltk"}
+{"id":"tg995.2.12.1.part2","text":"Umarmt ihn.","type":"other","source":"nltk"}
+{"id":"tg995.2.15.1.part2","text":"Er greift sie, betrachtet sie schnell und fällt vor ihm nieder.","type":"other","source":"nltk"}
+{"id":"tg995.2.16.1.part1","text":"erschrickt, faßt sich, fremd.","type":"other","source":"nltk"}
+{"id":"tg995.2.17.1.part2","text":"Sich vor den Kopf schlagend.","type":"other","source":"nltk"}
+{"id":"tg995.2.22.1.part1","text":"fällt ihm um den Hals.","type":"other","source":"nltk"}
+{"id":"tg995.2.23.1.part1","text":"fängt an zu weinen.","type":"other","source":"nltk"}
+{"id":"tg995.2.25.1.part2","text":"Dringt ihm einen schweren Beutel auf.","type":"other","source":"nltk"}
+{"id":"tg995.2.27.1.part2","text":"Daniel will niederfallen.","type":"other","source":"nltk"}
+{"id":"tg995.2.29.1.part1","text":"heftig.","type":"other","source":"nltk"}
+{"id":"tg995.2.32.1.part2","text":"Will fort.","type":"other","source":"nltk"}
+{"id":"tg995.2.36.1.part1","text":"leiser.","type":"other","source":"nltk"}
+{"id":"tg995.2.38.2.part2","text":"Schnell ab.","type":"exit","source":"nltk"}
+{"id":"tg995.2.39.1.part1","text":"auffahrend aus schröcklichem Pausen.","type":"other","source":"nltk"}
+{"id":"tg995.2.39.5.part2","text":"Wider die Wand rennend.","type":"other","source":"nltk"}
+{"id":"tg995.2.39.6.part2","text":"Er läuft wütend auf und nieder.","type":"other","source":"nltk"}
+{"id":"tg995.2.41.1","text":"Kosinsky kommt.","type":"enter","source":"nltk"}
+{"id":"tg995.2.46.1.part1","text":"befehlend.","type":"other","source":"nltk"}
+{"id":"tg995.2.48.1","text":"Moor.","type":"other","source":"nltk"}
+{"id":"tg995.2.52.1","text":"Kosinsky.","type":"other","source":"nltk"}
+{"id":"tg996.2.4","text":"Im Garten.","type":"other","source":"nltk"}
+{"id":"tg996.2.5","text":"Amalia.","type":"enter","source":"NLP"}
+{"id":"tg996.2.9.1","text":"Räuber Moor öffnet die Gartentüre.","type":"enter","source":"nltk"}
+{"id":"tg996.2.11.1.part1","text":"fährt zusammen.","type":"other","source":"nltk"}
+{"id":"tg996.2.11.2.part2","text":"Sie wird Karln gewahr und springt auf.","type":"other","source":"nltk"}
+{"id":"tg996.2.11.3.part2","text":"Sie nimmt Karls Bild heraus.","type":"other","source":"nltk"}
+{"id":"tg996.2.11.4.part2","text":"Sie sitzt stumm, das Auge starr auf das Bild geheftet.","type":"other","source":"nltk"}
+{"id":"tg996.2.13.1.part2","text":"Amalia gibt ihm keine Antwort.","type":"other","source":"nltk"}
+{"id":"tg996.2.13.2.part2","text":"Er will das Gemälde betrachten.","type":"other","source":"nltk"}
+{"id":"tg996.2.15.1.part1","text":"zurückfahrend.","type":"other","source":"nltk"}
+{"id":"tg996.2.22.1","text":"Moor sieht zur Erde.","type":"other","source":"nltk"}
+{"id":"tg996.2.29.1.part1","text":"blaß.","type":"other","source":"nltk"}
+{"id":"tg996.2.37.1.part1","text":"froh aufhüpfend.","type":"other","source":"nltk"}
+{"id":"tg996.2.39.1","text":"Moor kehrt sich schnell ab in ein Gebüsch, blickt starr in die Gegend.","type":"other","source":"nltk"}
+{"id":"tg996.2.41.1.part1","text":"singt und spielt auf der Laute.","type":"other","source":"nltk"}
+{"id":"tg996.2.49.1.part1","text":"nimmt die Laute stillschweigend und spielt.","type":"other","source":"nltk"}
+{"id":"tg996.2.53.1","text":"Er wirft die Laute weg und flieht davon.","type":"exit","source":"nltk"}
+{"id":"tg997.2.4","text":"Nahgelegener Wald. Nacht. Ein altes verfallenes Schloß in der Mitte.","type":"other","source":"nltk"}
+{"id":"tg997.2.5","text":"Die Räuberbande gelagert auf der Erde.","type":"enter","source":"nltk"}
+{"id":"tg997.2.7.1.part1","text":"singen.","type":"other","source":"nltk"}
+{"id":"tg997.2.52.1.part1","text":"nimmt Razmann beiseite.","type":"other","source":"nltk"}
+{"id":"tg997.2.53.1.part1","text":"zu Grimm.","type":"other","source":"nltk"}
+{"id":"tg997.2.56.1.part1","text":"leise zu Spiegelberg.","type":"other","source":"nltk"}
+{"id":"tg997.2.58.1.part1","text":"zu Grimm.","type":"other","source":"nltk"}
+{"id":"tg997.2.60.1.part1","text":"leise zu Spiegelberg.","type":"other","source":"nltk"}
+{"id":"tg997.2.62.1.part1","text":"zu den andern.","type":"other","source":"nltk"}
+{"id":"tg997.2.63.1.part1","text":"zu Razmann.","type":"other","source":"nltk"}
+{"id":"tg997.2.65.1.part2","text":"Er will ihn fortreißen.","type":"other","source":"nltk"}
+{"id":"tg997.2.66.1.part1","text":"zieht wütend sein Meßer.","type":"other","source":"nltk"}
+{"id":"tg997.2.66.4.part2","text":"Er sticht ihn tot.","type":"dead","source":"nltk"}
+{"id":"tg997.2.67.1.part1","text":"in Bewegung.","type":"other","source":"nltk"}
+{"id":"tg997.2.68.1.part1","text":"wirft das Meßer über ihn.","type":"other","source":"nltk"}
+{"id":"tg997.2.70.1.part2","text":"Zu Razmann.","type":"other","source":"nltk"}
+{"id":"tg997.2.70.2.part2","text":"Man schießt.","type":"other","source":"nltk"}
+{"id":"tg997.2.71.1.part1","text":"aufspringend.","type":"other","source":"nltk"}
+{"id":"tg997.2.72.1.part2","text":"Man hört noch einen Schuß.","type":"other","source":"nltk"}
+{"id":"tg997.2.73.1.part2","text":"Sie schießen.","type":"other","source":"nltk"}
+{"id":"tg997.2.75.1","text":"Moor, Kosinsky treten auf.","type":"enter","source":"nltk"}
+{"id":"tg997.2.77.1.part1","text":"ihnen entgegen.","type":"other","source":"nltk"}
+{"id":"tg997.2.77.2.part2","text":"Er führt ihn an die Leiche.","type":"other","source":"nltk"}
+{"id":"tg997.2.78.1.part1","text":"mit Bestürzung.","type":"other","source":"nltk"}
+{"id":"tg997.2.79.1.part1","text":"in den Anblick versunken, bricht heftig aus.","type":"other","source":"nltk"}
+{"id":"tg997.2.80.1.part2","text":"Geht unwillig ab.","type":"exit","source":"nltk"}
+{"id":"tg997.2.81.1.part1","text":"nachdenkend.","type":"other","source":"nltk"}
+{"id":"tg997.2.81.2.part2","text":"Spiegelbergs Leiche wird hinweggetragen.","type":"other","source":"nltk"}
+{"id":"tg997.2.88.1.part2","text":"Sie lagern sich auf der Erde und schlafen ein.","type":"other","source":"nltk"}
+{"id":"tg997.2.90.1","text":"Tiefe Stille.","type":"other","source":"nltk"}
+{"id":"tg997.2.92.1.part1","text":"nimmt die Laute und spielt.","type":"other","source":"nltk"}
+{"id":"tg997.2.153.1","text":"Er legt die Laute hin, geht tiefdenkend auf und nieder.","type":"other","source":"nltk"}
+{"id":"tg997.2.156.9","text":"Die Pistole vors Gesicht haltend.","type":"other","source":"nltk"}
+{"id":"tg997.2.157.1","text":"Heftig zitternd.","type":"other","source":"nltk"}
+{"id":"tg997.2.157.2","text":"Von Schauer geschüttelt.","type":"other","source":"nltk"}
+{"id":"tg997.2.158.1","text":"Er setzt die Pistole an.","type":"other","source":"nltk"}
+{"id":"tg997.2.159.3","text":"Er lädt die Pistole. Plötzlich hält er inn.","type":"other","source":"nltk"}
+{"id":"tg997.2.159.4","text":"Er wirft die Pistole weg.","type":"other","source":"nltk"}
+{"id":"tg997.2.161.1","text":"Es wird immer finstrer.","type":"other","source":"nltk"}
+{"id":"tg997.2.162.1","text":"Hermann, der durch den Wald kommt.","type":"enter","source":"nltk"}
+{"id":"tg997.2.164.1.part2","text":"Tritt an das Schloß und pocht.","type":"other","source":"nltk"}
+{"id":"tg997.2.165.1.part1","text":"sachte zurücktretend.","type":"other","source":"nltk"}
+{"id":"tg997.2.166.1.part1","text":"aus dem Schloß.","type":"other","source":"nltk"}
+{"id":"tg997.2.167.1.part2","text":"Eulen schreien.","type":"other","source":"nltk"}
+{"id":"tg997.2.173.1.part2","text":"Will fliehen.","type":"other","source":"nltk"}
+{"id":"tg997.2.175.1.part1","text":"mit Entsetzen hervortretend.","type":"other","source":"nltk"}
+{"id":"tg997.2.176.1.part1","text":"schreiend.","type":"other","source":"nltk"}
+{"id":"tg997.2.181.1.part1","text":"indem er den Degen zieht.","type":"other","source":"nltk"}
+{"id":"tg997.2.184.1.part1","text":"aus dem Schloß.","type":"other","source":"nltk"}
+{"id":"tg997.2.187.3.part2","text":"Er nimmt Brechinstrumente und öffnet das Gittertor. Aus dem Grunde steigt ein Alter, ausgemergelt wie ein Gerippe.","type":"other","source":"nltk"}
+{"id":"tg997.2.189.1.part1","text":"springt erschrocken zurück.","type":"other","source":"nltk"}
+{"id":"tg997.2.201.1.part1","text":"heftig von ihm abgewandt.","type":"other","source":"nltk"}
+{"id":"tg997.2.205.1.part2","text":"Er tut einen Pistolschuß über die schlafenden Räuber.","type":"other","source":"nltk"}
+{"id":"tg997.2.206.1.part1","text":"aufgejagt.","type":"other","source":"nltk"}
+{"id":"tg997.2.210.1.part1","text":"springen herbei und umringen den Alten.","type":"other","source":"nltk"}
+{"id":"tg997.2.211.1.part1","text":"tritt ehrerbietig näher, fällt vor ihm nieder.","type":"other","source":"nltk"}
+{"id":"tg997.2.212.1.part2","text":"Er zerreißt sein Kleid von oben bis unten.","type":"other","source":"nltk"}
+{"id":"tg997.2.212.2.part2","text":"Er steht auf.","type":"other","source":"nltk"}
+{"id":"tg997.2.214.2.part2","text":"Sie knien.","type":"other","source":"nltk"}
+{"id":"tg997.2.216.1.part2","text":"Er führt ihn zu seinem Vater und gibt ihm eine Locke in die Hand.","type":"other","source":"nltk"}
+{"id":"tg997.2.218.1.part2","text":"Schweizer steht auf.","type":"other","source":"nltk"}
+{"id":"tg997.2.221.1.part2","text":"Ab mit einem Geschwader.","type":"exit","source":"nltk"}
+{"id":"tg999.2.4","text":"Außicht von vielen Zimmern. Finstre Nacht.","type":"other","source":"nltk"}
+{"id":"tg999.2.5","text":"Daniel kommt mit einer Laterne und einem Reisebündel.","type":"enter","source":"nltk"}
+{"id":"tg999.2.9.1","text":"Wie er gehen will, kömmt Franz im Schlafrock hereingestürzt.","type":"enter","source":"nltk"}
+{"id":"tg999.2.11.1.part2","text":"Löscht die Laterne aus.","type":"other","source":"nltk"}
+{"id":"tg999.2.13.1.part1","text":"ängstlich.","type":"other","source":"nltk"}
+{"id":"tg999.2.14.1.part2","text":"Daniel ab, es kommt ein andrer Bedienter.","type":"enter","source":"nltk"}
+{"id":"tg999.2.22.1.part2","text":"Erster Bedienter eilend ab.","type":"exit","source":"nltk"}
+{"id":"tg999.2.23.1.part1","text":"kommt mit dem Licht.","type":"enter","source":"nltk"}
+{"id":"tg999.2.33.1.part2","text":"Er sinkt unmächtig nieder.","type":"other","source":"nltk"}
+{"id":"tg999.2.34.1.part2","text":"Rüttelt ihn.","type":"other","source":"nltk"}
+{"id":"tg999.2.35.1.part1","text":"verwirrt.","type":"other","source":"nltk"}
+{"id":"tg999.2.37.1.part1","text":"richtet sich matt auf.","type":"other","source":"nltk"}
+{"id":"tg999.2.49.2.part2","text":"Tiefe Pause.","type":"other","source":"nltk"}
+{"id":"tg999.2.54.1.part1","text":"im Abgehn.","type":"exit","source":"nltk"}
+{"id":"tg999.2.57.1","text":"Pastor Moser tritt auf.","type":"enter","source":"nltk"}
+{"id":"tg999.2.68.1.part1","text":"verwirrt.","type":"other","source":"nltk"}
+{"id":"tg999.2.72.1.part1","text":"unruhig im Zimmer auf und ab gehend.","type":"other","source":"nltk"}
+{"id":"tg999.2.73.2.part2","text":"Richter.","type":"other","source":"nltk"}
+{"id":"tg999.2.76.1.part1","text":"wild auf ihn losgehend.","type":"other","source":"nltk"}
+{"id":"tg999.2.83.1.part1","text":"sehr bedeutend.","type":"other","source":"nltk"}
+{"id":"tg999.2.88.1.part1","text":"fällt in einen Stuhl.","type":"other","source":"nltk"}
+{"id":"tg999.2.90.1.part1","text":"aufgesprungen.","type":"other","source":"nltk"}
+{"id":"tg999.2.91.1.part2","text":"Geht ab.","type":"exit","source":"nltk"}
+{"id":"tg999.2.93.1.part1","text":"wirft sich in seinem Seßel herum in schröcklichen Bewegungen.","type":"other","source":"nltk"}
+{"id":"tg999.2.95.1","text":"Ein Bedienter eilig.","type":"enter","source":"nltk"}
+{"id":"tg999.2.99.1","text":"Daniel kommt ängstlich.","type":"enter","source":"nltk"}
+{"id":"tg999.2.102.1.part2","text":"Das Getümmel wird hörbarer.","type":"other","source":"nltk"}
+{"id":"tg999.2.104.3.part2","text":"Man hört Schweizern toben.","type":"other","source":"nltk"}
+{"id":"tg999.2.106.1.part1","text":"umarmt ihn ungestüm.","type":"other","source":"nltk"}
+{"id":"tg999.2.106.2.part2","text":"Tumult auf den Straßen, Geschrei, Gepolter.","type":"other","source":"nltk"}
+{"id":"tg999.2.107.1.part1","text":"auf der Gaße.","type":"other","source":"nltk"}
+{"id":"tg999.2.108.1.part1","text":"auf den Knien.","type":"other","source":"nltk"}
+{"id":"tg999.2.114.1.part1","text":"immer auf der Gaße.","type":"other","source":"nltk"}
+{"id":"tg999.2.116.1.part1","text":"betet.","type":"other","source":"nltk"}
+{"id":"tg999.2.117.1.part2","text":"Es fliegen Steine und Feuerbrände. Die Scheiben fallen. Das Schloß brennt.","type":"other","source":"nltk"}
+{"id":"tg999.2.118.1.part2","text":"Auf Brust und Stirn schlagend.","type":"other","source":"nltk"}
+{"id":"tg999.2.122.1.part1","text":"ihm graß nachstierend, nach einer Pause.","type":"other","source":"nltk"}
+{"id":"tg999.2.122.2.part2","text":"Wahnsinnig.","type":"other","source":"nltk"}
+{"id":"tg999.2.122.3.part2","text":"Er reißt seine goldene Hutschnur ab und erdroßelt sich.","type":"dead","source":"nltk"}
+{"id":"tg999.2.124.1","text":"Schweizer mit seinen Leuten.","type":"enter","source":"nltk"}
+{"id":"tg999.2.127.1.part1","text":"stößt an die Leiche.","type":"other","source":"nltk"}
+{"id":"tg999.2.130.1.part2","text":"Rüttelt ihn.","type":"other","source":"nltk"}
+{"id":"tg999.2.132.1.part1","text":"tritt von ihm weg.","type":"other","source":"nltk"}
+{"id":"tg999.2.132.2.part2","text":"Schießt sich vor die Stirn.","type":"dead","source":"nltk"}
+{"id":"tg1000.2.4","text":"Der Schauplatz wie in der letzten Szene des vorigen Akts.","type":"other","source":"nltk"}
+{"id":"tg1000.2.5","text":"Der alte Moor auf einem Stein sitzend. Räuber Moor gegenüber. Räuber hin und her im Wald.","type":"enter","source":"nltk"}
+{"id":"tg1000.2.7.1.part2","text":"Schlägt mit dem Dolch auf einen Stein, daß es Funken gibt.","type":"other","source":"nltk"}
+{"id":"tg1000.2.10.1.part1","text":"in Tränen ausbrechend.","type":"other","source":"nltk"}
+{"id":"tg1000.2.12.1.part2","text":"Heftig die Hände ringend.","type":"other","source":"nltk"}
+{"id":"tg1000.2.13.1.part1","text":"erschrocken.","type":"other","source":"nltk"}
+{"id":"tg1000.2.20.1.part1","text":"schnell.","type":"other","source":"nltk"}
+{"id":"tg1000.2.20.2.part2","text":"Betroffen.","type":"other","source":"nltk"}
+{"id":"tg1000.2.22.1.part1","text":"sehr gerührt.","type":"other","source":"nltk"}
+{"id":"tg1000.2.23.1.part2","text":"Verhüllt sich das Gesicht.","type":"other","source":"nltk"}
+{"id":"tg1000.2.24.1.part1","text":"geht weit von ihm weg.","type":"other","source":"nltk"}
+{"id":"tg1000.2.27.1","text":"Räuber Moor reicht ihm die Hand mit abgewandtem Gesicht.","type":"other","source":"nltk"}
+{"id":"tg1000.2.30.1.part1","text":"in der heftigsten Bewegung.","type":"other","source":"nltk"}
+{"id":"tg1000.2.30.2.part2","text":"Zu den Räubern.","type":"other","source":"nltk"}
+{"id":"tg1000.2.35.1.part1","text":"in der fürchterlichsten Beklemmung gen Himmel sehend.","type":"other","source":"nltk"}
+{"id":"tg1000.2.41.1.part1","text":"stürzt vor ihm nieder.","type":"other","source":"nltk"}
+{"id":"tg1000.2.42.1.part1","text":"mit Schmerz.","type":"other","source":"nltk"}
+{"id":"tg1000.2.43.1.part1","text":"weichmütig, aufstehend.","type":"other","source":"nltk"}
+{"id":"tg1000.2.46.1.part1","text":"küßt ihn.","type":"other","source":"nltk"}
+{"id":"tg1000.2.51.1.part2","text":"Tritt scheu zurück und sucht sich zu verbergen. Sie ziehen an ihm vorüber. Er sieht weg von ihnen. Tiefe Pause. Sie halten.","type":"other","source":"nltk"}
+{"id":"tg1000.2.52.1.part1","text":"mit gesenktem Ton.","type":"other","source":"nltk"}
+{"id":"tg1000.2.52.2.part2","text":"Räuber Moor antwortet nicht und tritt weiter zurück.","type":"other","source":"nltk"}
+{"id":"tg1000.2.53.1.part2","text":"Räuber Moor weicht weiter zurück.","type":"other","source":"nltk"}
+{"id":"tg1000.2.55.1.part1","text":"ohne nach ihnen hinzuschaun.","type":"other","source":"nltk"}
+{"id":"tg1000.2.59.1.part1","text":"aufspringend.","type":"other","source":"nltk"}
+{"id":"tg1000.2.61.1.part1","text":"froh emporhüpfend.","type":"other","source":"nltk"}
+{"id":"tg1000.2.63.1","text":"Neue Räuber. Amalia.","type":"enter","source":"NLP"}
+{"id":"tg1000.2.66.1.part1","text":"mit fliegenden Haaren.","type":"other","source":"nltk"}
+{"id":"tg1000.2.66.2.part2","text":"Stürzt auf den Alten zu.","type":"other","source":"nltk"}
+{"id":"tg1000.2.67.1.part2","text":"Hält sie in seinen Armen gepreßt.","type":"other","source":"nltk"}
+{"id":"tg1000.2.68.1.part1","text":"zurückspringend.","type":"other","source":"nltk"}
+{"id":"tg1000.2.69.1.part1","text":"entspringt dem Alten und springt auf den Räuber zu und umschlingt ihn entzückt.","type":"other","source":"nltk"}
+{"id":"tg1000.2.70.1.part1","text":"sich losreißend, zu den Räubern.","type":"other","source":"nltk"}
+{"id":"tg1000.2.72.1.part1","text":"sich aufraffend.","type":"other","source":"nltk"}
+{"id":"tg1000.2.75.1.part2","text":"Er will davon.","type":"other","source":"nltk"}
+{"id":"tg1000.2.79.1.part2","text":"Mit gezogenem Degen auf die Räuber losgehend.","type":"other","source":"nltk"}
+{"id":"tg1000.2.81.1","text":"Der alte Moor gibt seinen Geist auf. Amalia steht stumm und starr wie eine Bildsäule. Die ganze Bande in fürchterlicher Pause.","type":"other","source":"nltk"}
+{"id":"tg1000.2.83.1.part1","text":"wider eine Eiche rennend.","type":"other","source":"nltk"}
+{"id":"tg1000.2.85.2.part2","text":"Er will davonfliehn.","type":"other","source":"nltk"}
+{"id":"tg1000.2.86.1.part1","text":"fällt ihm in die Arme.","type":"other","source":"nltk"}
+{"id":"tg1000.2.87.1.part1","text":"schleudert sie von sich.","type":"other","source":"nltk"}
+{"id":"tg1000.2.89.1.part1","text":"aufblühend, in ekstatischer Wonne.","type":"other","source":"nltk"}
+{"id":"tg1000.2.89.2.part2","text":"Er fällt auf die Knie und weinet heftig.","type":"other","source":"nltk"}
+{"id":"tg1000.2.89.3.part2","text":"Aufstehend zu den Räubern.","type":"other","source":"nltk"}
+{"id":"tg1000.2.89.4.part2","text":"Er hängt an ihrem Mund sie bleiben in stummer Umarmung.","type":"other","source":"nltk"}
+{"id":"tg1000.2.90.1.part1","text":"grimmig hervortretend.","type":"other","source":"nltk"}
+{"id":"tg1000.2.90.2.part2","text":"Streckt das Schwert zwischen beide.","type":"other","source":"nltk"}
+{"id":"tg1000.2.93.1.part1","text":"durcheinander, reißen ihre Kleider auf.","type":"other","source":"nltk"}
+{"id":"tg1000.2.94.1.part1","text":"läßt ihre Hand fahren.","type":"other","source":"nltk"}
+{"id":"tg1000.2.94.2.part2","text":"Kalt.","type":"other","source":"nltk"}
+{"id":"tg1000.2.95.1.part1","text":"reißt ihn zurück.","type":"other","source":"nltk"}
+{"id":"tg1000.2.97.1.part1","text":"seine Knie umfaßend.","type":"other","source":"nltk"}
+{"id":"tg1000.2.99.1.part2","text":"Kriecht zu den Räubern.","type":"other","source":"nltk"}
+{"id":"tg1000.2.100.1.part2","text":"Die Räuber wenden sich ab.","type":"other","source":"nltk"}
+{"id":"tg1000.2.101.1.part2","text":"Sie steht auf.","type":"other","source":"nltk"}
+{"id":"tg1000.2.101.2.part2","text":"Sie will gehen, ein Räuber zielt.","type":"other","source":"nltk"}
+{"id":"tg1000.2.102.1.part2","text":"Er ermordet sie.","type":"dead","source":"nltk"}
+{"id":"tg1000.2.104.1.part1","text":"auf den Leichnam mit starrem Blick.","type":"other","source":"nltk"}
+{"id":"tg1000.2.106.1.part2","text":"Mit bitterem Gelächter.","type":"other","source":"nltk"}
+{"id":"tg1000.2.111.4.part2","text":"den.","type":"other","source":"nltk"}
+{"id":"tg1000.2.113.1.part2","text":"Wirft ihnen seine Waffen verächtlich vor die Füße.","type":"other","source":"nltk"}
+{"id":"tg1000.2.117.1.part2","text":"Nach einigem Nachsinnen.","type":"other","source":"nltk"}
+{"id":"tg1000.2.117.3.part2","text":"Er geht ab.","type":"exit","source":"nltk"}
