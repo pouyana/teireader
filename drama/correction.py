@@ -32,11 +32,14 @@ for f in file_list:
             if(stage is not None):
                 if("type" in stage.attrib):
                     if(stage.attrib["type"]!=jsondata["type"]):
+                        print tools.unicode_safe(stage.attrib["type"]) +"==>"+tools.unicode_safe(jsondata["type"])+"||"+tools.unicode_safe(jsondata["text"])
                         if(not (stage.attrib["type"],jsondata["type"]) in stats):
                             stats.setdefault((stage.attrib["type"],jsondata["type"]))
                             stats[(stage.attrib["type"],jsondata["type"])]=1
                         else:
                             stats[(stage.attrib["type"],jsondata["type"])]=stats[(stage.attrib["type"],jsondata["type"])]+1
+
+
 print "corrections:\n"
 print "|    Before  |   After   |   Count    |"
 for st,vals in stats.iteritems():

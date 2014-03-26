@@ -1,0 +1,495 @@
+other==>enter||Carlos. Marquis von Posa.
+other==>enter||Die Königin. Die Herzogin von Olivarez. Die Prinzessin von Eboli und die Marquisin von Mondekar, welche die Allee heraufkommen.
+other==>enter||Ein Page tritt auf und spricht leise mit der Oberhofmeisterin, welche sich darauf zur Königin wendet.
+other==>exit||Die Oberhofmeisterin geht ab, und die Königin gibt dem Pagen einen Wink, welcher sogleich hinausgeht.
+other==>enter||Königin. Prinzessin von Eboli. Marquisin von Mondekar und Marquis von Posa.
+other==>enter||Die Prinzessin kommt mit der Blume zurück.
+other==>enter||eilt aus der Allee.
+other==>enter||König. Königin. Herzog Alba. Graf Lerma. Domingo. Einige Damen und Granden, welche in der Entfernung zurückbleiben.
+other==>enter||welche indessen zurückgekommen ist und sich unter die übrigen Damen gemischt hat, tritt hervor.
+exit==>other||Sie nimmt ihren Gürtel ab und überreicht ihn der Marquisin.
+other==>exit||Er führt die Königin hinweg, die übrigen folgen.
+other==>enter||Don Carlos mit Briefen in der Hand, Marquis von Posa kommen von der entgegengesetzten Seite.
+other==>enter||König Philipp unter einem Thronhimmel. Herzog von Alba in einiger Entfernung von dem König, mit bedecktem Haupt. Carlos.
+other==>enter||Philipp bleibt eine Zeitlang in düstres Nachdenken versunken stehen – endlich geht er einige Schritte im Saale auf und nieder. Alba nähert sich verlegen.
+other==>exit||Der König begibt sich in das Kabinett. Der Herzog entfernt sich durch eine andere Türe.
+other==>enter||Don Carlos kommt im Gespräche mit einem Pagen durch die Mitteltüre. Die Hofleute, welche sich im Vorsaal befinden, zerstreuen sich bei seiner Ankunft in den angrenzenden Zimmern.
+other==>enter||Das Zimmer der Königin öffnet sich, und der Herzog von Alba tritt heraus.
+other==>exit||Ab.
+other==>enter||Don Carlos. Herzog von Alba.
+other==>enter||Die Königin. Don Carlos. Herzog von Alba.
+other==>exit||Der Herzog folgt ihr in das Zimmer.
+other==>enter||Die Prinzessin, in einem idealischen Geschmack, schön, aber einfach gekleidet, spielt die Laute und singt. Darauf der Page der Königin.
+other==>enter||Die Prinzessin und bald nachher Don Carlos.
+enter==>other||mit ihrer ganzen vorigen Munterkeit.
+other==>enter||Herzog von Alba. Pater Domingo.
+enter==>other||dem Herzog neugierig nachsehend.
+exit==>other||geht an ein Fenster.
+other==>enter||Auf dem Nachttische zwei brennende Lichter. Im Hintergrunde des Zimmers einige Pagen auf den Knien, eingeschlafen. Der König, von oben herab halb ausgekleidet, steht vor dem Tische, einen Arm über den Sessel gebeugt, in einer nachdenkenden Stellung. Vor ihm liegt ein Medaillon und Papiere.
+other==>exit||Pagen gehen.
+other==>exit||Er reicht ihm die Hand zum Kusse. Lerma geht und öffnet dem Herzog von Alba die Türe.
+other==>enter||Der König und Herzog von Alba.
+other==>enter||zu einem Pagen, der hereintritt.
+other==>exit||Alba entfernt sich.
+other==>enter||Don Carlos im Gespräch mit dem Prinzen von Parma. Die Herzoge von Alba, Feria und Medina Sidonia. Graf von Lerma und noch andere Granden mit Schriften in der Hand. Alle den König erwartend.
+other==>enter||Marquis von Posa und Herzog von Alba.
+other==>exit||Er entfernt sich.
+other==>enter||Der König und Marquis von Posa.
+enter==>exit||Der Marquis steht auf und geht. Graf Lerma tritt herein.
+other==>enter||Die Königin. Die Herzogin Olivarez. Die Prinzessin von Eboli. Die Gräfin Fuentes und noch andere Damen.
+other==>enter||Marquis von Posa. Die Vorigen.
+other==>exit||Die Damen entfernen sich auf einen Wink der Königin.
+other==>enter||Die Königin. Marquis von Posa.
+other==>aside||Marquis sieht ihm erstaunt nach.
+other==>enter||Der König in einem Sessel – neben ihm die Infantin Klara Eugenia.
+other==>enter||Der König. Die Königin tritt herein. Die Infantin.
+other==>enter||Die Vorigen. Alba, Domingo treten erschrocken herein. Damen folgen.
+other==>exit||Alba und Domingo sehen einander mit stummer Verwunderung an und gehen.
+other==>enter||Der König und Marquis von Posa.
+other==>enter||Zu Lerma, der bei den letzten Worten hereintritt.
+other==>exit||Er sieht den Marquis mit zweideutigen Blicken an und geht.
+other==>exit||Sie macht ihnen eine Verbeugung und geht ab; jene entfernen, sich nach einer andern Seite.
+other==>enter||Prinzessin von Eboli. Gleich darauf Carlos.
+exit==>other||wendet das Gesicht ab.
+other==>enter||Die Vorigen. Marquis von Posa stürzt herein, hinter ihm zwei Offiziere der königlichen Leibwache.
+other==>exit||Carlos läßt sich ohne Zeichen des Bewußtseins hinwegführen. – Nur im Vorübergehen läßt er einen matten, sterbenden Blick auf den Marquis fallen, der sein Gesicht verhüllt. Die Prinzessin versucht es noch einmal zu entfliehen; der Marquis führt sie beim Arme zurück.
+other==>enter||Prinzessin von Eboli. Marquis von Posa.
+other==>exit||Er läßt den Dolch fallen und eilt hinaus. Die Prinzessin stürzt fort durch eine andere Türe.
+other==>enter||Die Königin zur Gräfin Fuentes.
+other==>exit||Sie drückt ihr glühendes Gesicht aus den Boden. Die Königin geht ab. Große Pause. Die Herzogin von Olivarez kommt nach einigen Minuten aus dem Kabinett, in welches die Königin gegangen war, und findet die Fürstin noch in der vorigen Stellung liegen. Sie nähert sich ihr still schweigend; auf das Geräusch richtet sich die letztere auf und fährt wie eine Rasende in die Höhe, da sie die Königin nicht mehr gewahr wird.
+other==>enter||Prinzessin von Eboli. Herzogin von Olivarez.
+other==>exit||Sie geht schnell fort. Die Prinzessin folgt ihr bis an die Türe des Kabinetts, welche sogleich hinter der Herzogin verschlossen wird. Einige Minuten bleibt sie stumm und unbeweglich auf den Knien davor liegen, dann rafft sie sich auf und eilt hinweg mit verhülltem Gesicht.
+other==>enter||Die Königin. Marquis von Posa.
+other==>exit||Er springt auf und geht schnell fort. Die Königin in ihr Kabinett.
+other==>enter||Herzog von Alba und Domingo gehen stillschweigend und abgesondert auf und nieder. Graf Lerma kommt aus dem Kabinett des Königs, alsdann Don Raimond von Taxis, der Oberpostmeister.
+other==>enter||aus dem Kabinett.
+other==>enter||Der Prinz von Parma, die Herzoge von Feria und Medina Sidonia mit noch einigen andern Granden treten auf. Die Vorigen.
+other==>enter||stürzt aus dem Kabinett.
+other==>exit||ihm nach, will ihn zurückhalten.
+other==>enter||Prinzessin von Eboli. Feria. Medina Sidonia. Parma. Domingo und übrige Granden.
+other==>enter||Wie sie ins Kabinett will, stürzt heraus.
+other==>enter||Carlos an einem Tische sitzend, den Kopf vorwärts auf die Arme gelegt, als wenn er schlummerte. Im Hintergrunde des Zimmers einige Offiziere, die mit ihm eingeschlossen sind. Marquis von Posa tritt herein, ohne von ihm bemerkt zu werden, und spricht leise mit den Offizieren, welche sich sogleich entfernen. Er selbst tritt ganz nahe vor Carlos und betrachtet ihn einige Augenblicke schweigend und traurig. Endlich macht er eine Bewegung, welche diesen aus seiner Betäubung erweckt.
+other==>exit||Alba entfernt sich. Man sieht ihn noch eine Zeitlang im Vorhofe verweilen und Befehle austeilen.
+other==>enter||Carlos und Marquis von Posa.
+other==>enter||Der König. Carlos. Die Herzoge von Alba, Feria und Medina Sidonia. Der Prinz von Parma. Graf Lerma. Domingo und viele Granden.
+other==>enter||Ein Offizier von der Leibwache. Die Vorigen.
+exit==>other||reißt seinen Mantel ab und wirft ihn von sich.
+other==>exit||Er geht ab. Der König wird weggetragen, und alle Granden begleiten ihn.
+aside==>enter||Carlos bleibt allein bei dem Leichnam zurück. Nach einigen Augenblicken erscheint Ludwig Merkado, sieht sich schüchtern um und steht eine Zeitlang stillschweigend hinter dem Prinzen, der ihn nicht bemerkt.
+other==>exit||Er geht schnell weg. Carlos ist im Begriff, auf einem andern Wege fort zueilen, kehrt aber plötzlich um und wirft sich vor dem Leichnam des Marquis nieder, den er noch einmal in seine Arme schließt. Dann verläßt er schnell das Zimmer.
+other==>enter||Herzog von Alba und Herzog von Feria kommen im Gespräch.
+other==>enter||König zu den Vorigen.
+other==>enter||Ein Offizier von der Leibwache tritt herein, zieht den Herzog von Feria auf die Seite und spricht leise mit ihm. Dieser wendet sich betreten zum Herzog von Alba, andre drängen sich hinzu, und es entsteht ein Gemurmel.
+other==>exit||Der Kardinal Großinquisitor, ein Greis von neunzig Jahren und blind, auf einen Stab gestützt und von zwei Dominikanern geführt. Wie er durch ihre Reihen geht, werfen sich alle Granden vor ihm nieder und berühren den Saum seines Kleides. Er erteilt ihnen den Segen. Alle entfernen sich.
+other==>enter||Der König und der Großinquisitor.
+other==>exit||Er führt ihn hinweg.
+other==>enter||Carlos. Die Königin. Zuletzt der König mit Gefolge.
+other==>enter||Der König, begleitet vom Großinquisitor und seinen Granden, erscheint im Hintergrunde, ohne bemerkt zu werden.
+other==>enter||Strato mit einem Schwerde in der Hand.
+other==>aside||Bei Seite.
+other==>aside||bei Seite.
+other==>enter||Der Wirt. Just.
+other==>enter||Ein Junge kömmt.
+other==>enter||Von Tellheim. Der Wirt. Just.
+other==>enter||im Hereintreten.
+other==>enter||Von Tellheim. Just.
+other==>enter||Eine Dame in Trauer. Von Tellheim. Just.
+other==>enter||Die Dame. Von Tellheim.
+other==>enter||Just. Von Tellheim.
+enter==>other||Lieset.
+other==>enter||Ein Bedienter. Von Tellheim. Just.
+other==>enter||Von Tellheim. Just.
+other==>enter||Minna von Barnhelm. Franziska.
+other==>enter||Der Wirt. Die Vorigen.
+other==>exit||Stößt ihn heraus.
+other==>enter||Der Wirt. Just. Die Vorigen.
+other==>exit||Der Wirt geht ab, und hierauf.
+other==>enter||Von Tellheim. Der Wirt. Die Vorigen.
+other==>enter||Von Tellheim. Das Fräulein.
+other==>exit||Geht in Gedanken ab, und stößt fast auf den Major, der ihm entgegen kömmt.
+other==>enter||Von Tellheim. Paul Werner.
+other==>enter||Franziska aus dem Zimmer des Fräuleins. von Tellheim. Paul Werner.
+other==>exit||Geht geschwind wieder in das Zimmer.
+other==>enter||Von Tellheim. Paul Werner.
+other==>enter||Franziska wieder heraus, mit einem Brief in der Hand. von Tellheim. Paul Werner.
+other==>exit||Indem sie herein gehen will, kommt ihr das Fräulein entgegen.
+other==>exit||Sie gehen herein.
+other==>enter||Das Fräulein völlig, und reich, aber mit Geschmack gekleidet. Franziska sie stehen vom Tische auf, den ein Bedienter abräumt.
+other==>enter||Paul Werner der in einer steifen Stellung, gleichsam im Dienste, hereintritt. Das Fräulein.
+other==>enter||Von Tellheim in dem nämlichen Kleide, aber sonst so, wie es Franziska verlangt. Das Fräulein.
+other==>enter||Von Tellheim. Franziska.
+other==>enter||Von Tellheim von der einen und Werner von der andern Seite.
+exit==>other||Will nach dem Zimmer des Fräuleins, aus dem ihm Franziska entgegen kömmt.
+other==>enter||Franziska. von Tellheim.
+enter==>exit||Geht herein.
+other==>enter||Das Fräulein. Franziska. von Tellheim.
+other==>enter||Ein Feldjäger. Von Tellheim. Das Fräulein. Franziska.
+other==>enter||Von Tellheim. Das Fräulein. Franziska.
+other==>enter||Der Wirt. Die Vorigen.
+other==>enter||Von Tellheim. Das Fräulein. Franziska.
+other==>enter||Just. Die Vorigen.
+other==>enter||Werner mit einem Beutel Gold. von Tellheim.
+other==>enter||Zwei Bediente, nach einander, von verschiedenen Seiten über den Saal laufend. Die Vorigen.
+other==>enter||Der Graf von Bruchsall, von verschiedenen Bedienten und dem Wirte begleitet. Die Vorigen.
+other==>enter||Von Tellheim. Werner. Just. Franziska.
+other==>enter||Crœsus auf dem Thron / Orsanes, Eliates, Halimacus, Olisius und viele andere Lidische Staats- und Kriegs-Bediente / alle kniend; Solon allein stehend.
+enter==>other||Aria.
+enter==>other||Aria.
+enter==>other||Aria.
+enter==>other||Aria.
+enter==>other||Aria.
+enter==>other||Aria.
+enter==>other||Aria.
+other==>enter||Halimacus von ferne / Orsanes, Elmira.
+enter==>other||Aria.
+enter==>other||Aria.
+enter==>other||Aria.
+enter==>other||Aria.
+enter==>other||Aria.
+other==>enter||Elmira und Clerida kommen von ferne singend.
+enter==>other||Aria.
+enter==>other||Aria.
+enter==>other||Aria.
+enter==>other||Aria.
+enter==>other||Aria.
+enter==>other||Aria.
+other==>enter||närrisch gewaffnet / von vier Harlequins begleitet / die seiner spotten.
+enter==>other||Aria.
+other==>enter||Cirus mit seiner Armée forne / Crœsus hinten.
+enter==>other||Aria.
+other==>enter||Crœsus flüchtig ohne Königliche Kleidung / ein Persischer Hauptmann / mit einigen Soldaten /folgends Atis und Halimacus.
+other==>exit||Führen ihn gefangen hinweg.
+other==>enter||Cirus zu Pferde / umgeben von seinen Hauptleuten /und gefolgt von Soldaten / und vielen gefangenen Lidiern, triumphirend unter frölichem Trompeten-und Paucken-Schalle.
+enter==>other||Aria.
+enter==>other||un supr. Aria.
+other==>enter||Ein Bauer / eine Bäuerin / zwey Bauren-Kinder /zweene Bauren / die auf Schallmeyen und Sackpfeiffen spielen.
+enter==>other||Aria.
+enter==>other||Die Kinder wiederholen wie oben.
+other==>enter||Atis, Halimacus, Vorige / welche in ihrer Arbeit dieser nicht gewahr werden.
+other==>exit||Gehen mit den Alten in die Bauren-Hütte.
+other==>enter||Elcius in poßierlicher Persischer Kleidung. Bauren-Kinder.
+enter==>other||Aria.
+enter==>other||Aria.
+enter==>other||Aria.
+enter==>other||Aria.
+other==>enter||Halimacus, Atis, in Bauren-Kleidung / Elmira, Trigesta.
+enter==>other||Aria.
+other==>enter||Elmira, nachmahls Atis.
+enter==>other||Aria.
+enter==>other||Aria.
+enter==>other||Aria.
+other==>enter||Cirus auf einem Thron in seinem Gezelte / Crœsus gefesselt / und von Soldaten begleitet / ein Hauptmann / und viele andere Kriegs-Bediente.
+enter==>other||Aria.
+other==>exit||Crœsus wird abgeführet.
+other==>enter||Olisius, mit vielen Lidiern / Cirus, und seine Bediente.
+enter==>other||Aria.
+enter==>other||Printz Atis Vor-Gemach.
+enter==>other||Aria.
+other==>enter||Eliates kömmet mit vielem Gefolge.
+other==>enter||Atis in Fürstl. Kleidung / Halimacus, Eliates, Orsanes und Hoffleute.
+enter==>other||Aria.
+enter==>other||Aria.
+enter==>other||Aria.
+enter==>other||Aria.
+other==>enter||Elmira kömmt.
+enter==>other||Aria.
+enter==>other||Aria.
+enter==>other||Aria.
+enter==>other||Aria.
+enter==>other||Aria.
+enter==>other||Aria.
+enter==>other||Aria.
+other==>enter||Elmira, Atis in Fürstlicher Kleidung.
+enter==>other||Aria.
+enter==>other||Aria.
+enter==>other||Aria.
+enter==>other||Aria.
+other==>enter||Eliates, Halimacus, und viele Lidier / brechen / den Degen in der Faust / durch Cirus Leibwache ihren König vom Feuer zu erretten.
+other==>enter||Crœsus kömmt in Königlicher Kleidung.
+aside==>other||Alle Lidier neigen sich zur Erden. Atis kniet vor dem Thron.
+enter==>other||Aria.
+enter==>other||Respect.
+other==>enter||Roland. Cyriax. Lampert. Storax. Pomponius und andere Beysitzer die nichts zu reden haben.
+enter==>other||Semper honos nomenque tuum laudesque manebunt.
+enter==>other||Semper honos nomenque tuum laudesque manebunt.
+other==>enter||Hahnenfuss. Ziegenbein. Pomponius als ein Ziegeuner.
+enter==>other||ad Lampert.
+other==>enter||Ziegenbein. Urselchen.
+other==>enter||Urselchen. Villenchen.
+other==>enter||Die Feuermauer-Kehrer kommen.
+other==>enter||Villenchen. Urselchen. Hahnenfuss. Ziegenbein in Grafen Habit.
+enter==>other||Ad Ziegenbein.
+aside==>other||ad Ziegenbein.
+enter==>other||Ziegenbeinicœlkoribicirkilausimusky.
+other==>enter||Villenchen. Urselchen, Hahnenfuss. Ziegenbein.
+other==>aside||Ad Spect.
+enter==>other||Ad Ziegenbein.
+enter==>other||Hanefusicolpilaminosicofscy.
+enter==>other||Ad Hahnenfuß.
+aside==>other||ad Ziegenbein.
+enter==>other||M.
+enter==>other||O.
+enter==>other||i.d.i. di.
+other==>enter||Hahnenfuss. Ziegenbein.
+other==>exit||Sie treten auff die Seite.
+other==>enter||Man hört einen Postillion blasen. Postmeisterin.
+other==>exit||Der Junge ab. Ihm nachrufend.
+other==>enter||Madame Sommer, Lucie, in Reisekleidern. Karl.
+other==>exit||Ab.
+other==>exit||Ab.
+other==>enter||Annchen, mit der Suppe. Die Postmeisterin. Karl.
+other==>enter||Fernando, in Offizierstracht. Ein Bedienter.
+other==>enter||Lucie, Annchen kommen.
+other==>exit||Ab.
+other==>exit||Ab.
+other==>exit||Ab.
+other==>enter||Madame Sommer, Lucie kommen.
+other==>enter||Fernando, Bedienter kommen.
+other==>enter||Stella in aller Freude hineintretend mit Fernando.
+exit==>other||Er wendet sich ab.
+other==>aside||Vor sich.
+other==>enter||Cäcilie, Lucie kommen.
+other==>exit||Ab.
+other==>exit||Sie steht eine Weile niedersehend still, in sich gekehrt, sieht dann auf, erblickt die beiden, fährt mit einem Schrei zusammen und entflieht.
+other==>enter||Stella. Sie hat Fernandos Porträt und ist im Begriff, es von dem Blendrahmen loszumachen.
+other==>exit||Ab.
+other==>enter||Politicus und Civilis treten auff.
+other==>enter||Der innere Schauplatz eröffnet sich / darinn Apollo in einem hellen Throne præsentiret wird.
+other==>exit||Fama schwinget sich davon / die Trompete wird wieder geblasen.
+other==>enter||Die Scene eröffnet sich wieder / da Apollo auf dem Throne sitzt.
+other==>enter||Ciaconi kömmt.
+other==>enter||Durandus kömmt.
+other==>enter||Pacifontius steht an des Materialisten Thür.
+other==>enter||Substantia kömmt auf der andern Seite heraus.
+other==>enter||Quantitas kömmt.
+other==>enter||Ziribiziribo kömt heraus / und singt ein Frantzösisches Liedgen.
+other==>enter||kömmt.
+other==>enter||Purus Putus, Durandus, Scibilis, Excipe, Vademecus, Extra, Intra, Adjectivus, Nescio treten auff / und setzen sich / Quoniam bleibet an der Thüre stehen.
+other==>enter||trit auff.
+exit==>other||Er geht wieder in seine Session.
+other==>enter||Pacifontius, Quantitas.
+other==>enter||Nescio kömmt mit einem Strohseile heraus.
+other==>enter||Zodiacus kömmt.
+other==>enter||Ziribiziribo kömmt singende heraus.
+other==>enter||Ziribiziribo kömmt und hat an statt der Bratwürste zwey grosse ausgestopffte Würste / wie die Moriones tragen / in die Schüssel gelegt.
+other==>enter||Ascanius tritt an des Herrn Paters Thüre heraus.
+enter==>other||Ad Ascanium.
+other==>enter||kömmt.
+other==>enter||Ascanius kömmt.
+other==>enter||kömmt.
+other==>enter||Rationalis kömmt.
+other==>enter||Antiquus kömmt.
+other==>enter||Zodiacus kömmt heraus und hat sein Horn.
+enter==>other||Er bläset ins Horn / hernach singet er:
+other==>enter||Nescio kömmt.
+other==>enter||kömmt.
+other==>enter||Quoniam kömmt mit dem Korbe und mit dem Glöckgen.
+other==>enter||Pacifontius, Quantitas.
+other==>enter||Ziribiziribo bringt Risibilis an der Hand geführt und singt ein Liedgen.
+other==>enter||Purus Putus und Scibilis kommen heraus gelauffen und bringen sie von einander.
+other==>enter||Ziribiziribo, Scibilis.
+other==>enter||Pacifontius und Quantitas kommen.
+other==>enter||Extra kömmt.
+other==>enter||kömmt.
+other==>enter||Frececerax und Aciculus.
+other==>enter||Ziribiziribo in Pickelherings Habite, mit einer Kanne Brantewein / Quoniam mit der hölzernen Bierkanne.
+other==>enter||Scibilis kömmt.
+other==>enter||kömmt heraus.
+other==>enter||kömmt.
+other==>enter||kömmt.
+other==>enter||kömmt.
+other==>enter||Scibilis und Ziribiziribo kömmen.
+other==>enter||Vocativus und Ciaconi kommen / Pacifontius bleibt auf der Seite stehn.
+other==>enter||Hier tritt Quoniam auf und verlieset die Personen folgender Gestalt:
+other==>enter||Fama läst blasen und kömmt heraus.
+other==>exit||Schwinget sich davon.
+other==>enter||Apollo praesentirt sich auff seinem Throne / umb ihn herumb Eusebius, Uranius, Politicus, Civilis, Simplex, Innocens, Candidus, Infucatus, Fidelis, Immutabilis, Rationalis.
+other==>enter||Machiavellus, Antiquus, Appetitus erscheinen.
+other==>exit||[Geht ab.]
+other==>enter||Sie kommen hervor.
+other==>enter||Liebhold, ein Gastwirth. France, Hugo, zwey Bürger. Lars. Der Haußknecht / mit einem Lichte /ingleichen zwey Knaben mit Laternen / welche beyden Gästen nach Hause leuchten.
+other==>enter||Ebbe, Puse, Brütte, drey Bauer-Weiber.
+other==>enter||Die Vorigen. Lars, der Haußknecht / erstlich hinter der Scene.
+other==>enter||kömmt heraus.
+other==>enter||Philippus, der Hertzog. Robert, der Cammer-Herr. Ein Page mit dem Lichte.
+other==>exit||Sie schleppen ihn heraus.
+other==>enter||kömmt mit einen Lichte heraus.
+other==>enter||Mierten, ein Bauer / liegt im Bette / und seuffzet etliche mahl / endlich redet er halb im Schlaffe.
+other==>enter||Die vier Bedienten bringen in silbernen Schalen Conficturen und etliche Becher mit delicaten Weine.
+other==>enter||Die mittelste Scene eröffnet sich / da sie heraus spatzieren.
+other==>enter||Fatum, ein Göttlicher Bote. Amandus, Burgundien Liebster. Fatuum, ein lustiger Bedienter / versteckt. Burgundia, die Princeßin. Pax, Opulentia, ihre Gespielin.
+other==>exit||Amandus entläufft.
+other==>enter||Die Vorigen. Fatum, ein Göttlicher Bote.
+other==>enter||Die Vorigen. Fatum, der Göttliche Bote.
+other==>enter||Die drey Chöre.
+other==>enter||Die mittelste Scene öffnet sich. Mierten, der Bauer. Stax, Micke, Trabanten. Die Vorigen.
+other==>exit||Er zeucht ein rauch Schwäntzgen an statt des Degens rauß / sie fangen alle überlaut an zu lachen / endlich lauffen sie davon.
+other==>enter||kömmt.
+other==>enter||Mierten im Bauer-Kleide liegt und schläfft. Micke, ein Trabante. Karsten, ein Hoff-Pursche.
+other==>enter||kömmt zurücke.
+other==>enter||Ebbe, Puse, Brütte, Bauerweiber.
+other==>enter||Philippus, der Hertzog. Egmund, Hoff-Marschall. Robert, Cammer-Herr. Leo, Hoff-Juncker. Wilhelm, Stall-Meister. Heinrich, Cammer-Juncker. Mierten, der Bauer. Aus der mittelsten Scene.
+other==>exit||Die andern nehmen alle mit allerhand cerimonien von einander ihren abschied; Pickelhäring aber und Peter Squentz nöthigen einander voranzugehen; so bald aber Squentz voran treten wil, zeucht ihn Pickelhäring zurück, und laufft selbst voran.
+other==>enter||Die personen alle.
+enter==>other||Thisbe kommt noch einmal zurücke.
+enter==>other||Monstrat manus.
+other==>exit||Der mond und brunnen gehen stille davon, Piramus stehet auf, Thisbe springet ihm auf die achseln, Piramus trägt sie mit hinweg.
+other==>enter||Allegro, Roccella, Torrecuso.
+other==>enter||Celinde und die Vorigen.
+other==>enter||Allegro auff der Seite.
+other==>enter||Anaclerio und die Vorigen.
+other==>exit||Sie eilen fort.
+other==>enter||Peronne, Formaggio, Bravo, Piccone neben andern Bürgern und Kindern so jhre Stecken mit Brodte oder alten Lumpen bezeichnet haben.
+other==>enter||Formaggio, Piccone, Bravo im Sacke.
+enter==>exit||Lauffen hernach.
+other==>enter||Masaniello, Geonino, Matthæo, Vitale samt etlichen Bürgern.
+other==>enter||kömt.
+other==>exit||Francesco schlept Flavia hinein: Bonavita kömt.
+other==>enter||Allegro.
+other==>exit||Er wendet sich um / da fangen die kleinen Narren alle an zulachen / Allegro lacht dazu / und fingt mit jhnen an poßierlich herum zu springen / biß er mit jhnen hinein tantzt.
+other==>enter||kömt mit seinen Burschen / haben alle brennende Späne in Händen.
+other==>enter||Die Vorigen und Laudato.
+other==>exit||Er wird weg geführet. Bravo bringt Titta geschleppt.
+other==>enter||Sie schleppen jhn hinweg / Furfante und Rubina.
+other==>exit||Sie agiren und zehlen poßierlich mit einander; endlich entläufft jhnen Allegro und sie folgen jhm nach.
+other==>enter||Buffone, Lurcone, Poltrone nebst noch etlichen stummen Bauren.
+other==>enter||Die Vorigen und Allegro im Reise-Rocke.
+other==>enter||Antimo, Corraggio, Bizzarro, Allegro in einer Paruqve und einem stoltzen Kleide.
+other==>enter||Die Vorigen und Peronne.
+other==>enter||Peronne, Antimo, Coraggio, Bizarro, Allegro.
+other==>enter||Die innerste Scene öffnet sich und præsentiret einen Altar / darbey etliche Pfaffen in jhrem Ornat erscheinen. Philomarini mit seinen Leuten ist zugegen. Masaniello mit seiner gantzen Svite kömt auch aufgezogen.
+other==>exit||Die innerste Scene fällt zu.
+other==>enter||Alle zusammen / indem Mattheo den Hertzog aus der Kammer hervor zeucht.
+other==>exit||Er wird von allen mit einem grausamen Geschrey hinein geschlept.
+other==>enter||Masaniello, Arpaja, Vitale, Geonino nebst den andern.
+other==>enter||Die Vorigen / item Mattheo mit seinem Anhange /welcher Caraffa geschleppet bringen.
+exit==>dead||Er schneidet jhm mit einen Messer den Kopff ab.
+other==>exit||Truffaldino wil gehen / Allegro zeucht jhn zurücke /und complimentiret so lange mit jhm / biß inwendig ein Zeichen gegeben wird / daß der Kasten unter dem Theatro zu rechte gemacht ist / als denn laufft Truffaldino hinein.
+other==>exit||Er agirt poßierlich / und schlept den Kasten hinein.
+other==>enter||Xaverio kömt.
+other==>enter||Lubrano, Conversano, Allegro in einem grossen Degen.
+enter==>aside||Ad Spectatores.
+enter==>aside||Ad Spectatores.
+other==>enter||Philomarini, Ghirardini, Rossi samt den übrigen Geistlichen. Die innerste Scene præsentiret eine Kirche / die sämtlichen Geistlichen sind in Hosen und Wamst.
+other==>enter||Alle des Vice-Roy Bedienten / ingleichen die Parthey von Masaniello.
+other==>exit||Hier lassen sich Paucken und Trompeten hören /und ziehen alle ab / die mittelste Scene fällt zu.
+other==>enter||Villanella, Pasqvella, Zeppa in gläntzender Kleidung.
+other==>enter||Leonisse, Anaclerio.
+other==>enter||Die Vorigen und Arcos.
+other==>exit||Sie sperren jhn in das Gebauer.
+other==>exit||Sie schlagen sich / Allegro steckt Girolomo in das Gebauer und schlept jhn hinein.
+other==>enter||Tambourino, Saldo.
+other==>enter||Tambourino, Saldo, Masaniello rasend.
+other==>enter||Elisa, Laura mit jhren Kindern und den andern Weibern.
+other==>enter||Die Vorigen und Francesco.
+other==>exit||Er wird in die innerste Scene geführet / Sie fällt zu.
+other==>enter||Allegro trägt ein Stücke von einem Fusse.
+other==>enter||Matelone, Anaclerio.
+other==>exit||Ab.
+other==>enter||Schweizer, Grimm, Roller, Schufterle, Razmann treten auf.
+other==>exit||Ab.
+exit==>other||Amalia wendet ihr Gesicht ab.
+other==>exit||Ab.
+other==>enter||nachdenkend in seinem Zimmer.
+enter==>other||näher kommend.
+enter==>other||Des alten Moors Schlafzimmer.
+other==>enter||Der alte Moor schlafend in einem Lehnseßel. Amalia.
+other==>enter||Franz. Hermann verkappt. Daniel.
+exit==>other||Geht schnell ab.
+exit==>other||aufspringend, ihm nach.
+other==>exit||Ab.
+other==>exit||Ab.
+other==>enter||Amalia mit verweinten Augen.
+other==>enter||Spiegelberg, Razmann, Räuberhaufen.
+other==>aside||vor sich, stutzt.
+other==>enter||im Garten, spielt auf der Laute.
+aside==>other||Wirft sich vor ihr nieder.
+other==>enter||Die Räuber, gelagert auf einer Anhöhe unter Bäumen, die Pferde weiden am Hügel hinunter.
+other==>enter||Räuber Moor, Kosinsky in der Ferne.
+other==>exit||Ab.
+enter==>other||Er kommt näher.
+other==>enter||Galerie im Schloß. Räuber Moor, Amalia treten auf.
+other==>enter||in tiefen Gedanken.
+other==>enter||Daniel mit Wein.
+other==>exit||Ab.
+other==>enter||Räuber Moor von der einen Seite, Daniel von der andern.
+other==>enter||Räuber Moor öffnet die Gartentüre.
+other==>enter||Die Räuberbande gelagert auf der Erde.
+other==>dead||Er sticht ihn tot.
+other==>enter||Moor, Kosinsky treten auf.
+other==>exit||Ab mit einem Geschwader.
+other==>enter||Daniel kommt mit einer Laterne und einem Reisebündel.
+other==>enter||Wie er gehen will, kömmt Franz im Schlafrock hereingestürzt.
+other==>exit||im Abgehn.
+other==>enter||Ein Bedienter eilig.
+exit==>other||ihm graß nachstierend, nach einer Pause.
+exit==>dead||Er reißt seine goldene Hutschnur ab und erdroßelt sich.
+other==>enter||Schweizer mit seinen Leuten.
+aside==>dead||Schießt sich vor die Stirn.
+enter==>other||Der Schauplatz wie in der letzten Szene des vorigen Akts.
+other==>enter||Der alte Moor auf einem Stein sitzend. Räuber Moor gegenüber. Räuber hin und her im Wald.
+exit==>other||Die Räuber wenden sich ab.
+other==>enter||Die Vorigen. Girschick, des Königs kleiner Münch. Wazek, sein lustiger Diener.
+enter==>aside||Ad spectatores.
+other==>enter||Cunigunda, Ludomilla, Wentzel, der in der mittlern Scene etliche Bilder besiehet.
+other==>exit||Er folget ihr singende und tantzende.
+other==>enter||Poto, Sbinko, Landstände König Wentzeln zugethan. Rudolf.
+other==>enter||Bäbel.
+other==>enter||Die Vorigen. Poto, Sbinko Landstände auff Wentzels Seite.
+other==>enter||kömt.
+other==>dead||Er fällt nieder.
+other==>enter||Wentzel, Rudolf, Girschick, Wazek, Janku, Nikschi, Antschku, Heuscha. Die Bauern bringen sie heraus gejagt.
+other==>enter||Rudolf, Wentzel. Hernach Zbisla, ein Böhmischer Semmelkrämer, Jarosla, ein Böhmischer Wursthändler, Bruno, ein Münch von Zittau.
+other==>enter||kömt.
+other==>enter||kömmt.
+other==>exit||Er legt sich nieder und entschläfft.
+other==>enter||Marinka, eine Leimthändlerin vom jungen Buntzel.
+other==>enter||Die Vorigen / auff der Seite. Martin, Berthold, Bürger von Zittau. Rosine, dessen Frau.
+other==>exit||Sie zancken sich poßirlich um den Vorgang biß zugezogen wird.
+other==>enter||Berthold, Martin, Bürger von Zittau. Hinko, des Königs Inspector. Rudolf, ein junger Graff.
+other==>enter||kömmt.
+other==>enter||Bäbel, der lustige Gärtner. Marinka, eine Leimthändlerin von jungen Buntzel.
+enter==>aside||Ad spectatores.
+other==>enter||Wentzel, Lisel, Girschick, Wazek. Sie jagen einander herum / Lisel kützelt Wentzeln, daß er abscheulich lachen muß.
+enter==>other||Er führet sie hinein / komt bald heraus gelauffen / und sagt heimlich zu Martin.
+other==>enter||Er tritt auff die Seite / die andern kommen.
+other==>exit||Die beyden Verliebten ziehen sich sachte in die mittelste Scene, welche zufällt.
+other==>enter||Poto, Sbinko, Landstände auff Wentzels Seite. Lesko, Heyno, Soldaten. Hernach Christoffel, der Heldermeister von Zittau.
+other==>enter||Czenko, Woko, Bäbel. Die Bauern. Rosine, die zum Fenster heraus siehet.
+other==>enter||Die mittelste Scene öffnet sich. Martin, Berthold, Bürger. Rosine, dessen Frau. Lisel, dessen Tochter. Wentzel, der junge König. Rudolf, dessen junger Graff. Girschick, dessen kleiner Münch. Wazek, sein lustiger Diener.
+other==>enter||Die Vorigen. Poto, Sbinko, Landstände auffs Königs Seite. Lesko, Heyno, Soldaten. Christoffel, der Heldermeister von Zittau.
+other==>exit||Er wird weggeführet.
+other==>aside||Bei Seite.
+other==>aside||bei Seite.
+other==>aside||bei Seite.
+other==>aside||bei Seite.
+other==>aside||bei Seite.
+other==>aside||Bei Seite.
+other==>aside||bei Seite.
+other==>exit||im Fortgehen.
+other==>enter||Raps, in einer fremden und seltsamen Kleidung. Anselmo.
+other==>aside||Bei Seite.
+other==>aside||Bei Seite.
+other==>aside||bei Seite.
+other==>aside||bei Seite.
+other==>aside||bei Seite.
+other==>aside||bei Seite.
+other==>aside||bei Seite.
+other==>aside||bei Seite.
+other==>exit||Sie gehen in das Haus, nachdem sie den Koffer nach sich gezogen.
+other==>enter||Lelio an der Szene. Die Vorigen.
+corrections:
+
+|    Before  |   After   |   Count    |
+|    enter   |   other  |    76   |
+|    aside   |   enter  |    1   |
+|    aside   |   dead  |    1   |
+|    aside   |   other  |    4   |
+|    other   |   dead  |    2   |
+|    enter   |   exit  |    3   |
+|    exit   |   other  |    12   |
+|    other   |   aside  |    21   |
+|    other   |   enter  |    274   |
+|    enter   |   aside  |    4   |
+|    other   |   exit  |    80   |
+|    exit   |   dead  |    2   |

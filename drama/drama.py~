@@ -127,10 +127,9 @@ class Drama:
             result = []
             for stage in stages:
                 element = self.get_content_by_id(stage["id"])
-                if "type" in element.attrib:
-	                print element.attrib["type"]
-        	        stage["type"] = element.attrib["type"]
-        	        result.append(stage)
+                print element.attrib
+                stage["type"] = element["type"]
+                result.append(stage)
             return result
 
 	def get_scene(self):
