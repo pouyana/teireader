@@ -7,6 +7,7 @@ import os
 import re
 import json
 
+
 def find_xml(txtfile):
     xml_file_name = txtfile.strip(".txt")+".out.xml"
     return xml_file_name
@@ -20,7 +21,7 @@ for f in file_list:
     if(re.match(".*\.txt",f)):
 #        print f
         xml_file = files_dir+"/"+find_xml(tools.unicode_safe(f))
-        xml = Drama(xml_file)
+        xml = Drama(xml_file,"WARNING")
         tree = xml.get_tree()
         title = xml.get_title()
         save_file = files_dir+"/"+title+".cor.xml"
@@ -28,6 +29,7 @@ for f in file_list:
         for line in lines:
 #            print line
             jsondata = json.loads(line)
+#            print xml.get_content_by_id("tg123.2")
             stage = xml.get_content_by_id(jsondata["id"])
             if(stage is not None):
                 if("type" in stage.attrib):
@@ -44,4 +46,3 @@ print "corrections:\n"
 print "|    Before  |   After   |   Count    |"
 for st,vals in stats.iteritems():
     print "|    "+st[0]+"   |   "+st[1]+"  |    "+str(vals)+"   |"
-

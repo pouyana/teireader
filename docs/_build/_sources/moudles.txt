@@ -1,0 +1,4 @@
+.. hightlight:: python
+
+.. automoudle:: drama
+    :members:

@@ -1,0 +1,8 @@
+:mod:`drama` --- Drama Module
+=======================================================
+It handles mainly the whole TEI data extraction.
+
+.. highlight:: python
+
+.. automodule:: drama
+    :members:

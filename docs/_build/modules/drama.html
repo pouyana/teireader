@@ -1,0 +1,197 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>drama — Drama Module &mdash; TEI Reader 0.0.1 documentation</title>
+    
+    <link rel="stylesheet" href="../_static/default.css" type="text/css" />
+    <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    '../',
+        VERSION:     '0.0.1',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true
+      };
+    </script>
+    <script type="text/javascript" src="../_static/jquery.js"></script>
+    <script type="text/javascript" src="../_static/underscore.js"></script>
+    <script type="text/javascript" src="../_static/doctools.js"></script>
+    <link rel="top" title="TEI Reader 0.0.1 documentation" href="../index.html" />
+    <link rel="prev" title="Using TEIReader" href="../installation/usage.html" /> 
+  </head>
+  <body>
+    <div class="related">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="../genindex.html" title="General Index"
+             accesskey="I">index</a></li>
+        <li class="right" >
+          <a href="../py-modindex.html" title="Python Module Index"
+             >modules</a> |</li>
+        <li class="right" >
+          <a href="../installation/usage.html" title="Using TEIReader"
+             accesskey="P">previous</a> |</li>
+        <li><a href="../index.html">TEI Reader 0.0.1 documentation</a> &raquo;</li> 
+      </ul>
+    </div>  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body">
+            
+  <div class="section" id="drama-drama-module">
+<h1><a class="reference internal" href="#module-drama" title="drama"><tt class="xref py py-mod docutils literal"><span class="pre">drama</span></tt></a> &#8212; Drama Module<a class="headerlink" href="#drama-drama-module" title="Permalink to this headline">¶</a></h1>
+<p>Drama class, uses ElementTree and XPath for the XML tree search.</p>
+<span class="target" id="module-drama"></span><dl class="class">
+<dt id="drama.Drama">
+<em class="property">class </em><tt class="descclassname">drama.</tt><tt class="descname">Drama</tt><big>(</big><em>xml_data</em>, <em>log_level='ERROR'</em><big>)</big><a class="headerlink" href="#drama.Drama" title="Permalink to this definition">¶</a></dt>
+<dd><p>Handles the data extraction from TEI xml data. It uses ElementTree bulit-in class from python.Setting log_level is
+optional and the default value is <tt class="docutils literal"><span class="pre">ERROR</span></tt>.
+To use the Drama class just use the following code:</p>
+<div class="highlight-python"><div class="highlight"><pre><span class="kn">from</span> <span class="nn">drama</span> <span class="kn">import</span> <span class="n">Drama</span>
+<span class="n">drama</span> <span class="o">=</span> <span class="n">Drama</span> <span class="p">(</span><span class="n">xml_file_address</span><span class="p">,[</span><span class="n">log_level</span><span class="p">])</span>
+</pre></div>
+</div>
+<dl class="method">
+<dt id="drama.Drama.get_bibl_author">
+<tt class="descname">get_bibl_author</tt><big>(</big><big>)</big><a class="headerlink" href="#drama.Drama.get_bibl_author" title="Permalink to this definition">¶</a></dt>
+<dd><p>Return the author of the drama, with the pnd number. Returns collections. When not finding anything returns None with <tt class="docutils literal"><span class="pre">WARNING</span></tt></p>
+<div class="highlight-python"><div class="highlight"><pre><span class="p">{</span><span class="s">&quot;name&quot;</span><span class="p">:</span><span class="n">string</span><span class="p">,</span><span class="s">&quot;pnd&quot;</span><span class="p">:</span><span class="n">integer</span><span class="p">}</span>
+</pre></div>
+</div>
+</dd></dl>
+
+<dl class="method">
+<dt id="drama.Drama.get_bibl_title">
+<tt class="descname">get_bibl_title</tt><big>(</big><big>)</big><a class="headerlink" href="#drama.Drama.get_bibl_title" title="Permalink to this definition">¶</a></dt>
+<dd><p>Returns bibliographic title of Drama. Returns string if bibl_title found, if not gives a <tt class="docutils literal"><span class="pre">WARNING</span></tt>.</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="drama.Drama.get_content_by_id">
+<tt class="descname">get_content_by_id</tt><big>(</big><em>ident</em><big>)</big><a class="headerlink" href="#drama.Drama.get_content_by_id" title="Permalink to this definition">¶</a></dt>
+<dd><p>id must be a alphanumeric value like tg123.2.
+Returns a Tree element for the given id. None if not found and a warning log.</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="drama.Drama.get_license">
+<tt class="descname">get_license</tt><big>(</big><big>)</big><a class="headerlink" href="#drama.Drama.get_license" title="Permalink to this definition">¶</a></dt>
+<dd><p>Returns the license of the drama Text. Return type is string.
+If not found retruns None and a <tt class="docutils literal"><span class="pre">WARNING</span></tt>.</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="drama.Drama.get_root">
+<tt class="descname">get_root</tt><big>(</big><big>)</big><a class="headerlink" href="#drama.Drama.get_root" title="Permalink to this definition">¶</a></dt>
+<dd><p>Returns the root element of an XML data. Not finding root returns <tt class="docutils literal"><span class="pre">None</span></tt>.</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="drama.Drama.get_stage_all">
+<tt class="descname">get_stage_all</tt><big>(</big><big>)</big><a class="headerlink" href="#drama.Drama.get_stage_all" title="Permalink to this definition">¶</a></dt>
+<dd><p>convert all stages to serialized collection, it can be used to create suitable corpora for the nltk-trainer.Returns:</p>
+<div class="highlight-python"><div class="highlight"><pre><span class="n">collection</span> <span class="o">=</span> <span class="p">{</span><span class="s">&quot;enter&quot;</span><span class="p">:[</span><span class="s">&quot;kommt dazu!&quot;</span><span class="p">],</span><span class="s">&quot;exit&quot;</span><span class="p">:[</span><span class="s">&quot;Ab.&quot;</span><span class="p">],</span><span class="s">&quot;dead&quot;</span><span class="p">:[</span><span class="s">&quot;Stribt.&quot;</span><span class="p">],</span><span class="s">&quot;other&quot;</span><span class="p">:[</span><span class="s">&quot;singend.&quot;</span><span class="p">],</span><span class="s">&quot;aside&quot;</span><span class="p">:[</span><span class="s">&quot;Ad Spect.&quot;</span><span class="p">]}</span>
+</pre></div>
+</div>
+</dd></dl>
+
+<dl class="method">
+<dt id="drama.Drama.get_title">
+<tt class="descname">get_title</tt><big>(</big><big>)</big><a class="headerlink" href="#drama.Drama.get_title" title="Permalink to this definition">¶</a></dt>
+<dd><p>Returns the Drama title, which is set in XML data. can be used to better name display in webpages.
+Return type is <tt class="docutils literal"><span class="pre">string</span></tt> or <tt class="docutils literal"><span class="pre">None</span></tt> when not found the error is logged as <tt class="docutils literal"><span class="pre">WARNING</span></tt>.</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="drama.Drama.get_tree">
+<tt class="descname">get_tree</tt><big>(</big><big>)</big><a class="headerlink" href="#drama.Drama.get_tree" title="Permalink to this definition">¶</a></dt>
+<dd><p>Returns elements tree of a XML data. When not sent returns <tt class="docutils literal"><span class="pre">None</span></tt>.</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="drama.Drama.import_xml">
+<tt class="descname">import_xml</tt><big>(</big><big>)</big><a class="headerlink" href="#drama.Drama.import_xml" title="Permalink to this definition">¶</a></dt>
+<dd><p>Imports, parses XML and adds local tree and root objects. It is mandatory for initiating. Raises <tt class="docutils literal"><span class="pre">ERROR</span></tt> if not working properly.</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="drama.Drama.set_root">
+<tt class="descname">set_root</tt><big>(</big><em>root</em><big>)</big><a class="headerlink" href="#drama.Drama.set_root" title="Permalink to this definition">¶</a></dt>
+<dd><p>Sets the root element of XML data. The root element must be ElementTree Element. When not set to <tt class="docutils literal"><span class="pre">None</span></tt>.</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="drama.Drama.set_tree">
+<tt class="descname">set_tree</tt><big>(</big><em>tree</em><big>)</big><a class="headerlink" href="#drama.Drama.set_tree" title="Permalink to this definition">¶</a></dt>
+<dd><p>Sets the elements tree, needs tree object which is the result of ET.parse, if tree not ElementTree, returns <tt class="docutils literal"><span class="pre">None</span></tt>.
+Logs as <tt class="docutils literal"><span class="pre">ERROR</span></tt></p>
+</dd></dl>
+
+</dd></dl>
+
+</div>
+
+
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar">
+        <div class="sphinxsidebarwrapper">
+  <h4>Previous topic</h4>
+  <p class="topless"><a href="../installation/usage.html"
+                        title="previous chapter">Using TEIReader</a></p>
+  <h3>This Page</h3>
+  <ul class="this-page-menu">
+    <li><a href="../_sources/modules/drama.txt"
+           rel="nofollow">Show Source</a></li>
+  </ul>
+<div id="searchbox" style="display: none">
+  <h3>Quick search</h3>
+    <form class="search" action="../search.html" method="get">
+      <input type="text" name="q" />
+      <input type="submit" value="Go" />
+      <input type="hidden" name="check_keywords" value="yes" />
+      <input type="hidden" name="area" value="default" />
+    </form>
+    <p class="searchtip" style="font-size: 90%">
+    Enter search terms or a module, class or function name.
+    </p>
+</div>
+<script type="text/javascript">$('#searchbox').show(0);</script>
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="related">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="../genindex.html" title="General Index"
+             >index</a></li>
+        <li class="right" >
+          <a href="../py-modindex.html" title="Python Module Index"
+             >modules</a> |</li>
+        <li class="right" >
+          <a href="../installation/usage.html" title="Using TEIReader"
+             >previous</a> |</li>
+        <li><a href="../index.html">TEI Reader 0.0.1 documentation</a> &raquo;</li> 
+      </ul>
+    </div>
+    <div class="footer">
+        &copy; Copyright 2013, Pouyan Azari.
+      Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> 1.1.3.
+    </div>
+  </body>
+</html>
