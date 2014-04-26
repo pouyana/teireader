@@ -4,7 +4,8 @@ import re
 from drama import Drama
 drama = Drama("machine_classified_corrected/Vom verfolgten Lateiner.out.xml")
 casts = drama.get_cast()
-stages = drama.get_stages_with_type()
+stages = drama.get_stage_all()
+print stages
 for stage in stages:
     if (stage["type"] in ["enter","exit"]):
         speakers = stage["text"].split(".")

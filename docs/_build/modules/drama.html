@@ -64,6 +64,24 @@ To use the Drama class just use the following code:</p>
 </pre></div>
 </div>
 <dl class="method">
+<dt id="drama.Drama.get_all_ids">
+<tt class="descname">get_all_ids</tt><big>(</big><big>)</big><a class="headerlink" href="#drama.Drama.get_all_ids" title="Permalink to this definition">¶</a></dt>
+<dd><p>Returns all the element which are taged by an id in a list.</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="drama.Drama.get_all_speech">
+<tt class="descname">get_all_speech</tt><big>(</big><big>)</big><a class="headerlink" href="#drama.Drama.get_all_speech" title="Permalink to this definition">¶</a></dt>
+<dd><p>Returns all the speech texts from different speakers as a list.</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="drama.Drama.get_all_speech_by_speaker">
+<tt class="descname">get_all_speech_by_speaker</tt><big>(</big><em>sp</em><big>)</big><a class="headerlink" href="#drama.Drama.get_all_speech_by_speaker" title="Permalink to this definition">¶</a></dt>
+<dd><p>Finds all the speeches spoken by a speaker in a drama. Returns a list of them.</p>
+</dd></dl>
+
+<dl class="method">
 <dt id="drama.Drama.get_bibl_author">
 <tt class="descname">get_bibl_author</tt><big>(</big><big>)</big><a class="headerlink" href="#drama.Drama.get_bibl_author" title="Permalink to this definition">¶</a></dt>
 <dd><p>Return the author of the drama, with the pnd number. Returns collections. When not finding anything returns None with <tt class="docutils literal"><span class="pre">WARNING</span></tt></p>
@@ -79,10 +97,42 @@ To use the Drama class just use the following code:</p>
 </dd></dl>
 
 <dl class="method">
+<dt id="drama.Drama.get_cast">
+<tt class="descname">get_cast</tt><big>(</big><big>)</big><a class="headerlink" href="#drama.Drama.get_cast" title="Permalink to this definition">¶</a></dt>
+<dd><p>Returns a list with all casts listed in CastItem, as:</p>
+<div class="highlight-python"><div class="highlight"><pre><span class="p">[{</span><span class="s">&quot;id&quot;</span><span class="p">:</span><span class="s">&quot;tg123&quot;</span><span class="p">,</span><span class="s">&quot;name&quot;</span><span class="p">:</span><span class="s">&quot;Fuhrst&quot;</span><span class="p">},{</span><span class="s">&quot;id&quot;</span><span class="p">:</span><span class="s">&quot;tg124&quot;</span><span class="p">,</span><span class="s">&quot;name&quot;</span><span class="p">:</span><span class="s">&quot;Hans&quot;</span><span class="p">}]</span>
+</pre></div>
+</div>
+<p>Returns <tt class="docutils literal"><span class="pre">None</span></tt> when there is something wrong with CastItem list, with <tt class="docutils literal"><span class="pre">WARNING</span></tt> log.</p>
+</dd></dl>
+
+<dl class="method">
 <dt id="drama.Drama.get_content_by_id">
 <tt class="descname">get_content_by_id</tt><big>(</big><em>ident</em><big>)</big><a class="headerlink" href="#drama.Drama.get_content_by_id" title="Permalink to this definition">¶</a></dt>
-<dd><p>id must be a alphanumeric value like tg123.2.
-Returns a Tree element for the given id. None if not found and a warning log.</p>
+<dd><p>ident must be a alphanumeric value like tg123.2.
+Returns a Tree element for the given id. None if not found and a <tt class="docutils literal"><span class="pre">WARNING</span></tt> log.</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="drama.Drama.get_creation_date">
+<tt class="descname">get_creation_date</tt><big>(</big><big>)</big><a class="headerlink" href="#drama.Drama.get_creation_date" title="Permalink to this definition">¶</a></dt>
+<dd><p>Retruns creation date of the drama, with two or one arguments. Not Before or Not After.
+Return type is dict with the following shape:</p>
+<div class="highlight-python"><div class="highlight"><pre><span class="p">{</span><span class="s">&quot;after&quot;</span><span class="p">:</span><span class="s">&quot;Not Before String&quot;</span><span class="p">,</span><span class="s">&quot;before&quot;</span><span class="p">:</span><span class="s">&quot;Not after String&quot;</span><span class="p">}</span>
+</pre></div>
+</div>
+<p>There is an error finding the data, returns <tt class="docutils literal"><span class="pre">NONE</span></tt> with <tt class="docutils literal"><span class="pre">WARNING</span></tt> log.</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="drama.Drama.get_fix_stage">
+<tt class="descname">get_fix_stage</tt><big>(</big><big>)</big><a class="headerlink" href="#drama.Drama.get_fix_stage" title="Permalink to this definition">¶</a></dt>
+<dd><p>Returns all the stages in an unclassified TEI data. Id is set always for the the top element. Text comes from the direct stage
+element or the child text element.
+Retruns a list like:</p>
+<div class="highlight-python"><div class="highlight"><pre><span class="p">[{</span><span class="s">&quot;id&quot;</span><span class="p">:</span><span class="s">&quot;tg123&quot;</span><span class="p">,</span><span class="s">&quot;text&quot;</span><span class="p">:</span><span class="s">&quot;Hallo..&quot;</span><span class="p">},{</span><span class="o">..</span><span class="p">},</span><span class="o">..</span><span class="p">]</span>
+</pre></div>
+</div>
 </dd></dl>
 
 <dl class="method">
@@ -93,9 +143,34 @@ If not found retruns None and a <tt class="docutils literal"><span class="pre">W
 </dd></dl>
 
 <dl class="method">
+<dt id="drama.Drama.get_publish_data">
+<tt class="descname">get_publish_data</tt><big>(</big><big>)</big><a class="headerlink" href="#drama.Drama.get_publish_data" title="Permalink to this definition">¶</a></dt>
+<dd><p>Returns the publishing information, like place, license and also the date of first publishing.
+Return type is like</p>
+<div class="highlight-python"><div class="highlight"><pre><span class="p">{</span><span class="s">&quot;date&quot;</span><span class="p">:</span><span class="s">&quot;date-string&quot;</span><span class="p">,</span><span class="s">&quot;place&quot;</span><span class="p">:</span><span class="s">&quot;place of issue&quot;</span><span class="p">,</span><span class="s">&quot;license&quot;</span><span class="p">:</span><span class="s">&quot;copyright status now.&quot;</span><span class="p">}</span>
+</pre></div>
+</div>
+<p>There is an error finding the data, returns <tt class="docutils literal"><span class="pre">None</span></tt> with <tt class="docutils literal"><span class="pre">WARNING</span></tt> log.</p>
+</dd></dl>
+
+<dl class="method">
 <dt id="drama.Drama.get_root">
 <tt class="descname">get_root</tt><big>(</big><big>)</big><a class="headerlink" href="#drama.Drama.get_root" title="Permalink to this definition">¶</a></dt>
 <dd><p>Returns the root element of an XML data. Not finding root returns <tt class="docutils literal"><span class="pre">None</span></tt>.</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="drama.Drama.get_scene">
+<tt class="descname">get_scene</tt><big>(</big><big>)</big><a class="headerlink" href="#drama.Drama.get_scene" title="Permalink to this definition">¶</a></dt>
+<dd><p>Returns Scene Element objects in a list, can be used to create configuration.
+use <tt class="docutils literal"><span class="pre">iter()</span></tt> function to iterate them.</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="drama.Drama.get_sp_by_speaker_id">
+<tt class="descname">get_sp_by_speaker_id</tt><big>(</big><em>ident</em><big>)</big><a class="headerlink" href="#drama.Drama.get_sp_by_speaker_id" title="Permalink to this definition">¶</a></dt>
+<dd><p>find a speaker with the ident given. 
+returns None if not found</p>
 </dd></dl>
 
 <dl class="method">
@@ -105,6 +180,13 @@ If not found retruns None and a <tt class="docutils literal"><span class="pre">W
 <div class="highlight-python"><div class="highlight"><pre><span class="n">collection</span> <span class="o">=</span> <span class="p">{</span><span class="s">&quot;enter&quot;</span><span class="p">:[</span><span class="s">&quot;kommt dazu!&quot;</span><span class="p">],</span><span class="s">&quot;exit&quot;</span><span class="p">:[</span><span class="s">&quot;Ab.&quot;</span><span class="p">],</span><span class="s">&quot;dead&quot;</span><span class="p">:[</span><span class="s">&quot;Stribt.&quot;</span><span class="p">],</span><span class="s">&quot;other&quot;</span><span class="p">:[</span><span class="s">&quot;singend.&quot;</span><span class="p">],</span><span class="s">&quot;aside&quot;</span><span class="p">:[</span><span class="s">&quot;Ad Spect.&quot;</span><span class="p">]}</span>
 </pre></div>
 </div>
+</dd></dl>
+
+<dl class="method">
+<dt id="drama.Drama.get_stats">
+<tt class="descname">get_stats</tt><big>(</big><big>)</big><a class="headerlink" href="#drama.Drama.get_stats" title="Permalink to this definition">¶</a></dt>
+<dd><p>Statistics Paramaters, it is a little complicated and is connected to the speaker module.
+TODO:Make it easier to understand by using tuples.</p>
 </dd></dl>
 
 <dl class="method">

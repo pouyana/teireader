@@ -133,28 +133,76 @@ class Drama:
                 return None
 
         def get_publish_data(self):
-            fDs_date = self.root.findall(".//"+self.ns_tei+"biblFull/"+self.ns_tei+"publicationStmt/"+self.ns_tei+"date")
-            fDs_place = self.root.findall(".//"+self.ns_tei+"biblFull/"+self.ns_tei+"publicationStmt/"+self.ns_tei+"pubPlace")
-            data = {"date":fDs_date[0].attrib["when"],"place":fDs_place[0].text,"license":self.get_license()}
-            return data
+            """
+            Returns the publishing information, like place, license and also the date of first publishing.
+            Return type is like
 
-        #creation date
-        #to do try/catch for the unkwnown attribs and also work with the existing attrib. less static more dynamic
+            .. code-block:: python
+
+                {"date":"date-string","place":"place of issue","license":"copyright status now."}
+
+            There is an error finding the data, returns ``None`` with ``WARNING`` log.
+            """
+            try:
+                fDs_date = self.root.findall(".//"+self.ns_tei+"biblFull/"+self.ns_tei+"publicationStmt/"+self.ns_tei+"date")
+                fDs_place = self.root.findall(".//"+self.ns_tei+"biblFull/"+self.ns_tei+"publicationStmt/"+self.ns_tei+"pubPlace")
+                data = {"date":fDs_date[0].attrib["when"],"place":fDs_place[0].text,"license":self.get_license()}
+                return data
+            except (IndexError , AttributeError) as e:
+                self.log.warning("publishing data is not valid or non-exist")
+                return None
+
         def get_creation_date(self):
-            fDs = self.root.findall(".//"+self.ns_tei+"profileDesc/"+self.ns_tei+"creation/"+self.ns_tei+"date")
-            data = {"after":fDs[0].attrib["notBefore"],"before":fDs[0].attrib["notAfter"]}
-            return data
-        #get the whole cast from the tei data.
-        def get_cast(self):
-            fDs = self.root.findall(".//"+self.ns_tei+"castItem")
-            result = []
-            for f in fDs:
-                res ={"id":f.attrib[self.ns_w3+"id"],"name":f.text}
-                result.append(res)
-                return result
+            """
+            Retruns creation date of the drama, with two or one arguments. Not Before or Not After.
+            Return type is dict with the following shape:
 
-        #get fix-stage stuff
+            .. code-block:: python
+
+                {"after":"Not Before String","before":"Not after String"}
+
+            There is an error finding the data, returns ``NONE`` with ``WARNING`` log.
+            """
+            try:
+                fDs = self.root.findall(".//"+self.ns_tei+"profileDesc/"+self.ns_tei+"creation/"+self.ns_tei+"date")
+                data = {"after":fDs[0].attrib["notBefore"],"before":fDs[0].attrib["notAfter"]}
+                return data
+            except (IndexError, AttributeError) as e:
+                self.log.warning("The creation date is not valid or none-exist.")
+                return None
+
+        def get_cast(self):
+            """
+            Returns a list with all casts listed in CastItem, as:
+            
+            .. code-block:: python
+
+                [{"id":"tg123","name":"Fuhrst"},{"id":"tg124","name":"Hans"}]
+
+            Returns ``None`` when there is something wrong with CastItem list, with ``WARNING`` log.
+            """
+            try:
+                fDs = self.root.findall(".//"+self.ns_tei+"castItem")
+                result = []
+                for f in fDs:
+                    res ={"id":f.attrib[self.ns_w3+"id"],"name":" ".join(re.findall("\S+",f.text))}
+                    result.append(res)
+                return result
+            except ParseError as e:
+                self.log.warning("there was a problem findin CastItem in TEI data")
+                return None
+
         def get_fix_stage(self):
+            """
+            Returns all the stages in an unclassified TEI data. Id is set always for the the top element. Text comes from the direct stage
+            element or the child text element.
+            Retruns a list like:
+
+            .. code-block:: python
+
+                [{"id":"tg123","text":"Hallo.."},{..},..]
+
+            """
             tool = Tools()
             fDs = self.root.findall(".//"+self.ns_tei+"stage")
             result = []
@@ -163,36 +211,35 @@ class Drama:
                     tmp_stage={}
                     tmp_stage["id"]=f.attrib[self.ns_w3+"id"]
                     for c in f:
-                        #a fix for stage in stage.
                         if(not(c.tag==self.ns_tei+"stage")):
                             tmp_stage["text"]=tool.unicode_safe(c.text)
-                        if(f.text):
-                            if(re.match("\S+",f.text)):
+                        if(f.text.rstrip()):
                                 tmp_stage["text"]=tool.unicode_safe(f.text)
                                 result.append(tmp_stage)
             return result
-        #find act or scene
-        def get_stages_with_type(self):
-            stages=self.get_fix_stage()
-            result = []
-            for stage in stages:
-                element = self.get_content_by_id(stage["id"])
-                if "type" in element.attrib:
-                    print element.attrib["type"]
-                    stage["type"] = element.attrib["type"]
-                    result.append(stage)
-            return result
+
 
         def get_scene(self):
-            fDs = self.root.findall(".//"+self.ns_tei+"div[@type='scene']")
+            """
+            Returns Scene Element objects in a list, can be used to create configuration.
+            use ``iter()`` function to iterate them.
+            """
+            fDs = self.root.findall(".//*[@"+self.ns_w3+"id]")
+            pattern = "(tg[0-9][^.]+$)"
             result = []
             for f in fDs:
-                res ={"id":f.attrib[self.ns_w3+"id"],"name":f.attrib["n"]}
-                result.append(res)
+                if re.match(pattern,f.attrib[self.ns_w3+"id"]):
+                    for elem in f.iter(self.ns_tei+"div"):
+                        if (elem is not f and "type" in elem.attrib):
+                            if(elem.attrib["type"]=="text"):
+                                matched = [m for m in elem.iter(self.ns_tei+"div") if (m is not elem and m.attrib["type"]!="Dramatis_Personae")]
+                                result = result+matched
             return result
 
-        #list all the ids, with this all of the acceable elements are found and can be used for further parsing
         def get_all_ids(self):
+            """
+            Returns all the element which are taged by an id in a list.
+            """
             fDs = self.root.findall(".//*[@"+self.ns_w3+"id]")
             result = []
             for f in fDs:
@@ -215,32 +262,36 @@ class Drama:
             fDs = self.root.findall(".//"+self.ns_tei+"stage")
             for f in fDs:
                 if ("type" in f.attrib):
-                    if(f.attrib["type"] in modes and re.match('\S+',f.text)) :
+                    if(f.attrib["type"] in modes and re.match('\S+',f.text.rstrip())) :
                         collection[f.attrib["type"]].append(f.text)
                     elif(f.attrib["type"] in modes):
                         for c in f:
-                            collection[f.attrib["type"]].append(c.text)
+                            if(c.text.rstrip()):
+                                collection[f.attrib["type"]].append(c.text)
                 else:
                     for c in f:
                         if("type" in c.attrib):
-                            if(c.attrib["type"] in modes):
+                            if(c.attrib["type"] in modes and f.text.rstrip()):
                                 collection[c.attrib["type"]].append(f.text)
             return collection
 
         def get_content_by_id(self,ident):
             """
-            id must be a alphanumeric value like tg123.2.
-            Returns a Tree element for the given id. None if not found and a warning log.
+            ident must be a alphanumeric value like tg123.2.
+            Returns a Tree element for the given id. None if not found and a ``WARNING`` log.
             """
             try:
                 fDs = self.root.findall(".//*[@"+self.ns_w3+"id='"+ident+"']")
                 return fDs[0]
             except IndexError:
-                self.log.warning("id"+ ident +"is not found.")
+                self.log.warning("id "+ ident +" is not found.")
                 return None
 
-        #given speaker id get the <sp> tag which also contains <p> and <l> tags.
         def get_sp_by_speaker_id(self,ident):
+            """
+            find a speaker with the ident given. 
+            returns None if not found
+            """
             fDs = self.root.findall(".//*[@"+self.ns_w3+"id='"+ident+"']/..")
             if fDs:
                 return fDs
@@ -248,9 +299,11 @@ class Drama:
                 return None
 
         def get_all_speech_by_speaker(self,sp):
+            """
+            Finds all the speeches spoken by a speaker in a drama. Returns a list of them.
+            """
             result = []
             for child in sp:
-                #if it is a <p> or <l> then put it in the result list
                 if (child.tag == self.ns_tei+"p" or child.tag == self.ns_tei+"l"):
                     result.append(child)
                     if (child.tag == self.ns_tei+"lg"):
@@ -259,6 +312,9 @@ class Drama:
             return result
 
         def get_all_speech(self):
+            """
+            Returns all the speech texts from different speakers as a list.
+            """
             tools = Tools()
             fDs = self.root.findall(".//"+self.ns_tei+"speaker")
             result = []
@@ -274,6 +330,10 @@ class Drama:
             return result
 
         def get_stats(self):
+            """
+            Statistics Paramaters, it is a little complicated and is connected to the speaker module.
+            TODO:Make it easier to understand by using tuples.
+            """
             spstats = SpeakerStatisticsCollection(self.get_all_speech())
             spstats.generate_stats()
             statistics = {}
