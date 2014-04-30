@@ -1,0 +1,146 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>nlp_socket — NLP Socket Module &mdash; TEI Reader 0.0.1 documentation</title>
+    
+    <link rel="stylesheet" href="../_static/default.css" type="text/css" />
+    <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    '../',
+        VERSION:     '0.0.1',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true
+      };
+    </script>
+    <script type="text/javascript" src="../_static/jquery.js"></script>
+    <script type="text/javascript" src="../_static/underscore.js"></script>
+    <script type="text/javascript" src="../_static/doctools.js"></script>
+    <link rel="top" title="TEI Reader 0.0.1 documentation" href="../index.html" />
+    <link rel="prev" title="drama — Drama Module" href="drama.html" /> 
+  </head>
+  <body>
+    <div class="related">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="../genindex.html" title="General Index"
+             accesskey="I">index</a></li>
+        <li class="right" >
+          <a href="../py-modindex.html" title="Python Module Index"
+             >modules</a> |</li>
+        <li class="right" >
+          <a href="drama.html" title="drama — Drama Module"
+             accesskey="P">previous</a> |</li>
+        <li><a href="../index.html">TEI Reader 0.0.1 documentation</a> &raquo;</li> 
+      </ul>
+    </div>  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body">
+            
+  <div class="section" id="nlp-socket-nlp-socket-module">
+<h1><a class="reference internal" href="#module-nlp_socket" title="nlp_socket"><tt class="xref py py-mod docutils literal"><span class="pre">nlp_socket</span></tt></a> &#8212; NLP Socket Module<a class="headerlink" href="#nlp-socket-nlp-socket-module" title="Permalink to this headline">¶</a></h1>
+<p>NLP Socket send/recieve data with the Stanford Servers.</p>
+<span class="target" id="module-nlp_socket"></span><dl class="class">
+<dt id="nlp_socket.NLPSocket">
+<em class="property">class </em><tt class="descclassname">nlp_socket.</tt><tt class="descname">NLPSocket</tt><big>(</big><em>host</em>, <em>port</em><big>)</big><a class="headerlink" href="#nlp_socket.NLPSocket" title="Permalink to this definition">¶</a></dt>
+<dd><p>Socket Library for the connection to the Stanford Servers.
+There are two servers:</p>
+<ol class="arabic simple">
+<li>The Named Entity Recognition Server (NER):</li>
+</ol>
+<div class="highlight-java"><div class="highlight"><pre><span class="n">java</span> <span class="o">-</span><span class="n">mx1000m</span> <span class="o">-</span><span class="n">cp</span> <span class="n">stanford</span><span class="o">-</span><span class="n">ner</span><span class="o">-</span><span class="mi">2014</span><span class="o">-</span><span class="mi">01</span><span class="o">-</span><span class="mi">04</span><span class="o">.</span><span class="na">jar</span> <span class="n">edu</span><span class="o">.</span><span class="na">stanford</span><span class="o">.</span><span class="na">nlp</span><span class="o">.</span><span class="na">ie</span><span class="o">.</span><span class="na">NERServer</span> <span class="o">-</span><span class="n">loadClassifier</span> <span class="n">classifiers</span><span class="o">/</span><span class="n">hgc_175m_600</span><span class="o">.</span><span class="na">crf</span><span class="o">.</span><span class="na">ser</span><span class="o">.</span><span class="na">gz</span> <span class="o">-</span><span class="n">port</span> <span class="mi">9191</span> <span class="o">-</span><span class="n">outputFormat</span> <span class="n">inlineXML</span>
+</pre></div>
+</div>
+<ol class="arabic simple" start="2">
+<li>The Part of Speech Tagger (POSTAGGER):</li>
+</ol>
+<div class="highlight-java"><div class="highlight"><pre><span class="n">java</span> <span class="o">-</span><span class="n">mx1000m</span> <span class="o">-</span><span class="n">cp</span> <span class="n">stanford</span><span class="o">-</span><span class="n">postagger</span><span class="o">-</span><span class="mf">3.3</span><span class="o">.</span><span class="mi">1</span><span class="o">.</span><span class="na">jar</span> <span class="n">edu</span><span class="o">.</span><span class="na">stanford</span><span class="o">.</span><span class="na">nlp</span><span class="o">.</span><span class="na">tagger</span><span class="o">.</span><span class="na">maxent</span><span class="o">.</span><span class="na">MaxentTaggerServer</span> <span class="o">-</span><span class="n">model</span> <span class="n">models</span><span class="o">/</span><span class="n">german</span><span class="o">-</span><span class="n">dewac</span><span class="o">.</span><span class="na">tagger</span> <span class="o">-</span><span class="n">port</span> <span class="mi">9192</span> <span class="o">-</span><span class="n">outputFormat</span> <span class="n">inlineXML</span>
+</pre></div>
+</div>
+<p>to Test:</p>
+<div class="highlight-python"><div class="highlight"><pre><span class="n">nlp</span> <span class="o">=</span> <span class="n">NLPSocket</span><span class="p">(</span><span class="s">&quot;localhost&quot;</span><span class="p">,</span><span class="mi">9191</span><span class="p">)</span>
+<span class="n">data</span> <span class="o">=</span> <span class="n">nlp</span><span class="o">.</span><span class="n">recv_data</span><span class="p">(</span><span class="s">&quot;Mein Name ist Brad John&quot;</span><span class="p">)</span>
+<span class="k">print</span> <span class="n">data</span>
+</pre></div>
+</div>
+<dl class="method">
+<dt id="nlp_socket.NLPSocket.create_socket">
+<tt class="descname">create_socket</tt><big>(</big><big>)</big><a class="headerlink" href="#nlp_socket.NLPSocket.create_socket" title="Permalink to this definition">¶</a></dt>
+<dd><p>Abstract Socket creator.</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="nlp_socket.NLPSocket.recv_data">
+<tt class="descname">recv_data</tt><big>(</big><em>data</em><big>)</big><a class="headerlink" href="#nlp_socket.NLPSocket.recv_data" title="Permalink to this definition">¶</a></dt>
+<dd><p>Data reciver</p>
+<p>&#64;param data, the data sent to the server</p>
+<p>&#64;return string, the tagged data from one of the server.</p>
+</dd></dl>
+
+</dd></dl>
+
+</div>
+
+
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar">
+        <div class="sphinxsidebarwrapper">
+  <h4>Previous topic</h4>
+  <p class="topless"><a href="drama.html"
+                        title="previous chapter"><tt class="docutils literal"><span class="pre">drama</span></tt> &#8212; Drama Module</a></p>
+  <h3>This Page</h3>
+  <ul class="this-page-menu">
+    <li><a href="../_sources/modules/nlp_socket.txt"
+           rel="nofollow">Show Source</a></li>
+  </ul>
+<div id="searchbox" style="display: none">
+  <h3>Quick search</h3>
+    <form class="search" action="../search.html" method="get">
+      <input type="text" name="q" />
+      <input type="submit" value="Go" />
+      <input type="hidden" name="check_keywords" value="yes" />
+      <input type="hidden" name="area" value="default" />
+    </form>
+    <p class="searchtip" style="font-size: 90%">
+    Enter search terms or a module, class or function name.
+    </p>
+</div>
+<script type="text/javascript">$('#searchbox').show(0);</script>
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="related">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="../genindex.html" title="General Index"
+             >index</a></li>
+        <li class="right" >
+          <a href="../py-modindex.html" title="Python Module Index"
+             >modules</a> |</li>
+        <li class="right" >
+          <a href="drama.html" title="drama — Drama Module"
+             >previous</a> |</li>
+        <li><a href="../index.html">TEI Reader 0.0.1 documentation</a> &raquo;</li> 
+      </ul>
+    </div>
+    <div class="footer">
+        &copy; Copyright 2013, Pouyan Azari.
+      Created using <a href="http://sphinx-doc.org/">Sphinx</a> 1.2.2.
+    </div>
+  </body>
+</html>
