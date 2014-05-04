@@ -299,6 +299,17 @@ class Drama:
 			text = text + self.get_stage_text(child)
 	    return text
 
+	def get_stage_type(self,element):
+	    """
+	    Returns the stage type in a recursive way.
+	    """
+	    stage_type = None
+	    if ("type" in element.attrib):
+		stage_type = element.attrib["type"]
+	    else:
+		for child in element:
+			stage_type = self.get_stage_type(child)
+	    return stage_type
 
         def get_content_by_id(self,ident):
             """

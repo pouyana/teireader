@@ -20,24 +20,35 @@ casts = drama.get_cast()
 tokenized_cast = [re.findall("\w+",elem["name"]) for elem in casts]
 all_cast = []
 tree = drama.get_tree()
+#parent_map = dict((c, p) for p in tree.getiterator() for c in p)
+#print parent_map
+count = 0
 for cast in tokenized_cast:
     all_cast = all_cast + cast
-for scene in drama.get_scene():
-    config = ET.Element("config")
+for scene in set(drama.get_scene()):
+    print scene.tag
+    print scene.attrib
+    count = count + 1
+    tmp_element = ET.Element("config")
+    tmp_element.set("num",str(count))
+    for elem in scene.iter():
+        if elem is not scene:
+		tmp_element.append(elem)	
+    scene.clear()
+    scene.append(tmp_element)
+    #print "===="
+    #parent_map = dict((c.tag,p.tag) for p in scene.getiterator() for c in p)
+    #print parent_map
+    #print "===="
+    #for p in scene.getiterator():
+    #config.extend(p)
     stages = [elem for elem in scene.iter(drama.ns_tei+"stage") if elem is not scene]
     for stage in stages:
-	print drama.get_stage_text(stage)
-	if ("type" in stage.attrib):
-		stage_type = stage.attrib["type"]
-		if(stage_type in ["enter","exit"]):
-			if(re.match("\S+",stage.text.rstrip().lstrip())):
-				if stage_type == "enter":
-		                        tokenized_text = re.findall("\w+",tools.normalize_text(stage.text))
-					if search(tokenized_text,all_cast)["status"]:
-                            			print "a"
-#                else:
-#                    for elem in stage:
-#                        if (elem.text and stage_type=="enter"):
-#                            tokenized_text = re.findall("\w+",tools.normalize_text(elem.text))
-#                            if search(tokenized_text,all_cast)["status"]:
-#                                print "a"
+	stage_type = drama.get_stage_type(stage)
+        stage_text = drama.get_stage_text(stage)
+	#if(stage_type in ["enter","exit"]):
+		#if stage_type == "enter":
+			#for cast in all_cast:
+			#	if (cast in stage_text.split()):
+			#		print casts
+tree.write("out.xml")
