@@ -232,6 +232,7 @@ class Drama:
                     for elem in f.iter(self.ns_tei+"div"):
                         if (elem is not f and "type" in elem.attrib):
                             if(elem.attrib["type"]=="text"):
+				#check if an element is not it self, is not Dramatis_personae and also have a speaker child
                                 matched = [m for m in elem.iter(self.ns_tei+"div") if (m is not elem and m.attrib["type"]!="Dramatis_Personae" and self.has_speaker_child(m))]
                                 result = result+matched
             return result
