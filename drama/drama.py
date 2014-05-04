@@ -232,9 +232,20 @@ class Drama:
                     for elem in f.iter(self.ns_tei+"div"):
                         if (elem is not f and "type" in elem.attrib):
                             if(elem.attrib["type"]=="text"):
-                                matched = [m for m in elem.iter(self.ns_tei+"div") if (m is not elem and m.attrib["type"]!="Dramatis_Personae")]
+                                matched = [m for m in elem.iter(self.ns_tei+"div") if (m is not elem and m.attrib["type"]!="Dramatis_Personae" and self.has_speaker_child(m))]
                                 result = result+matched
             return result
+
+	def has_speaker_child(self,element):
+	    """
+	    Checks if an element, supposly a scene has a sp (speaker) child.
+	    returns true if found, else is false.
+	    """
+	    result = False
+	    for child in element:
+		if (child.tag == self.ns_tei+"sp" and result != True):
+			result = True
+	    return result
 
         def get_all_ids(self):
             """

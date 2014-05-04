@@ -4,6 +4,11 @@ import re
 from drama import Drama
 drama = Drama("machine_classified_corrected/Vom verfolgten Lateiner.out.xml")
 casts = drama.get_cast()
+print casts
+scene = drama.get_scene()
+for s in scene:
+	for c in s:
+		print c.tag
 stages = drama.get_stage_all()
 print stages
 for stage in stages:
