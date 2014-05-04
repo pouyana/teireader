@@ -17,7 +17,6 @@ def search(tokenized_text, tokenized_cast):
 drama = Drama("hand_classified/LessiDer_FreigeisDrame.xml")
 tools = Tools()
 casts = drama.get_cast()
-print casts
 tokenized_cast = [re.findall("\w+",elem["name"]) for elem in casts]
 all_cast = []
 tree = drama.get_tree()
@@ -27,19 +26,18 @@ for scene in drama.get_scene():
     config = ET.Element("config")
     stages = [elem for elem in scene.iter(drama.ns_tei+"stage") if elem is not scene]
     for stage in stages:
-        d = ET.SubElement(a)
-        if ("type" in stage.attrib):
-            stage_type = stage.attrib["type"]
-            if(stage_type in ["enter","exit"]):
-                if(re.match("\S+",stage.text.rstrip().lstrip())):
-                    if stage_type == "enter":
-                        tokenized_text = re.findall("\w+",tools.normalize_text(stage.text))
-                        if search(tokenized_text,all_cast)["status"]:
-                            print "a"
-                else:
-                    for elem in stage:
-                        if (elem.text and stage_type=="enter"):
-                            tokenized_text = re.findall("\w+",tools.normalize_text(elem.text))
-                            if search(tokenized_text,all_cast)["status"]:
-                                print "a"
-tree.write("aout.xml")
+	print drama.get_stage_text(stage)
+	if ("type" in stage.attrib):
+		stage_type = stage.attrib["type"]
+		if(stage_type in ["enter","exit"]):
+			if(re.match("\S+",stage.text.rstrip().lstrip())):
+				if stage_type == "enter":
+		                        tokenized_text = re.findall("\w+",tools.normalize_text(stage.text))
+					if search(tokenized_text,all_cast)["status"]:
+                            			print "a"
+#                else:
+#                    for elem in stage:
+#                        if (elem.text and stage_type=="enter"):
+#                            tokenized_text = re.findall("\w+",tools.normalize_text(elem.text))
+#                            if search(tokenized_text,all_cast)["status"]:
+#                                print "a"

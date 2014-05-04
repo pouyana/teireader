@@ -287,6 +287,19 @@ class Drama:
                                 collection[c.attrib["type"]].append(f.text)
             return collection
 
+	def get_stage_text(self,element):
+	    """
+	    Gets an xml stage element as an input, returns the stage text recursivly.
+	    """
+	    text = ""
+	    if (element.text !=None and re.match("\S+",element.text.lstrip())):
+		text = re.sub("\s+"," ", element.text)
+	    else:
+		for child in element:
+			text = text + self.get_stage_text(child)
+	    return text
+
+
         def get_content_by_id(self,ident):
             """
             ident must be a alphanumeric value like tg123.2.
