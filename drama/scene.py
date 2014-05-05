@@ -26,29 +26,22 @@ count = 0
 for cast in tokenized_cast:
     all_cast = all_cast + cast
 for scene in set(drama.get_scene()):
-    print scene.tag
-    print scene.attrib
     count = count + 1
-    tmp_element = ET.Element("config")
-    tmp_element.set("num",str(count))
-    for elem in scene.iter():
-        if elem is not scene:
-		tmp_element.append(elem)	
-    scene.clear()
-    scene.append(tmp_element)
-    #print "===="
-    #parent_map = dict((c.tag,p.tag) for p in scene.getiterator() for c in p)
-    #print parent_map
-    #print "===="
-    #for p in scene.getiterator():
-    #config.extend(p)
-    stages = [elem for elem in scene.iter(drama.ns_tei+"stage") if elem is not scene]
-    for stage in stages:
-	stage_type = drama.get_stage_type(stage)
-        stage_text = drama.get_stage_text(stage)
-	#if(stage_type in ["enter","exit"]):
-		#if stage_type == "enter":
-			#for cast in all_cast:
-			#	if (cast in stage_text.split()):
-			#		print casts
+    #tmp_element = ET.Element("config")
+    #tmp_element.set("num",str(count))
+    #for elem in scene.iter():
+    #    if elem is not scene:
+    #		tmp_element.append(elem)	
+    #scene.clear()
+    #scene.append(tmp_element)
+    scene_elements = [elem for elem in scene.iter() if elem is not scene]
+    for child in scene_elements:
+	if child.tag == drama.ns_tei+"stage":
+		stage_type = drama.get_stage_type(child)
+        	stage_text = drama.get_stage_text(child)
+		if(stage_type in ["enter","exit"]):
+			if stage_type == "enter":
+				for cast in all_cast:
+					if (cast in stage_text.split()):
+						print casts
 tree.write("out.xml")
