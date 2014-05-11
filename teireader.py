@@ -1,4 +1,4 @@
-#/usr/bin/env python
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
 '''Main application all tools and debugers are connected here.The moudles also could be used alone. This python file connect different tools toghether and make the code smaller.
